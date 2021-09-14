@@ -28,6 +28,7 @@
   "author": "Chapel",
   "license": "Unlicense",
   "dependencies": {
+    "@types/twine-sugarcube": "^2.34.2"
   },
   "directories": {
     "doc": "docs"
