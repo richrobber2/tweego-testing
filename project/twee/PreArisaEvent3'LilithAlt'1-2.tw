@@ -1,0 +1,49 @@
+:: PreArisaEvent3'LilithAlt'1-2 {"position":"18630,3510","size":"100,100"}
+Tickle Tiem!
+
+Within a fraction of a second, you coyly crack your knuckles and tackle the soldier. The girl stares in horror and in a panic, tries to reaches for her rifle.
+
+$Name:
+@@#ProtagText;
+"Not so fast!"
+@@
+
+In a panic, She feverishly tries to reach for her weapon but in instantly taken back to tears by your random tickle assault.
+
+???:
+@@#LilithText;
+"Cease t, thee brt?! Haha!"
+@@
+
+Underneath this girl's mesh and camo green was a Victorian styled girl with curled black hair and wearing a black eye-patch.
+
+The girl looks horrified but quickly succumbs to being ==tickled== (Molested).
+
+???:
+@@#LilithText;
+"I will-haha! Kill you'-hahah!"
+@@
+
+You tickle her for about ten minutes then use her incapacitated state to grab her 'well weighted' rifle and chuck it across your yard.
+
+The girl gets up, skillfully kicks you in the face and then eagerly rushes to her now discarded weapon.
+
+Taking a second to catch her breath, she slings her rifle back to her side and cries:
+
+$Lilith:
+@@#LilithText;
+"Fool! $Lilith of the ATF Army shalt returneth!"
+@@
+
+With that, the black haired soldier oddly bows then run away in a struggle holding her supplies.
+
+...
+
+What an odd girl?
+--
+@@#choices;
+<<button [[Head inside.|PreArisaEvent3-2]]
+>><</button>>
+@@
+
+

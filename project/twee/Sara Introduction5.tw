@@ -1,0 +1,67 @@
+:: Sara Introduction5 {"position":"9670,3790","size":"100,100"}
+$Name:
+@@#ProtagText;
+"How about we be friends instead?"
+@@
+
+The confused girl blinks, her face grows red and she nervously begins to play with one of her bangs
+
+$Sara:
+@@#SaraText;
+"$Sara friend? Is that like $Sara brother?"
+@@
+
+$Name:
+@@#ProtagText;
+"No, its means we can hang out, get to know each other and possibly play games with each other."
+@@
+
+$Sara's confused expression seems to give away the fact she's never had a friend precedes her brother.
+
+$Sara:
+@@#SaraText;
+"Do- You mean $Sara boyfriend?"
+@@
+
+After saying this, she seems to come across an 'eureka' moment and starts to playfully jump in joy.
+
+$Sara:
+@@#SaraText;
+"$Sara has a boyfriend~ $Sara's hero wants to be $Sara's boyfriend!"
+@@
+
+She seems delighted about this sudden turn of events. As this young girl takes in this misunderstanding, you can already feel the shame of having a girl (who looks to be well under eight years old), call you her boyfriend.
+
+$Name:
+@@#ProtagText;
+"$Sara, you know that friend and boyfriend are two different things."
+@@
+
+But, she seems to be lost in her moment. $Sara quickly grabs your hand and firmly squeezes it.
+
+$Sara:
+@@#SaraText;
+"You're $Sara's boyfriend! Not even $Sara's brother wanted to be $Sara's boyfriend! $Sara happy now!"
+@@
+
+Wait? She was upset about that! You just assumed she was upset because her brother didn't like her.
+
+Trying to make sense of the situation, you can only guess she wanted to be friends with her brother without knowing what a 'boy' friend actually is.
+
+As if to prove this wasn't the case, $Sara leans towards you with her mouth wide open and tongue 'licking' toward you.
+
+$Sara:
+@@#SaraText;
+"Chu~"
+@@
+
+???:
+@@#RandyText;
+"$Sara! Where are you?!"
+@@
+--
+@@#choices;
+<<button [[Next.|Sara Introduction6]]>><</button>>
+@@
+
+

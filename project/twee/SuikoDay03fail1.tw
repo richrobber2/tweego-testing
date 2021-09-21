@@ -1,0 +1,24 @@
+:: SuikoDay03fail1 {"position":"30950,1550","size":"100,100"}
+<<set $SuikoHate to 25>>\
+$Suiko:
+@@#SuikoText;
+"I...Can't help it! I invited you to my....House..."
+@@
+
+You hear the now irratated, bunny-eared, hooded girl pouts and crosses her sleeved arms.
+
+Her normally gloomly face now damned you with a disgusted look.
+
+$Name:
+@@#ProtagText;
+"It's not that, it's just that-"
+@@
+
+Planning out a way out of this situation, you tell her-
+--
+@@#choices;
+<<button [[Insist on going in her home.|SuikoDay03'NeutralreDirect]]>><</button>>
+<<button [[Tell her you gotta go to work.|SuikoDay03fail2]]>><</button>>
+@@
+
+

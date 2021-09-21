@@ -1,0 +1,19 @@
+:: ArisaEvent3'NoVideos'1-3 {"position":"22270,3650","size":"100,100"}
+You don't have time for her petty games!
+
+You walk towards your door and slam it.
+
+$Name:
+@@#ProtagText;
+"Get cleaned up!"
+@@
+
+What a hassle, no wonder your parents don't like her.
+
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

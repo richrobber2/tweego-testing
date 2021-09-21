@@ -1,0 +1,17 @@
+:: PreSuikoRouteDay03preintro'look around' {"position":"28570,3090","size":"100,100"}
+Before you jump the gun and walk the good quarter mile into a field of dirt, you take a moment to walk down the road and you find...more dead farmland.
+
+Walking down the dirt path, the only thing you find is the trail seems to span a greater distance then you once thought; eventually you find a highway that seems to lead to the next town. 
+
+You turn back around and a grim reality starts to surface; could $Suiko really live in that old shack you saw eariler? It appears the road you're currently on leads nowhere and seems forgotten by time.
+
+Not far off from you is the old train tracks you mentioned earier that seems to trail off so far the end seems too far to walk.
+
+This seems to be the end of the trail.
+<<set $Fatigue +=10>>\
+<<set $railroadtracks to 1>>\
+@@#choices;
+<<button [[Head back to the Shack.|PreSuikoRouteDay03preintro0.5]]>><</button>>
+@@
+
+

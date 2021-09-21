@@ -1,0 +1,32 @@
+:: BAD END 4:  Barrel Behind The Door {"position":"710,290","size":"100,100"}
+/* TODO add code for achievment here */
+Being a sarcastic asshole, you knock on the door again.
+
+KNOCK KNOCK-
+
+BANG!
+
+At first, you notice the metal door sheer open as a large bullet pierces through and hits you in the chest.
+
+That kid shot you!
+
+Then, the intense pain burns in your chest and you collapse on the ground. The door opens and the black girl looks down in horror to see you bleeding out on the floor.
+
+Young Ebony Girl:
+@@#AmberText;
+"Oh god, $Name!"
+@@
+
+Struggling with the blood loss, you look up and notice that girl was indeed $Amber; Ha, she never changes.
+
+You see her drop a revolver your vision begins to blur and you feel your body go limp.
+
+...
+
+<font size="3.5"><font color="#f23d00"><b>[YOU DESERVED THIS FOR BEING ANNOYING.]</b></font>
+--
+@@#choices;
+<<button "BAD END 3: The Smartest Thief.">><<script>>Engine.restart();<</script>><</button>>
+@@
+
+

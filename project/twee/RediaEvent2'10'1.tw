@@ -1,0 +1,33 @@
+:: RediaEvent2'10'1 {"position":"13170,4490","size":"100,100"}
+Okay, she’s fine. Probably best if you take your leave now.
+
+$Name:
+@@#ProtagText;
+"Hey $Redia. If you don't mind, I gotta-"
+@@
+Surprisingly talking normal, she replies.
+
+$Redia:
+@@#RediaText;
+
+"Oh! I-....Understand. Um..Thank you."
+@@
+
+You want to talk a little more, but the more time you waste the higher the risk of getting caught in a locker room with a naked, bruised girl.
+
+...
+
+You walk off the field, yet turn back toward the locker room you left.
+
+Who could of hurt $Redia so bad and why does she seem so indifferent about it? You knew you could of asked but you couldn't just ask her; could you?
+
+Maybe your sister might know something...
+
+With that over, you decide to:
+--
+@@#choices;
+<<if $MidoriSEvent1 is 0>><<button [[Go into the school.|MidoriSchool3]]>><</button>><</if>>
+<<if $MidoriSEvent1 is 1>><<button [[Look for LO-Mart.|LoMartPlotIntroduction]]>><</button>><</if>>
+@@
+
+

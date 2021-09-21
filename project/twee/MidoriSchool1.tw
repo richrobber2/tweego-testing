@@ -1,0 +1,29 @@
+:: MidoriSchool1 {"position":"10790,2950","size":"100,100"}
+After a moment of pause, you take a deep breath and decide to make the two mile trek to Midori Elementary School.
+
+...
+
+A few minutes later, you find yourself lost by ghosts of your childhood. Without $Arisa with you, you seem to forget about the weekly strolls of taking her to school.
+
+Your silhouette radiating in the crisp, morning sun as you notice a extra spring in your step. you look down at your shadow and remember that innocent kid that enjoyed walking this path.
+
+You are seeing yourself as a kid again!
+
+A few feet ahead of you see that child as he used to gaily skip to class; Happy just to be away from your parents for a few hours.
+
+The illusion brings a smile to your sun dried, aged face. It leaves a reminder you can never be that 'innocent' $Name ever again. It doesn't stop you from mimicking the vision in your head.
+
+@@#EffectText;
+__You are skipping like you're 11 years old again.__
+@@
+
+This goes on even while a group of school children walk past and witness an mentally challenged man jumping merrily to a elementary school.
+
+Not wanting to skip a beat, you ignore the judgmental stares and bunny hop to school.
+--
+@@#choices;
+<<button [[Continue to Midori Elementary.|MidoriSchool2]]
+>><</button>>
+@@
+
+

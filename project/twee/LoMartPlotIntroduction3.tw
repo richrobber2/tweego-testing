@@ -1,0 +1,29 @@
+:: LoMartPlotIntroduction3 {"position":"14290,3650","size":"100,100"}
+While you were just about to walk outside, the intercom sharply crackles to life and you hear a female voice calling out towards you.
+
+Intercom:
+@@#AmberText;
+"$Name $LastName! Please report to the electronics section! Thank you~"
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+How do they know your name?  You look around and still find yourself the only soul located in the store.
+
+The intercom seems to reply to your curiosity,
+
+Intercom:
+@@#AmberText;
+"Stop wasting time! I got things to do and you randomly appearing puts a damper on my plans!"
+@@
+
+Rude! You just came here to check out this store and you're already being bitched out! It's not like there were already expecting you to show up. Seems like it.
+--
+@@#choices;
+<<button [[Head towards eletronics isle.|LoMartPlotIntroduction4]]
+>><</button>>
+@@
+
+

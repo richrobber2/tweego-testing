@@ -1,0 +1,41 @@
+:: SuikoHauntingEvent1-1 {"position":"27590,3650","size":"100,100"}
+You suddenly blurt out,
+
+$Name:
+@@#ProtagText;
+"Do I know you?"
+@@
+
+The girl doesn't respond but her mute expression turns into one of disgust.
+
+???:
+@@#SuikoText;
+"No, you don't know me...You had a chance to remember but like everyone else, you choose to deny me..."
+@@
+
+
+After saying this, the girl cradles  the rabbit head in her left hand then extends a 'pre-snapped' hand towards you.
+
+???:
+@@#SuikoText;
+"Like what you did to me, I'll make sure you no one remembers you."
+@@
+
+What the hell is she talking about!? 
+
+???:
+@@#SuikoText;
+"If you do come back, I hope you come back as a better person.."
+@@
+
+Staring into this girl's eyes, A note of fear fills your mind as she snaps her fingers.
+
+???:
+@@#SuikoText;
+"Set to zero!"
+@@
+<<timed 20s>><font size="5"><font color="#ff007f">[set TO 0]</font>
+<</timed>>
+<<timed 22s>><<goto [[setup]]>><</timed>>
+
+

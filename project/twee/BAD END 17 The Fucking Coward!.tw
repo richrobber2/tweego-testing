@@ -1,0 +1,50 @@
+:: BAD END 17: The Fucking Coward! {"position":"2530,290","size":"100,100"}
+/* TODO add code for achievment here */
+You decide to ignore the situation; surely security will help her.
+
+...
+
+While you feel like a coward and should have stepped in, you find it be better not to get involved. As you walk past the crowd, you start to notice them glaring at you and before you get to the entrance you spot $Amber staring at you with pure disgust.
+
+$Amber:
+@@#AmberText;
+"What the fuck are you doing?!"
+@@
+
+While saying this she reveals she's holding her revolver and quickly points it at you.
+
+$Name:
+@@#ProtagText;
+"I'm heading to work?"
+@@
+
+Unsatisfied by your actions of cowardice, she walks up to you and rips your nametag off your polo shirt.
+
+$Amber:
+@@#AmberText;
+"Forget it $Name! If you can't be a man and defend a loli, then I don't want your pussy ass anywhere near here!"
+@@
+
+She then throws your nametag on the ground and shoots it; sending the loud echo across the parking lot.
+
+$Amber:
+@@#AmberText;
+"Fuck off!"
+@@
+
+Still in disbelief, she pushes you out of the way as she walks towards the stage spinning the chamber of her gun.
+
+...
+
+Word quickly spreads about how much of a coward you were and now out of a job, the month passes and still jobless, your parents take $Arisa away and kick you out to the street. 
+
+Now not only are you labeled as a coward, you are a homeless and have no hope to ever get a job.
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 17: The Fucking Coward!">><<script>>Engine.restart();<</script>>/
+<</button>>
+@@
+
+

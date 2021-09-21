@@ -1,0 +1,17 @@
+:: (Restart)Title {"position":"150,570","size":"100,100"}
+<font size="5"><font color="#ff007f">\
+Arisa:
+</font>
+@@#ArisaText;
+What are you doing?! Stop! If you do this, you'll erase everything in this world! Everything will be as if nothing happened! I know I can't stop you from doing this but please reconsider! I don't want to forget.
+
+I CAN'T FORGET!"
+@@
+@@#choices;
+<<button 'Restart!'>>
+<<timed 2s>><<goto Title>><</timed>>
+<</button>>
+<<button "Go back.">><<script>>Engine.backward();<</script>><</button>>\
+@@
+
+

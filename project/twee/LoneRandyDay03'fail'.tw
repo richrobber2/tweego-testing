@@ -1,0 +1,13 @@
+:: LoneRandyDay03'fail' {"position":"28990,3790","size":"100,100"}
+$Randy seems to be bothered by you and feeling as if you're annoying him, you stop walking. He continues to walk off as you attempt to clock yourself from his view.
+
+It would've been nice to talk to him for a while but he seems bothered by your presence.
+
+Once $Randy is out of sight, you take the lone trek to LO-Mart by yourself.
+--
+@@#choices;
+<<button [[Next.|Day03LoMartIntro]]
+>><</button>>
+@@
+
+

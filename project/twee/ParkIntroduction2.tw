@@ -1,0 +1,62 @@
+:: ParkIntroduction2 {"position":"6030,2530","size":"100,100"}
+Noticing you're a tad winded, you walk towards a rusted, green park bench looking over the sandbox and plant yourself. Taking an exhausted breath, you close your eyes and take a moment of pause to bask in the warm, radiating sun.
+
+...
+
+Ten minutes pass and you start to get bored. You open your eyes and notice two blond kids playing in the sandbox. Not far off from them, you can see a group of housewives gossiping about whatever housewives talk about at a park. You turn your attention to the kids watching them work together to build a sandbox.
+
+The two kids give you a brief memory of when you brought $Arisa to that same sandbox once.
+
+...
+
+$Arisa:
+@@#ArisaText;
+"Brother! Play wuf mei!"
+@@
+
+You were sitting on the same park bench while three year old $Arisa was playing in the sandbox.  Annoyed that you had to take your annoying sister to the park, you decided you'd just sit annoyed until your step sister grows tired and cries to go home.
+
+You click your tongue and yell,
+
+$Name:
+@@#ProtagText;
+"Damn it you twerp, just leave me alone. Just play until you get bored so we can leave."
+@@
+
+The little girl suddenly stands up, runs towards the bench and (after struggling to get on the bench), sits by you and hums; she sure knows how to annoy you.
+
+$Arisa scoots close to you and reached towards your hand. After loosely grasping your hand, she begins to hum childishly.
+
+You look at her and scuff.  Almost every day, she wants to spend time with you, embarrass you by calling you 'Daddy', and unknowingly try to rob your free time. She annoyed you back then, yet $Arisa would always do something to take you by surprise.
+
+$Arisa:
+@@#ArisaText;
+"Brother~ I wuv my Brother~"
+@@
+She is chanting those words in a sing-sonly fashion, which causes you to hang your face in shame. To add to this, you notice a group of house-wives look at you and chuckle.
+
+You muttered under your breath,
+
+$Name:
+@@#ProtagText;
+"Twerp! Why do you always want me to bring you here...Is this a game to you!"
+@@
+Innocently, $Arisa looks at you and smiles,
+
+$Arisa:
+@@#ArisaText;
+"I can show everyone my wuv for you~"
+@@
+As she said that, a crowd of onlookers witnesses your sister's confession and emit an 'aww~'. Cringing from the embarrassment, you finally stand up, face your sister and yell,
+
+$Name:
+@@#ProtagText;
+"Shut up! I don't love you!"
+@@
+--
+@@#choices;
+<<button [[Next.|ParkIntroduction3]]
+>><</button>>
+@@
+
+

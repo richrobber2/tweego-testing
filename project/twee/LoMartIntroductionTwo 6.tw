@@ -1,0 +1,22 @@
+:: LoMartIntroductionTwo 6 {"position":"1130,3090","size":"100,100"}
+$Name:
+@@#ProtagText;
+"You're free to go as well, it's fine!"
+@@
+
+Not a second after giving her permission, she pulls her stuffed rabbit close and hurries towards the others in your room.
+
+You're now alone in the living room and try to calm yourself from that weird introduction to your sister's friends. After a pause you notice you have a few minutes or so to be alone.
+
+<<set $SmokingSessionOneSchoolLifetrue to 0>>\
+<<set $SmokingSessionOneArisaFriendstrue to 0>>\
+<<set $SmokingSessionOneoldlifetrue to 0>>\
+<<set $SuikoEvent1 to 0>>\
+--
+@@#choices;
+<<if $Smoking eq 1>><<button [[Step outside and smoke a cigarette.|SmokingSessionOne]]
+>><</button>><</if>>
+<<if $Smoking eq 0>>[[Step outside and get some fresh air.|NONSmokingSessionOne]]<</if>>
+@@
+
+

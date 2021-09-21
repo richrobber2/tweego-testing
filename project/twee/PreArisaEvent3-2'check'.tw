@@ -1,0 +1,10 @@
+:: PreArisaEvent3-2'check' {"position":"19190,3510","size":"100,100"}
+<<if $LilithErased is 1>>\
+<<goto [[PreArisaEvent3'LilithAlt']]>>
+<<elseif $ArisaLove is 155>>
+<<goto [[ArisaLoveEvent1]]>>
+<<elseif $Arisalove lt 155>>
+<<goto [[PreArisaEvent3-2]]>>
+<</if>>
+
+

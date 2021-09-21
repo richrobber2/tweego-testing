@@ -1,0 +1,24 @@
+:: MidoriLoveChoicefail {"position":"8130,4490","size":"100,100"}
+You pull the midget off your face and drop her to the ground.
+
+$Name:
+@@#ProtagText;
+"I can't do this. Just take me back!"
+@@
+
+$Midori looks up at you in surprise, but then smiles in relief.
+
+$Midori:
+@@#MidoriText;
+"Whatever, I'll let you on your way?"
+@@
+
+@@#NPCText;
+"SNAP!"
+@@
+--
+@@#choices;
+<<button [[Next.|MidoriTeleport1]]>><</button>>
+@@
+
+

@@ -1,0 +1,48 @@
+:: SuikoDay03fail2 {"position":"31090,1690","size":"100,100"}
+Thinking that this has become ackward, you resolve the fact that-
+
+$Name:
+@@#ProtagText;
+"Today's my first day working, so I'd better-"
+@@
+
+Her normally soft tone of voice raises toward an angered scream. 
+
+<<set $SuikoHate to 50>>\
+$Suiko:
+@@#SuikoText;
+"The-Then Just ...Go...GO!"
+@@
+
+<<set $Depression to 85>>\
+Hey echoing, obviously strained scream she uttered flows into the dead farmland and everythings seems silent; almost gauging the tension of the situation.
+
+...
+
+No....This isn't what you wanted! As you glare at this once cute and sweet girl now damns you with her sight; her brown eyes burn into your mind. You find yourself politely bow, and turn around; only for this girl to start crying.
+
+$Suiko:
+@@#SuikoText;
+"Why....Is everyone....So mean...."
+@@
+
+Her voice now appears to be a sobbing and cracking under stress of someone else hurting her. You can't be this mean.
+
+The need for redemption rings in your mind like a need to off yourself. While you still have this feeling eating at your pride, the need to apoligize for what seems like a thick aura of newfound hate.
+
+<<timed 15s>><font color="#1a0133">Why are you being so mean? Ura Ua~</font>
+
+You can't leave her; She clearly needs your help!<</timed>>
+
+<<timed 20s>><font color="#1a0133"Would you like to try again?"
+
+You wish it was that easy but you have to help her!! It's becoming too much!</font>
+
+You can't leave her; She clearly needs your help!<</timed>>
+--
+@@#choices;
+<<button [[Walk away.|SuikoDay03failjumplomart]]>><</button>>
+@@
+<<timed 30s>><<goto [[PreSuikoRouteDay03preintro1]]>><</timed>>
+
+

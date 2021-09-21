@@ -1,0 +1,31 @@
+:: MidoriForest'Sara'west3 {"position":"6030,3230","size":"100,100"}
+<<if $MidoriOrb is 0 and $greengrassarea is 0>>
+As you head deeper into the forest, the grass starts to thin out and you eventually find another (if not the same) path.
+
+To add to your discovery; you find the tiny foot prints of the girl trailing towards a large area of huge; towering trees.
+
+While following the footprints, you find another wide area of flat grass to the south while to your left you can see a pile of rotting trees.
+
+<<if $lostcounter is 1>>Adjacent to the pile of trees, you see a extremely thick area of the woodland that appears greener than everything around it.<</if>>\
+<</if>>\
+<<if $greengrassarea is 1>>
+You walked back to where you were before and decide to:
+<</if>>\
+<<if $MidoriOrb is 1>>
+You walk back to where you were before and notice that he orb in your pocket is glowing brighter in your pocket.
+
+While it is interesting, you should ignore it and focus on finding that girl!
+<</if>>\
+--
+@@#choices;
+<<button [[Go towards the pile of trees.|MidoriForest'Sara'north3]]
+>><</button>>
+<<button [[Follow the footprints.|MidoriForest'Sara'west4]]
+>><</button>>
+<<if $MidoriOrb is 0>><<button [[head toward the greener side of the woods.|MidoriForest'Sara'south1]]
+>><</button>><</if>>
+<<button [[Look around the area.|MidoriForest'Sara'east3]]
+>><</button>>
+@@
+
+

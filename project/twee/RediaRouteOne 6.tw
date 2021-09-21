@@ -1,0 +1,44 @@
+:: RediaRouteOne 6 {"position":"3790,2950","size":"100,100"}
+<<if $introchoice1 is 0>>
+$Redia:
+@@#RediaText;
+"I, Redia 'HellCat' Newman will become the best player and take you off your high-horse!"
+@@
+
+Hellcat? Cute nickname.
+
+The excited 'Hellcat' pumps her arm once then excitedly runs out of the room with a newly found competitive spirit.
+
+Your sister gives you a satisfied smile then darts towards the doorway to witness $Redia hastefully collect her belongings with an almost whimsical mannerism.
+
+$Arisa:
+@@#ArisaText;
+"Wow! I've never seen $Redia so preppy. She must have really enjoyed that game!"
+@@
+
+$Arisa, as if happy about your gesture of kindness, runs back towards you and dives onto the bed; welcoming you to a forced embrace.
+
+The weight of her again causes your lungs to implode.
+
+@@#EffectText;
+Oof~
+@@
+
+$Arisa:
+@@#ArisaText;
+"I knew it was a great idea to bring my friends to meet you! You made $Redia really happy~!"
+@@
+
+<</if>>\
+<<if $introchoice1 is 1>>What else should you ask $Arisa?<</if>>\
+--
+@@#choices;
+<<if $introchoice1 is 0>><<button [[Was this all to help her?|Arisaintrochoice2]]
+>><</button>><</if>>
+<<button [[Just say no problem.|Arisaintrochoice1]]
+>><</button>>
+<<if $PlanToHelpDay01 is 0>><<button [[Did you plan for me to help the hooded girl?|Arisaintrochoice3]]
+>><</button>><</if>>\
+@@
+
+

@@ -1,0 +1,38 @@
+:: SuikoDay03P2Intro {"position":"31510,990","size":"100,100"}
+<<set $SuikoLove +=20>>\
+Seeing a way to try to end the day on a good note, you proceed to jump to the oppertunity to run toward the metal, front door.
+
+$Suiko, flustered at your attempt towards her door jumps and grabs for the knob; resulting in your bears hands touching the rusty door handle.
+
+Upon touching $Suiko's cold hands, you feel the sharp jolt of her pulling away and squeaking like a rabbit.
+
+$Suiko:
+@@#SuikoText;
+"Oh~ Sorry...Ura ura...."
+@@
+
+She then takes a reassuring breath and as you move your hand away she walks infront of you while laughing nervously,
+
+$Suiko:
+@@#SuikoText;
+"Allow me, Mr.$LastName."
+@@
+
+As she turns the rusty doorknob, a worrysome amount of smoke rolls out from inside the shack. You watch bewildered at the situation until you see the smoke clear out; allowing you to look inside.
+
+The first thing to clear away was the middle of the room was a now visible stone slab with coffee can spewing a slight chug of smoke. the can was being supported by two bricks and half dozen cheap, white tea candles burning the contents of it over a open flame. Not far away is two tea cups made of cheap plastic and appears to be from a child's tea set. 
+
+$Suiko runs into her 'home' and starts to wave her sleeves around, however her attempt to clear all the smoke appears not only useless, but oddly cute to watch.
+
+$Suiko:
+@@#SuikoText;
+"Go away! Go away! Ura ura~"
+@@
+
+Despite her panic attempts, she appears to be having fun fanning the air, however the more fresh air that clears the room; $Suiko's living condition takes form.
+--
+@@#choices;
+<<button [[Next.|SuikoDay03P2Intro1]]>><</button>>
+@@
+
+

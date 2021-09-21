@@ -1,0 +1,24 @@
+:: SuikoDay03P2Intro1 {"position":"31650,1130","size":"100,100"}
+<<set $SuikoDay03P2Tea to 0>>\
+<<set $SuikoDay03P2Observe to 0>>\
+<<set $SuikoDay03P2ForceConversation to 0>>\
+<<set $SuikoDay03P2Observe to 0>>\
+First off, the room 'house' is small, about the size of a garage. The inside of the shed seems to be barely standing, evident from the erect, two by four supporting a A frame. Spots of sunlight peer through the rusted, metal siding of the shed which appears to the only real lumination of the room. 
+
+Despite the cement slab that appears to be a table, only real evidence of this being a home is a pile of purple blankets in the corner of the room, a dirty pillow, and a bookshelf stocked with bread, buckets of water and food stuffs that resemble the school food from Midori Elementary. 
+
+The situation of her living condition takes a damning turn of event upon witnessing $Suiko's house. 
+
+Looking around, you only really see the only 'evidence' of her living here is the book shelf of food and the bedding. There doesn't seems to even seem to be a place for her clothes....Which makes her shirt a few days ago makes more sense.
+
+Even the floor is a slab of concrete.
+
+To make it worse, you look by the entrance and find a small, rickity shopping cart filled with articles of trash, bottles, and more buckets. 
+
+$Suiko is homeless.
+--
+@@#choices;
+<<button [[Next.|SuikoDay03P2]]>><</button>>
+@@
+
+

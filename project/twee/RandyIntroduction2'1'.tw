@@ -1,0 +1,63 @@
+:: RandyIntroduction2'1' {"position":"5610,2670","size":"100,100"}
+What selfish behavior!
+
+You stand up and point towards Midori Forest.
+
+$Name:
+@@#ProtagText;
+"Suck it up, kid! If you were a real big brother then you'd go after her!"
+@@
+
+The boy gives you a dirty look but it soon fades to an expression of hopelessness.
+
+Boy:
+@@#RandyText;
+"Why should I? I hate her!"
+@@
+
+This kid's defiant behavior is starting to piss you off.
+
+$Name:
+@@#ProtagText;
+"I hate my sister as well, but if she was in potential danger I'd put my pity hatred aside to ensure she's safe! You got have some feelings for her!"
+@@
+
+The boy stands up and looks at you clenching his fists.
+
+Boy:
+@@#RandyText;
+"I do love my sister but not-"
+@@
+
+Growing angrier by the second, you yell,
+
+$Name:
+@@#ProtagText;
+"If you love her then prove it! Go into Midori Forest and go after her!"
+@@
+
+The boy's blue eyes stare defiantly at you then starts to wash over with tears.
+
+Boy:
+@@#RandyText;
+"Fine!!"
+@@
+
+With that, the boy, visibly pissed off at you, turns around and slowly walks toward the forest.
+
+...
+
+What a brat. To think you used to be that bad with $Arisa. He might be pissed off now, but at least you can say you helped someone today.
+
+After that event you decide to leave the park and head towards Midori Elementary.
+--
+@@#choices;
+<<if $MidoriSEvent1 is 1>><<button [[Look for LO-Mart.|LoMartPlotIntroduction]]
+>><</button>><</if>>
+<<if $MidoriSEvent1 is 0>><<button [[Go into the school.|MidoriSchool3]]
+>><</button>><</if>>
+<<if $SawRedia1 is 0>><<button [[Look around the school yard.|MidoriSchool3'1']]
+>><</button>><</if>>
+@@
+
+

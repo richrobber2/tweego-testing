@@ -1,0 +1,96 @@
+:: Menu {"position":"10,1130","size":"100,100"}
+<<set $PlayerNameDisplay to 0>>\
+<<set $DepressionDisplay to 0>>\
+<<set $ArisaStats to 0>>\
+<<set $SuikoStats to 0>>\
+<<set $IrisuStats to 0>>\
+<<set $MidoriStats to 0>>\
+<<set $RediaStats to 0>>\
+<<set $LilithStats to 0>>\
+<<set $RandyStats to 0>>\
+<<set $SaraStats to 0>>\
+<<set $AmberStats to 0>>\
+<<set $VivianStats to 0>>\
+<<set $$SuloziStats to 0>>\
+<<set $NOUIBAR to 0>>\
+<<set $NOUIBAR to 0>>\
+<<set $LibidoMenu to 0>>\
+<<set $ReserveWish to 0>>\
+<<set $ReservedWishMenu to 0>>\
+<<set $Depression to 0>>\
+<<set $SuikoAwareTimer to 0>>
+<<forget $BADEND is true>>\
+<<forget $BadEndCount>>\
+<<set $BadEndCount to 0>>\
+<<set $Day1 to 0>>\
+<<set $Day2 to 0>>\
+<<set $Day3 to 0>>\
+<<set $Day4 to 0>>\
+<<set $Day5 to 0>>\
+<<set $Day6 to 0>>\
+<<set $Day7 to 0>>\
+<<set $Day8 to 0>>\
+<<set $PlayerNameDisplay to 0>>\
+<<set $DepressionDisplay to 0>>\
+<<set $Money to 0>>\
+<<set $MoneyStats to 0>>\
+<<set $ArisaStats to 0>>\
+<<set $SuikoStats to 0>>\
+<<set $RediaStats to 0>>\
+<<set $LilithStats to 0>>\
+<<set $RandyStats to 0>>\
+<<set $SaraStats to 0>>\
+<<set $AmberStats to 0>>\
+<<set $KarenStats to 0>>\
+<<set $IrisuStats to 0>>\
+<<set $KarenStats to 0>>\
+<<set $MikanStats to 0>>\
+<<set $VivianStats to 0>>\
+<<set $ArisaDepression to 0>>\
+<<set $RediaDepression to 0>>\
+<<set $SuikoDepression to 0>>\
+<<set $SaraDepression to 0>>\
+<<set $RandyDepression to 0>>\
+<<set $LilithDepression to 0>>\
+<<set $AmberDepression to 0>>\
+<<set $MikanDepression to 0>>\
+<<set $IrisuDepression to 0>>\
+<<set $VivianDepression to 0>>\
+<<set $ArisaDepressionStat to 0>>\
+<<set $RediaDepressionStat to 0>>\
+<<set $SuikoDepressionStat to 0>>\
+<<set $SaraDepressionStat to 0>>\
+<<set $RandyDepressionStat to 0>>\
+<<set $LilithDepressionStat to 0>>\
+<<set $AmberDepressionStat to 0>>\
+<<set $MikanDepressionStat to 0>>\
+<<set $IrisuDepressionStat to 0>>\
+<<set $VivianDepressionStat to 0>>\
+<<set $Abilities to 0>>\
+<<set $NOUIBAR to 0>>\
+<<set $ArisaLoveStats to 0>>\
+<<set $RediaLoveStats to 0>>\
+<<set $SuikoLoveStats to 0>>\
+<<set $MikanLoveStats to 0>>\
+<<set $KarenLoveStats to 0>>\
+<<set $AmberLoveStats to 0>>\
+<<set $LilithLoveStats to 0>>\
+<<set $VivianLoveStats to 0>>\
+<<set $SaraLoveStats to 0>>\
+<<set $RandyLoveStats to 0>>\
+<<set $MidoriLoveStats to 0>>\
+<<set $SuloziLoveStats to 0>>\
+<<set $DayCounter to 0>>\
+<<set $Depression to 0>>\
+<<set $LoveMenu to 0>>\
+<<set $Abilities to 0>>\
+@@#choices;
+<<button [[Start a New Game.|setup]]>><</button>>
+<<button "Load Game.">><<script>>UI.saves()<</script>><</button>>
+<<button [[About Game.|About Game]]>><</button>>
+<<button [[Report a Bug or Typo.|Report a Bug or Typo]]>><</button>>
+<<button [[Credits.|Credits]]>><</button>>
+<<button [[Cheat Code Menu.|Cheat Code Menu]]>><</button>>
+@@\
+
+

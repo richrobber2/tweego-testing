@@ -1,0 +1,56 @@
+:: PlotIntroduction9 {"position":"5050,3370","size":"100,100"}
+<<if $Arisarequestno1 is 0>><<set $ArisaLove +=25>><</if>>\
+You let go of $Arisa and stand up eager to hear what she has to say.
+
+Any help is better than no help, after all. You put up an exaggerated voice of interest and say,
+
+$Name:
+@@#ProtagText;
+"Really?! What is it, my Imouto?!"
+@@
+
+Your Imouto's innocent and infectious smile radiates the dimly lit hallway in white and while waving her arms childishly, explains her idea.
+
+$Arisa:
+@@#ArisaText;
+"So, I may have a friend who needs a loving brother for a retail job just right by my school!"
+@@
+
+Huh? That's a very specific job qualification. A part of you is concerned your nine year old sister has adult friends but this does sound legitimate (-and creepy.)
+
+$Arisa starts to jump, making her undersized pajama top ride up to her plump, soft belly.
+
+$Arisa:
+@@#ArisaText;
+"The place is called __'LO-Mart'__! They tell us almost everyday they need a brother to work for them, she said it's for a theme!"
+@@
+
+LO-Mart? You can't help but feel like you've heard of that place before. Out of personal interest, you ask her more questions.
+
+$Name:
+@@#ProtagText;
+"LO-Mart? $Arisa, what was the name of the person who told you about this place?"
+@@
+
+Your sister displays her trademark smirk and wiggles a finger at you.
+
+$Arisa:
+@@#ArisaText;
+"Oh, I think she knows you. I feel like you'll be just fine!"
+@@
+
+That was not the answer you expected. Her smirk seems to mock your confusion. $Arisa is still smiling like a memetic troll face.
+
+$Arisa:
+@@#ArisaText;
+"I will handle everything for my poor Onii-Chan! But, in return I want a favor from you. I want the day off from school!"
+@@
+--
+@@#choices;
+<<button [[Let her have school off.|PlotIntroduction10]]
+>><</button>>
+<<button [[No, You need to go to school!|PlotIntroduction10'1']]
+>><</button>>
+@@
+
+

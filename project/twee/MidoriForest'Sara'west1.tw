@@ -1,0 +1,13 @@
+:: MidoriForest'Sara'west1 {"position":"6170,2950","size":"100,100"}
+<<set $lostcounter += 1>>\
+<<set $Fatigue += 10>>\
+You decide to head west and after a moment of searching you find the trail leads to a dead end. You can still see the park though the increasingly thicker foliage and realize she might have headed towards another path.
+
+...
+--
+@@#choices;
+<<button [[Head back.|MidoriForest'Sara'north1]]
+>><</button>>
+@@
+
+

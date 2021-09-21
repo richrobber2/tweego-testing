@@ -1,0 +1,59 @@
+:: Sara Introduction1 {"position":"9810,3090","size":"100,100"}
+<<if $lostcounter is 5>><<goto "BAD END 18: Too Late to Help">><</if>>\
+<<set $SaraIntro to 1>>\
+<<set $RandyIntro to 1>>\
+<<set $NoSara to 0>>\
+Not wanting to waste any more time, you jump towards the trunk of the tree and, using its trick bark, you start to scale up the tree with surprising haste.
+
+After about a minute, you reach the shaking tree branch and slowly maneuver yourself and balance your body weight on the on it.
+
+You look across to the branch and see a small, blonde girl wearing pig tails holding tightly on to the branch for dear life. Eyes closed and cowering, she seems unaware of your presence.
+
+In a feeble attempt to calm her down (and to stop the quaking branch), you yell to her,
+
+$Name:
+@@#ProtagText;
+"It's okay! I'm here to help you!"
+@@
+
+The girl stares at you as if you are some creep and screams,
+
+Girl:
+@@#SaraText;
+"GAHHH!! Stranger danger!"
+@@
+
+Not expecting this at all, the frightened girl breaks a branch off the limb, stands up and runs towards you.
+
+@@#EffectText;
+Wut?
+@@
+
+While you're holding onto to trunk, you hang on for dear life as she begins to attack you with the stick.
+
+Girl:
+@@#SaraText;
+"Stranger danger, Stranger Danger! Forest stranger whom causes danger!"
+@@
+
+You try to cover your face from the assault as the whip like stick slaps against your face and arm.
+
+
+$Name:
+@@#ProtagText;
+"Quit it! I'm not a Forest stranger whom causes danger!"
+@@
+
+The kid stops in between a swing and asks,
+
+Girl:
+@@#SaraText;
+"Then who arf you?"
+@@
+--
+@@#choices;
+<<button [[I'm here to rescue you!|Sara Introduction2]]>><</button>>
+<<button [[What's your problem!?|Sara Introduction1'1']]>><</button>>
+@@
+
+

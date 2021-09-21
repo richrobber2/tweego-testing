@@ -1,0 +1,26 @@
+:: ArisaEvent3'HaremRoute1'5-2 {"position":"20590,4070","size":"100,100"}
+<<set $Libido +=10>>\
+Watching her walk away, you slide off your bed and laugh.
+
+$Name:
+@@#ProtagText;
+"Must run in the family. We're just a bunch of pervy siblings!"
+@@
+
+When the last word escaped your lips, you felt your stomach turn yet $Arisa runs back towards you quite unexcitingly then hugs your towering figure.
+
+$Arisa:
+@@#ArisaText;
+"Onii-Chan! We are the same! I'm Glad...-hap."
+@@
+
+Your Imouto digs her face deeper into your white, polo shirt and you are surprised to find your crybaby sister is soaking your favorite shirt.
+--
+@@#choices;
+<<button [[Push her off!|ArisaEvent3'HaremRoute1'6-1]]
+>><</button>>
+<<button [[Why are you crying?|ArisaEvent3'HaremRoute1'6-2]]
+>><</button>>
+@@
+
+

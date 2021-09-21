@@ -1,0 +1,59 @@
+:: KarenIntroduction'NonSmoking''2' {"position":"17370,3510","size":"100,100"}
+<<set $KarenStats to 1>>\
+Although you're bothered by this turn of events, you decide to mess with her.
+
+$Name:
+@@#ProtagText;
+"Eighy thousand dollars?! Sorry, I left my bundles of money in my diamond encrusted aeroplane. Seriously, you expect me to give you THAT much money? I'll give you a second chance. What do you want?"
+@@
+
+The girl, shocked at your sarcastic remark, looks towards the ground and mutters.
+
+Girl:
+@@#KarenText;
+"Well, give me..."
+@@
+
+She then looks back you at you with newfound sassiness and says,
+
+Girl:
+@@#KarenText;
+"Give me your aeroplane!"
+@@
+
+@@#EffectText;
+...Wut?
+@@
+
+$Name:
+@@#ProtagText;
+"You can't be this stupid! Enough kid. Give me my nametag back and let me be on my way."
+@@
+
+The moment you called her a kid, the girl growls at you and angrily tosses your nametag on the ground.
+
+Girl:
+@@#KarenText;
+"My name's not kid! My name is $Karen and I'm way more adult and smarter than you think!"
+@@
+
+You match her previous, smirked smile and retrieve your nametag.
+
+$Name:
+@@#ProtagText;
+"Thanks $Karen! So, do I still need to give you something or can I leave now?"
+@@
+
+She growls at you but then realizes she lost her edge over you and darts her eyes away from you.
+
+$Karen:
+@@#KarenText;
+"Um...Can I have? Um…Some money?"
+@@
+--
+@@#choices;
+<<button [[Give her some money.|KarenIntroduction'NonSmoking''3']]
+>><</button>>
+@@
+
+

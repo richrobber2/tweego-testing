@@ -1,0 +1,30 @@
+:: LoMartPlotIntroduction5 {"position":"14290,3930","size":"100,100"}
+<<if $Stockroomevent is 0>>\
+Deciding not to go inside the stock room, you decide not to trespass and do as you're told and head left.
+<</if>>\
+<<if $Stockroomevent is 1>>\
+What are you even doing in here?! This is a retail store's stock room and you're contemplating about stealing an overpriced handheld!
+
+Thinking about the possible repercussions, you quickly run out of the stock room and head towards the manager's office.
+<</if>>\
+You arrive at the end of the hall to find a plain, metal door with a small sign that reads,
+
+@@#EffectText;
+		   Amber C. Baker
+	Manager and Owner of LO-Mart
+	   __Please Wait to be seen!__
+@@
+
+Amber? No way! This can't be the same little girl you knew since kindergarten. You remember she was in the business club back in middle school, but to think she made her own retail store!
+
+You want to rush inside and see if it's really her, yet the sign tells you to wait.
+Do you:
+--
+@@#choices;
+<<button [[Wait to be seen.|LoMartPlotIntroduction6]]
+>><</button>>
+<<button [[Rush in the room!|LoMartPlotIntroduction5'1']]
+>><</button>>
+@@
+
+

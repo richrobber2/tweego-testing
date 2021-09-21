@@ -1,0 +1,89 @@
+:: Sara Introduction1'4' {"position":"9950,3510","size":"100,100"}
+<<set $RandyStats to 1>>\
+$Sara lets go of you then sits on the branch with her leg crossed. You look down at her to see her blue eyes start to water.
+
+$Name:
+@@#ProtagText;
+"Is everything alright? Why were you upset earlier?"
+@@
+
+$Sara crosses her arms and puffs up her cheeks.
+
+$Sara:
+@@#SaraText;
+"$Sara wanted $Sara's brother to be $Sara's boyfriend but he was mean."
+@@
+
+Boyfriend? That can't be right. Judging by how immature $Sara is, she must have wanted her brother to be her friend.
+
+Seeing how annoying she is, you can't really blame him for not liking her.
+
+$Name:
+@@#ProtagText;
+"I'm sure he doesn't hate you. I actually have a sister as well and despite having are own fights; we still get along at the end of the day."
+@@
+
+$Sara:
+@@#SaraText;
+"$Sara want $Sara's brother to be $Sara boyfriend; I like $Sara's brother."
+@@
+
+Jesus, I can see why her brother doesn't like her; and you thought your sister calling you 'Onii-Chan' was annoying.
+
+$Sara then points a finger at you and says,
+
+$Sara:
+@@#SaraText;
+"I know! How about $Sara's mister helps $Sara make her brother like her! You are a brother! $Sara's mister can help me!"
+@@
+
+You stare confused at her request. $Sara stares at you in dead silence; waiting for your response.
+
+???:
+@@#RandyText;
+"$Sara! Are you over here?!"
+@@
+
+With the awkward silence broken, you look towards the wood line to see the blond boy from earlier emerging from the thick grass and run toward the tree.
+
+$Sara notices her brother and yells,
+
+$Sara:
+@@#SaraText;
+"$Randy! I'm over here!"
+@@
+
+$Sara effortlessly jumps off the tree and rolls in the grass to soften her landing. You look over at the boy, who now sees his sister and tearfully runs towards her.
+
+No longer needed in this tree, you cautiously scot your butt towards the trunk and climb down.
+
+$Sara:
+@@#SaraText;
+"$Randy!"
+@@
+
+Assuming that's his name, $Randy runs towards her, shoves you out of the way and hugs his sister.
+
+You watch as the two embrace; the boy's eyes are filled with tears of relief. Observing this scene unfold, you’re reminded of how strong a sibling's bond can be.
+
+$Randy:
+@@#RandyText;
+"Are you okay sis? I'm sorry for yelling at you earlier. I-...I-"
+@@
+
+$Sara hugs her brother tighter and shakes her head.
+
+$Sara:
+@@#SaraText;
+"I'm Fine! $Sara even made a friend today!"
+@@
+
+Upon hearing this news, $Randy lets go of his sister and looks at you with a dirty expression.
+
+The blond kid from earlier studies you for a moment and remembers you from the park bench.
+--
+@@#choices;
+<<button [[Next.|Sara Introduction1'5']]>><</button>>
+@@
+
+

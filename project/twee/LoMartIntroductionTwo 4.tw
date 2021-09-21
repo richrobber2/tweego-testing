@@ -1,0 +1,29 @@
+:: LoMartIntroductionTwo 4 {"position":"1130,2810","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Enough! You guys can go in my room but keep it PG!"
+@@
+The sporty red-head promptly stands in attention and delivers a 'hand salute'.
+
+$Redia:
+@@#RediaText;
+"Yes sir!"
+@@
+
+Your sister suddenly runs towards you and gives you a sisterly hug; the impact knocks your breath out and her squeeze forces the rest out.
+
+$Arisa:
+@@#ArisaText;
+"Thanks a lot Onii~"
+@@
+
+Finally letting you go, you take in some fresh air as you see the two girls walk towards your bedroom door. Thinking you're alone you are promptly spooked when you notice the hooded girl still standing idle by the front door. She appears to be troubled; waiting for some approval to tag along with her friends.
+--
+@@#choices;
+<<button [[Ignore Her.|Ignore Her]]
+>><</button>>
+<<button [[Talk to Her.|LoMartIntroductionTwo 5]]
+>><</button>>
+@@
+
+

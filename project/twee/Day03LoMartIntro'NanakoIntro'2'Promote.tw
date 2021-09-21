@@ -1,0 +1,61 @@
+:: Day03LoMartIntro'NanakoIntro'2'Promote {"position":"30110,4210","size":"100,100"}
+$Amber must of set this up. Thinking she might be nearby, you take a breath and speak with professioanal bravado and state,
+
+$Name:
+@@#ProtagText;
+"My name is $Name 'Onii-Chan' $LastName and I'm proud to be working at LO-Mart. I went to visit the store and was surprised the manager and owner; $Amber, Went out of her way to set up a interview the same day. Not only is she a past friend of mine, she was willing to not only hire me with no prior experience but also gave me a sum of money to help me in my situation. I'm truely blessed she is my manager and hope to make her and you all happy as her new retail employee."
+@@
+
+Maybe It is a good thing that $Amber hired you. 
+<<set $AmberLove to 150>>\
+<<set $Day03Promote to 1>>\
+
+As you hand the Microphone back to $Nanako, you face the crowd again as they start to clap.
+
+Onlooker:
+@@#NPCText;
+"Hey no fair!"
+@@
+
+Someone's voice breaks out from the crowd, resulting in almost everyone going silent. As you look towards the voice, you  spot the fatass from earier climbing up on stage and stands before you.
+
+$Name:
+@@#ProtagText;
+"Um, Can I help you?"
+@@
+
+Weezing from the effort to get on the 4 foot tall stage, he lays his greasy hands on you and demands,
+
+Rude Fatass:
+@@#NPCText;
+"How come this normie is allowed to work here! I appiled eight times! I wanna be the brother of all the cute girls!"
+@@
+
+The pedophile then looks at $Nanako like she has say in your employment.
+
+Rude Fatass Pedophile:
+@@#NPCText;
+"Tell the manager to fire this normie and hire a real man! This kid doesnt deserve to be on stage with you!"
+@@
+
+The bubbly idol looks at a loss of words then backs away as the jerk starts to walk towards her. You look to the crowd but they dont seem to care; as if this was planned.
+
+He then runs over toowards $Nanako and scopes her up in his massive arm flap.
+
+Fatass Onlooker:
+@@#NPCText;
+"How about we make a deal? I'll let you work here but $Nanako is my perverted loli! I'll even let you watch~" 
+@@
+
+What the fuck!
+
+$Nanako struggles and starts to panic as the man starts to lick his lips.
+--
+@@#choices;
+<<button [[Walk off.|BAD END 17: The Fucking Coward!]]
+>><</button>>
+<<button [[Beat the shit out of him!|Day03LoMartIntro'NanakoIntro'2'Promote1]]
+>><</button>>
+@@
+
+

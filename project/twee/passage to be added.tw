@@ -1,0 +1,8 @@
+:: passage to be added {"position":"570,148","size":"100,100"}
+this passage has yet to be added it will be added in the future
+$Suiko:
+@@#SuikoText;
+"I...I...-"
+@@
+
+<<chartext 'suiko' 'red'>>

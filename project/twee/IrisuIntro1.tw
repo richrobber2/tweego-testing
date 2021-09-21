@@ -1,0 +1,30 @@
+:: IrisuIntro1 {"position":"990,3790","size":"100,100"}
+[LoliDOS 0.2v PA Terminal] 0.2
+01101001 01110010 01101001 01110011 01110101
+_ _ _
+<<timed 1s>>ERROR: MAIN_COGNITION_REWRITE_SEQ.
+<<scrolldown>>\
+<</timed>>\
+<<timed 3s>>UNIVERSE_00.tws HAS BEEN MODIFIED.
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 7s>>ARISA NOT FOUND! SYSTEM WILL NOW REWRITE STORYSCRIPT. THIS CAN NOT BE UNDONE!
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 8s>>UIBAR.tws HAS BEEN MODIFIED!
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 11s>>ERROR! MULTIPLE VARIABLES LOST! LOADING OLDER BUILD.
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 20s>>*** STOP: 01110100 01101000 01101001 01110011 00100000 01101001 01110011 00100000 01111001 01101111 01110101 01110010 00100000 01100110 01100001 01110101 01101100 01110100 00101110
+<<scrolldown>>\
+<</timed>>\
+<<timed 28s>><<goto IrisuStoryIntro>>
+<</timed>>\
+
+

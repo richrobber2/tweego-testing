@@ -1,0 +1,38 @@
+:: ArisaPastintro'love' {"position":"150,2950","size":"100,100"}
+Keeping in mind that she's only four, you calm down and remember it’s her birthday!
+
+You're not your father and if she wants to call you 'Dad', it only means you're better at being one!
+
+While this realization is common knowledge it starts to cut you; scolding you for yelling at her.
+
+$Name:
+@@#ProtagText;
+"Never mind. You can call me dad if it makes you happy..."
+@@
+
+A spite of bitterness leaves your tongue, yet you're humbled by what your sister just said. You had it all wrong and now, you only feel awful about it. You should've looked past your bitterness to see the meaning of her affection. You forgot what being a 'real' father meant.
+
+$Arisa looks at you with confused eyes, then smiles. Grabbing a slice of cake with her hands, she presents it to you and laughs.
+
+$Arisa:
+@@#ArisaText;
+"Daddy, have the first slice!"
+@@
+
+Pieces of icing and cake litter the table as you notice the mess she made. To add to the destruction, $Arisa kicks her feet out of her high-chair and starts to crawl on the table; staring with excitement as you contemplate eating a piece.
+
+$Name:
+@@#ProtagText;
+"What about a plate or a for-"
+@@
+
+While you're talking, $Arisa grabs another piece of cake and starts to shove it into your face. Blinded with buttermilk frosting, you hear the brat laugh childishly and your skin boils in rage.
+--
+@@#choices;
+<<button [[Laugh and give her some cake as well.|ArisaPastintro'love'-1]]
+>><</button>>
+<<button [[Say nothing and calm yourself.|ArisaPastintro'love'-2]]
+>><</button>>
+@@
+
+

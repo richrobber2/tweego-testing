@@ -1,0 +1,37 @@
+:: KarenIntroduction'NonSmoking''1'2 {"position":"17650,3510","size":"100,100"}
+<<set $KarenStats to 1>>\
+What's far is far. You put your wallet back into your pocket and hand the twenty to the girl. She snatches the bill from you then sticks her tongue at you.
+
+Girl:
+@@#KarenText;
+"Ha-ha! $Karen scammed you, silly adult!! Later, you sicko!"
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+Having what she wanted from you, the girl clinches the bill in her hand and darts towards the road; laughing at you.
+
+You think about chasing her down but decide it isn't worth the hassle.
+
+She probably needed the money.
+
+You watch the thief run off, feeling a bit ashamed you wanted to exploit a girl for money.
+
+Karma might have had a role to play in this but at least you didn't get arrested.
+
+It would probably to forget about her.
+
+Once the...um...Actually you don't know why you're just standing in the middle of the parking lot. Probably best to leave now and head home.
+
+$Arisa must be waiting on you.
+<<set $Karenscammed to 1>>\
+<<set $Money -=20>>\
+--
+@@#choices;
+<<button [[Head Home.|PreArisaEvent3]]
+>><</button>>
+@@
+
+

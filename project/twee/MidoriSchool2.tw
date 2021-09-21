@@ -1,0 +1,29 @@
+:: MidoriSchool2 {"position":"10790,3090","size":"100,100"}
+It takes about an hour, but while covered in sweat and wearing a creepy smile, you make it to the entrance of your old elementary school.
+
+@@#EffectText;
+	 Midori Elementary School
+
+	"Home of the Midori Clovers"
+@@
+
+The sentimental sign greets you while you stop and marvel at it. The sign where you used to pass every day with your friends and gossip around life and television shows. Based on your old knowledge of the sign, you look to the left corner and find a old relic of your past scrabbled on it in faded marker:
+
+@@#ProtagText;
+"$Name $LastName was here. Class of-."
+@@
+
+Fourteen years.
+
+You don't ponder much about elementary school but it doesn't seen like your are that old. Sometimes your feel like you are $age in spirit, but you still feel like a child at heart.
+
+You take your eyes off the sign and peer over at the aged school.
+--
+@@#choices;
+<<button [[Continue heading to the office.|MidoriSchool3]]
+>><</button>>
+<<button [[Look around the school yard.|MidoriSchool3'1']]
+>><</button>>
+@@
+
+

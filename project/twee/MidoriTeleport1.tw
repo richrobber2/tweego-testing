@@ -1,0 +1,46 @@
+:: MidoriTeleport1 {"position":"8970,3930","size":"100,100"}
+-!
+
+The sound of a snap echoing in your mind, you reappear next to a massive tree and fail to recall how you got here.
+
+<<set $MidoriFairyRoute to 1>>\
+
+You look up towards the canopy of branches and notice a branch franticly shaking as if something was up there.
+
+That's when you notice that on the trunk of the tree are clumps of dirt leading up towards that branch.
+
+That girl has to be up there!
+
+You look towards the shaking branch and yell,
+
+$Name:
+@@#ProtagText;
+"Hello?!"
+@@
+
+...
+
+After bit a silence, you start to hear a faint crying echo from the top of the tree. Concerned you yell again,
+
+$Name:
+@@#ProtagText;
+"Are you okay?!"
+@@
+...
+
+After a few seconds, you faintly hear a voice.
+
+???:
+@@#SaraText;
+"I'm scared! I'm scared!"
+@@
+
+The branch begins to shake wildly as leaves start to dance towards the floor below. You have to hurry!
+
+If that branch breaks that fall would surely kill her!
+--
+@@#choices;
+<<button [[Climb the tree.|Sara Introduction1]]>><</button>>
+@@
+
+

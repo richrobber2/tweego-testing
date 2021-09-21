@@ -1,0 +1,21 @@
+:: ArisaLoveEvent'NARoute' {"position":"23250,3790","size":"100,100"}
+No, this is not normal at all! You let go of your sister and give your sister a panicked stare.
+
+$Arisa:
+@@#ArisaText;
+"It's okay Onii-chan. I know you'd be like that."
+@@
+
+She looks crestfallen about this outcome yet you use this moment of pause to dash out of your sister's room.
+<<set $ArisaLove -=20>>\
+<<set $ArisaDepression to 25>>\
+...
+
+Once in your room you shut the door and jump onto your bed; to find your television was left on a dvd menu screen.
+--
+@@#choices;
+<<button [[Check out the selection menu.|ArisaEvent3'Intro']]
+>><</button>>
+@@
+
+

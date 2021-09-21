@@ -1,0 +1,37 @@
+:: SuikoDay03'1-1 {"position":"29690,850","size":"100,100"}
+There is a moment of silence as $Suiko watches you looking at her 'house'. 
+<<set $SuikoDepression +=10>>\
+
+The shack is made out of thin metal, standing about eight feet with a slanted, wooden roof that looks like it could collapse any minute. While the building looks like it faired better then the other structures in this area, you find yourself having to ask $Suiko,
+
+$Name:
+@@#ProtagText;
+"You really live here? You must be-!"
+@@
+
+Then, your morality shuts you up upon seeing a...Confused. Complexed by this, she tilts her head(the rabbit ears swayings down as well), and then smiles.
+
+$Suiko:
+@@#SuikoText;
+"Um..Yeah! Do you.. like it? I fixed it up myself!"
+@@
+
+She's looking at you, waiting for your opinion.
+
+Honestly, you don't know what to say and feel kinda worried. Where is here parents? Is she playing a joke on you or...
+
+<<if $SuikoDay03Resets gte 1>>Have you been here before? If you recall, you remember things didn't go so well when you thought about leaving....Probably be best not to make her upset.
+<</if>>
+With $Suiko waiting for a response, you decide to say:
+--
+@@#choices;
+<<if $SuikoParentDay03 is 0>> <<button [[Where's your parents?|SuikoDay03'1-4]]>><</button>><</if>>
+<<if $SuikoDay03IsItNice is 0>><<button [[Say it is nice!|SuikoDay03'1'3]]>><</button>><</if>>
+<<if $SuikoDay03WhyAreYouHere is 0>><<button [[Why do you live here?|SuikoDay03'1'3]]>><</button>><</if>>\
+<<if $SuikoDay03Flowers is 0 and $TellAboutFlowers is 0>><<button [[Ask her about her flowers.|SuikoDay03'1'3-1]]>><</button>><</if>>\
+<<if $$SuikoDay03AskAboutland is 0>><<button [[Why are in this dead plot of land?|SuikoDay03'1'3-2]]>><</button>><</if>>
+<<if $SuikoDay03WhyNoSchool is 0>><<button [[Why are you not at school?|SuikoDay03'1'3-5]]>><</button>><</if>>
+<<if $SuikoDepression gte 70>><<button [[Are you okay?|SuikoDay03'1'3-3]]>><</button>><</if>>
+@@
+
+

@@ -1,0 +1,51 @@
+:: SuikoDay03P2 {"position":"31650,1410","size":"100,100"}
+<<set $SuikoLookAtFigureDay03 to 0>>\
+<<set $SuikoLookAtFaceDay03 to 0>>\
+<<set $SuikoLookatChestDay03 to 0>>\
+<<set $SuikoLookAtMoodDay03 to 0>>\
+<<set $SuikoLookAtRoomDay03 to 0>>\
+<<set $SuikoLookAtBelongingsDay03 to 0>>\
+<<set $ObservedSuikoday03p2 to 0>>\
+<<set $SuikoDay03P02ObservedRoom to 0>>\
+$Suiko:
+@@#SuikoText;
+"So, do you want some tea?"
+@@
+
+Snapping back to reality, you turn around and see looking at you with a smile. Completely dumbfounded, you decide to politely bow and accept her offer.
+
+$Name:
+@@#ProtagText;
+"Sure, sounds nice..."
+@@
+
+As $Suiko turns around to shut her door, you ignore the depressing enviroment and walked to the ajacent side of the stone table. While you wait for $Suiko to get ready, you notice everything is covered in a thick layer of dust and despite how empty the 'house' is, and the only light emiting into the shed is spots of sunlight and the array of tea candles heating up water in the coffee can. 
+
+An aroma lemon tea starts to permulate the air as you turn to $Suiko; who is removing her hoodie.
+
+You advert your eyes until you look back to see her wearing your white, polo shirt from two days ago. $Suiko then takes her time to neatly fold her hoodie and place it becide her as she sits by the stone table and and collects the tea cups.
+
+$Suiko:
+@@#SuikoText;
+"Thanks for coming, I honestly thought...You wouldn't...like to come..."
+@@
+
+She says this while she grabs the coffee tin and takes a deep smell from it. She then procedes to smile at you as you stare back at her in unease confusion.
+
+She's just smiling at you as she begins to pour a small amount of tea into the cups and offers you one.
+
+$Name:
+@@#ProtagText;
+"Thanks."
+@@
+
+After that, $Suiko just politely sits and stares at you.
+--
+@@#choices;
+<<if $SuikoDay03P2Tea is 0>><<button [[Try the tea.|SuikoDay03P2Tea]]>><</button>>
+<</if>>\
+<<if $SuikoDay03P2Observe is 0>><<button [[Observe her.|SuikoDay03P2SuikoObserve]]>><</button>>
+<</if>>\
+@@
+
+

@@ -1,0 +1,15 @@
+:: Day03NoArisa {"position":"26890,3510","size":"100,100"}
+After making sure you have everything, you head towards $Arisa's door and slowly crack her door open. You find your caring sister sleeping  fully dressed in her pink overalls and cuddling her pillows.
+
+It seems like she got dressed for school despite telling her to say home and rest. Your about to shut her door until you spot her backpack stuffed with bulky materials by the ajar door.
+
+Odd, normally she leaves all her books at school. Since <<if $LilithLove gte 200>> Sinom thinks homework is unfair<</if>><<if $LilithLove lte 150>> Principle Sinom thinks homework is unfair<</if>><<if $LilithLove is 0>> Mr.Iratu banned homework due to cheating<</if>> so, she has no need to have it stiffed with junk.
+--
+@@#choices;
+<<button [[Head outside.|Day03PreLoMart]]
+>><</button>>
+<<button [[Look into her backpack.|Day03NoArisa1]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,62 @@
+:: Look inside the drawer for supplies {"position":"2670,3090","size":"100,100"}
+<<set $SuikoDay01Event to 1>>\
+<<if $drawer1 eq 0>>\
+@@#SuikoText;
+<<button "Look in the back of the drawer">><<toggleclass "#drawer1" "hidden">><</button>>@@<div id="drawer1" class="hidden">
+@@#choices;
+Pushing everything towards the front of the drawer, you blow the dust off the trinkets and spot a pair of scissors laying in a pile of apple peels.
+@@\
+--
+@@#choices;
+<<button [[Grab the scissors.|Grab the scissors]]
+>><</button>>
+@@\
+</div><</if>>\
+<<if $drawer2 eq 0>>\
+@@#SuikoText;
+<<button "Look in the front of the drawer">><<toggleclass "#drawer2" "hidden">><</button>>@@<div id="drawer2" class="hidden">
+@@#choices;
+You push everything back towards the back of the drawer and while you find the AA batteries you needed a week ago, you find a loose spindle of white sewing thread.
+@@\
+--
+@@#choices;
+<<button [[Grab the spindle.|Grab the spindle]]
+>><</button>>
+@@\
+</div><</if>>\
+<<if $drawer3 eq 0>>\
+@@#SuikoText;
+<<button "Look in the bottom of the drawer">><<toggleclass "#drawer3" "hidden">><</button>>@@<div id="drawer3" class="hidden">
+@@#choices;
+You lift up the random junk that cluttered the drawer to inspect the items that rest at the bottom of the drawer. You're surprised to find a thick sewing needle.
+@@\
+--
+@@#choices;
+<<button [[Grab the needle.|Grab the needle]]
+>><</button>>
+@@\
+</div><</if>>\
+<<if $drawer4 eq 0>>\
+@@#SuikoText;
+<<button "Look in the sides of the drawer">><<toggleclass "#drawer4" "hidden">><</button>>@@<div id="drawer4" class="hidden">
+@@#choices;
+You push everything aside and notice two long, loose springs sticking out from the side of the drawer.
+@@\
+--
+@@#choices;
+<<button [[Pull out the springs.|Pull out the springs]]
+>><</button>>
+@@\
+</div><</if>>\
+<<if $drawer1 is 1 and $drawer2 is 1 and $drawer3 is 1 and $drawer4 is 1>>\
+@@#choices;
+Looks like you have everything you need to fix Mr. Rabbit.
+@@\
+--
+@@#choices;
+<<button [[Get to Work!|Fix Mr.Rabbit]]
+>><</button>>
+@@\
+<</if>>\
+
+

@@ -1,0 +1,32 @@
+:: SuikoDay03P2SuikoDrinkteastop1 {"position":"32210,1690","size":"100,100"}
+Seeing how upset $Suiko is, you sigh while giving her a reassuring smile.
+
+$Name:
+@@#ProtagText;
+"Look, I can understand how it feels to try something and ultimatly fail...The thing is..."
+@@
+
+You notice your impromptu speech isn't going to make sense and sigh (Probably better just to skip the forplay.)
+
+$Suiko seems confused by your 'tripping on words' until you say,
+
+$Name:
+@@#ProtagText;
+"-It's the thought that counts. You should see it as a learning experience."
+@@
+
+She tilts her head in more confusion.
+
+$Suiko:
+@@#SuikoText;
+"But....My thought was...It would make you happy..."
+@@
+
+She then looks down and her brown eyes start to swell up with upcoming tears.
+--
+@@#choices;
+<<button [[It did!|SuikoDay03P2SuikoDrinkteastopFail1]]>><</button>>
+<<button [[Inviting me here makes me happy!|SuikoDay03P2SuikoDrinkteastop2]]>><</button>>
+@@
+
+

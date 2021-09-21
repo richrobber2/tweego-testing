@@ -1,0 +1,29 @@
+:: MidoriEvent'TrueRoute' {"position":"7990,3510","size":"100,100"}
+You observe the cute fairy in front of you; despite being a magical creature, you're taken allure to her cute way of talking and her loli like height and magical abilities.  $Midori would be a cute girlfriend! You think about it; if she is a fairy then who cares if she looks like a nine year old.
+
+You give $Midori a smug smile and point at her; announcing your wish,
+
+$Name:
+@@#ProtagText;
+"I wish for you to become my girlfriend!"
+@@
+
+The forest fairy starts to laugh hysterically but you affirm your wish and stand your ground. $Midori's laugh is stilted upon realizing she was granting your wish and freaks out.
+
+$Midori:
+@@#MidoriText;
+"What!-fuck! Human you can't be serious!"
+@@
+
+The Peakqweek fairy falls to the floor and backs away from you.
+
+$Midori:
+@@#MidoriText;
+"No! I hate humans! You creatures are selfish, perverted and lazy! I will not become your 'girlfriend'!"
+@@
+--
+@@#choices;
+<<button [[I am serious!|MidoriLoveEvent1]]>><</button>>
+@@
+
+

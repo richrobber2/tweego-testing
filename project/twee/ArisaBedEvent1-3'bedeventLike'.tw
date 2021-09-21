@@ -1,0 +1,36 @@
+:: ArisaBedEvent1-3'bedeventLike' {"position":"21990,4350","size":"100,100"}
+<<set $ArisaLove +=40>>\
+You lean over $Arisa and look over her sleeping head. She's now sighs softly and softly mutters your name.
+
+$Arisa:
+@@#ArisaText;
+"$Name-Chan~..."
+@@
+
+Enticed by her cuteness, you sigh and start to gently pat her head.
+
+POMF~
+
+you slowly pat her blond forehead and listen to her slumber.
+
+$Arisa:
+@@#ArisaText;
+"Yay....umm hehe..."
+@@
+
+$Arisa seems to talk about you a lot lately. While you could never have thought you enjoy the attention, the feeling of having your sister look up to you is endearing.
+
+
+You spend a few moments patting your sister's and while you slowly walk away you hear $Arisa mutter a goodbye.
+
+$Arisa:
+@@#ArisaText;
+"Daddy..I..Love Daddy~...um."
+@@
+--
+@@#choices;
+<<button [[Next|PreDAY02End]]
+>><</button>>
+@@
+
+

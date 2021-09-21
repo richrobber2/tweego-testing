@@ -1,0 +1,19 @@
+:: MidoriForest'Sara'south1'1' {"position":"6310,3370","size":"100,100"}
+Deciding not to leave the statue to 'rot' on the ground, you bend over and with some effort, you lift the statue up and place it upright on the grass.
+
+While you did this, the orb suddenly begins to glow un-naturally.
+
+You inspect the now standing icon and notice a description etched into the square base of the statue:
+
+"Wall of green, Water of blue. Drop the orb in; your wish may come true."
+
+After reading this excerpt in your head, the orb strangely becomes unhinged from the tiny hand of the statue and rolls to your feet; still glowing a greenish tone.
+--
+@@#choices;
+<<button [[Take the orb.|TakeMidoriOrb]]
+>><</button>>
+<<button [[Head Back.|MidoriForest'Sara'west3]]
+>><</button>>
+@@
+
+

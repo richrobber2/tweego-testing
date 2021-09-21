@@ -1,0 +1,5 @@
+:: SmokingEnabled {"position":"290,1830","size":"100,100"}
+<<set $Smoking to 1>>\
+<<goto [[setup2]]>>
+
+

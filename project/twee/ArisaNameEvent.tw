@@ -1,0 +1,12 @@
+:: ArisaNameEvent {"position":"290,430","size":"100,100"}
+$Arisa:
+@@#ArisaText;
+"That's mine! No! Only I can be $Arisa!"
+@@
+--
+@@#choices;
+<<button [[Back|setup]] 
+>><</button>>
+@@
+
+

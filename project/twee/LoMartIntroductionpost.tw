@@ -1,0 +1,112 @@
+:: LoMartIntroductionpost {"position":"150,1970","size":"100,100"}
+<<set $Depression to 0>>\
+<<set $DepressionMessages to 'Content'>>\
+<<set $AmberHateFeeling to 'No Hate'>>
+<<set $AmberHate to 0>>\
+<<set $RecalledAmber to 0>>\
+<<set $MidoriStats to 0>>\
+<<set $ArisaLove to 50>>\
+<<set $RediaLove to 50>>\
+<<set $SuikoLove to 50>>\
+<<set $MikanLove to 50>>\
+<<set $KarenLove to 50>>\
+<<set $AmberLove to 50>>\
+<<set $LilithLove to 50>>\
+<<set $VivianLove to 50>>\
+<<set $SaraLove to 50>>\
+<<set $RandyLove to 50>>\
+<<set $MidoriLove to 50>>\
+<<set $SuloziLove to 50>>\
+<<set $NanakoLove to 50>>\
+<<set $IrisuLove to 20>>\
+<<set $ArisaHate to 0>>\
+<<set $RediaHate to 0>>\
+<<set $SuikoHate to 0>>\
+<<set $SaraHate to 0>>\
+<<set $IrisuHate to 25>>\
+<<set $MidoriHate to 0>>\
+<<set $KarenHate to 0>>\
+<<set $AmberHate to 0>>\
+<<set $SuloziHate to 0>>\
+<<set $MikanHate to 0>>\
+<<set $RandyHate to 0>>\
+<<set $LilithHate to 0>>\
+<<set $ClauseHate to 0>>\
+<<set $VivianHate to 0>>\
+<<set $NanakoHate to 0>>\
+
+<<set $Karen to "Karen">>\
+<<set $Amber to "Amber">>\
+<<set $Irisu to "Irisu">>\
+<<set $Nanako to "Nanako">>\
+<<set $Vivian to "Vivian">>\
+<<set $Michael to "Micheal">>\
+<<set $Lilith to "Lilith">>\
+<<set $Sara to "Sara">>\
+<<set $Randy to "Randy">>\
+<<set $Midori to "Midori">>\
+<<set $Lupita to "Lupita">>\
+<<set $Randy to "Randy">>\
+<<set $Mikan to "Mikan">>\
+<<set $Sulozi to "Sulozi">>\
+<<set $Midori to "Midori">>\
+<<set $Clause to "Clause">>\
+<<set $SuikoErased is 0>>\
+<<set $LilithErased is 0>>\
+<<set $RediaErased is 0>>\
+<<set $KarenErased is 0>>\
+<<set $AmberErased is 0>>\
+<<set $SaraErased is 0>>\
+<<set $RandyErased is 0>>\
+<<set $SuloziErased is 0>>\
+<<set $ArisaErased is 0>>\
+<<set $VivianErased is 0>>\
+<<set $MidoriErased is 0>>\
+<<set $NanakoErased is 0>>\
+<<set $ClauseErased is 0>>\
+<<set $ArisaDepression to 0>>\
+<<set $RediaDepression to 25>>\
+<<set $SuikoDepression to 75>>\
+<<set $AmberDepression to 25>>\
+<<set $SaraDepression to 25>>\
+<<set $RandyDepression to 50>>\
+<<set $KarenDepression to 50>>\
+<<set $LilithDepression to 0>>\
+<<set $MikanDepression to 0>>\
+<<set $NanakoDepression to 75>>\
+<<set $VivianDepression to 0>>\
+<<set $MidoriDepression to 0>>\
+<<set $IrisuDepression to 75>>\
+<<set $ClauseDepression to 50>>\
+<<set $Name to '@@color:#ff0329;' + $Name + '@@'>>\
+<<set $MidName to '@@color:#ff0329;' + $MidName + '@@'>>\
+<<set $LastName to '@@color:#ff0329;' + $LastName + '@@'>>\
+<<set $Arisa to '@@color:#ff007f;' + $Arisa + '@@'>>\
+<<set $Irisu to '@@color:#dbd1a7;' + $Irisu + '@@'>>\
+<<set $Suiko to '@@color:#79638c;' + $Suiko + '@@'>>\
+<<set $Redia to '@@color:#FF3030;' + $Redia + '@@'>>\
+<<set $Karen to '@@color:#1E90FF;' + $Karen + '@@'>>\
+<<set $Amber to '@@color:#113f11;' + $Amber + '@@'>>\
+<<set $Lilith to '@@color:#e5c6f2;' + $Lilith + '@@'>>\
+<<set $Nanako to '@@color:#DDA0DD;' + $Nanako + '@@'>>\
+<<set $Clause to '@@color:#c19a6b;' + $Clause + '@@'>>\
+<<set $Midori to '@@color:#7fff00;' + $Midori + '@@'>>\
+<<set $Sara to '@@color:#fbec5d;' + $Sara + '@@'>>\
+<<set $Randy to '@@color:#ff8243;' + $Randy + '@@'>>\
+<<set $Mikan to '@@color:#ff9f00;' + $Mikan + '@@'>>\
+<<set $Michael to '@@color:#87a96b;' + $Michael + '@@'>>\
+<<set $Lupita to '@@color:#b7b5b2;' + $Lupita+ '@@'>>\
+<<set $Sulozi to '@@color:#487f79;' + $Sulozi+ '@@'>>\
+<<set $Vivian to '@@color:#802B15;' + $Vivian+ '@@'>>\
+<<script>>Save.slots.save(1)<</script>>\
+<<set $PlayerNameDisplay to 1>>\
+<<set $DepressionDisplay  to 1>>\
+<<set $Libido to 0>>\
+<<set $LilithIntro to 0>>\
+<<set $IrisuCount to 0>>\
+<<set $Abilities to 1>>\
+<<set $SportyRedia to 1>>\
+<<set $GamerRedia to 0>>\
+<<goto "LoMartIntroduction">>
+
+

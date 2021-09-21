@@ -1,0 +1,18 @@
+:: PreSuikoRouteDay03'fail' {"position":"28010,3650","size":"100,100"}
+No, you decide the best thing to do is to go to work. While you're curious why $Suiko wanted you to go to her place, Not going to work for your first day would probably result in you getting fired. If you see her again, you can just say you didn't receive the letter if its mentioned.
+<<set $Depression +=10>>\
+
+You decide to walk towards your outside trash can and toss the letter into the bin. With the state of the paper, even if you 'saw' it, it was already unreadable.
+
+As you shut the lid, you feel bad about having to lie to $Suiko eventually yet, knew you had to ignore it to get to work on time.
+
+...
+
+With that, you shrug it off and decide to beeline to LO-Mart for your first day.
+--
+@@#choices;
+<<button [[Head to Lo-Mart!|Day03LoMartIntro]]
+>><</button>>
+@@
+
+

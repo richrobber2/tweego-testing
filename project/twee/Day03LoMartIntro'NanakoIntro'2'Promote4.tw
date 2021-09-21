@@ -1,0 +1,12 @@
+:: Day03LoMartIntro'NanakoIntro'2'Promote4 {"position":"29970,4630","size":"100,100"}
+You decide the best thing to do is to leave the microphone and just pretend this didnt happen. You feel like you ruined the whole event and the best thing to do is just leave and head inside to do you job.
+<<set $Depression +=10>>\
+
+You should got inside and do your job.
+--
+@@#choices;
+<<button [[Next|Day03LoMartIntro'AmberEvent']]
+>><</button>>
+@@
+
+

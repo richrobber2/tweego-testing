@@ -1,0 +1,19 @@
+:: Use this chance to escape {"position":"11210,3230","size":"100,100"}
+<<set $LilithErased to 1>>\
+<<set $LilithLove to 0>>\
+You wait until the girl blinks and use the moment to stand up and run out of the bathroom.
+
+$Lilith:
+@@#LilithText;
+"You scum of-!?"
+@@
+You run out down the hall then stop once you notice nothing is chasing you.
+
+Wait. What were you running from?
+--
+@@#choices;
+<<if $LilithErased is 1>><<button [[Go to the office.|MidoriSchool4'ErasedLilith']]>><</button>><</if>>
+<<if $LockerEventScene is 0>><<button [[Look around some more.|MidoriSchool4'1']]>><</button>><</if>>
+@@
+
+

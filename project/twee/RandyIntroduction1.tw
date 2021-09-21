@@ -1,0 +1,28 @@
+:: RandyIntroduction1 {"position":"5470,2390","size":"100,100"}
+While it may not be your problem, you look over as the boy now sits with his arms crossed and pouting.
+
+Boy:
+@@#RandyText;
+"Damn it! What a stupid little sister!"
+@@
+
+Then, as if the boy felt you staring at him, he turns his head and gives you a mean look.
+
+Boy:
+@@#RandyText;
+"What are you looking at?!"
+@@
+
+As you make eye contact with him, you find yourself shocked to see a younger version of you. Seeing someone so angry after a pity fight with his sister makes you feel bad about how you treated $Arisa a few years ago.
+
+Boy:
+@@#RandyText;
+"Are you retarded or something? Piss off!"
+@@
+--
+@@#choices;
+<<button [[Talk to the boy.|RandyIntroduction2]]
+>><</button>>
+@@
+
+

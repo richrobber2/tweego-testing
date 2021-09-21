@@ -1,0 +1,43 @@
+:: MidoriFairyIntro1-5'calm' {"position":"7430,3230","size":"100,100"}
+A forest fairy?
+
+While Midori Forest is pretty old and helped set colony to the early-day settlers, you never assumed you'd find mythic beings in it!
+
+You try to act calm and succeed which, delivers an odd reactions from the fairy girl.
+
+$Midori:
+@@#MidoriText;
+Wow, for a pervert with a fairy fetish as well as having his image of an ideal image of a girl is something with this body is perverse! Perverse I Decree!
+@@
+
+She then hovers to the floor, causing you to uncomfortably squat over this cute event!
+
+...Wait, How did she know?
+
+$Name:
+@@#ProtagText;
+"So you must be the real deal... Any exact reason you read my mind?"
+@@
+
+$Midori takes a deep breath then bows; slowly regaining posture whiles talking,
+
+$Midori:
+@@#MidoriText;
+“I did to learn your speaky words! Not because I thought you're a threat! I mean my appearance displays me as the first person who awakes me-“
+@@
+
+She then zooms a few feet away from you and starts to twirl.
+
+...
+
+With her weightless ballad, you notice a trickle of pedals starts to spiral around you in a dance to abnormally.
+
+You are hyped and awe stricken by this events yet you need to leave.
+--
+@@#choices;
+<<button [[Wait for her to address you.|MidoriFairyIntro'truepath']]>><</button>>
+<<button [[Tell her about the missing girl and leave.|MidoriFairyIntro1-8]]>><</button>>
+<<button [[Ask if she feels okay.|MidoriFairyIntro'lovepath']]>><</button>>
+@@
+
+

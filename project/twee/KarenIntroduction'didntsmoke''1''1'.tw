@@ -1,0 +1,38 @@
+:: KarenIntroduction'didntsmoke''1''1' {"position":"16950,3370","size":"100,100"}
+<<set $KarenLove -=40>>\
+'THUD'
+
+The girl falls face first into the pavement so hard you flinch. You sit on the bench and watch as she struggles to get back on her feet.
+
+$Karen stand back on her feet while shaking in an understandable amount of pain.
+
+$Karen:
+@@#KarenText;
+"Hic owie...sniffle."
+@@
+
+$Karen turns around with tears running down her face. That's when you notice a nasty bruise visible on her left cheek.
+
+The wound still fresh, it quickly turns purple and a bead of blood starts to flow down her face.
+
+$Karen:
+@@#KarenText;
+"I-I'm go-ing home..."
+@@
+
+The injured $Karen turns away from you and slowly limps her way toward the sidewalk. Even though she was acting like a bitch earlier, you feel kind of bad.
+
+Maybe you should have stopped her fall somehow.
+
+...
+
+After taking a few minutes to relax, you retrieve your lighter off the bench and decide to head home.
+
+$Arisa is probably waiting on you.
+--
+@@#choices;
+<<button [[Head home.|PreArisaEvent3]]
+>><</button>>
+@@
+
+

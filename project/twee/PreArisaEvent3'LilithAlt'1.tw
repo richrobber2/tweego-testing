@@ -1,0 +1,13 @@
+:: PreArisaEvent3'LilithAlt'1 {"position":"18630,3370","size":"100,100"}
+Noticing her weapon is possibly just an airsoft toy, you amazingly sneak up toward your porch but now you're standard only arm’s length from this army wannabe.
+
+You could disarm her, but you feel an evil desire to tickle this moe 'captured' soldier.
+--
+@@#choices;
+<<button [[Tickle the spy!|PreArisaEvent3'LilithAlt'1-2]]
+>><</button>>
+<<button [[Disarm her.|BAD END 8: Mission Failed]]
+>><</button>>
+@@
+
+

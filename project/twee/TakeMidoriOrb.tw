@@ -1,0 +1,12 @@
+:: TakeMidoriOrb {"position":"6170,3370","size":"100,100"}
+Intrigued by the 'Dr. Seuss' style rhyme and its message, you grasp the orb in your hand and put in into your pocket.
+<<set $MidoriOrb to 1>>\
+
+Okay, enough wasting time. You need to find that girl!
+--
+@@#choices;
+<<button [[Head Back.|MidoriForest'Sara'west3]]
+>><</button>>
+@@
+
+

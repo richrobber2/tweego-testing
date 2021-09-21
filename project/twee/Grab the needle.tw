@@ -1,0 +1,19 @@
+:: Grab the needle {"position":"2530,3090","size":"100,100"}
+<<seen>>
+    <<pickup '$playerinventory' unique 'Needle'>>
+    <<notify 'info'>>Needle aquired<</notify>>
+<<hidden>>
+<<content>>
+@@#EffectText;
+OUCH!
+@@
+
+You accidentally poke yourself with the needle and it slivers into your finger. Thankfully it stays in place and you place it by Mr.Rabbit. <<set $drawer3 to 1>>
+--
+<</seen>>
+@@#choices;
+<<button [[Look back inside drawer.|Look inside the drawer for supplies]]
+>><</button>>
+@@
+
+

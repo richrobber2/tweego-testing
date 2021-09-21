@@ -1,0 +1,16 @@
+:: Pull out the springs {"position":"2810,3090","size":"100,100"}
+<<seen>>
+    <<pickup '$playerinventory' unique 'Springs'>>
+    <<notify 'info'>>Springs aquired<</notify>>
+<<hidden>>
+<<content>>
+<<set $drawer4 to 1>>\
+You tug at the two long springs and they shoot out of the drawer. you retrieve the wild and crazy springs and place them by Mr.Rabbit. <<set $drawer4 to 1>>
+--
+<</seen>>
+@@#choices;
+<<button [[Look back inside drawer.|Look inside the drawer for supplies]]
+>><</button>>
+@@
+
+

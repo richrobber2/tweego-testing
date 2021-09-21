@@ -1,0 +1,29 @@
+:: ArisaEvent3'NymphoReject'1-1 {"position":"21430,4070","size":"100,100"}
+$Name:
+@@#ProtagText;
+"I sure do! It's really cute on you!"
+@@
+
+Your once dominate sister is reduced to mush by your compliment and falls over herself.
+
+$Arisa:
+@@#ArisaText;
+"Cu-Cute! Onii-Chan called me cute?! Hehehe~"
+@@
+
+Most likely full of herself, you stand back on your feet and start to push your nymph of a sister out of your room....and pants.
+
+$Name:
+@@#ProtagText;
+"Enough, get cleaned up and make dinner!"
+@@
+
+Your sister stops fighting when you pace her by the door and you politely slam the door in her face.
+<<set $ArisaLove +=40>>\
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

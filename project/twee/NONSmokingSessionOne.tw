@@ -1,0 +1,9 @@
+:: NONSmokingSessionOne {"position":"1970,2249","size":"100,100"}
+You walk outside and quickly shut the front door behind you. With the door shut, you're greeted by an unfamiliar silence. For once, you don't have to worry about your annoying sister pestering you so you enjoy a nice and calm breather of fresh air.
+--
+@@#choices;
+<<button [[Next.|NONSmokingSessionOne 1]]
+>><</button>>
+@@
+
+

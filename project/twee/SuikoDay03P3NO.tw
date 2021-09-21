@@ -1,0 +1,44 @@
+:: SuikoDay03P3NO {"position":"35570,1410","size":"100,100"}
+$Name:
+@@#ProtagText;
+"No, I don't. Sorry, I've been thru a lot lately..."
+@@
+
+$Suiko appears to be upset by your reply. In an attempt to correct the awkwardness of the situation, you request to hear about it.
+
+$Name:
+@@#ProtagText;
+"How about you tell me? I'd like to hear!"
+@@
+
+Her ears pecks up and looks at you with a unsure smile.
+
+$Suiko:
+@@#SuikoText;
+"Oh! Well...Um...We met about five years ago.."
+@@
+
+@@#EffectText;
+WUT!?
+@@
+
+That doesn't make any sense! You only remember being with $Arisa up until her first day of school. The more you think about that possibility, the more conflicted and doubtful you are.
+
+$Name:
+@@#ProtagText;
+"Sorry, I only recall that time at Midori Elementary."
+@@
+
+
+Crestfallen upon hearing you forgot(or don't know.), $Suiko looks around nervously then, grabs her mr. rabbit hoodie to present to you.
+
+$Suiko:
+@@#SuikoText;
+"This jacket....I want you to look at the tag..."
+@@
+--
+@@#choices;
+<<button [[Inspect the jacket.|SuikoDay03P301]]>><</button>>
+@@
+
+

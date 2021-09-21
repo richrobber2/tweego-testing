@@ -1,0 +1,33 @@
+:: Andy1stincounter1 {"position":"30670,1690","size":"100,100"}
+This isn't the time to get violent. You probably should find out who he is.
+
+<<timed 5s>>You Should, You Clever Lad.<</timed>>
+
+$Name:
+@@#ProtagText;
+"Who Are-"
+@@
+
+He begins to laugh as you cluelessly ask the man attacking you for his idenity.
+
+???:
+@@#choices;
+"That's is pretty silly. What a interesting mind you have~."
+@@
+
+The Man loosens his grip off you and starts to dust himself off; leaving you at awe of what is happening.
+
+???:
+@@#choices;
+"May I ask you why you are here? Unless this is the route where you pissed off $Suiko? Isn't it $Name?"
+@@
+
+Fuck! He even knows your name.
+--
+@@#choices;
+<<button [[Question Him|Andy1stincounterQuestionhim]]>>
+<</button>>
+<<timed 13s>><<button [[Punch Him|AndyKnockout1]]>><</button>><</timed>>
+@@
+
+

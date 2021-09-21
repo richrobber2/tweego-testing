@@ -1,0 +1,39 @@
+:: Day03Introduction'1-2' {"position":"26190,3790","size":"100,100"}
+A humbled smile appears on your face and you proceed to lay a hand on your sister's blond hair,
+
+$Name:
+@@#ProtagText;
+"Well, that's sweet! You don't have to loss sleep over me, $Arisa"
+@@
+<<set $ArisaLove +=10>>\
+
+$Arisa brings her hand to her face and obscures her blushing face,
+
+$Arisa:
+@@#ArisaText;
+"Oh, It's nothing your Imouto can't handle...My brother is worth the hassle."
+@@
+
+That being said, you think about letting her have the day off from school. It seems only fair since she spent all of yesterday getting you a job.
+
+$Name:
+@@#ProtagText;
+"Well, I'm about to go to work; how about you rest and take the day off.You look tired and I'd be a bad parent if I let you go to school after staying up for two days."
+@@
+<<set $ArisaSchoolDay03 to 1>>\
+
+$Arisa bow and looks back up at you with a tired, yet energizing smile.
+
+$Arisa:
+@@#ArisaText;
+"Alrighty Onii-chan! I'll definitely use this day to sleep!"
+@@
+
+An infliction in her tone seems to subject otherwise. $Arisa's smug smile dissolves to a tired slump and she leaves towards her room
+--
+@@#choices;
+<<button [[Next.|Day03Preintro]]
+>><</button>>
+@@
+
+

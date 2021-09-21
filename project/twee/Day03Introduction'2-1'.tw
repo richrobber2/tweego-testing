@@ -1,0 +1,37 @@
+:: Day03Introduction'2-1' {"position":"26050,3790","size":"100,100"}
+$Name:
+@@#ProtagText;
+"$Arisa, that's not healthy. I know you only wanted to help but you have school today!
+@@
+
+Your caring sister yawns and gives you an assuring smile; Her tired eyelids and pale skin affirms her lack of sleep.
+
+$Arisa:
+@@#ArisaText;
+"I do this all the time, after all I worry about my Onii-chan..."
+@@
+
+You rest you hands on your sister's overall straps and concernedly lecture her.
+
+$Name:
+@@#ProtagText;
+"You losing sleep is unhealthy, what if you pass out or get in trouble at school? You need to get more rest $Arisa!"
+@@
+
+$Arisa:
+@@#ArisaText;
+"It's worth it to ensure you're okay; Your quite worrisome at times bro~"
+@@
+
+Your sister is losing sleep because of you; she must know about your internal struggles and your yelling session with your parents that happened earlier today.
+
+Hope she isn't spying on you or something.
+--
+@@#choices;
+<<button [[Tell her to get ready for school.|Day03Introduction'2-2']]
+>><</button>>
+<<button [[Tell her to take it easy today.|Day03Introduction'2-1'1]]
+>><</button>>
+@@
+
+

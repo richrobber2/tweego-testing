@@ -1,0 +1,21 @@
+:: KarenIntroduction'Smoking' {"position":"15830,3230","size":"100,100"}
+Exhausted from the series of events today, you feel like you DESERVE a nice cigarette break. You walk up to the metal bench and plop yourself down.
+
+What an eventful day. You now have your first job and you can finally support $Arisa by your own means.
+
+You take a deep breath of relief and dig into your shirt pocket for your Lolibooru cigarettes and your zippo lighter.
+
+But, while you sit there eyeing your pack of smokes, you begin to question why you need to smoke. You never actually questioned why you smoke except with the excuse it calms you down.
+
+Perhaps you don't need to smoke. Maybe, you just smoke as an excuse to be by yourself. You possibly only smoke just to be alone or as a hobby.
+
+You hate the smell of cigarette smoke, $Arisa seems to dislike the fact that you smoke and you sometimes wake up with really dry mouth. Despite this, you feel a tinging urge grow in the back of your head. You want to smoke.
+--
+@@#choices;
+<<button [[Smoke a Cigarette.|KarenIntroduction'smoked']]
+>><</button>>
+<<button [[Don't Smoke and just sit down.|KarenIntroduction'SmokingEvent']]
+>><</button>>
+@@
+
+

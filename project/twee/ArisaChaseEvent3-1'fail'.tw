@@ -1,0 +1,18 @@
+:: ArisaChaseEvent3-1'fail' {"position":"21430,5050","size":"100,100"}
+You gotta get out of her!
+
+$Name:
+@@#ProtagText;
+"Clean up this mess! I gotta go!"
+@@
+
+<<set $ArisaLove -=40>>\
+
+With every fiber of your being telling you to flee, you throw the shower rods at your sister and flee to your room; slamming the door behind you.
+--
+@@#choices;
+<<button [[Next|PreDAY02End]]
+>><</button>>
+@@
+
+

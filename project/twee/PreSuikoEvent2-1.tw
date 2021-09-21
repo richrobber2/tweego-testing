@@ -1,0 +1,11 @@
+:: PreSuikoEvent2-1 {"position":"18910,3370","size":"100,100"}
+<<set $SuikoLove -=40>>\
+<<set $DeniedLetter to 1>>\
+You decide not to worry about it. To your knowledge, it could just be a stupid love letter addressed to $Arisa. You place the letter on your nearby rocking chair and head inside.
+--
+@@#choices;
+<<button [[Head inside.|ArisaEvent3'Pre-Intro']]
+>><</button>>
+@@
+
+

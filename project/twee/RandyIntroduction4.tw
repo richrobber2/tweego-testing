@@ -1,0 +1,45 @@
+:: RandyIntroduction4 {"position":"5470,2810","size":"100,100"}
+<<set $RandyStats to 1>>\
+You laugh and say,
+
+$Name:
+@@#ProtagText;
+"Why is that a problem? You should be proud that you know what you like at your age!"
+@@
+
+The boy seems shocked that you accepted that fact so quickly. He laughs in relief and says,
+
+Boy:
+@@#RandyText;
+"You're a cool adult! My name is $Randy by the way! I am glad you understand that but if I told my sister that she wouldn't love me anymore!"
+@@
+
+$Name:
+@@#ProtagText;
+"$Randy, I'm sure your sister wouldn't care about that! If I told my sister that I was gay I'm sure she would still treat me the same."
+@@
+
+$Randy reads between what you said and delightfully blurts out,
+
+$Randy:
+@@#RandyText;
+"You're Gay as well? Awesome! That, actually makes me feel better!"
+@@
+
+Wut?
+
+That's not what you meant! While you can accept if someone is into guys you personally never felt that type of feels for...
+
+Well, actually thinking about it you did have a crush on Mike before you knew that he was actually a she but you're not gay.
+
+$Name:
+@@#ProtagText;
+"Well, You can say I used to be gay...Um, so what about your sister? Even if you don't love her like that you should still care about her! You don't have to apologize to her but it will show that you care about her if you go after her; Midori Forest is no place for a young girl!"
+@@
+--
+@@#choices;
+<<button [[Next.|RandyIntroduction5]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,44 @@
+:: PreArisaEvent3-'Erased Suiko 1'1 {"position":"19190,3370","size":"100,100"}
+<<timed 1s>>
+<</timed>>\
+Thinking nothing of it you open the letter by ripping the heart sticker and find a small index card inside.
+
+You stare at the 'blank' card and after a few seconds you notice something; a message in purple ink.
+@@#SuikoText;
+
+<font size="5"><font color="#1a0133">\
+<<timed 3s>>
+"Hello. Can you read this?"
+<<scrolldown>>
+<<next>>
+"Um... Okay, do I have your attention?"
+<<scrolldown>>
+<<next>>
+"Ura ura~"
+<<scrolldown>>
+<<next>>
+"S-ay.. th-is!"
+<<scrolldown>>
+<<next>>
+"set.."
+<<scrolldown>>
+<<next>>
+"Um..To."
+<<scrolldown>>
+<<next>>
+"Zero!"
+<<scrolldown>>
+<<next>>
+<font size="5"><font color="#dbd1a7">[SET TO 0]</font>
+<<scrolldown>>
+<<next>>
+<<goto [[Title]]>>
+@@
+<</timed>>
+--
+@@#choices;
+<<button [[Ignore the letter go inside.|PreArisaEvent3-2'check']]
+>><</button>>
+@@
+
+

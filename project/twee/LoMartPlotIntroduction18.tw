@@ -1,0 +1,24 @@
+:: LoMartPlotIntroduction18 {"position":"14290,5750","size":"100,100"}
+<<set $HiredAtLOMart to 1>>\
+<<set $CheckedLOMartTime to 0>>\
+As you walk out of her office, you walk into the store and the reality of the situation seeks in;
+
+You have a job!
+
+Despite possibly being hired by a psychopath, having the ability to care and support $Arisa makes you not only feel better about yourself but shows you how much you changed in nine years.
+
+You feel the burden of today suddenly fly off your shoulders and you take a sigh of relief.
+<<if $Depression gt 50>>\
+<<set $Depression to 25>>\
+<</if>>\
+<<if $Depression lte 50>>\
+<<set $Depression to 0>>\
+<</if>>\
+Feeling a little better, you decide it would be best to go outside and get some fresh air.
+--
+@@#choices;
+<<button [[Exit LO-Mart.|CheckLOMartTime]]
+>><</button>>
+@@
+
+

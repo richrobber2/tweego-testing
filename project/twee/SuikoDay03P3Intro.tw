@@ -1,0 +1,34 @@
+:: SuikoDay03P3Intro {"position":"35290,1270","size":"100,100"}
+$Suiko:
+@@#SuikoText;
+"Um...Can I ask you something..."
+@@
+
+$Suiko's voice cries out from the mute shed. Craving some attenion that you didn't force, you lean towards her and say,
+
+$Name;
+@@#ProtagText;
+"Oh! What's wrong?"
+@@
+
+$Suiko waves her hands to ensure it isn't a problem and states,
+
+$Suiko:
+@@#SuikoText;
+"No...I just wanna ask...um.."
+@@
+
+She then stands up and with a hint of forced bravado, asks you a odd question.
+
+$Suiko:
+@@#SuikoText;
+"Do...you remember when we first met?"
+@@
+--
+@@#choices;
+<<button [[No|SuikoDay03P3NO]]>><</button>>
+<<if $SuikoPastIntroLone is 1>><<button [[You mean back when I helped you with the bullies??|SuikoDay03P3NALone]]>><</button>><</if>>
+<<if $SuikoPastIntro is 1>><<button [[You mean I introduced you to my sister?|SuikoDay03P3NAArisa]]>><</button>><</if>>
+@@
+
+

@@ -1,0 +1,33 @@
+:: VMachineprize1 {"position":"14570,3650","size":"100,100"}
+The machine beeps and is followed by audible crying.
+@@#NPCText;
+	"Sorry, your luck is low today! Take this small prize!"
+
+@@
+	@@#EffectText;
+
+	BING!
+	@@
+
+You hear a small item drop down from the machine and you reach toward the bottom to retrieve your prize.
+
+...
+
+Inside is a small, blue hair-clip. As you hold it in your hands, you notice a teardrop engraved into the band.
+
+The machine powers off and says "Goodbye!"
+
+<<seen>>
+    <<pickup '$playerinventory' unique 'Blue HairPin'>>
+<<hidden>>
+<<notify 'info'>>Blue HairPin aquired<</notify>>
+<<content>>
+--
+@@#choices;
+<<button [[Head into the store.|LoMartPlotIntroduction2'1']]
+>><</button>>
+@@
+<</seen>>
+
+
+

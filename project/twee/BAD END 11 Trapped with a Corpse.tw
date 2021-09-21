@@ -1,0 +1,35 @@
+:: BAD END 11: Trapped with a Corpse {"position":"1690,290","size":"100,100"}
+/* TODO add code for achievment here */
+The body in your hands suddenly falls slump and you feel her dead weight cause you to drop the girl in the damp grass. Oddly, it doesn't register that you’re holding a corpse in your hand and you feel your emotions wash over you;
+
+You let this girl die.
+
+$Name:
+@@#ProtagText;
+"What...Have I done?!"
+@@
+
+As if your brain went on cruise control, you stand up and carry the corpse of the small girl in your arms. An urge to kill yourself is now running rampant in your head.
+
+Oddly enough, nothing else seems to matter. As you march into the lake, your mind remains blank as you feel the still cold water treading up to your nose and fill up your lungs. Choking on the water filling your navel cavities you feel your legs sink into the mud; halting you in place.
+
+Looks like your march toward death in almost over....
+
+What? Death!? What are you doing!?
+
+You feel like your mind was in a haze and how you reappeared in the lake makes you panic. You feel the object in your arms float up towards the surface and despite being underwater you hear....laughter?
+
+Finally coming to your senses, you look down and find your feet firmly planted in the lake sludge. As you begin to feel light-headed  as the laughter grows annoying loud and mutes out your gasps for air.
+
+After a few seconds, you discover your attempts to get air is failing fast and you feel your vision fade.
+
+<font size="3.5"><font color="#f23d00"><b>Time is everything Mr. $Name.</b></font>
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 9: In a Hole.">><<script>>Engine.restart();<</script>><</button>>
+@@
+
+

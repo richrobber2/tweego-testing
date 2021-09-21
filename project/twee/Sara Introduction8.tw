@@ -1,0 +1,44 @@
+:: Sara Introduction8 {"position":"9670,4210","size":"100,100"}
+<<set $RandyLove to 80>>\
+Although you feel kinda uneasy of how he's gesturing you over, you decide to ignore the urge to flee and walk towards him.
+
+As you steadily advance towards him, you instantly notice he looks extremely winded. $Randy's once clean, yellow shirt is now permanently stained with splotches of dry mud and his arms are covered in large scratches.
+
+Concerned you ask him,
+
+$Name:
+@@#ProtagText;
+"Are you alright? You look rough!"
+@@
+
+$Randy puts his hands in his pockets and tries to act tough.
+
+$Randy:
+@@#RandyText;
+"I'm okay geezer! Actually I'm doing a lot better now! Haha-...ha."
+@@
+
+Bending his now visibly bleeding knees, $Randy looks up at you and glares; as if studying the type of person you are. This goes on for a few seconds of awkward silence and you start to feel uneasy.
+
+$Name:
+@@#ProtagText;
+"So, what do you want, twerp!"
+@@
+
+The fatigued boy in front of you starts to brush the loose dirt of his shirt and aloofly says,
+
+$Randy:
+@@#RandyText;
+"$Sara has a good taste in men. You're kinda old but I'll be honest; I'm kind of jeal-um.. Happy for her."
+@@
+
+@@#EffectText;
+Wut?
+@@
+--
+@@#choices;
+<<button [[How So?|Sara Introduction9]]>><</button>>
+<<button [[Jealous?|Sara Introduction9'1']]>><</button>>
+@@
+
+

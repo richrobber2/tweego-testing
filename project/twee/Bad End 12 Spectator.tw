@@ -1,0 +1,110 @@
+:: Bad End 12: Spectator {"position":"1830,290","size":"100,100"}
+/* TODO add code for achievment here */
+Deciding not to do anything, you watch as the hooded girl runs to the muddy road and when she bends down to retrieve her plush rabbit from the road
+<<set $SuikoAwareTimer +=1>>
+
+...
+<<if $SuikoAwareTimer is 1>>
+<font size="5"><font color="#1a0133">\
+<<timed 3s>>
+"You'd....let me die?"
+<<scrolldown>>
+<<next>>
+"NO!"
+<<scrolldown>>
+<<next>>
+"Ura ura~"
+<<scrolldown>>
+<<next>>
+"I'll let you try again!"
+<<scrolldown>>
+<<next>>
+"set.."
+<<scrolldown>>
+<<next>>
+"To...."
+<<scrolldown>>
+<<next>>
+"Zero!"
+<<scrolldown>>
+<<next>>
+<font size="5"><font color="#dbd1a7">[SET TO 0]</font>
+<<scrolldown>>
+<<next>>
+<<goto "SuikoRoute1">>
+@@
+<</timed>>
+<</if>>\
+<br>\
+<<if $SuikoAwareTimer is 2>>
+<font size="5"><font color="#1a0133">\
+<<timed 3s>>
+"WHY!"
+<<scrolldown>>
+<<next>>
+"Do you..."
+<<scrolldown>>
+<<next>>
+"Hate her?"
+<<scrolldown>>
+<<next>>
+"Please try again."
+<<scrolldown>>
+<<next>>
+"set.."
+<<scrolldown>>
+<<next>>
+"To...."
+<<scrolldown>>
+<<next>>
+"Zero!"
+<<scrolldown>>
+<<next>>
+<font size="5"><font color="#dbd1a7">[SET TO 0]</font>
+<<scrolldown>>
+<<next>>
+<<goto "SuikoRoute1">>
+@@
+<</timed>>
+<</if>>\
+<br>\
+<<if $SuikoAwareTimer is 3>>
+You watch in horror as the large truck attempts to sway away from her only to smash directly into her. As $Suiko's body is hit, you see her body snap in half under one of the tires and a haunting scream of agony emits;
+
+$Suiko:
+@@#SuikoText;
+"GGAAAAHHHH!"
+@@
+
+-followed by a bloodcurdling moan and a steak of viscera trailing as the panicked driver speeds off from his 'hit and run'.
+
+As you slowly get back up, you walk over $Suiko's body which is now mostly sprayed on the black tarmac. frozen in the scene, your widened eyes as you see her hands start to twitch.
+
+Horrified, you notice $Suiko is still alive and desperately reaching for her rabbit plush; which is now as disfigured as she is.
+
+Awestruck, You witness this obviously dying girl weakly grasp the 'hand' of the rags of her once-loved bunny plush.
+
+$Suiko:
+@@#SuikoText;
+"I-..Sorr-.."
+@@
+
+Before she can finish talking, her body slumps and you hear an exhausted exhale.
+
+...She's dead.
+
+You could have stopped her earlier but you failed to do so. Her death is on your head and it'll haunt you for the rest of your life.
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 12: Spectator.">><<script>>Engine.restart();<</script>>/
+<</button>>
+@@
+<</if>>\
+<<if $SuikoAwareCounter gte 4>>
+<<goto "Title">>
+<</if>>\
+
+

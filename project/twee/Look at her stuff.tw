@@ -1,0 +1,36 @@
+:: Look at her stuff {"position":"34170,2110","size":"100,100"}
+<<set $ObservedSuikoday03p2 += 1>>\
+<<set $SuikoLookAtBelongingsDay03 to 1>>\
+Being rather nosy, you decide to look past the obvious decor and look at some of the personal belongings she has littered around the shed.
+
+...
+
+Looking over in one corner of the small shed you glipse at the bedsheets you assume $Suiko sleeps at. Something seems....Off about how they look and the more you stare the more you realise that they arn't bedding in the traditional sense. 
+
+To start off, $Suiko's sheets appear to be nothing but a worn out sack; made from what looks like straw! the 'pillows' are nothing more then soiled pillow cases stuffed with plant foilage and appear to be flattened out for her resting her head on them. They don't appear to give any neck support and you'd image the sack would be ichy and rough on her skin. 
+
+Under the sack, seems to be worn and torn up trash bags the only thing between her and the cold, hard cement. 
+
+
+How could she sleep their!? Sleeping on the dirt outside would be more comfortable alternative! Sleeping here can't be good for her health.
+<<set $SuikoBedObserve to 1>>\
+
+...
+
+Drifting your eyes past the 'bed', a gimmer of sunlight from the decaying, rusted roof shines a beam onto the next thing that causes alarm; the contents of the book shelf.
+
+The food and bread appears to be moldy; given that you can now clearly seen green mold forming on them. She also has canned vegggies and soups incased in rusted tins and a thin layer of settled dust. the only thing that appeared to hold up is some juice boxes and wrapped processed foods from the school. There is no way in hell she is eating healthy. At least the buckets of water looks fresh but the only water source you can imagine is rain water.
+<<set $SuikoFoodObserve to 1>>\
+
+Lastly, you find yourself looking at the the somewhat out off place shopping cart. The contents appear to be a collection of trash, pieces of fabric, a broken shovel, emply bottles both plasic and glass and rickety looking grill missing it's legs. You wouldn't be surprised if she was looking through trash for things she could use to survive.
+Ironiclly, the shopping cart appears to be from LO-Mart.
+
+You want to bring up how bad evenything looks to $Suiko but that probably wouldn't be the nicest thing to do when she invited you over.
+
+...Maybe you should look at something else.
+--
+@@#choices;
+<<button [[Observe Something else.|SuikoDay03P2SuikoObserve2]]>><</button>>
+@@
+
+

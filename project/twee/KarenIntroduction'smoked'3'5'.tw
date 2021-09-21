@@ -1,0 +1,55 @@
+:: KarenIntroduction'smoked'3'5' {"position":"16390,3930","size":"100,100"}
+<<set $KarenLove +=40>>\
+<<set $KarenSubmissive to 1>>\
+$Name:
+@@#ProtagText;
+"Well, I'm glad I could help you. You actually look a lot more mature with glasses on! You also look really cute with your hair down!"
+@@
+You nervously laugh but your awkward gesture makes $Karen look away from you and blushes a noticeable shade of red.
+
+While you stare at her you also notice her whispering something.
+
+$Karen (Whispering):
+@@#KarenText;
+"An adult just complimented me. Calm down $Karen, You're an adult you can act normal. It’s cool."
+@@
+
+She then looks back to you as if you didn't just hear what she said and smiles again at you.
+
+$Karen:
+@@#KarenText;
+"Th-Thanks! Us adults always try to look our best! Umm... So $Name, you come her often?"
+@@
+
+Her voice isn't as loud and confident as it was earlier but you ignore this, take a quick puff of your smoke and say,
+
+$Name:
+@@#ProtagText;
+"No I don't but I did just get hired here not to long ago. Why did you ask?"
+@@
+
+$Karen takes a step back and starts to twirl her hair with her fingers.
+
+$Karen:
+@@#KarenText;
+"Well, How about we hang out tomorrow? I come her a lot and-..."
+@@
+
+But before she can finish her sentence, she turns around and starts to run off.
+
+You call out her name but she is already running down the road while covering her still radiate face.
+
+...What an odd girl.
+
+After watching the girl run out of your sight, you take a few more puffs off your cigarette and prematurely stub it out on the bench.
+
+With that done, you decide to collect your thing and head back home.
+
+$Arisa must be eager to see how today went.
+--
+@@#choices;
+<<button [[Walk back home.|PreArisaEvent3]]
+>><</button>>
+@@
+
+

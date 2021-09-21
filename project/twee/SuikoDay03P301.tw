@@ -1,0 +1,27 @@
+:: SuikoDay03P301 {"position":"35290,1690","size":"100,100"}
+Looking at the black hoodie $Suiko always wears, you take it from her weak grasp and look over it.
+
+...
+
+Holding the slightly heavy, black fleece jacket in your hands, you inspect the insides and while it appears indecent and like every other jacket; until you come upon a wrinkled tag inside the hood you never noticed before.
+
+@@#NPCText;
+$Name $LastName.
+@@
+
+Your name is on the tag....In your hand writing.
+
+While in this moment of confusing realization, the vision of your old handwriting on this hoodie solidifies the fact this is your jacket.
+
+You quickly look back at $Suiko and greeted by her timid smile.
+
+$Suiko:
+@@#SuikoText;
+"You...Gave me this jacket..."
+@@
+--
+@@#choices;
+<<button [[Try to remember.|SuikoDay03P302]]>><</button>>
+@@
+
+

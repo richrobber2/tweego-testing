@@ -1,0 +1,5 @@
+:: AndyRedirectRunAway {"position":"30530,1410","size":"100,100"}
+Smart move $Name. Be the coward. You may have messed up but like everything in this mad world; a timeline will always exist.
+<<timed 7s>><<goto [[Day03LoMartIntro]]>><</timed>>
+
+

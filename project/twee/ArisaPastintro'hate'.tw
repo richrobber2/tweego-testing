@@ -1,0 +1,50 @@
+:: ArisaPastintro'hate' {"position":"10,2950","size":"100,100"}
+She may only be four, but the unrelenting anger of being compared to a father finally pushes you over the edge and you slam her cake to the hardwood floor.
+
+$Name:
+@@#ProtagText;
+"I am not your Dad! I'm not an uncaring asshole who hates his life and family! Stop being such a brat and learn no one will ever love you!"
+@@
+
+Hollowed silence creeps in as you hear your voice carry through the house. This snaps you out of your rage as taunting echoes mock you.
+
+Despite feeling your rage slowly replace itself with depression; you still glare at $Arisa.
+
+Your sister looks down at the cake; now a mess yet seems unbothered by the tantrum you threw. She then looks back at you with an uneasy smile.
+
+Brat:
+@@#ArisaText;
+"Um...I don't get it but, I 'like-like' you $Name. I call 'father' because you are the one I see with mei~"
+@@
+
+Using her tiny feet, she frees herself from her high chair and stands on top of the kitchen table.
+
+Brat:
+@@#ArisaText;
+"I don't care about the presents or the cake! I wanted to make a birthday wish~"
+@@
+
+ A wish?
+
+She must be referring to a 'birthday wish'.
+
+ $Name:
+ @@#ProtagText;
+ "A wish? What wish! Your cake didn't even have candles!  What does a brat like you want?!"
+@@
+
+Your sister pauses; thinking about her selfish wish.
+
+Brat:
+@@#ArisaText;
+"I want you to be loved~"
+@@
+
+Surprised by this unselfish 'wish', you decide to say:
+--
+@@#choices;
+<<button [[Say no one will ever love you!|ArisaPastIntro'Hate'1]]>><</button>>
+<<button [[How will that help?|ArisaPastintro'neutral']]>><</button>>
+@@
+
+

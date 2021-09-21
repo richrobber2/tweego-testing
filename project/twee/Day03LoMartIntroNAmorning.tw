@@ -1,0 +1,17 @@
+:: Day03LoMartIntroNAmorning {"position":"31790,3650","size":"100,100"}
+Deciding not to stray too out of line you find unmanned and most bizarre purely mechanical register surronded by towering heaps of advertising racks; almost cluttering entry.
+
+While you're 'on the clock', you take some time and properly organize the advertising stands and make a neat, proper access to the register.
+
+...That's when you witeness the true horror of the mechanical register before you. 
+
+Not only is it made of well constructed steel, the thing seems to allow entry from a really old key....that's still in the slot. Even more concerning, was a blue, money envolope hidden under the massive register.
+
+Knowing how essentric $Amber can be, It's quite odd she's leave a money envolope in the open like this.
+--
+@@#choices;
+<<button [[Open the money envolope.|Day03LoMartIntroNAmorningExamineMoney]]>><</button>>
+<<button [[Open the register|Day03LoMartIntroNAmorningOpenRegister]]>><</button>>
+@@
+
+

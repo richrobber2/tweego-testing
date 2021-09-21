@@ -1,0 +1,12 @@
+:: SinomNameEvent {"position":"1410,430","size":"100,100"}
+Principal Sinom:
+@@#NPCText;
+"Well, I'm happy but that's not your name..."
+@@
+--
+@@#choices;
+<<button [[Back|setup]] 
+>><</button>>
+@@
+
+

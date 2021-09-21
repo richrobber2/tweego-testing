@@ -1,0 +1,31 @@
+:: Day03Prepreintrorest {"position":"25910,3510","size":"100,100"}
+<<set $ArisaSchoolDay03 to 1>>\
+$Arisa stayed up for almost two days worrying about you and trying to make your life easier; the least you can do is give her a break and let her rest today.
+
+Hell, she even saved you the trouble of finding a job! 
+
+$Name:
+@@#ProtagText;
+"Don't worry about going to school. Get some rest; you deserve it!"
+@@
+
+After saying this, you give her a 'thumbs up" and smile.
+
+$Arisa appears to be confused at first, but after showing her fatigue with a unprevoked yawn, gives you a tired smile and bows like a maid.
+
+$Arisa:
+@@#ArisaText;
+"Thank you, my Goshujin!"
+@@
+
+With that, she walks out of your room and shuts the door behind her.
+
+...
+
+Okay, enough games! You should get ready for work.
+--
+@@#choices;
+<<button [[Next.|Day03Preintro]]>><</button>>
+@@
+
+

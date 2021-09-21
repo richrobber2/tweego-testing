@@ -1,0 +1,26 @@
+:: ArisaEvent3'HaremRoute1'4'-1 {"position":"20870,3930","size":"100,100"}
+You finally get upset with her tomfoolery and parentally raise your voice,
+
+$Name:
+@@#ProtagText;
+"$Arisa, stop playing around and judging people! It's not normal for siblings to marry anyways!"
+@@
+
+Saying it that way makes the whole idea gross and wrong.
+<<set $ArisaLove -=30>>\
+
+$Arisa:
+@@#ArisaText;
+"It was just a joke, Silly Onii-Chan! Like I could ever....Win your love...”
+@@
+
+With that 'joke' aside, your sister seems embarrassed and flees outside your room. You sometimes wonder if those jokes she normally does is actually her true feelings.
+
+What does she mean by saying she could, "never win your love"? Is she jealous of the loli hentai? Or the idea of what it displays?
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

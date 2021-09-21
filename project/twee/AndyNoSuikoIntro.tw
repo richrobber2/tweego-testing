@@ -1,0 +1,36 @@
+:: AndyNoSuikoIntro {"position":"30530,1550","size":"100,100"}
+The door slams open....Only for it to be completly empty. As the large steel doors swing you feel something tap your shoulder. 
+
+???:
+@@#choices;
+"Well, hello Chum...."
+@@
+
+To your horror, you discover a person standing inches behind you. The man before you has black hair and blue eyes that stare aloofly at your face. He is dressed in a white, polo shirt and and black, leather jacket. 
+
+As you observe the unit of a person behind you, you clinch a fist and panicly whail towards him.
+
+<<timed 7s>>[SET TO 1]<</timed>>
+
+Oddly, your fist flings foward only to assault the dry air.
+
+???:
+@@#choices;
+"I never get tired of this."
+@@
+
+As you turn towards his voice, a flickered image of his fist digging into your face and you collapse on the hard floor.
+
+???:
+@@#choices;
+"So Amigo, what brings you here?"
+@@
+
+He says this while wiping your spit off his knuckles.
+--
+@@#choices;
+<<button [[Who are you?|Andy1stincounter1]]>><</button>>
+<<button [[Punch him|Andy1stincounter2]]>><</button>>
+@@
+
+

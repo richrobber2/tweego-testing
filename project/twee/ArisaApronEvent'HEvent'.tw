@@ -1,0 +1,35 @@
+:: ArisaApronEvent'HEvent' {"position":"25490,3650","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Well, aren't you a little pervert; Must run in the family.."
+@@
+
+The perverted genuis that is your sister seems to take this accusation as a compliment and laughs childishly.
+
+$Arisa brings a wiggling finger to her lips and runs it down her bare shoulders.
+
+$Arisa:
+@@#ArisaText;
+"Hehe~ The $LastName family serves to please! I learned from the best!"
+@@
+
+What an odd way to say she's copying a anime trope, While you worry about her a lot she seems to know where and when to be a pervert.
+
+$Arisa leans over you and gestures you to eat. Retrieving a fork from the middle pocket of the apron, she stabs a 'sunnyside' up eggs and brings it to your mouth.
+
+$Arisa:
+@@#ArisaText;
+"Eat! You need your protein to work hard on your first day at work."
+@@
+
+$Arisa brings the fork towards you mouth while making airplane noises.
+--
+@@#choices;
+<<button [[Enough games!|ArisaApronEvent'HEvent'Fail]]
+>><</button>>
+<<button [[Eat the food like a child.|ArisaApronEvent'HEvent'NA]]
+>><</button>>
+<<set $ArisaSchoolDay03 to 0>>\
+@@
+
+

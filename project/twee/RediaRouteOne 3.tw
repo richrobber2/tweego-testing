@@ -1,0 +1,36 @@
+:: RediaRouteOne 3 {"position":"3790,2530","size":"100,100"}
+__An Hour Passes__
+
+-And for the most part all is quiet. Reaching a 'Game Over' screen, you turn off your game and look around your room. In front of you, you notice $Arisa entranced into some magical girl anime and when you look beside your bedside you can see $Redia lost in her 16-bit experience. You peer over and call her name, she waits a bit to acknowledge but turns to face you.
+
+$Name:
+@@#ProtagText;
+"So did you enjoy 'Loli'Mon®'?"
+@@
+
+She looks at her game again but delivers a long winded response,
+
+$Redia:
+@@#RediaText;
+"THIS.IS.AMAZING~!!! So, I decided to start off with a 'Loli'mander®' and was challenged by my rival to a battle. Once I learned about type advantages I beat him with the 'Ember®' attack. Won five-hundred 'Flurbos®'! I used the Flurbos to get some 'Loli'Balls®' and caught a 'Moebat®', A 'Loli'chu®' and a 'Shota'dude®'! I thought 'Moebat®' looked cool so I had her follow me and we made it to 'Mt.Pantsu'. It got cool when the evil organization 'Team Briefs®' tried to steal the fossils but my pal 'Moebat®' and I wiped the floor with them! Soon, I'll-!"
+@@
+
+She is still talking while you sit surprised she got so engrossed in the video game.
+
+You look at a nearby wall-clock in your room and notice how late it is:
+
+@@#choices;
+<<if $timedifference1 is 0>>The clock states it is a little past eight o'clock<</if>>\
+<<if $timedifference1 is 1>>The clock states it is a little past nine o'clock<</if>>\
+@@\
+
+WOW! Time sure did fly by fast!
+
+You watch $Redia playing your game and wonder what she thinks about it.
+--
+@@#choices;
+<<button [[Ask her about the game.|RediaRouteOne 4]]
+>><</button>>
+@@
+
+

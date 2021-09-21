@@ -1,0 +1,21 @@
+:: LoMartIntroduction10 {"position":"150,5890","size":"100,100"}
+<<set $ArisaLove += 50>>\
+$Name:
+@@#ProtagText;
+"No problem, Imouto~"
+@@
+
+$Arisa's smile begins to run up her puffy red cheeks and she emits a squeal of delightful.
+
+As you die a little inside, your 'Imouto' wraps her tiny arms around your shoulders and something unexpected happens.
+
+Amateurishly, $Arisa draws her mouth close and places a quick peck on your lips;
+
+__She took your first kiss__
+--
+@@#choices;
+<<button [[Afterwards...|LoMartIntroductionTwo]]
+>><</button>>
+@@
+
+

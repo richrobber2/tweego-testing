@@ -1,0 +1,67 @@
+:: ArisaApronEvent'HEvent'troll {"position":"25630,3930","size":"100,100"}
+<<set $ArisaSchoolDay03 to 0>>\
+$Arisa seems to enjoy the role swap of 'parent' and child so you indulge her childishness. You cock your head to the side.
+
+$Name:
+@@#ProtagText;
+"No~"
+@@
+
+-You carry your voice with a childish, falsetto tone.
+
+$Arisa backs the fork away from you until you turn your head back and smugly smile.
+
+$Name:
+@@#ProtagText;
+"$Name doesn't wanna!"
+@@
+
+She catches wind of your actions and giggles; bringing the food to your puffed out cheeks.
+
+$Arisa:
+@@#ArisaText;
+"Come on~. A growing boy needs his eggs. Now open wide."
+@@
+
+<<set $ArisaLove +=30>>\
+
+Using faint memories of hand feeding her as a child, you playfully avoid the food and complain.
+
+$Name:
+@@#ProtagText;
+"No,no,no~"
+@@
+
+$Arisa wrestles with you to eat the food until she begins to tickle your armpits; causing you to instinicly laugh..
+
+$Name:
+@@#ProtagText;
+"Gahahaha -UM!"
+@@
+
+Taking advantage of the tickling, she crams the limp egg into your mouth. Not wanting her to have the upper hand, you chew with your mouth open and spew crumbs and yoke over your face.
+
+$Arisa:
+@@#ArisaText;
+"You messy boy! Let big sister clean you up~"
+@@
+
+After cleaning your face with the apron, you drop the act and comply with your caregiver.
+
+Once you finished your meal, $Arisa collects the litter and plate ware and tidies up the mess.
+
+Once done, she walks towards your door and bows.
+
+$Arisa:
+@@#ArisaText;
+"Well, how about my little brother gets cleaned up. You have a big day and don't want you to be late!"
+@@
+
+She then giggles to herself as she carries the tray out of your room. 
+--
+@@#choices;
+<<button [[Get ready for work.|Day03Prepreintro]]
+>><</button>>
+@@
+
+

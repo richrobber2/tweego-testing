@@ -1,0 +1,55 @@
+:: KarenIntroduction'smoked' {"position":"16250,3230","size":"100,100"}
+<<if $smokingevent2 is 1>>\
+Fuck it! You don't need to quit now! You're sure you can stop smoking later. Might was well just smoke this once and quit later.
+<</if>>\
+<<if $smokingevent2 is 0>>\
+<<set $KarenStats to 1>>\
+What are you thinking? You are an adult and can make do whatever the hell you want! <</if>>\
+<<set $Fags -=2>>\
+<<set $Karenpantiesevent to 1>>\
+
+You open the slightly crumbled pack and bring a crooked cigarette to your dry lips. After fiddling with your lighter for what seems like a eternity, you spark a flare and take a steady drag off the cigarette.
+
+Instantly, you feel the toxic smoke fill your lungs and a slight euphoria wash over your senses. Breathing out, you feel that nagging urge drift away and you feel at peace.
+
+...
+
+Still in a meditative state, you hear a female voice behind you.
+
+???:
+@@#KarenText;
+"Hey! Do you have a cigarette I can have?"
+@@
+Not thinking much about it and having your cigarettes already out, you unconsciously pull another cancer stick out of the pack and hand it to the voice.
+
+???:
+@@#KarenText;
+"Oh! Um, Thanks sir!"
+@@
+You think nothing of it until you see a tiny hand grab your lighter out of your hand.
+
+[YOU HAVE $Fags CIGARETTES]
+
+You look to your left to see a school girl with blue hair sit down beside you and light her cigarette.
+
+You watch in awe as the possible preteen girl takes a long drag off of it and nonchalantly hands your lighter back to you.
+
+The girl looks about thirteen years old and has semi long, blueish hair. Her unnatural (possibly dyed) hair is straight but you notice a small bun just behind her head.
+
+She is wearing a blue sailor uniform with a pleated, white skirt and seems to have a black, designer handbag slung loosely in her right arm.
+
+Staring in both horror and awe, you slowly take your lighter back from her and she pulls her cigarette out of her mouth to talk.
+
+???:
+@@#KarenText;
+"Thanks, old man! It's refreshing to see such a cool adult. My name's $Karen!"
+@@
+--
+@@#choices;
+<<button [[Ignore that she is smoking and introduce yourself.|KarenIntroduction'smoked'1]]
+>><</button>>
+<<button [[Just ignore her completely!|KarenIntroduction'smoked''1']]
+>><</button>>
+@@
+
+

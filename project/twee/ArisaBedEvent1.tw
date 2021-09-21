@@ -1,0 +1,23 @@
+:: ArisaBedEvent1 {"position":"21710,3930","size":"100,100"}
+You decide to be nice, caring brother you lean over and softly embrace your imouto around your broad shoulders.
+
+$Arisa:
+@@#ArisaText;
+"Onii-Chan~ I..um~"
+@@
+
+Your dear sister mumbles in her sleep and you carry her concerning weight as you listen to her banter.
+
+$Arisa:
+@@#ArisaText;
+"Brother? Where are you?"
+@@
+--
+@@#choices;
+<<button [[Say nothing and let her sleep|ArisaBedEvent1-1]]
+>><</button>>
+<<button [[Hold her and reply gingerly|ArisaBedEvent1-3]]
+>><</button>>
+@@
+
+

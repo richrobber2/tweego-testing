@@ -1,0 +1,30 @@
+:: MidoriSchool4'ErasedLilith' {"position":"11910,3230","size":"100,100"}
+Enough wasting time!
+<<set $IratuIntro to 1>>\
+
+You walk back up the hallway and spot the old glass walled office ironically located in front of the school entrance.
+
+The door is a lot fancier than the rusted, metal doors that dot the hallway. On the door, is a sign that reads,
+
+@@#EffectText;
+	Principal Iratu
+	(Leader of Midori Elementary School.)
+@@
+
+A bit egotistical to call himself leader?
+
+You walk inside and are greeted by a young looking, dark haired male wearing a black trench-coat.
+
+He 'greets' you.
+
+Principal Iratu:
+@@#NPCText;
+"The fuck you want!?"
+@@
+--
+@@#choices;
+<<button [[Tell him about your sister.|MidoriSchool4'ErasedLilith'1']]>><</button>>
+<<button [[Get upset!]]>><</button>>
+@@
+
+

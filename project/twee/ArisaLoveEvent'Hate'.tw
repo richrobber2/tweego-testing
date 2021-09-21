@@ -1,0 +1,50 @@
+:: ArisaLoveEvent'Hate' {"position":"23670,3790","size":"100,100"}
+Over thinking and overlooking your sister's efforts to help' you', you realistically tell $Arisa,
+
+$Name:
+@@#ProtagText;
+"I'm glad you did, if not we'd be homeless and poor!"
+@@
+
+$Arisa backs away from you and tilts her head; confused by your reply.
+
+$Arisa:
+@@#ArisaText;
+"Well, yeah I guess, but-!"
+@@
+
+You finally are able to cut her off part sentence and add,
+
+$Name:
+@@#ProtagText;
+"You did it because we needed money and I appri..-".
+@@
+
+
+The room dead silent, you look down and notice she seems to have slumped down and seems oddly quite.
+
+She sumberly says after a blanket of guilt and reflective silence,
+
+$Arisa:
+@@#ArisaText;
+"You're absolutely right....Um you can leave now!!"
+@@
+
+-She yelled the last part so damnably loud it shook the thin walls of the room.
+
+Taking the memo you some how messed up,you bow to her for some reason and make your way out of her now silent room.
+
+...
+
+<<set $ArisaLove -=60>>\
+<<set $ArisaDepression to 25>>\
+Once you get back to your now quite sanctuary, you fall down tired on your bed and peer over to discover your television is playing a menu selection screen.
+
+$Arisa must have watched some shows while you're out.
+--
+@@#choices;
+<<button [[Check out the television.|ArisaEvent3'Intro']]
+>><</button>>
+@@
+
+

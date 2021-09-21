@@ -1,0 +1,19 @@
+:: MidoriForest'Sara'east3 {"position":"6170,3230","size":"100,100"}
+<<set $lostcounter += 1>>\
+<<set $Fatigue += 10>>\
+<<if $lostcounter gt 0>>
+Feeling as if she is nearby, you begin to circle the area in a attempt to hopefully see if she is still around.
+
+...
+
+After a few moments, you notice you wasted too much time looking in one area and head back to:
+--
+@@#choices;
+<<button [[Go towards the pile of trees.|MidoriForest'Sara'north3]]
+>><</button>>
+<<button [[Follow the footprints.|MidoriForest'Sara'west4]]
+>><</button>>
+@@\
+<</if>>\
+
+

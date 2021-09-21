@@ -1,0 +1,70 @@
+:: LoMartIntroductionTwo 3 {"position":"1130,2670","size":"100,100"}
+<<set $ArisaLove +=10>>\
+<<set $RediaLove +=10>>\
+<<if $yelledatarisa eq 0>> You decide it would be better not to embarrass your sister with friends over. Heaven knows you never had friends at her age, you shouldn't ruin your sis's chance at a normal life.<</if>>
+
+$Arisa:
+@@#ArisaText;
+"Hey Onii-chan, can we watch television in your room?"
+@@
+
+The tomboy and timid girl look right at you as if studying the 'parental' figure before them.
+
+$Redia gives you a puzzled look.
+
+$Redia:
+@@#RediaText;
+"So are you $Arisa's Dad?"
+@@
+
+The red head suddenly runs at you then halts in front of you. she looks around your figure sporadically then returns to your sister.
+
+
+$Redia:
+@@#RediaText;
+"He looks too young... He must be your boyfriend!"
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+Expecting $Arisa to deny the allegations, she instead turns her head at you and replies with a smug smile;
+
+$Arisa:
+@@#ArisaText;
+"I wish~"
+@@
+
+$Suiko:
+@@#SuikoText;
+"Oh...Lewd~"
+@@
+
+The soft spoken girl then flips her hood and reveals her face wearing a smile. $Redia, on the other hand does your job and scolds $Arisa with a playful yet forceful punch to the shoulder.
+
+$Redia:
+@@#RediaText;
+"Hey! Don't tease your 'Dad' like that!"
+@@
+
+Redia then looks at you and blushes,
+
+$Redia:
+@@#RediaText;
+"-Not to say you're not cute looking..."
+@@
+
+$Arisa:
+@@#ArisaText;
+"I know, right!?"
+@@
+
+The two girls emit a loud yelp as if they were gossiping about a cute boy or a pop star. Admittedly, you felt flattered but you didn't want a bad image for having prepubescent girls fluster over you.
+--
+@@#choices;
+<<button [[Tell them to go watch T.V.|LoMartIntroductionTwo 4]]
+>><</button>>
+@@
+
+

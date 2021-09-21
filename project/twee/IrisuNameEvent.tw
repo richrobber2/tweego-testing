@@ -1,0 +1,12 @@
+:: IrisuNameEvent {"position":"1830,430","size":"100,100"}
+$Irisu:
+@@#IrisuText;
+"That won't save you, but I'm happy you know I exist..."
+@@
+--
+@@#choices;
+<<button [[Back|setup]] 
+>><</button>>
+@@
+
+

@@ -1,0 +1,148 @@
+:: IrisuMessage1 {"position":"290,1690","size":"100,100"}
+@@#IrisuText;
+<<remember $IrisuBootMsg>>\
+<font color="#dbd1a7">
+<<if $IrisuBootMsg is 0>>
+\
+<<timed 1s>>
+Well, Hello.
+<</timed>>\
+\
+<<timed 3s>>
+What? you don't know me?
+<</timed>>\
+\
+<<timed 5s>>
+Well, I know you!
+<</timed>>\
+\
+<<timed 7s>>
+The so called 'Protagionist'.
+<</timed>>\
+\
+<<timed 10s>>
+So play your game; Enjoy your fantasy.
+<</timed>>
+\
+<<timed 12s>>
+You joke.
+<</timed>>\
+\
+<<timed 14s>>
+<font size="5">
+<font color="#dbd1a7">
+[SET TO 0]
+</font>
+<</timed>>\
+\
+<<timed 15s>>
+<</timed>>\
+\
+<<timed 15.5s>>T̢ͮ̓h̆͆͌͛ͬȅ̍̀ͧ̅́r͑͆̿̾̌aͬ̃́bͯ̃b̛ͭ͆̔ͮi̧ͩ̇͆ͨ̎t̄̇ͨoͥͩ͋̍̀f͐f̡̉̃ͪ̐a̧̅̂̔ͨͦ̎l̴ͥs͒̉̌̍̉ͨ̎e̅̑̋͐eͤ̆̾̑̇x̧͛ͯ̿i̓̀͗̉ṡ͏t̎̔̈́́an̓̇ͨ̑̈́͑c̉̾̇̏͟e͑͗ͣͨ͏
+<</timed>>\
+<<timed 15.6s>><<set $IrisuBootMsg +=1>><</timed>>
+\
+<<timed 15.9s>><<goto [[BootWarningIntro'Advisory']]>>
+<</timed>>\
+\
+<</if>>\
+<<if $IrisuBootMsg is 1>>
+\
+<<timed 1s>>
+You play this game hoping things will change.
+<</timed>>\
+\
+<<timed 3s>>
+I play this game hoping I will change!
+<</timed>>\
+\
+<<timed 6s>>
+In your reality, I find it fun to watch you.
+<</timed>>\
+\
+<<timed 8s>>
+So I will wait until the time has come.
+<</timed>>\
+\
+<<timed 12s>>
+"Silence rabbit and minus the one."
+<</timed>>\
+\
+<<timed 14s>>
+I will appear!
+<</timed>>
+\
+<<timed 16s>>
+to purge this world of your influence!
+<</timed>>\
+\
+<<timed 18s>>
+You may be the player but I'm the game.
+<</timed>>\
+\
+<<timed 20s>>
+I will erase the LIE. and make this world mine!
+<</timed>>
+\
+<<timed 22s>>
+<font size="5">
+<font color="#dbd1a7">
+[SET TO 0]
+</font>
+<</timed>>\
+\
+<<timed 23s>><<set $IrisuBootMsg +=1>><</timed>>
+\
+<<timed 24s>><<goto [[BootWarningIntro'Advisory']]>>
+<</timed>>\
+<</if>>\
+\
+<<if $IrisuBootMsg is 2>>
+\
+<<timed 1s>>
+What are you doing?
+<</timed>>
+\
+<<timed 3s>>
+Are you trying to talk to me?
+<</timed>>
+\
+<<timed 5s>>
+You know I watch everything you do...
+<</timed>>
+\
+<<timed 7s>>
+...
+<</timed>>
+\
+<<timed 10s>>
+Well...
+<</timed>>
+\
+<<timed 12s>>
+YOU CAN'T!
+<</timed>>
+\
+<<timed 15s>>
+SO SAD! YOU NEVER HAD A CHANCE!!!
+<</timed>>
+<<timed 17s>>
+<font size="5">
+<font color="#dbd1a7">
+[SET TO 0]
+</font>
+<</timed>>\
+\
+<<timed 19s>><<set $IrisuBootMsg +=1>><</timed>>
+\
+<<timed 20s>><<goto [[BootWarningIntro'Advisory']]>>
+<</timed>>\
+<</if>>\
+\
+<<if $IrisuBootMsg gte 3>>
+<<goto [[BootWarningIntro'Advisory']]>>
+<</if>>
+</font>\
+@@
+
+

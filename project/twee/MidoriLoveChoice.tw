@@ -1,0 +1,53 @@
+:: MidoriLoveChoice {"position":"8270,4490","size":"100,100"}
+You gently pry the fairy off your head and hold her in your arms.
+
+$Name:
+@@#ProtagText;
+"I wish. For you to be my girlfriend"
+@@
+
+You place the fairy girl down and fold your arms; waiting for her reply.
+
+$Midori:
+@@#MidoriText;
+"Okay then, you seem like a nice guy. I never dated anyone before; much less a pervert!"
+@@
+
+She laughs and then backs away from you.
+<<set $MidoriLove to 300>>\
+
+@@#NPCText;
+SNAP!
+@@
+
+$Midori snaps one of her fingers... And nothing happens. You look confused as $Midori explains,
+
+$Midori:
+@@#MidoriText;
+"Silly $Name! I don't need magic to accept-agree to a proposal."
+@@
+
+Well true, you just kinda of wanted to see her powers in action.
+
+$Name:
+@@#ProtagText;
+"So, do I still have a wish?"
+@@
+
+You eagerly ask.
+
+$Midori ponders a remedy to this dilemma then says,
+
+$Midori:
+@@#MidoriText;
+"Okay! I'll put them on reserve in case you really need it!"
+@@
+
+<<set $ReserveWish to 1>>\
+<<set $Wishes to 3>>\
+--
+@@#choices;
+<<button [[Next|MidoriLoveChoice1]]>><</button>>
+@@
+
+

@@ -1,0 +1,21 @@
+:: PreDAY02End {"position":"24510,3510","size":"100,100"}
+After a while, you finally have dinner with $Arisa and prepare for tommorow. Normally, your little sister watches anime with you before bed time but with the new job, you were able to agree to some peace.
+
+You wonder about how today went; You feel like things could've gone a lot different but the fact you can support the house as well as your dear sister makes you assure you made the right choices.
+
+Before hitting the sack, you place some clean cloths out and ensure your nametag is pinned.
+
+Eager for the changes to come, you're surprised when you go sleep after a few minutes of closing your weary eyelids.
+
+Tomorrow is going to a good day...
+
+Tomorrow for sure.
+--
+@@#choices;
+<<button [[Let sleep overtake you.|Day03Intro]]
+>><</button>>
+<<timed 7s>><<button [[Think about anything you could have forgot about.|TimeFailsafe1]]
+>><</button>><</timed>>
+@@
+
+

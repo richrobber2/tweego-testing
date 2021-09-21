@@ -1,0 +1,32 @@
+:: ArisaBedEvent1-3 {"position":"21850,4070","size":"100,100"}
+What a cute little sister you have; even in her dreams she talks about you. You look down at your slumbering imouto and surprising see her arms start to reach outward.
+
+$Arisa:
+@@#ArisaText;
+"Bro?...I-.."
+@@
+
+Being swayed by your sister's innocence, you slowly bend down and take $Arisa into your arms.
+
+You whisper,
+
+$Name:
+@@#ProtagText;
+"I'm right here $Arisa, I-"
+@@
+
+She suddenly hugs your body and slumps over in her sleeping state.
+
+$Arisa:
+@@#ArisaText;
+"Love you, Please don't..forget..um.."
+@@
+
+Trying not to wake her, you slowly carry your sister back into her room to find her room still in a unkempt state. Using your feet, you push off all her junk off of her over-sized plush bed and gently lay her her down.
+--
+@@#choices;
+<<button [[Take her bed and tuck her in|ArisaBedEvent1-3'bedevent']]
+>><</button>>
+@@
+
+

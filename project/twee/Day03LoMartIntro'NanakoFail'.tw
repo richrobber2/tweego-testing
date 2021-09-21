@@ -1,0 +1,53 @@
+:: Day03LoMartIntro'NanakoFail' {"position":"29690,3650","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Are you reall-!"
+@@
+
+You then quickly cut yourself off upon reading the situation. While you are a big fan of $Nanako Namco, you shouldn't act like some crazed fan. Thinking the best course of action is to remain professional, you just smale at the idol and 'agree' with her.
+
+$Name:
+@@#ProtagText;
+"I can imagine. Hey, are your really $Nanako Namco?! I must say I'm a fan myself~"
+@@
+
+You ask her while maintaining a causual voice yet your fandom may have leaked out. $Nanako's face turns to one of disgust, possibly knowing you're another obcessive fan and cautuously responds,
+<<set $NanakoLove -=20>>\
+
+$Nanako:
+@@#NanakoText;
+"Umm, sure.. I was hired to introduce you and encourage kids to ask for help at this store..."
+@@
+
+While you have heard about her and are a 'fan' of some of her live action roles in some magical girl animes, you decide to remain professional and wrap up the conversation.
+
+...
+
+You're still confused of how $Amber knew you liked his idol.
+
+$Name:
+@@#ProtagText;
+"While it's really nice to meet you in person, I got to start my shift. You don't have to worry about any of that on my opinion."
+@@
+
+You smile at $Nanako, who seems confused and quickly retorts,
+
+$Nanako:
+@@#NanakoText;
+"You just got here!"
+@@
+
+$Nanako covers the microphone with a palm then leans over the stage.
+
+$Nanako:
+@@#NanakoText;
+"I don't get paid unless I do this, so humor me and let me introduce you!"
+@@
+
+--
+@@#choices;
+<<button [[Okay,go ahead?|Day03LoMartIntro'NanakoIntro'2']]
+>><</button>>
+@@
+
+

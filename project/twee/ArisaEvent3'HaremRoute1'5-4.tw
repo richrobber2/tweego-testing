@@ -1,0 +1,20 @@
+:: ArisaEvent3'HaremRoute1'5-4 {"position":"20870,4070","size":"100,100"}
+You decide not to read much into it and simply ignore her 'pranks'.
+
+After a moment of waiting for your reply, your sister gets the memo and backs away slowly.
+
+$Arisa:
+@@#ArisaText;
+"Okay...Um...How about I-...get ready for dinner."
+@@
+
+<<set $ArisaLove -=40>>\
+
+Not saying much else, she nervously walks backwards out of your room; shutting the door behind her. You brush it off and go back to watching more anime until you need to make dinner.
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,68 @@
+:: Sara Introduction2 {"position":"9810,3370","size":"100,100"}
+<<set $SaraLove +=20>>\
+<<set $SaraStats to 1>>\
+$Name:
+@@#ProtagText;
+"I'm here to rescue you!"
+@@
+...
+
+The girl's expression freezes and her eyebrow twitches.
+
+Girl:
+@@#SaraText;
+"Wha-? Rescue...me?"
+@@
+
+You nod your head and take this moment of rub your wounds.
+
+$Name:
+@@#ProtagText;
+"Yeah...um, I saw you earlier and thought..."
+@@
+
+You find yourself feeling nervous as this cute blond girl stares confused by your response.
+
+Girl:
+@@#SaraText;
+"Are...you a hero?"
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+You shake your head and reply,
+
+$Name:
+@@#ProtagText;
+"I originally came here because I saw you crying and rushing away from your brother. I....Spent the last few minutes searching for you and-...Well, I guess you're okay."
+@@
+
+The girl's still hand drops the stick and her face turns red as a childish smile draws on her face. The girl stares at you, assuming at a loss of words but the smile (be it kinda unnerving), is also reassuring.
+
+$Name:
+@@#ProtagText;
+"So, why were you-?"
+@@
+
+Girl:
+@@#SaraText;
+"$Sara has a hero?!"
+@@
+
+So, her name is $Sara...
+
+@@#EffectText;
+OoF!!
+@@
+
+$Sara suddenly jumps off the tree and lands on your back; embracing you.
+
+The shift in weight rips you off the trunk and you both fall towards the ground below.
+--
+@@#choices;
+<<button [[Next.|Sara Introduction3]]>><</button>>
+@@
+
+

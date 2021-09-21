@@ -1,0 +1,13 @@
+:: BAD END 0: Forgotten By All {"position":"430,290","size":"100,100"}
+/* TODO add code for achievment here */
+<font size="3.5"><font color="#f23d00"><b>[$Name $MidName $LastName HAS BEEN ERASED FROM EXISTENCE!]</b></font>
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+<<set $Depression to 0>>\
+@@#choices;
+<<button "BAD END 0: Forgotten By All.">><<script>>Engine.restart();<</script>><</button>>
+<<set $Depression to 0>>\
+@@
+
+

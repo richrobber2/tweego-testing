@@ -1,0 +1,55 @@
+:: KarenIntroduction'didntsmoke'2'1' {"position":"16670,3650","size":"100,100"}
+<<set $KarenStats to 1>>\
+<<set $KarenDelinquent to 1>>\
+$Name:
+@@#ProtagText;
+"Not only the fact that you're too young but also the fact it's illegal! You're going to damage your lungs if you smoke!"
+@@
+
+In response, the girl mocks your excuse.
+
+Girl:
+@@#KarenText;
+"'It'll hurt my lungs~'. You really are an idiot! It will damage my lung regardless! I don't care if it's illegal! It's only that way because you adults think you can have all the good things for yourselves!"
+@@
+
+While her logic is unjustified, you can't deny someone as young as her smoking wouldn't be a wise thing to allow.
+
+$Name:
+@@#ProtagText;
+"Sorry twerp! I may be a hypocrite but I can't knowingly let a cute girl like you take up a nasty habit like smoking."
+@@
+
+Getting noticeably more annoyed by you calling her 'twerp', the brat spits at the ground and darts her body at you in defiance.
+
+Girl:
+@@#KarenText;
+"My name isn't 'twerp', shit for brains! It's $Karen and I don't care for you much at all! How dare you tell me what I can and can't do!"
+@@
+
+Her name is $Karen? What a fitting name for such a bratty twerp.
+
+$Name:
+@@#ProtagText;
+"Go on now '$Karen'! I already told you I'm not going to give you any smokes!"
+@@
+
+$Karen growls at you for a moment then raises one of her hands to flip you off.
+
+$Karen:
+@@#KarenText;
+"F-fine! I thought you might have been cool but you're just like every other adult! Later jackass!"
+@@
+
+The brat then dramatically turns away from you and storms off towards the sidewalk. After that annoying confrontation, you notice your urge to smoke is completely gone.
+
+Oddly, you feel satisfied that not only controlling your need to smoke and by the fact you prevented a cute girl from possible starting a nasty habit.
+
+You wait to see if the girl is gone, then you decide it's probably best if you head home. $Arisa is probably waiting on you.
+--
+@@#choices;
+<<button [[Head home.|PreArisaEvent3]]
+>><</button>>
+@@
+
+

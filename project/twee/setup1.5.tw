@@ -1,0 +1,55 @@
+:: setup1.5 {"position":"10,1830","size":"100,100"}
+Smoking Enabled In The Story?:
+(This Will Change Some Dialogue and Events.)
+--
+@@#choices;
+<<button [[Yes.|SmokingEnabled]]>><</button>>
+<<button [[No.|SmokeingDisabled]]>><</button>>
+@@\
+<<nobr>>
+<<if $Arisa is "">><<set $Arisa to "Arisa">><</if>>
+<<if $Redia is "">><<set $Redia to "Redia">><</if>>
+<<if $Suiko is "">><<set $Suiko to "Suiko">><</if>>
+
+<<if $Name is "Onii-Chan">><<goto "Liar(Arisa Aware)">><</if>>
+<<if $Name is "Arisa">><<goto "ArisaNameEvent">><</if>>
+<<if $Name is "Suiko">><<goto "SuikoNameEvent">><</if>>
+<<if $Name is "Redia">><<goto "RediaNameEvent">><</if>>
+<<if $Name is "Randy">><<goto "RandyNameEvent">><</if>>
+<<if $Name is "Sara">><<goto "SaraNameEvent">><</if>>
+<<if $Name is "Amber">><<goto "AmberNameEvent">><</if>>
+<<if $Name is "Iratu">><<goto "IratuNameEvent">><</if>>
+<<if $Name is "Lilith">><<goto "LilithNameEvent">><</if>>
+<<if $Name is "Sinom">><<goto "SinomNameEvent">><</if>>
+<<if $Name is "Midori">><<goto "MidoriNameEvent">><</if>>
+<<if $Name is "Mikan">><<goto "MikanNameEvent">><</if>>
+<<if $Name is "Vivian">><<goto "VivianNameEvent">><</if>>
+<<if $Name is "Irisu">><<goto "IrisuNameEvent">><</if>>
+<<if $Name is "Karen">><<goto "KarenNameEvent">><</if>>
+<<if $Name is "Andy">><<goto "AndyEasterEgg">><</if>>
+<<if $Name is "Andy">><<goto "AndyEasterEgg">><</if>>
+<<if $Arisa is "Suiko">><<goto "ArisaSuikoNameEvent">><</if>>
+<<if $Arisa is "Redia">><<goto "ArisaRediaNameEvent">><</if>>
+<<if $Arisa is "Randy">><<goto "ArisaRandyNameEvent">><</if>>
+<<if $Arisa is "Sara">><<goto "ArisaSaraNameEvent">><</if>>
+<<if $Arisa is "Amber">><<goto "ArisaAmberNameEvent">><</if>>
+<<if $Arisa is "Iratu">><<goto "ArisaIratuNameEvent">><</if>>
+<<if $Arisa is "Lilith">><<goto "ArisaLilithNameEvent">><</if>>
+<<if $Arisa is "Sinom">><<goto "ArisaSinomNameEvent">><</if>>
+<<if $Arisa is "Midori">><<goto "ArisaMidoriNameEvent">><</if>>
+<<if $Arisa is "Mikan">><<goto "ArisaMikanNameEvent">><</if>>
+<<if $Arisa is "Vivian">><<goto "ArisaVivianNameEvent">><</if>>
+<<if $Arisa is "Irisu">><<goto "Title">><</if>>
+<<if $Arisa is "Karen">><<goto "ArisaKarenNameEvent">><</if>>
+<<if $Arisa is "Andy">><<goto "ArisaAndyEasterEgg">><</if>>
+<<if $Name is "Chaozura">><<goto "ATFEasterEgg1">><</if>>
+<<if $Name is "">><<set $Name to "Adam">><</if>>
+<<if $age is "">><<goto "setup">><</if>>
+<<if $MidName is "">><<set $MidName to "Wayne">><</if>>
+<<if $Arisa is "">><<set $Arisa to "Arisa">><</if>>
+<<if $LastName is "">><<set $LastName to "Rustly">><</if>>
+<<if $Name is "Loliconman">><<goto "LoliconmanEasterEgg">><</if>>
+<<if $Name is "Alex" and $MidName is "Wayne" and $LastName is "Reetz">><<goto "ERRORSCREEN">><</if>>
+<</nobr>>
+
+

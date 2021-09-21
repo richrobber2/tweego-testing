@@ -1,0 +1,49 @@
+:: ArisaApronEvent {"position":"25350,3510","size":"100,100"}
+$Arisa:
+@@#ArisaText;
+"Wake, Wakey! It's morning time~!"
+@@
+
+Half-awake, you open your eyes and are hastily presented with a metal serving tray; beacon, scrambled eggs and a tall glass of milk presented with it. The Aroma of which wakes you up enough to be blind to $Arisa's attire.
+
+Noticing a shine of white draped over $Arisa catches your attention and you look over at her; The 'classic' pink overalls she always wore was now replaced with a small, white apron.
+
+$Arisa bows to your side(revealing she's undressed under the thin apron) and says,
+
+$Arisa:
+@@#ArisaText;
+"Enjoy your meal~"
+@@
+
+Once noticing she's wearing a naked apron, you fight your panicked morning wood with your morals and calming ask,
+
+$Name:
+@@#ProtagText;
+"Um, Why are you dressed like that? Don't you have school soon?"
+@@
+
+Ignoring the question, $Arisa reaches for your now neatly folded cloths and gently places them beside you.
+
+$Arisa:
+@@#ArisaText;
+"I stayed up last night and decided to clean up your room, washed your uniform and made breakfast. It's only six so you got time to eat, shower and..."
+@@
+
+Ignoring you completely, she then stands up and lifts the white fabric; revealing his childhood to you. Catching a quick glance at her privates, you turn beat red.
+
+Annoyed, you toss a heavy pillow at her, causing her to comically fall backwards.
+<<set $Libido +=20>>
+$Arisa:
+@@#ArisaText;
+"OW, Meany-Chan! I was just gonna ask if you wanted to eat me out~"
+@@
+--
+@@#choices;
+<<button [[Ask her why she is wearing an apron?|ArisaApronEvent'1']]
+>><</button>>
+<<if $ArisaLove gte 250>><<button [[Call her a pervert!|ArisaApronEvent'HEvent']]
+>><</button>>
+<</if>>
+@@
+
+

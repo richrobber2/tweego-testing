@@ -1,0 +1,14 @@
+:: KarenIntroduction'SmokingEvent' {"position":"15830,3370","size":"100,100"}
+<<set $smokeevent2 to 1>>\
+Are you sure?
+<<set $Fatigue += 10>>\
+You could always just finish this pack first? Being a niche brand of cigarettes, it would be a waste of money not to smoke them! Who cares if $Arisa doesn't like you smoking; she would never find out if you smoke here.
+--
+@@#choices;
+<<button [[Don't Smoke.|KarenIntroduction'SmokingEvent'2]]
+>><</button>>
+<<button [[Smoke a cigarette!|KarenIntroduction'smoked']]
+>><</button>>
+@@
+
+

@@ -1,0 +1,37 @@
+:: Sara Introduction9'2' {"position":"9810,4630","size":"100,100"}
+$Sara looks up towards you and frowns.
+
+$Sara:
+@@#SaraText;
+"$Name too busy to be with $Sara?"
+@@
+
+You hate to be the bringer of bad news, but $Randy is right. You can't really say you can spend more time with $Sara but you never actually wanted to waste time in this forest.
+
+Letting out a forced exhale of breath, you look at the frowning little girl and node your head.
+
+$Name:
+@@#ProtagText;
+"I don't feel like I wasted time, but I do have things I gotta do."
+@@
+
+Hearing this, she walks away from you and slowly inches towards her brother. Each advancing step, $Sara looks back towards you and pouts.
+
+$Sara:
+@@#SaraText;
+"Bye $Sara's $Name...Hope to see again...”
+@@
+
+You smile at the two and politely wave them off as they exit through the wood line.
+
+...
+
+You wait for them to leave and decide to follow the same route until you somehow reappear outside the entrance of Midori Forest.
+
+Although you don't understand how you're five or so feet away from the path you first entered, you decide not to bother with it and decide to stop wasting time.
+--
+@@#choices;
+<<button [[Walk to Midori Elementary.|MidoriSchool1]]>><</button>>
+@@
+
+

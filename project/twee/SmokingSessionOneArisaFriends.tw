@@ -1,0 +1,39 @@
+:: SmokingSessionOneArisaFriends {"position":"1830,2810","size":"100,100"}
+<<set $SmokingSessionOneArisaFriendstrue to 1>>\
+<<if $PastIntro is 0>>
+As if applying everything she learned in your adult anime, $Arisa seemed to start making friends overnight.
+
+In hindsight, you can truly say that you are jealous of how easily your sister made friends just based on the character development of your loli hentai she watched with you.
+<</if>>\
+<<if $PastIntro is 1>>
+You're glad your sister is doing well with her new friends. You feel jealous in a way, having so many friends in school.
+<</if>>\
+Jealous, but also afraid the content could have made her into ideal pedo-bait.
+
+Thankfully, she's smart enough to know that it's all fictional and no one really finds kids attractive.
+
+You think $Suiko was her first 'real' friend but $Redia is all $Arisa seems to talk about. From what you can gather, $Redia is extremely loud, boyish and sporty which seems to be the opposite of what you expected $Arisa to befriend.
+
+You don't know much of her personality, but $Redia appears to belong to the elementary school's baseball team. While no uniform appears to be enforced, $Redia is always seen wearing stylish name brand sport fatigues; her young body and size seems to allow her to dress loosely without fear of sweating or revealing her sex.
+<<if $RediaPastIntro is 0>>
+To better explain why you mention that, she often appears to look like a boy. This even fooled you and you almost assumed $Redia was your sister's first Boy-Friend!
+<</if>>\
+<<if $RediaPastIntro is 1>>
+Having a soft spot for tomboys, you imagine she will grow up to become a fine, young lady.
+<</if>>\
+ -And then there's $Suiko.
+<<if $SuikoPastIntro is 0>>
+In all honesty, She appears to be very immature and silent for her age. All you could deduce is that she's a fragile and shy girl your sister allows to orbit around.
+
+It seems like your sister is the only friend she trusts. While your sister's an annoying brat and $Redia appears outgoing and sporty, $Suiko seems cowardly and malnourished.
+<</if>>\
+<<if $SuikoPastIntro is 1>>
+$Suiko doesn't seem like a bad girl. While you feel like she could bum out or make $Arisa depressed to be around, you're glad to see she is still with her. Compared to $Redia and your sister, she seems skinny and almost malnourished looking; making you worry about her wellbeing. Her plush seems dear to her as she still carries it around.
+<</if>>\
+ --
+@@#choices;
+<<button [[Think about other things.|SmokingSessionOne 1]]
+>><</button>>
+@@
+
+

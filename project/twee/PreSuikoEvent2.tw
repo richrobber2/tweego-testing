@@ -1,0 +1,16 @@
+:: PreSuikoEvent2 {"position":"18910,3230","size":"100,100"}
+As you come up to your front porch you notice a crisp, white envelope laying abandoned on your doorstep. The letter is sealed shut with a Purple Heart sticker.
+
+...
+
+
+You ponder the note; you know no one who would leave a letter like this. Is this for $Arisa?
+--
+@@#choices;
+<<button [[Leave the letter on the porch.|PreSuikoEvent2-1]]
+>><</button>>
+<<button [[Open it up!|PreSuikoEvent2-3]]
+>><</button>>
+@@
+
+

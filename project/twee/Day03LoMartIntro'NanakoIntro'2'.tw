@@ -1,0 +1,45 @@
+:: Day03LoMartIntro'NanakoIntro'2' {"position":"29550,3930","size":"100,100"}
+Well she is an idol afterall. Like anyone doing a job, she has to do things to get paid; like any other job. While you don't like to be the center of attenion, you humor her and put your embarrasment aside.
+
+$Name:
+@@#ProtagText;
+"Okay go ahea-!"
+@@
+
+While speaking, the idol grasps one of your arms and tries to pull you on stage. 
+
+$Nanako:
+@@#NanakoText;
+"Get up here then so I can introduce you to the crowd~!"
+@@
+
+Releasing a defeated sigh, you let $Nanako hoist you up and stand beside her as she starts to address the crowd. Bringing the hand microphone to her orange, colored glossed lips she announces in stereo.
+
+$Nanako:
+@@#NanakoText;
+"Hello, ladies and gentlemen~! Today I, Nanako Namco, would like to introduce you to $Name $LastName; The 'onii-chan" of LO-Mart! 
+@@
+
+She then holds the microphone towards you and whispers,
+
+$Nanako:
+@@#NanakoText;
+"Say something! $Amber only told me your name and your title."
+@@
+
+Shocked at suddenly being put in the spotlight for a moderate sized crowd, you look over the stage and are greeted with both bored and somewhat envious stares of fans who would dream to be in close proximity to this young idol.
+
+Reluctantly taking the mic from $Nanako you take a deep breath and say:
+--
+@@#choices;
+<<button [[Something Serious.|Day03LoMartIntro'NanakoIntro'2'Serious]]
+>><</button>>
+<<if $AmberLove is 130>>
+<<button [[Something Promoting Lo-Mart.|Day03LoMartIntro'NanakoIntro'2'Promote]]
+>><</button>>
+<</if>>\
+<<button [[Say something cringy.|Day03LoMartIntro'NanakoIntro'2'Cringe]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,12 @@
+:: MikanNameEvent {"position":"1270,430","size":"100,100"}
+$Mikan:
+@@#MikanText;
+"Grrrr...Wo Away Wiar!"
+@@
+--
+@@#choices;
+<<button [[Back|setup]] 
+>><</button>>
+@@
+
+

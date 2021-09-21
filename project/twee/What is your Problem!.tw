@@ -1,0 +1,48 @@
+:: What is your Problem?! {"position":"4210,3090","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Hey, what gives?! I thought you were friends with $Suiko!"
+@@
+
+Not expecting this to happen, $Arisa looks down at you and frowns; tears staring to bead down her face.
+<<if $ArisaLove lt 80 and $ArisaLove gte 100>>
+$Arisa:
+@@#IrisuText;
+"<font color="#FA5F85"><b>I-..Don't want to...Please..Onii-Chan, I love you..</b></font>"
+@@
+<<set $ArisaDepression to 25>>\
+
+What The Hell is she talking about?
+<</if>>\
+<<if $Arisalove lt 40>>
+@@#choices;
+<<button [[What are you talking about?|Suikoawareevent1]]>><</button>>
+@@
+<</if>>\
+<<if $ArisaLove is 100>>
+$Arisa:
+@@#ArisaText;
+"Please...Continue to love only me..."
+@@
+<</if>>
+
+<<if $ArisaLove gte 100 and $SuikoLove isnot 200>>
+$Arisa:
+@@#ArisaText;
+"I..am not crying! Onii-Chan Loves me! Please Love your Imouto!~"
+@@
+
+You pat her head again and give her a confused smile,
+
+$Name:
+@@#ProtagText;
+"Okay? You silly Imouto.
+@@
+<</if>>\
+--
+@@#choices;
+<<button [[Call it a Day.|Arisaintrochoice1]]
+>><</button>>
+@@
+
+

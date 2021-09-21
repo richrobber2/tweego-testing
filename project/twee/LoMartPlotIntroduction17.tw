@@ -1,0 +1,47 @@
+:: LoMartPlotIntroduction17 {"position":"14290,5610","size":"100,100"}
+​After looking at the nametag for a while, you smile at $Amber and put it inside your pocket.
+<<set $Nametag to 1>>\
+
+$Name:
+@@#ProtagText;
+"Than-"
+@@
+
+Surprisingly and like every girl you know, $Amber suddenly blurts out:
+
+$Amber:
+@@#AmberText;
+"OKAY! Be here tomorrow and be sure to wear your nametag!"
+@@
+
+$Amber turns around and seats back on her desk chair. You stand there while $Amber surprisingly pulls out a comic book and rest her legs on her desk.
+
+$Name:
+@@#ProtagText;
+"Um...what time tomorrow? You didn't really specify."
+@@
+
+She looks up from her comic; Annoyed then says,
+
+$Amber:
+@@#AmberText;
+"Ugh! Onii-Chan, I said tomorrow!"
+@@
+
+...Okay. While you don't know what she means, it's probably best if you check when the store opens.
+
+$Amber buries her head back into her book.
+
+$Amber:
+@@#AmberText;
+"You can go now!"
+@@
+
+You're being ignored, probably best to take your leave.
+--
+@@#choices;
+<<button [[Walk out of the Store.|LoMartPlotIntroduction18]]
+>><</button>>
+@@
+
+

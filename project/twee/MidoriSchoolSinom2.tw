@@ -1,0 +1,47 @@
+:: MidoriSchoolSinom2 {"position":"12330,3370","size":"100,100"}
+On his phone screen, is a picture of $Lilith lifting her skirt and showing her bloomers.
+
+The same ones inside your pocket.
+
+While you admit the photo is hot, Mr. Sinom may kill you.
+
+Principal Sinom:
+@@#NPCText;
+"This is my daughter, $Lilith Von Sinom! Isn't she a sexy little girl~."
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+This may be a trap but you give a honest reply.
+
+$Name:
+@@#ProtagText;
+"Yes, she was sexy!"
+@@
+
+SHIT!
+
+Principal Sinom looks at you and smiles,
+
+Principal Sinom:
+@@#NPCText;
+"Oh?! So you seen my little $Lilith? She is a little firecracker! I bet she teased you! Good going Mr.$LastName!"
+@@
+
+Again, wut?
+
+To make matters worse, you hear someone else walk in behind you.
+
+$Lilith:
+@@#LilithText;
+"Papa~ I wanted to talk-"
+@@
+You turn around and spot Principal Sinom's daughter behind you.
+--
+@@#choices;
+<<button [[Next.|MidoriSchoolSinom3]]>><</button>>
+@@
+
+

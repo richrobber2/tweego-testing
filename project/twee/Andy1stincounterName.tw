@@ -1,0 +1,39 @@
+:: Andy1stincounterName {"position":"30810,2250","size":"100,100"}
+Starting to see the gravity of the situation, you look up to this army hat wearing person choking the shit out of you and disarmingly ask;
+
+$Name:
+@@#ProtagText;
+"Who are you?!"
+@@
+
+The man looks confused and finally lets you go. Taking this breif pause as a chance to breath, you back away and look at him.
+
+Oddly enough, the man smiles and puts his offense on hold. A half cocked smile draws on his face and appears surprised.
+
+???:
+@@#choices;
+"Well this is a first, 'Alfred'. You can..."
+@@
+
+The stranger thinks for a bit emitting a annoying hmm of gathering his thoughts then extends a oddly welcoming handshake..
+
+$Andy:
+@@#ProtagText;
+"-Call me Dr. $Andy. Good Morning, how are you? I'm Dr.$Andy. I'm interesting in things, you can say. Also, I'm not a real doctor."
+@@
+
+What does he me this is a 'first'? Isn't this the first time we met? Also, was that a song reference?!
+
+As if knowing what you're think he replies,
+
+$Andy:
+@@ProtagText;
+"So this one thinks....this is interesting. Well, Stupid but a free thinker.....I wonder.."
+@@
+--
+@@#choices;
+<<button [[Shake his hand|AndyIntroshakehand]]>><</button>>
+<<button [[Interested in things?|AndyIntrorefusehandshake]]>><</button>>
+@@
+
+

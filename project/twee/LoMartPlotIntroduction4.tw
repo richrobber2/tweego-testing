@@ -1,0 +1,30 @@
+:: LoMartPlotIntroduction4 {"position":"14290,3790","size":"100,100"}
+You got nothing better to do today; might as well head over there and see what you're needed for.
+
+You head towards the vacant electronics section and only find yourself alone with the somewhere neatly stocked shelfs. You wait a little too bit and soon, the silence is broken by loud static.
+
+Intercom:
+@@#AmberText;
+"About time! Now head toward the wall and enter through the employee's only door. I'll be waiting in the room to the left. This time, hurry up!"
+@@
+
+@@#EffectText;
+"HISS!"
+@@
+
+You cover your ears and look towards the dusty speaker system amateurishly mounted on the side of the warehouse. After staring at the demanding speaker system, you look under it to find a large, metal door labeled, 'Employees Only'.
+
+This must be the doorway it was screaming about.
+
+You advance towards the door and the metallic wall swings open to uncover a T shaped hallway. On the side of each hall are signs; left says "Manager's Office" and the other says "Stock Room".
+<<set $Stockroomevent to 0>>\
+<<set $Amberofficeevent1 to 0>>\
+--
+@@#choices;
+<<button [[Go Left.|LoMartPlotIntroduction5]]
+>><</button>>
+<<button [[Go Right.|LoMartPlotIntroduction4'1']]
+>><</button>>
+@@
+
+

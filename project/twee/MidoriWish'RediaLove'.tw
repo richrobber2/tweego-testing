@@ -1,0 +1,19 @@
+:: MidoriWish'RediaLove' {"position":"7710,3230","size":"100,100"}
+$Midori:
+@@#MidoriText;
+"The tomboy? Geeze human, you have some bizarre fetishes~!"
+@@
+
+<<set $RediaLove +=60>>\
+The tiny fairy snaps her fingers and a loud distortion rips through reality. Everything to the simplest flower pedal seemed to freeze for mere seconds before settling back to forward motion.
+
+$Midori:
+@@#MidoriText;
+"Done! Your weird 'boy girl' loves you more! I'm going to send you where you need to be. Good luck 'Reverse Trap' lover~."
+@@
+--
+@@#choices;
+<<button [[Next.|MidoriTeleport1]]>><</button>>
+@@
+
+

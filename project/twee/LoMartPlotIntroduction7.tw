@@ -1,0 +1,40 @@
+:: LoMartPlotIntroduction7 {"position":"14290,4210","size":"100,100"}
+<<if $Amberofficeevent1 is 0>>\
+You walk in to find a large, rustic office desk, a cheap, plastic chair sitting in the corner of the room, and random pieces of blank paper hastily pasted on the walls. Behind the desk, you find a small, black girl with long, black hair with a large, red bow in in her hair.
+	She is wearing a long, Gothic Lolita dress made of white fabric and blue laces unevenly seamed around here arms and waist. The girl is tiny (slightly shorter then $Arisa) but something about this girl seems familiar.
+
+...This girl may be $Amber but she looks too young! $Amber was only a year younger then you!
+
+The young girl looks at you with tired, green eyes and yawns,
+
+Small Ebony Girl:
+@@#AmberText;
+"Sorry for the wait, please have a seat."
+@@
+<</if>>
+<<if $Amberofficeevent1 is 1>>\
+With the proper permission, you walk back in to find the large, rustic office desk, a cheap, plastic chair sitting in the corner of the room, and random pieces of blank paper hastily pasted on the walls (Looks like she just plastered blank printer paper over the images).
+
+Behind the desk, you find the small, black girl with long, black hair with a large, red bow in in her hair.
+	She is wearing a long, gothic Lolita dress made of white fabric and blue laces unevenly seamed around her arms and waist.
+
+	The girl is tiny (slightly shorter then $Arisa) but something about this girl seems familiar.
+
+...This girl may be $Amber but she looks too young! $Amber was only a year younger then you!
+
+The young girl looks at you with tired, green eyes and yawns,
+
+Small Ebony Girl:
+@@#AmberText;
+"At least you waited this time! Have a seat!"
+@@
+
+She is staring at you like she is slightly annoyed at your past intrusion.
+<</if>>\
+--
+@@#choices;
+<<button [[Sit down in the plastic chair.|LoMartPlotIntroduction8]]
+>><</button>>
+@@
+
+

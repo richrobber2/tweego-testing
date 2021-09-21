@@ -1,0 +1,83 @@
+:: LoMartPlotIntroduction16 {"position":"14290,5470","size":"100,100"}
+<<if $PayRaise1 is 1>>\
+This is a great deal! Even is $Amber seems a little unhinged, a thousand dollars and four hundred dollars down! If you play your cards right, this could actually work out well!
+
+You put the money into your pocket and offer $Amber a handshake.
+<</if>>\
+<<if $PayRaise1 is 0>>\
+Although you don't know if you're being low-balled, you feel like this could work out well. Eight hundred dollars a week might be just enough to live off of. If you play your cards right, things might actually work out!
+
+You hesitantly extend your arm and offer $Amber a handshake.
+<</if>>\
+
+$Name:
+@@#ProtagText;
+"Okay, I'll do it!"
+@@
+
+$Amber:
+@@#AmberText;
+"Oh? Too good to accept my-"
+@@
+
+She stares dumbfound into the ceiling until it clicks. Possibly not expecting you to accept her offer, she suddenly jumps over her desk and tackles you with a unexpected embrace.
+
+Oof!
+
+You are forced to the ground while $Amber nuzzles her face into your face.
+
+$Amber:
+@@#AmberText;
+"Yay! I got an Onii-Chan! Kyahahaha!"
+@@
+
+She then jumps on her desk like a frog and starts to tap-dance on her desk; causing her papers and office supplies to scatter to the floor.
+
+$Amber:
+@@#AmberText;
+"YAY! YAY! BRAVO! I am making my dream come true!"
+@@
+
+<<if $PayRaise1 is 1>>\
+$Amber turns her head slight and audibly whispers,
+
+$Amber:
+@@#AmberText;
+"-I even get to help a loli..~"
+@@
+
+<</if>>\
+
+After her brief celebration, she jumps off her desk and while humming a tone (which you recognize as an anime opening theme song), she reaches into her pockets and offers you a nametag.
+
+$Amber:
+@@#AmberText;
+"Hey Onii-chan! Get off the floor and take this!"
+@@
+
+Still confused of what the hell is happening, you struggle to get back you and reach for the nametag.
+
+$Name:
+@@#ProtagText;
+"Thank you, $Amber I'll wear it with pride!"
+@@
+
+You take the nametag from her and are quickly horrified upon reading it.
+
+@@#EffectText;
+	   Onii-Chan
+  (LO-Mart's Big Brother)
+"Ask me for brotherly help!"
+@@
+...
+
+This can't be right...Can it?
+--
+@@#choices;
+<<button [[Thank her and put the nametag away.|LoMartPlotIntroduction17]]
+>><</button>>
+<<button [[Um… What is this supposed to be?!|LoMartPlotIntroduction17'1']]
+>><</button>>
+@@
+
+

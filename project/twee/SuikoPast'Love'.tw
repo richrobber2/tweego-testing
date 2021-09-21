@@ -1,0 +1,53 @@
+:: SuikoPast'Love' {"position":"710,4350","size":"100,100"}
+Seeing this girl starting to collapse under this attention, you look for a way for her to converse and her rabbit plushy comes to mind. You recall a trope of shy girls in anime using their toys as a mouth piece.
+<<set $SuikoLove +=20>>\
+<<set $SuikoPastIntroLovenormal to 1>>\
+The girl stumbles to form a sentence and that's when you make a suggestion. You point at her rabbit plush a ask it,
+
+$Name:
+@@#ProtagText;
+"What's your name? Can you tell me your owner's name?"
+@@
+
+Still holding the plush, she throws it in front of you and yells with a falsetto,
+
+Hood girl (As plush):
+@@#SuikoText;
+"Ura ura~ $Suiko isn't my owner! She is a friend and-"
+@@
+
+She puts the doll down and looks at you with a halfcocked smile.
+
+$Suiko:
+@@#SuikoText;
+"My name...I.. $Suiko."
+@@
+
+$Arisa:
+@@#ArisaText;
+"Nice to meet you I guess."
+@@
+
+This $Suiko girl looks at you and giggles. She then holds the rabbit at you and gestors its arm to wave.
+
+$Suiko(As plush):
+@@#SuikoText;
+"Ura mister, sorry, $Suiko is scared of people."
+@@
+
+Despite what the plush says, she seems to be doing better with this mouthpiece. Given her shyness, she must not have many friends.
+
+$Arisa:
+@@#ArisaText;
+"Really? You don't seem scared. I'm $Arisa!"
+@@
+
+The comment seems to grab $Suiko's attention and she lowers her rabbit plushy and bows to you.
+--
+@@#choices;
+<<button [[Next.|SuikoPast'Love'1]]
+>><</button>>
+@@
+<<set $SuikoPastIntroLove to 1>>\
+
+

@@ -1,0 +1,68 @@
+:: ArisaLoveEvent'NA' {"position":"24090,3930","size":"100,100"}
+You laugh unnervingly and watching $Arisa amist in confusion, you humbly smile,
+
+$Name:
+@@#ProtagText;
+"Well, I guess you can say I feel the same, ha ha....ha"
+@@
+
+Your laugh fades as you look down at $Arisa and a large smile draws on her once crying face.
+
+$Arisa:
+@@#ArisaText;
+"You....really feel that way too?!"
+@@
+
+She asked this in a surprised disbelief then results to blushing and looking to her lap.
+
+$Arisa:
+@@#ArisaText;
+"Um...okay...."
+@@
+
+Her face a deep red form the shock of emotions, $Arisa looks at you and asks sheepishly,
+
+$Arisa:
+@@#ArisaText;
+"Can....you say you love um!...I mean, do you mean it?"
+@@
+
+She picks up her pink blanket off her bed and curls up in a ball but her head pokes out to witness your reply.
+
+Nervous from holding the spotlight, you itch the back of your head and while looking towards the ceiling you admit,
+
+$Name:
+@@#ProtagText;
+"Yeah, I think you're a really cute sister and why wouldn't I love you."
+@@
+
+$Arisa's eyes widen upon hearing this and covers up in her blankets.
+
+After a moment of silence, she reveals her face and smiles; her face now awash with fresh tears of joy.
+
+$Arisa:
+@@#ArisaText;
+"That's a relief~  That made me feel happy..."
+@@
+<<set $ArisaLove +=40>>\
+$Arisa smiles as tears of joy stride down her cheeks. As if a stress was lifted, jumps out of her plush bed and embraces you. Before you could enjoy her hug, she pushes you towards her doorway and shutters,
+
+$Arisa:
+@@#ArisaText;
+"You ...go now! I gotta, um..."
+@@
+
+Acting unexpectingly timid, she pushes you out of her room and slams the door.
+
+Well, that was a strange conversation.
+
+...
+
+Once you get to your room, you lay down on your bed and look at your television; thankfully it's already idling on a movie selection screen.
+--
+@@#choices;
+<<button [[Check out the television.|ArisaEvent3'Intro']]
+>><</button>>
+@@
+
+

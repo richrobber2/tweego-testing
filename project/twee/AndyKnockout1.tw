@@ -1,0 +1,28 @@
+:: AndyKnockout1 {"position":"31090,1970","size":"100,100"}
+Without thinking or planning anything out; you spring your feet and face the bastard.
+
+???:
+@@#choices;
+"Woah now Ace, Being clever are you?"
+@@
+
+Knowing you don't have much time, you clinch a fist and hurl it at his stupid face.
+
+-But, before your fist makes contact with his aloof expression, you discover he has already caught it....Almost instantly!
+
+You freeze at his no bullshit disarm of your attempt as you blink and you feel a gust of wind flatten your face to the hard, crusted dirt.
+
+You twitch in pain as the instant counter makes your head spin.
+
+As your eyes readjust, you look up to see the man pointing a presnapped hand at you.
+
+???:
+@@choices;
+"I take it you fucked up. I'll help you out this one time but I better not see you again...Cowboy~"
+@@
+
+As he snaps his finger; the atmoshere crumbles and begins to fade.
+<<timed 17s>>[SET TO 0]<</timed>>
+<<timed 21s>><<goto [[PreSuikoRouteDay03preintro]]>><</timed>>
+
+

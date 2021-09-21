@@ -1,0 +1,30 @@
+:: ArisaLove3'SisconRoute' {"position":"22690,3790","size":"100,100"}
+You pat your sister one the head and tassel her blond hair.
+
+$Name:
+@@#choices;
+"Heck, I might be more of a siscon then a pedophile! Um...Thanks again for today; you really helped us out!"
+@@
+
+Still hidding her face in her hands, she smiles while giving you a tight embrace. As if to tease you, $Arisa leans into you ear asnd says.
+
+$Arisa:
+@@#ArisaText;
+"I shouldn't complain I'm a Brocon!"
+@@
+
+This response sends a shiver down your spine as you back away and childishly run out of the room. As you progress to your room, you feel like it's odd that you have such feeling for a kid you used to hate. You think her drive to make you happy might play oddly in your favor.
+
+To think your baby imouto has a brother fetish...It's also kinda creepy.
+
+...
+<<set $ArisaLove +=40>>\
+
+Once you get to your room, you lay down on your bed and look at your television; thankfully it's already idling on a movie selection screen.
+--
+@@#choices;
+<<button [[Check out the television.|ArisaEvent3'Intro']]
+>><</button>>
+@@
+
+

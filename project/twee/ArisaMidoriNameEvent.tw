@@ -1,0 +1,12 @@
+:: ArisaMidoriNameEvent {"position":"3370,430","size":"100,100"}
+$Midori:
+@@#MidoriText;
+"Μπορεί να είσαι ο μπαμπάς μου, αλλά μην με βγάζεις σε αυτό το χάος."
+@@
+--
+@@#choices;
+<<button [[Back|setup1.5'arisaname']]  
+>><</button>>
+@@
+
+

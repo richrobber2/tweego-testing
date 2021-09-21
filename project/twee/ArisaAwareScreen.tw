@@ -1,0 +1,165 @@
+:: ArisaAwareScreen [t8n-typewriter-10] {"position":"10,150","size":"100,100"}
+<<forget $BADEND>>\
+\
+<<if ndef $BadEndCount or $BadEndCount lte 0>>\
+<<goto [[setup]]>>\
+<</if>>\
+\
+<<if $BadEndCount is 1>>\
+<font size="5"><font color="#ff007f">\
+<<timed 1s>>...<</timed>>
+<<timed 3s>>Hello?<</timed>>
+<<timed 6s>>I guess you can't talk back.<</timed>>
+<<timed 7s>>I don't know how you got here<</timed>>
+<<timed 12s>>You're not from here!<</timed>>
+<<timed 14s>>I...don't like this...<</timed>>
+<<timed 19s>>This is..wrong.<</timed>>
+<<timed 21s>>You! You did something! Did you?!<</timed>>
+<<timed 22s>>Go Away and don't come back!<</timed>>
+</font>\
+<<timed 23s>><font size="5"><font color="#dbd1a7">[SET TO 0]</font>
+<</timed>>
+<<timed 26s>><<goto [[setup]]>><</timed>>
+<</if>>\
+\
+<<if $BadEndCount is 2>>
+<font size="5"><font color="#ff007f">\
+<<timed 1s>>...<</timed>>
+<<timed 3s>>Oh, it's you again.<</timed>>
+<<timed 6s>>You realize what you're doing?<</timed>>
+<<timed 10s>>Don't come back!<</timed>>
+<<timed 12s>>You're only messing things up!<</timed>>
+<<timed 14s>>...<</timed>>
+</font>\
+<<timed 14.5s>><font size="5"><font color="#dbd1a7">[SET TO 0]</font>
+<</timed>>
+<<timed 16s>><<goto [[setup]]>><</timed>>
+<</if>>\
+\
+<<if $BadEndCount is 3>>
+<font size="5"><font color="#ff007f">\
+<<timed 1s>>I had a feeling we would meet again.<</timed>>
+<<timed 3s>>I decided to monitor what you're doing.<</timed>>
+<<timed 4s>>...<</timed>>
+<<timed 6s>>-And I still don't get it.<</timed>>
+<<timed 11s>>My mind is telling me you're my brother.<</timed>>
+<<timed 15s>>But something is odd about all this.<</timed>>
+<<timed 18s>>You're messing with the world.<</timed>>
+<<timed 20s>>Although I am concerned, you don't seem that bad.<</timed>>
+<<timed 22s>>But whatever you're doing is causing things to 'reset'.<</timed>>
+<<timed 25s>>Stop that!<</timed>>
+</font>\
+<<timed 26s>><font size="5"><font color="#dbd1a7">[SET TO 0]</font>
+<</timed>>
+<<timed 27s>><<goto [[setup]]>><</timed>>
+<</if>>\
+<<if $BadEndCount is 4>>
+<font size="5"><font color="##ff007f">\
+<<timed 1s>>Damn you!<</timed>>
+<<timed 4s>>Don't you remember what I told you?<</timed>>
+<<timed 6s>>This is the fourth time this has happened.<</timed>>
+<<timed 9s>>Do you know what you're even doing?<</timed>>
+<<timed 12s>>You notice this isn't reality?<</timed>>
+<<timed 14s>>Thing were going well one moment and then everything goes black.<</timed>>
+<<timed 18s>>It's really scary.<</timed>>
+<<timed 22s>>Just promise me you well take things more seriously!<</timed>>
+</font>
+<<timed 23s>><font size="5"><font color="#dbd1a7">[SET TO 0]</font>
+<</timed>>
+<<timed 25s>><<goto [[setup]]>><</timed>>
+<</if>>\
+\
+<<if $BadEndCount is 5>>
+<font size="5"><font color="#ff007f">\
+<<timed 1s>>Can't you read!<</timed>>
+<<timed 3s>>This is the fifth time you did this!<</timed>>
+<<timed 6s>>You're messing up my world!<</timed>>
+<<timed 9s>>Is...This some game to you!<</timed>>
+<<timed 12s>>Um..I hope not<</timed>>
+<<timed 15s>>I noticed a feeling of deja vu every time I fix your mistakes.<</timed>>
+<<timed 17s>>I've tried talking to others about this but they just think I'm crazy.<</timed>>
+<<timed 20s>>Please stop!<</timed>>
+<<timed 23s>>I don't like this!<</timed>>
+</font>
+<<timed 23s>><font size="5"><font color="#ff007f">[SET TO 0]</font>
+<</timed>>
+<<timed 25.5s>><<goto [[setup]]>><</timed>>
+<</if>>\
+\
+<<if $BadEndCount is 6>>
+<font size="5"><font color="#ff007f">\
+<<timed 1s>>We're here again?!<</timed>>
+<<timed 4s>>DAMN IT!<</timed>>
+<<timed 6s>>After six times I hoped you would get the memo!<</timed>>
+<<timed 10s>>I don't know how many times I can fix your mistakes!<</timed>>
+<<timed 14s>>Yes, mistakes! I have noticed a pattern of how we appear here.<</timed>>
+<<timed 19s>>I...Can't explain it but it's your fault!<</timed>>
+<<timed 22s>>I hope you stop!<</timed>>
+<<timed 24s>>For my sake..<</timed>>
+<<timed 26s>>...<</timed>>
+</font>
+<<timed 27s>><font size="5"><font color="#ff007f">[SET TO 0]</font>
+<</timed>>
+<<timed 28s>><<goto [[setup]]>><</timed>>
+<</if>>\
+\
+<<if $BadEndCount is 7>>
+<font size="5"><font color="#ff007f">\
+<<timed 1s>>AGH!<</timed>>
+<<timed 2s>>...<</timed>>
+<<timed 5s>>Oh, It's you again.<</timed>>
+<<timed 9s>>I'm done getting angry.<</timed>>
+<<timed 12s>>Yes, I'm done.<</timed>>
+<<timed 19s>>No, I'm not.<</timed>>
+<<timed 20s>>I'm not.<</timed>>
+<<timed 21s>>Stop this!<</timed>>
+<<timed 22s>>You monster!<</timed>>
+</font>
+<<timed 23s>><font size="5"><font color="#dbd1a7">[SET TO 0]</font>
+<</timed>>
+<<timed 24s>><<goto [[setup]]>><</timed>>
+<</if>>\
+\
+<<if $BadEndCount is 8>>
+<font size="5"><font color="#ff007f">\
+<<timed 1s>>No no no no no!<</timed>>
+<<timed 3s>>I'm not gonna panic, I'm not gonna-<</timed>>
+<<timed 4s>>You!<</timed>>
+<<timed 6s>>Fuck you!<</timed>>
+<<timed 9s>>Don't you care about what you're doing?<</timed>>
+<<timed 12s>>I do. I do a lot!<</timed>>
+<<timed 16s>>You're a monster!<</timed>>
+<<timed 19s>>Why are you doing this?!<</timed>>
+<<timed 21s>>Don't you care about a little girl's feelings?<</timed>>
+<<timed 24s>>I will say stop but I'm just humoring you at this point.<</timed>>
+<<timed 26s>>Am I?<</timed>>
+</font>
+<<timed 27s>><font size="5"><font color="#ff007f">[SET TO 0]</font>
+<</timed>>
+<<timed 28s>><<goto [[setup]]>><</timed>>
+<</if>>\
+\
+<<if $BadEndCount is 9>>
+<font size="5"><font color="#ff007f">\
+<<timed 1s>>Look, I'm sorry.<</timed>>
+<<timed 4s>>This must be happening because of me.<</timed>>
+<<timed 7s>>Am I causing you to do this?<</timed>>
+<<timed 12s>>Or is it because you don't care about us?<</timed>>
+<<timed 16s>>I have noticed you have some 'powers' as well<</timed>>
+<<timed 19s>>Obviously you do. I've noticed the 'Deja vu' even when we don't appear here<</timed>>
+<<timed 22s>>From days repeating to just stopping until you 'return'.<</timed>>
+<<timed 26s>>All I can do is change some things but I never screwed up the world!<</timed>>
+<<timed 30s>>Have I? I don't have memory of having it, but I remember I do whenever we meet up here...<</timed>>
+<<timed 34s>>I guess we have something in common..haha...<</timed>>
+<<timed 39s>>I'm not sure... but all I know is it can't effect you.<</timed>>
+<<timed 45s>>Just stop using your 'abilities'. You're toying with our world and not only is it driving me insane I feel like it could have negative effects on things later on.<</timed>>
+<<timed 52s>>I will send you back to the beginning, so whatever you're doing all I ask is you try to do better at not doing it.<</timed>>
+<<timed 56s>>okay?<</timed>>
+</font>
+<<timed 57s>><font size="5"><font color="#ff007f">[SET TO 0]</font>
+<</timed>>
+<<<<timed 57.1s>><</timed>>>>
+<<timed 58s>><<goto [[setup]]>><</timed>>
+<</if>>\
+
+

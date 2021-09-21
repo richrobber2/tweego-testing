@@ -1,0 +1,12 @@
+:: TimeFailsafe1 {"position":"24510,3650","size":"100,100"}
+Before going to sleep, you ponder and discover you forgot to check what time you needed to be at your first day of work?! While you're not sure, you swear you might have glimpsed at a sign saying nine o'clock in the morning.
+
+While you rest easy in recalling this information, you hope you awake in time not to be late.
+<<set $CheckedLOMartTime to 1>>\
+--
+@@#choices;
+<<button [[Let sleep overtake you.|Day03Intro]]
+>><</button>>
+@@
+
+

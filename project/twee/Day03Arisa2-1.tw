@@ -1,0 +1,29 @@
+:: Day03Arisa2-1 {"position":"26610,3790","size":"100,100"}
+That can't be right. If that was the case, You'd surely would of heard the front door open. <<if $RediaLove lt 200>>Even if that was the case, That loudmouth tomboy would have barged in like she normally does.<</if>><<if $RediaLove gte 200>>Even if that was the case, $Redia would have greeted you and dicussed 'Loli'mon'.<</if>>
+
+Seeing through her lie, you tell your cell phone:
+
+$Name:
+@@#ProtagText;
+"Nice try, now tell me what you're doing, my 'dear' sister..."
+@@
+
+$Arisa (On phone):
+@@#ArisaText;
+"Um, Gotta go! Later Onii-chan!"
+@@
+
+'BEEP'
+
+...
+
+The phone call abruptly ends and you sigh in defeat. Oh well, might be for the best to go straight to work. Judging by the time you have some to spare.
+
+After placing your phone back into your breast pocket,  you grab the house keys and head towards the door...
+--
+@@#choices;
+<<button [[Next.|Day03PreLoMart]]
+>><</button>>
+@@
+
+

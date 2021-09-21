@@ -1,0 +1,45 @@
+:: MidoriForest'Sara'north1 {"position":"6030,2950","size":"100,100"}
+<<if $lostcounter is 0>>\
+Noticing the tiny foot prints in the wet mud, you head north and follow the path.
+
+As you venture forward, you notice the forest start to spill off around the edges of the trail and starts to replace the gravel with twigs and overgrown shrub the paved path is gone; replaced with man or animal made path that cuts through the now thick grass.
+
+Following the prints, you're stopped upon facing a equally similar path you seemed to have witnessed earier.
+
+This time, the footprints start to fade into the grass as you approach it.
+
+Looks like you have to guess this time.
+<</if>>\
+<<if $lostcounter gte 1>>\
+As you head back up the trail, you return to the split in the trail and notice a row of tiny foot prints heading north up the trail.
+
+Guided by the tiny foot prints in the wet mud, you head north and follow the path. As you venture forward, you notice the forest start to spill off around the edges of the trail and starts to replace the gravel with twigs and overgrown shrub the paved path is gone; replaced with man or animal made path that cuts through the now thick grass.
+
+Following the prints, you're stopped upon facing a equally similar path you seemed to have witnessed earier.
+
+This time, the footprints start to fade into the grass as you approach it.
+
+Looks like you have to guess this time.
+--
+@@#choices;
+<<button [[Continue walking forward.|MidoriForest'Sara'north2]]
+>><</button>>
+<<button [[Turn left on the path.|MidoriForest'Sara'west2]]
+>><</button>>
+<<button [[Go right.|MidoriForest'Sara'east2]]
+>><</button>>
+@@\
+<</if>>\
+--
+<<if $lostcounter is 0>>\
+@@#choices;
+<<button [[Continue walking forward.|MidoriForest'Sara'north2]]
+>><</button>>
+<<button [[Turn left on the path.|MidoriForest'Sara'west2]]
+>><</button>>
+<<button [[Go right.|MidoriForest'Sara'east2]]
+>><</button>>
+@@\
+<</if>>\
+
+

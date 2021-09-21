@@ -1,0 +1,48 @@
+:: MidoriNymphoRoute {"position":"7570,4070","size":"100,100"}
+You decide not to stop and continue your assault despite this fairy's protest.
+
+$Midori:
+@@#MidoriText;
+"No-Nao~"
+@@
+
+You lean forward and start to slide your tongue into this unwilling girl. $Midori freezes but slowly seems to give into kiss.
+
+You take your mouth off her and look down at the mess of a girl.
+
+$Name:
+@@#ProtagText;
+"Should I stop?"
+@@
+
+You snatch $Midori into your loving arms and kiss her on the cheek.
+
+$Midori:
+@@#MidoriText;
+"I-hate you so much...~"
+@@
+
+The little girl tries to hide her face from you but as you try to kiss her again she is on the verge of tears.
+
+You start to feel remorse.
+
+You move your hands away from the confused girl and slowly back away.
+
+$Name:
+@@#ProtagText;
+"I'm sorry. I just thought you're cute."
+@@
+<<set $MidoriLove +=400>>\
+
+$Midori:
+@@#MidoriText;
+"Get out of here, Onii."
+@@
+
+$Midori lifts a shaking arm and snaps her fingers.
+--
+@@#choices;
+<<button [[Next.|MidoriTeleport1]]>><</button>>
+@@
+
+

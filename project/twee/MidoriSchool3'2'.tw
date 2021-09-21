@@ -1,0 +1,16 @@
+:: MidoriSchool3'2' {"position":"10930,3370","size":"100,100"}
+You spend the next few seconds watching the kids tire themselves towards exhaustion.
+
+You fight the urge to jump in; knowing if you did any exercise you'd sweat like a pig.
+
+...
+
+The group then starts to run around the diamond and not wanting to get in the way, you decide to-
+--
+@@#choices;
+<<if $MidoriSEvent1 is 0>><<button [[Go into the school.|MidoriSchool3]]>><</button>><</if>>
+<<if $SinomIntro is 1>><<button [[Look for LO-Mart.|LoMartPlotIntroduction]]>><</button>><</if>>
+<<if $IratuIntro is 1>><<button [[Look for LO-Mart.|LoMartPlotIntroduction]]>><</button>><</if>>
+@@
+
+

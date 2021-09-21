@@ -1,0 +1,37 @@
+:: RediaIntroLoneTrue1 {"position":"1270,4490","size":"100,100"}
+$Name:
+@@#ProtagText;
+"My name is $Name and no, I haven't played baseball since I went to this school."
+@@
+
+As this $Redia girl takes the baseball out of your hand, she gets uncomfortably close and seems interested in your baseball 'history'.
+
+$Redia:
+@@#RediaText;
+"You used to play baseball here? That must have been fun! No wonder you caught my pitch."
+@@
+
+Putting the baseball in her front, red sweatshirt pocket, she then pulls her hand out and offers a handshake. She seems to have a bubbly demeanor and whismisal aura emitting from her.
+
+While you can understand why she is excited about this introduction, you can't really say it was fun to play baseball back as a kid...In fact, you hated almost every part of it!
+
+Still, you accept her handshake and she enthusiastically moves her hand in a erratic manner to show her childish energy.
+
+$Name:
+@@#ProtagText;
+"I just got lucky."
+@@
+
+Despite downplaying her praise, the excited and awe struck $Redia ignores it and points out the obvious.
+
+$Redia:
+@@#ProtagText;
+"So what brought you over here? I saw you looking up at me eariler."
+@@
+--
+@@#choices;
+<<button [[Say you were wondering if you wanted a friend.|RediaIntroLoneTrue2]]>><</button>>
+<<button [[Why are you not looking for a friend?|RediaIntroLoneTrue1-1]]>><</button>>
+@@
+
+

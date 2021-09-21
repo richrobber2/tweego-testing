@@ -1,0 +1,28 @@
+:: Day03LoMartIntro'NanakoIntro'2'Serious'5fail {"position":"29410,4630","size":"100,100"}
+While his back is turned, you lean into him in an attempt to punch him in his chubby jaw and he somehow speeds up and his leg makes contact into your shoulder. The kick feels more like a whip that slammed into you and you can feel your breath escape as your body panics from the swift leg. 
+
+Fatass:
+@@#NPCText;
+"Surprised your still standing. Have another one!"
+@@
+
+He quickly plants both feet on the stage then brings his leg up again to kick you again. This time, you recall how if you brace your legs and bring up a arm you could blunt the next blow. 
+
+As he sends another leg your way you somehow block the kick that while still hurts, you notice you could retaliate. You look around and notice he is balancing on one leg and his chest is completely exposed.
+
+Fatass:
+@@#NPCText;
+"Not bad-"
+@@
+
+While he's still talking, you-
+<<set $FightEventHit1 to 1>>\
+--
+@@#choices;
+<<button [[Trip him.|BAD END 16: Planted]]
+>><</button>>
+<<button [[Knee him in the liver!|Day03LoMartIntro'NanakoIntro'2'Serious'7]]
+>><</button>>
+@@
+
+

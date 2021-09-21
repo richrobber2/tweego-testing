@@ -1,0 +1,33 @@
+:: SuikoDay03P2SuikoDrinkteastopFail1 {"position":"32210,1830","size":"100,100"}
+$Name:
+@@#ProtagText;
+"But, it did! You went out of your way with the limited resources you had to make me tea. It's the thought that counts."
+@@
+
+However, $Suiko doesnt take this as a good thing and responds with uncharacteristic anger.
+
+$Suiko:
+@@#SuikoText;
+"If that's the...Case then you wouldn't have told me it was bad! Things were not suppose to be like this and I failed!"
+@@
+<<set $SuikoDepression +=10>>\
+
+In a way, you can relate to that way of thinking. When you were her age you used to only see the negative of things. In this case, she did all this just for praise from you.
+
+$Name:
+@@#ProtagText;
+"Even if you think this was a failure, there will be another chance. With some practice I'm sure I'll be surprised by how much you improve by then!"
+@@
+
+But your rant falls on deaf ears as $Suiko seems annoyed and pitying herself. Probably best to see how she improves.
+
+...
+
+You wait in silence until things start to come down.
+--
+@@#choices;
+<<if $SuikoDay03P2Observe is 0>><<button [[Observe her.|SuikoDay03P2SuikoObserve]]>><</button>>
+<</if>>\
+@@
+
+

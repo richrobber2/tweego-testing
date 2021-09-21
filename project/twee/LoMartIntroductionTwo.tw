@@ -1,0 +1,34 @@
+:: LoMartIntroductionTwo {"position":"1130,2250","size":"100,100"}
+-And thus, you and $Arisa made it a routine to watch one hour of loli hentai every night before her bed time. Admittedly, as time went by you grew to enjoy having someone watch and gossip about all the anime you used to enjoy alone. Despite her young age, $Arisa seemed mature and even understanding about the shows and eventually started to prefer them over the cartoons rated for kids.
+
+The only downside is that as $Arisa grew up, you began to notice a potentially unhealthy personality change in her. $Arisa was more or just as clingy as she used to be when she was a toddler! She would now act like a spoiled princess and 'exist' within eyeshot of you. She would demand to be loved and have her time with you even when you made attempts to stop her. At least at night you can have your fap sessions.<<if $PastIntro is 0>> When $Arisa started 2nd grade, she quickly (and enviously) acquired two friends.<</if>><<if $PastIntro is 1>> Soon after your sister begun grade school, you often see her with her two friends you introducted to her.
+<</if>>\
+<<if $SuikoPastIntroLoveLone is 1>>\
+You sometimes see $Suiko with your sister at her school. while she seems to be friends with your sister, she often stares at you wearing a smile. She sometimes gestures her plush at you to say 'Hi'.
+<</if>>\
+<<if $SuikoPastIntroLove is 1>>\
+You sometimes get a glimpse at $Suiko as she hangs around your sister. you hope she is doing well under $Arisa's friendship. you have a sense of pride knowing you helped her and she still has her plush.
+<</if>>\
+<<if $Suiko$PastIntro is 1>>\
+You sometimes get a glimpse at $Suiko as she hangs around your sister. Your glad she seems to be a good friend of your sister.
+<</if>>\
+<<if $RediaPastIntroLove is 1>>\
+You sometimes see that sporty redhead $Redia with your sister. Despite the whole situation, she seems to enjoy her time with $Arisa .You wonder if she stills remember how you caught that baseball she threw(quite hard in retrospect.)
+<</if>>\
+<<if $RediaPastIntro is 1>>
+You often see $Redia; the tomboy girl around $Suiko. Looks like your sister was able to keep that redhead as a friend.
+<</if>>\
+<<if $ArisaPastIntro is 1>>\
+You sometimes wonder if you're caring for $Arisa right. While you try to, you also worry she might try to go out of her way to make you happy at the cost of her own happiness.
+<</if>>\
+<<if $ArisaPastIntroLove is 1>>\
+You sometimes remember how nice your sister really is. You can say you could grow fond of her spoiled tendencies.
+<</if>>\
+--
+@@#choices;
+<<button [[Next.|LoMartIntroductionTwo 1]]
+>><</button>>
+@@\
+<<set $DayCounter to 1>>\
+
+

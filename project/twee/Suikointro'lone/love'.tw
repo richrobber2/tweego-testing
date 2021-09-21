@@ -1,0 +1,46 @@
+:: Suikointro'lone/love' {"position":"290,4490","size":"100,100"}
+$Name:
+@@#ProtagText;
+"I wanted to make sure you were okay. How's your plush?"
+@@
+
+The girl's eyes seem to light up and after using her loose sleeves to hastily wipe her face, she smiles.
+
+Hooded girl:
+@@#SuikoText;
+"Thank you! I...Don't understand..but..hap.py."
+@@
+
+She looks down at her rabbit plush and brushes it off. Then, as if remembering about her plush, she holds it up to you and says.
+
+Hooded girl:
+@@#SuikoText;
+"Mr. Rabbit is safe now..He...Was scared he might have. Got torn.."
+@@
+
+She seems fond of her rabbit plush and thankful for saving 'him'. She messes with the slumped ears of the doll until looking back up to you and asks you a question.
+
+Hooded girl:
+@@#SuikoText;
+"$Suiko is...thankful.Please, how can...I..repay?"
+@@
+
+Maybe you can make her befriend your sister. You originally helped her because she was being bullied but perhaps making a friend would be the good for her. Looking through to the other bleacher, you point at your sister from the distance and tell the girl,
+
+$Name:
+@@#ProtagText;
+"Could you be a friend to my sister? She’s the blond girl on the bleachers over there. You don't have to but you look like you could use a friend."
+@@
+
+The girl chuckles softly and bows to you. Without saying anything, she runs away from you and heads toward your sister's location. Feeling like you did your good deed for the day, you put your hands in your pockets and walk out of the gym.
+...
+<<set $PastSuikoEvent to 1>>\
+<<set $SuikoPastIntro to 0>>\
+--
+@@#choices;
+<<button [[Head home.|DayOneIntro]]
+>><</button>>
+<<if $RediaIntroLock is 0>><<button [[Check on the other girl|RediaIntroLone]]>><</button>><</if>>
+@@
+
+

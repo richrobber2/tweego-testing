@@ -1,0 +1,39 @@
+:: Day03LoMartIntro'NanakoIntro'2'Serious'2 {"position":"29550,4350","size":"100,100"}
+Who does this guy think he is!? You can't let a idol you like or a child be assaulted like this and causes you to instintly raise your voice to this fatass.
+
+$Name:
+@@#ProtagText;
+"Hey asshole, leave the girl alone!"
+@@
+
+The fat, visably sweaty onlooker glares at you and begins to march towards you; cracking his knuckles.
+
+Sweaty Fatass:
+@@#NPCText;
+"What's 'brother' gonna do? I'll show you and everyone you're a coward, then little $Nanako will like me!"
+@@
+
+He stops for a second to grin at the now cowarding idol and you quickly position yourself between $Nanako and him; shoving the fatass away from you.
+
+$Name:
+@@#ProtagText;
+"You should leave!"
+@@
+
+While you say this you notice there is no security or support coming to help deescalate the situation.
+
+Fatass:
+@@#NPCText;
+"Don't you fucking-!"
+@@
+
+He then pulls a arm back and prepares to punch you.
+--
+@@#choices;
+<<button [[Take the punch.|Day03LoMartIntro'NanakoIntro'2'Serious'3hit1]]
+>><</button>>
+<<button [[Dodge.|Day03LoMartIntro'NanakoIntro'2'Serious'4]]
+>><</button>>
+@@
+
+

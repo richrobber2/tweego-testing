@@ -1,0 +1,29 @@
+:: Day03LoMartIntro'NanakoIntro'2'Serious'5 {"position":"29550,4630","size":"100,100"}
+Waiting for him to get close enough, you decide to enact your right to self defense; turning your heel and socking him in the jaw!
+ 
+While your fist seems to be cushioned from his engorged cheek, the momentum was enough to make the man stumble and nearly fall back. Noticing the grease of his sweat glossing your knuckles, you wipe them off on your polo shirt.
+
+You didn't expect that to really hurt him and as expected he gives you a dirty look while rubbing his oily face.
+
+Fatass:
+@@#NPCText;
+"So, it's a fight you want?!"
+@@
+
+Surprisingly, the fatass postures and starts to shadowbox; moving quite well despite his weight. The crowd eats this up and a feeliing of 'what the fuck did you get yourself into' hits you.
+
+3rd Degree Fatass:
+@@#NPCText;
+"I happen to be a member of ATF! I'll make quick work of your ass!"
+@@
+
+He then somehow spins on his toes and extends a leg to round house kick you. Thinking fast, you-
+--
+@@#choices;
+<<button [[Brace for impact.|Day03LoMartIntro'NanakoIntro'2'Serious'6]]
+>><</button>>
+<<button [[Punch him again!|Day03LoMartIntro'NanakoIntro'2'Serious'5fail]]
+>><</button>>
+@@
+
+

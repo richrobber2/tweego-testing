@@ -1,0 +1,60 @@
+:: SmokingSessionOneSchoolLife {"position":"1830,2530","size":"100,100"}
+You don't remember much about school, but you can recall a few choice events from your middle school days. Not always being a otaku piece of trash, attempt to visibly play out the days where you were a friendzoned stud to a handful of adolescent school girls.
+
+Before chivalry was announced dead you relived the story of a playboy. Before you were tainted by your fetish, your innocent and approachable personality made many hot young girls see you as a shoulder to cry on.
+
+Three that come to mind are:
+
+Amber, Lupita and Michael.
+--
+@@#choices;
+<<button "Think about Amber.">><<toggleclass "#Amberpast1" "hidden">><</button>><div id="Amberpast1" class="hidden">
+
+Amber was an ebony girl who failed to hit puberty before high school. Short but with a loud personality, she studied after school with you and was head of the school business club. Probably friends with you since kindergarden, she used to let you copy her notes in class and sometimes brought lunch for you when your parents forgot to feed you. Amber never seemed to have any friends despite always wearing attire that'd make even a Victorian era girl jealous. She loved and obsessed over gothic lolita fashion and you seemed like the only person who ever complimented her on it. Possibly adept at sewing, she would gossip to stone-faced girls on how each dress she wore was painstakingly sewn the week before.
+
+Amber was a proud girl and seemed to tolerate your company because you never denounced her hard work. In High School, you both went your separate ways and you never saw her again; Shame, you remember her as your first crush but was never able to tell her how you felt before $Arisa ruined your school life.
+<<set $RecalledAmber to 1>>\
+</div>
+@@\
+@@#choices;
+<<button "Think about Lupita.">><<toggleclass "#Lupitapast1" "hidden">><</button>><div id="Lupitapast1" class="hidden">
+
+Lupita was a big titted blonde who hung out with you despite being way out of your league. Tall and well endowed, she was one of the most popular girls in the 7th grade.
+
+Being popular, she always seemed to be orbited by extremely snobby harlots and/or fuckboys. The fact she ever talked to you at all was a fucking miracle!
+
+Back when you were susceptible to the busts of this Succubus, just being in her presence turned your trousers into a pitched tent.
+
+Lupita developed a stigma of being a nymph due to her mature body but immature to just plain dangerous amount of stupidity.
+
+While others seemed to exploit her ignorance, you attempted to complement her while playing a 'nice guy' approach whenever you could work up the balls to converse with the easily 9/10 babe.
+
+Through the short time you knew Lupita, you heard soon after knowing her that she became a fashion model.
+
+Never being able to properly say goodbye you can only assume that the best happened to her; although she just could've gotten pregnant.
+</div>
+@@\
+@@#choices;
+<<button "Think about Michael.">><<toggleclass "#Michaelpast1" "hidden">><</button>>
+<div id="Michaelpast1" class="hidden">
+
+Your 'Boy'Friend: Mike Hirtes.
+
+Much like Amber, You knew 'Mike' since elementary school but didn't get to truly know 'Him' until 8th grade. Hard to accept at first, you discovered your best friend for over six years was actually a female in disguise!
+
+When she came out as a girl, a whole new personality began to surface.
+
+	Michael went from this cocky and messy boy into a self entitled freedom fighter and hippy.
+
+	The once hyperactive boy who always watched cartoons and played video games with you became a radical hippy overnight; and you hated it as well as everyone who knew the old 'Mikey'.
+
+	The last thing you heard of your buddy was that he joined some extremist group and was never heard from again. You don't even know if he finished high school.
+</div>\
+@@\
+<<set $SmokingSessionOneSchoolLifetrue to 1>>\
+@@#choices;
+<<button [[Think about other things.|SmokingSessionOne 1]]
+>><</button>>
+@@
+
+

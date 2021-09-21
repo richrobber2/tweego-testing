@@ -1,0 +1,37 @@
+:: KarenIntroduction'didntsmoke'1 {"position":"16670,3370","size":"100,100"}
+$Name:
+@@#ProtagText;
+"You're trying to take those cigarettes. Weren’t you?"
+@@
+The girl looks away from you, but her mannerism seems to give away her motives. You cross your arms and look away from her while stealthily keeping an eye on the pack.
+
+It doesn't take long for her hand to appear in your vision; slowly inching towards her prize. The moment she makes a attempt to grab them, you forcibly pin her hand down on the bench and she jumps farther away from you.
+
+$Name:
+@@#ProtagText;
+"I was right! You're trying to steal my cigarettes!"
+@@
+
+You knock the cigarettes on the ground and step on them; pinning the now crushed box underneath your feet. After doing this, you look at the girl with a judgmental expression.
+
+
+$Name:
+@@#ProtagText;
+"You don't want those! They only make you a slave of habit."
+@@
+
+Noticing a possible contradiction and ammo for an excuse, the girl scuffs at you.
+
+Girl:
+@@#KarenText;
+"-Then why are you carrying them? I saw you take them out of your pocket!"
+@@
+--
+@@#choices;
+<<button [[Tell her because you're old enough to smoke and do what you want.|KarenIntroduction'didntsmoke'2]]
+>><</button>>
+<<button [[Explain your struggle to her.|KarenIntroduction'didntsmoke''1'2]]
+>><</button>>
+@@
+
+

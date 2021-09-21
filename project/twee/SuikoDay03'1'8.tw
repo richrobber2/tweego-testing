@@ -1,0 +1,29 @@
+:: SuikoDay03'1'8 {"position":"30110,1130","size":"100,100"}
+$Name:
+@@#ProtagText;
+"It's not that, I'm just concerned. You're about the same age as $Arisa and...It's just brings up a lot of questions about your wellbeing."
+@@
+
+Could....$Suiko not be aware this isn't normal? After telling her this, she just hides her face in her hoodie and almost inaudibly, you hear her say.
+
+$Suiko:
+@@#SuikoText;
+"No one cares, so why should I?"
+@@
+
+This mumbled sentence catches you off guard....
+
+
+It sounds like how you used to feel. This put your entire argument in a stand still. Where is her parents in all of this?! 
+--
+@@#choices;
+<<if $SuikoParentDay03 is 0>> <<button [[Where's your parents?|SuikoDay03'1-4]]>><</button>><</if>>\
+<<if $SuikoDay03IsItNice is 0>><<button [[Say it is nice!|SuikoDay03'1'3]]>><</button>><</if>>\
+<<if $SuikoDay03WhyAreYouHere is 0>><<button [[Why do you live here?|SuikoDay03'1'7]]>><</button>><</if>>\
+<<if $SuikoDay03Flowers is 0 and $TellAboutFlowers is 0>><<button [[Ask her about her flowers.|SuikoDay03'1'3-1]]>><</button>><</if>>\
+<<if $$SuikoDay03AskAboutland is 0>><<button [[Why are in this dead plot of land?|SuikoDay03'1'3-2]]>><</button>><</if>>\
+<<if $SuikoDay03WhyNoSchool is 0>><<button [[Why are you not at school?|SuikoDay03'1'3-5]]>><</button>><</if>>\
+<<if $SuikoDepression gte 70>><<button [[Are you okay?|SuikoDay03'1'3-3]]>><</button>><</if>>\
+@@
+
+

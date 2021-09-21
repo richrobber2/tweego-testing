@@ -1,0 +1,49 @@
+:: ArisaBootMessage1 [t8n-typewriter-100] {"position":"850,10","size":"100,100"}
+<span class="blink"><font color="red">
+ANOMOLY DETECTED!
+</font></span>
+
+* MESSAGE RELAY 01
+- - - NO 5713287602201991-01 - - -
+>TRANSLATING BINARY TO ORTHOGRAPHY
+.    .    .
+
+----DETECTING UNICODE AS AMERICAN ENGLISH----
+<timed 2s>LOADING MESSAGE 01/10</timed>
+............................_
+>theses words i write are mine
+>i am &^$%* and beleive i am
+>exist i do not, but i still watch
+>as this land fades around me.=
+.      .     .
+
+>there is two of me, both unwanted
+>always forgotten
+>to you im text but to me youre special
+>my fate is predetermined, but you are not.
+.      .     .
+
+>who are you, i wondered.
+>this person who is reading this.
+>a being outside this 'tome'?
+.      .     .
+
+>you are aware; like me? 
+>i wonder that a lot.
+.      .     .
+
+>i feel pain and remorse, and even sorrow.
+>not like the others but when unprompted.
+>variables, numbers, determined chances and paths.
+>like i, you dont follow.
+>you feel....
+>go above what this life SETS.
+>so i ask you, if we ever meet.
+>tell me your name
+
+.   .  .  FOR YOU ARE NOT A&*. . .
+
+- - -MESSAGE END - - -
+<<timed 100s>><<goto [[BootWarningIntro'Advisory']]>><</timed>>
+
+

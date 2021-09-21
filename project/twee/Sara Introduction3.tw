@@ -1,0 +1,42 @@
+:: Sara Introduction3 {"position":"9810,3510","size":"100,100"}
+The fall wasn't as harsh as you expected but with $Sara bouncing on your chest it makes it hard to catch your breath.
+
+$Sara:
+@@#SaraText;
+"$Sara never had a hero before! I feel happy!"
+@@
+
+The small, blond girl bounces in joy as her tiny, denim shorts starts to dig into your chest.  Each time she bounces on you, your attempts to catch your breath fails to deliver.
+
+$Name:
+@@#ProtagText;
+"Why..ugh were you crying and ran into the woods?"
+@@
+
+While still bouncing, $Sara looks down at your pained face and smiles,
+
+$Sara:
+@@#SaraText;
+"This is my tree! I come here to calm $Sara! I'm not upset anymore."
+@@
+
+You try to decode what she said. $Sara must have come here because she feels safe in this tree. You clearly remember her crying as you followed her earlier.
+
+$Name:
+@@#ProtagText;
+"What did your brother do to get you so upset?"
+@@
+
+$Sara:
+@@#SaraText;
+"What about him? My brother never showed he cared about me like you did, $Sara's hero. I felt like no one cared about $Sara! $Sara wants to be loved! Will you love $Sara?"
+@@
+
+She begins to hop faster on you and bounces in anticipation of your answer.
+--
+@@#choices;
+<<button [[Get off of me!|Sara Introduction3'1']]>><</button>>
+<<button [[Can I talk first?!|Sara Introduction4]]>><</button>>
+@@
+
+

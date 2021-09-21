@@ -1,0 +1,27 @@
+:: MidoriForest'Sara'west2 {"position":"6170,3090","size":"100,100"}
+<<set $lostcounter += 1>>\
+<<set $Fatigue += 10>>\
+<<if $lostcounter is 1>>\
+You turn left and enter a thicker part of the woods. As you progress, your clothes start to snag on thorn vines and thick spider webs blockade you from advancing further. You start to look around and find yourself in the middle of nowhere!
+
+...
+
+Not sure if it's going to get you more lost, you decide to:
+--
+@@#choices;
+<<button [[Try to go back.|MidoriForest'Sara'east2]]
+>><</button>>
+@@\
+<</if>>\
+<<if $lostcounter gt 1>>\
+As you progress, you feel as if you're only going deeper into the woods. To make things worse, the once sunny sky is cloudy and appears as if it might rain soon. Constantly being slowed down by spider webs and patches of mud suckle your shoes. You take a moment to attempt to get your baring back and decide to:
+--
+@@#choices;
+<<button [[Retrace your steps.|MidoriForest'Sara'north2]]
+>><</button>>
+<<button [[Try to head back.|MidoriForest'Sara'east2]]
+>><</button>>
+@@\
+<</if>>\
+
+

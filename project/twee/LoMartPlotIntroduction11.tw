@@ -1,0 +1,71 @@
+:: LoMartPlotIntroduction11 {"position":"14290,4770","size":"100,100"}
+While looking at the threating gun at the desk, you let the possible chance of employment ignore the threat and you put on an excited voice.
+
+$Name:
+@@#ProtagText;
+"Okay! I am just excited you gave me this opportunity, so ask me anything you need!"
+@@
+$Amber smiles in relief, but decides to picks up the revolver and playfully spins the cylinders.
+
+$Amber:
+@@#AmberText;
+"You won't steal from my store; will you?"
+@@
+
+Through the corner of your eyes, you notice that the gun is loaded. While you don't think you'd ever steal from a friend, the revolver threat is a bit much.
+
+Although the 'threat' is kind of shocking, you assure her,
+
+$Name:
+@@#ProtagText;
+"Don't worry $Amber. I need this job and won't risk jail time and losing a friendship over my own selfish desires."
+@@
+
+$Amber laughs and puts the revolver back inside her desk.
+
+$Amber:
+@@#AmberText;
+"Good answer, but you wouldn't go to jail; the others didn't."
+@@
+She starts to laugh evilly. Feeling uneasy, you decide to laugh as well.
+
+$Name:
+@@#ProtagText;
+"Ha-ha! Surprised you had to deal with such people!"
+@@
+
+$Amber laughs even harder,
+
+$Amber:
+@@#AmberText;
+"They sure were when I shot them!"
+@@
+
+You grow quiet while her laughter echoes around the room. You just thought she was playing around, but to say you basically kill shoplifters is quite a thing to say.
+
+Unsettlingly, she halts her laugh and clears her throat.
+
+$Amber:
+@@#AmberText;
+"Okay enough!"
+@@
+
+She looks over her paperwork and asks,
+
+$Amber:
+@@#AmberText;
+"So, your legal name is $Name 'Onii-chan' $LastName?"
+@@
+
+$Amber looks at you with a half-cocked smile.
+
+Yep, $Arisa defiantly 'helped' you with your application.
+--
+@@#choices;
+<<button [[Yes, that's my nickname.|LoMartPlotIntroduction12]]
+>><</button>>
+<<button [[That's not my middle name.|LoMartPlotIntroduction11'1']]
+>><</button>>
+@@
+
+

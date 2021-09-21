@@ -1,0 +1,61 @@
+:: RediaRouteOne 5 {"position":"3790,2810","size":"100,100"}
+<<set $RediaLove +=20>>\
+<<set $PlanToHelpDay01 to 0>>\
+<<set $GaveRediaHandheld to 1>>\
+<<set $introchoice1 to 0>>\
+$Name:
+@@#ProtagText;
+"If it's your off-time then I see no reason why you can't relax and play it!"
+@@
+You hand over your old game system to the confused red-head.
+
+$Name:
+@@#ProtagText;
+"Take it!"
+@@
+
+$Redia:
+@@#RediaText;
+"What!-...What are you doing? It's your old game Mr.$LastName."
+@@
+
+You reach out and pat $Redia on her bushy short hair; she begins to blush.
+
+$Name:
+@@#ProtagText;
+"You seemed to enjoy it! So why don't you have it? All I ask is that you take care of it."
+@@
+
+As you stop patting her head, $Redia looks down at the present you entrusted to her then stares at you with sparkling, blue eyes that are oozing with childhood amazement.
+
+$Redia:
+@@#RediaText;
+"This fun thing... are you okay with giving it to.. me?"
+@@
+
+You are amazed to find this sporty tomboy so flustered over receiving an old video game; must have made her take sports off her mind.
+
+To reassure $Redia, you say,
+
+$Name:
+@@#ProtagText;
+"I'll even give you the game cartridge so later we can have a battle to see who is the better 'Loli'Mon®' trainer."
+@@
+
+The red-headed girl looks back down at the pink hand-held and smiles; displaying a confident gesture and pointing at you,
+
+$Redia:
+@@#RediaText;
+"Ohh..OKAY! Challenge accepted!!"
+@@
+
+Without warning, She pulls the pointing finger back and donkey punches you in the shoulder. You yelp and rub your shoulder to nurse the pain.
+
+Damn! She can hit hard!
+--
+@@#choices;
+<<button [[Next.|RediaRouteOne 6]]
+>><</button>>
+@@
+
+

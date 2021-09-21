@@ -1,0 +1,15 @@
+:: Day03NoArisa1-1 {"position":"26890,3790","size":"100,100"}
+While you try to respect other's privacy, the strange notebook entices you with its counterproducive warning. You nonchalantly flip the notebook open and aimlessly scan through the papers.
+
+...
+
+While it seems like a journal of sort, you eventually stop flipping and find the last illastrated page marked with the date two days ago.
+
+Should you read it?
+--
+@@#choices;
+<<button [[Read this page.|Day03NoArisa1-3]]>><</button>>
+<<button [[Flip to another page.|Day03NoArisa2-1]]>><</button>>
+@@
+
+

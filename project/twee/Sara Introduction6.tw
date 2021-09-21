@@ -1,0 +1,51 @@
+:: Sara Introduction6 {"position":"9670,3930","size":"100,100"}
+<<set $RandyStats to 1>>\
+Backing away from $Sara's attempt to kiss you, you hear a boy's voice calling toward you. $Sara, not wanting to be rejected, grabs your polo shirt and licks your face.
+
+???:
+@@#RandyText;
+"What are you doing to my sister?!"
+@@
+
+Appearing from of the foliage, you see the blond haired boy from earlier grab a stick and run towards you. Whipping $Sara's saliva off your face you see the boy advancing toward you.
+
+$Sara, noticing her brother darting at you decides to turn around and extend her arms; defending you.
+
+$Sara:
+@@#SaraText;
+"Don't hurt $Sara's boyfriend!"
+@@
+
+Hearing this, the boy freezes in his tracks and drops his weapon.
+
+Boy:
+@@#RandyText;
+"Boyfriend?"
+@@
+
+The boy gives you a dirty look and then looks at his sister.
+
+Boy:
+@@#RandyText;
+"So...This old man is your boyfriend now?"
+@@
+
+$Sara grabs your hand and looks towards her brother; standing defiant with her chest sticking out.
+
+$Sara:
+@@#SaraText;
+"This is $Name!"
+@@
+
+Then, looking at you, she says,
+
+$Sara:
+@@#SaraText;
+"This is $Randy, my brother."
+@@
+--
+@@#choices;
+<<button [[Next.|Sara Introduction7]]>><</button>>
+@@
+
+

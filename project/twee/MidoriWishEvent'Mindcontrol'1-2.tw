@@ -1,0 +1,37 @@
+:: MidoriWishEvent'Mindcontrol'1-2 {"position":"8690,3230","size":"100,100"}
+You been waiting for a situation like this to happen since you're a child!
+
+Almost impulsively you say,
+
+$Name:
+@@#ProtagText;
+"I want to make a harem of pretty girls!"
+@@
+
+$Midori looks at you absolutely dumbfounded by your honesty and drive for this wish. Having read your mind, she must now understand why you want this wish!
+
+$Midori:
+@@#MidoriText;
+"You sure are a pervert! I can only think of how you're going to ruin your ‘fairly normal life’!"
+@@
+
+The tiny fairy snaps her fingers and a loud distortion rips through reality. Everything to the simplest flower pedal seemed to freeze for mere seconds before settling back to forward motion.
+
+<<set $MindControlPlot to 1>>\
+$Midori:
+@@#MidoriText;
+"This might be a fun project to observe have fun pedophile!
+@@
+
+Confused and still seeking answers you uselessly yell,
+
+$Name:
+@@#ProtagText;
+"Wait! I'm look for-!"
+@@
+--
+@@#choices;
+<<button [[Next.|MidoriTeleport1]]>><</button>>
+@@
+
+

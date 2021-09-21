@@ -1,0 +1,60 @@
+:: Sara Introduction11 {"position":"9670,4770","size":"100,100"}
+<<set $SaraLove +=20>>\
+Thinking of ways you could see her again, you smile at her and give her a thumbs up.
+
+$Name:
+@@#ProtagText;
+"I promise!"
+@@
+$Sara stares at you with a hint of doubt. You decide to add something to back up your promise.
+
+$Name:
+@@#ProtagText;
+"Meet me at the park bench tomorrow around this time! I'll treat you to ice cream and we can get to know each other!"
+@@
+
+Upon hearing this, $Sara jumps in joy.
+
+$Sara:
+@@#SaraText;
+"A date with $Sara's boyfriend?!"
+@@
+
+$Randy; hearing what you just said, crosses his arms and giving you a puzzled look.
+
+$Randy:
+@@#RandyText;
+"Wow, you sure don't waste any time. I can only assume I can get ice cream as well?"
+@@
+
+$Name:
+@@#ProtagText;
+"Of course! So if we see each other again we can get some ice-cream and get to know each other! Let that be my incentive to so you guys again!"
+@@
+
+$Sara:
+@@#SaraText;
+"Yay! I can see Sara's boyfriend and get ice cream tomorrow!"
+@@
+
+$Sara quickly dives into your chest and embraces you.
+
+$Sara:
+@@#SaraText;
+"Have a good day, $Name!"
+@@
+
+With that, she lets go of you and you watch as $Randy escorts her out of the forest.
+
+...
+
+You wait for them to leave and decide to follow the same route until you somehow reappear outside the entrance of Midori Forest.
+
+Although you don't understand how you're five or so feet away from the path you first entered, you decide not to bother with it and decide to stop wasting time.
+--
+@@#choices;
+<<button [[Walk to Midori Elementary.|MidoriSchool1]]
+>><</button>>
+@@
+
+

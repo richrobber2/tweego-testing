@@ -1,0 +1,27 @@
+:: ArisaEvent3'Pre-Intro''1' {"position":"20170,3370","size":"100,100"}
+<<set $ArisaLove -=20>>\
+$Name:
+@@#ProtagText;
+"$Arisa! Why is your room a mess! You’re even still in yo-."
+@@
+$Arisa:
+@@#ArisaText;
+"Onii-chan?!"
+@@
+Your sister throws the laptop aside and covers herself up in a thin, pink blanket.
+
+$Arisa:
+@@#ArisaText;
+"Oh! How was your day?! Anything...Bad happen?"
+@@
+__
+@@#choices;
+<<button [[Thank her for her help!|ArisaEvent3'Pre-Intro'2]]
+>><</button>>
+<<button [[How could you say that about me!|ArisaEvent3'Pre-Intro'1-'1']]
+>><</button>>
+<<button [[I have 'good' news!|ArisaEvent3'Pre-Intro'2-'1']]
+>><</button>>
+@@
+
+

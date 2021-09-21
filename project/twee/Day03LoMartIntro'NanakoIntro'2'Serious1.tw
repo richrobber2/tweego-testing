@@ -1,0 +1,33 @@
+:: Day03LoMartIntro'NanakoIntro'2'Serious1 {"position":"29550,4210","size":"100,100"}
+The moment you're released you try to scamper off the stage until someone's loud outcry stops you in your tracks.
+
+Onlooker:
+@@#NPCText;
+"Hey, why does this asshole get a kiss!?"
+@@
+
+You face the direction of the voice to see the obese onlooker from before climbing on the stage and grabs $Nanako by her shoulders.
+
+Fat Onlooker:
+@@#NPCText;
+"Give me a kiss as well, arn't I your brother?!"
+@@
+
+$Nanako's eyes widen as she fruitlessly tries to escape the grasp of the sweaty behemoth.
+
+$Nanako:
+@@#NanakoText;
+"Let me go! Help, help!"
+@@
+
+Oddly enough, her cries go unheard as the crowd possibly thinks it's a act.  You could use this chance to escape the spotlight but something is telling you need to help her; mind you this fat ass is nearly double your size.
+<<set $FightEventHit1 to 0>>\
+--
+@@#choices;
+<<button [[Continue To Walk off.|BAD END 17: The Fucking Coward!]]
+>><</button>>
+<<button [[Push Him Off Of her.|Day03LoMartIntro'NanakoIntro'2'Serious'2]]
+>><</button>>
+@@
+
+

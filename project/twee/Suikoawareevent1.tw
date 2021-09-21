@@ -1,0 +1,128 @@
+:: Suikoawareevent1 {"position":"4210,3230","size":"100,100"}
+$Arisa buries her head into your chest and starts wailing in sadness.
+
+$Arisa:
+@@#ArisaText;
+"I..dont..forget...No...no..."
+@@
+
+$Name:
+@@#ProtagText;
+"What is wrong $Arisa? You're worrying your Onii-Chan."
+@@
+
+All $Arisa is doing is constantly muddering the same thing she said earlier. Trying to understand, you give her some surety,
+
+$Name:
+@@#ProtagText;
+"$Arisa, I love you very much. You are my Imouto and I would be a mess without you. I might get annoyed by you, but I love my sister very much."
+@@\
+<<set $ArisaLove to 200>>\
+
+$Arisa spends the next hour crying on your chest and once she calms down you carry her to her bed and decide to relax in your room to think about today's events.
+--
+@@#choices;
+Notable Events:
+@@\
+@@#ArisaText;
+ $Arisa Review:
+@@\
+<<if $ArisaLove is 150 and $ArisaPastIntro is 1>>
+@@#ArisaText;
+$Arisa is a good child after all! Not only does she seem to remember her wish long ago, she still has her friends and actively tries to help them. Maybe your Imouto isn't so bad!
+<</if>>\
+<<if $ArisaLove is 150 and $ArisaPastIntro is 0>>
+@@#ArisaText;
+$Arisa seems a lot more happy recently. While you felt like she used you, you can't argue she means well. You can say you're almost proud of her.
+@@\
+<</if>>\
+<<if $ArisaLove is 130>>
+@@#ArisaText;
+$Arisa seems really happy about how the day went! You guess your Imouto cares for you greatly!
+@@\
+<</if>>\
+<<if $ArisaLove lte 120 and $ArisaLove gte 100>>
+@@#ArisaText;
+$Arisa  wasn't that bad today besides the fact she brought her friends over without your consent kind of annoyed you. You hope she gets better.
+@@\
+<</if>>\
+<<if $ArisaLove is 80 or $ArisaLove is 70>>
+@@#ArisaText;
+$Arisa seems really happy about how the day went! You guess your Imouto cares for you greatly!
+@@\
+<</if>>\
+<<if $ArisaLove lte 60>>
+@@#ArisaText;
+Your sister can be annoying at times, hoping it's only a phase, you decide to let her actions slide.(if only to prevent a tantrum).
+@@\
+<</if>>\
+@@#RediaText;
+$Redia Review:
+@@
+<<if $GaveRediaHandheld is 1 and $RediaLove is 100>>
+@@#RediaText;
+$Redia seemed really excited about the game hand held you gave her, A part of you hopes she doesn't get too engrossed with it.
+@@\
+<</if>>\
+<<if $RediaLove lt 100 and $GaveRediaHandheld is 1>>
+@@#RediaText;
+$Redia is a cute little tomboy! You have a thing for girls like her and giving her your childhood game console seemed to make her day great! You wonder about her __baseball team__...
+@@\
+<</if>>\
+<<if $RediaLove lte 80 and $GaveRediaHandheld is 0>>
+@@#RediaText;
+$Redia seems like a hassle to deal with! In a way you kinda miss your hand held.
+@@\
+<</if>>\
+<<if $SuikoLove gt 1>>
+@@#SuikoText;
+$Suiko Review:
+@@\
+<</if>>\
+<<if $SuikoErased is 1 and $SuikoPastIntro is 1>>
+@@#SuikoText;
+It seems odd but you seem to recall your sister having a friend with a rabbit plush. Might be your imagination.
+@@\
+<</if>>\
+<<if $SuikoLove lte 70 and $SuikoLove isnot 0>>
+@@#SuikoText;
+You wonder about the hooded girl you saw earlier. $Suiko? Yeah, that was her name. What a cute girl!
+@@\
+<</if>>\
+<<if $SuikoLove gt 70 and $SuikoLove lt 100>>
+@@#SuikoText;
+That hooded girl with the bunny was really cute! She's kind of mysterious and charming. Perhaps she isn't such a bad influence.
+@@\
+<</if>>\
+<<if $SuikoLove is 100 and $SuikoPastIntro is 1>>
+@@#SuikoText;
+You hope to see $Suiko again! She was a really adorable little girl and you feel a little worried about her wellbeing. You're glad you fixed Mr.Rabbit; It made her really happy!
+@@\
+<</if>>\
+<<if $SuikoLove is 100 and $SuikoPastIntro is 0>>
+@@#SuikoText;
+You hope to see $Suiko again! She was a really adorable little girl and you feel a little worried about her wellbeing.
+@@\
+<</if>>\
+<<if $SuikoLove is 0>>
+@@#SuikoText;
+You think you recall seeing a hooded girl today but you can't seem to remember her.....odd.
+@@\
+<</if>>\
+<<if $SuikoAware is 1>>\
+<font color="#79638c">
+"Thank you."
+</font>\
+<</if>>\
+--
+@@#choices;
+<<button [[Go to bed.|PlotIntroduction1]]
+>><</button>>
+<<if $SuikoErased is 1>><<button [[Something is bugging you.|NightmareSuiko]]
+>><</button>>
+@@\
+<</if>>\
+<<set $Libido /=2>>\
+<<set $Fatigue /=2>>\
+
+

@@ -1,0 +1,25 @@
+:: ArisaChaseEvent2-1'fail' {"position":"20870,5050","size":"100,100"}
+Okay, this is getting gross!
+
+Noticing you can just walk away, you decide to deflect her advances and turn away.
+
+$Arisa:
+@@#ArisaText;
+"Wait! I'm in the mood~"
+@@
+
+Ignoring her sexual motives, you yell at her to get dressed and prepare dinner.
+
+$Arisa:
+@@#ArisaText;
+"Boohoo~ Later Onii-Chan!"
+@@
+
+And you walk back into your room, you slam your door and think about how fucked up your sister is.
+--
+@@#choices;
+<<button [[Next|PreDAY02End]]
+>><</button>>
+@@
+
+

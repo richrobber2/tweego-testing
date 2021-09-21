@@ -1,0 +1,61 @@
+:: Get upset! {"position":"12050,3370","size":"100,100"}
+<<set $ATFCard to 1>>\
+<<set $MidoriSEvent1 to 1>>\
+What an asshole!
+
+Upset, you slam your hands on his desk; He gives you a dirty look.
+
+$Name:
+@@#ProtagText;
+"Listen her you piece of shit! I came here to tell you my sister is going to be absent! How about you have some respect when you talk to a 'parent' of a child at your school!"
+@@
+
+Principal Iratu stands up (a good two feet taller than you) and peers down at you.
+
+Iratu:
+@@#NPCText;
+"Oh~ what a firecracker you are!"
+@@
+
+As if not caring, Iratu shoves his desk as if it was nothing and walks up to you. You admit you're scared by the feat yet you stand unmoved by the display of power.
+
+$Name:
+@@#ProtagText;
+"Get out of my face or-!"
+@@
+The fruitless threat doesn't faze him.
+
+He bends down to your height and smiles,
+
+Iratu:
+@@#NPCText;
+"I like you kiddo. No one ever had the balls to stand up to me."
+@@
+
+He reaches for a card that was tossed to the floor and stuffs it into your breast pocket.
+
+Iratu:
+@@#NPCText;
+"If you ever need anything, call that number."
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+He looks over at the mess he made and laughs.
+
+Iratu:
+@@#NPCText;
+"I need to clean up. Why don't you fuck off while I'm in a good mood!
+@@
+
+You slowly exit the office and he slams the door behind you.
+--
+@@#choices;
+<<if $SawRedia1 is 0>><<button [[Look around the school yard.|MidoriSchool3'1']]>><</button>><</if>>
+<<button [[Look for LO-Mart.|LoMartPlotIntroduction]]
+>><</button>>
+@@
+
+

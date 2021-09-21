@@ -1,0 +1,29 @@
+:: LoMartPlotIntroduction15 {"position":"14290,5330","size":"100,100"}
+<<set $PayRaise1 to 0>>\
+$Amber:
+@@#AmberText;
+"Sorry if that question was weird. I just want a employee that will treat the kids that come here kindly. As of now, I am the only one working during the day. All my other employees refuse to work or interact with the kids.
+
+With LO-Mart being so close to Midori Elementary I find myself swamped by the amount of traffic that comes here. While you said you like kids, I want to know if you can be there to handle __ALL__ the customers we get. Seems like my other employees find the kids annoying or a hassle. "
+@@
+$Amber then smiles and adds,
+
+$Amber:
+@@#AmberText;
+"-But, I have faith in you $Name! HEHEHE~ you have a sister so you can handle kids, you like kids so they shouldn't bug you and you showed me you're honest and showed a lot of determination to work here. Hell, you even came to the store just when I read your resume!
+
+What I want to ask is; will you help everyone equally, be everyone's 'Onii-Chan' and work your ass off to make LO-Mart great?"
+@@
+
+She seems to have a lot of passion in what she said. $Amber's eyes are moistening and her voice cracks. She sees you as the only hope to save her store.
+--
+@@#choices;
+<<button [[Sure! I will do my best!|LoMartPlotIntroduction16]]
+>><</button>>
+<<button [[Decline the job.|Bad End 13: Nope.jpg]]
+>><</button>>
+<<button [[Ask about this job.|LoMartPlotIntroduction16'1']]
+>><</button>>
+@@
+
+

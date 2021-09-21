@@ -1,0 +1,45 @@
+:: MidoriLoveEventSuikoLoveCheck {"position":"9110,4070","size":"100,100"}
+You blurt out,
+
+$Name:
+@@#ProtagText;
+"$Suiko was my first kiss!"
+@@
+
+$Midori looks at you for a second then looks through her memories to see if the statement is true.
+
+<<if $SuikoLove is 100>>\
+$Midori:
+@@#MidoriText;
+"Well, I guess so if you want to split hairs! I'll take it."
+@@
+<</if>>\
+<<set $MidoriLove +=20>>\
+<<if $Suikolove lt 100>>
+$Midori:
+@@#MidoriText;
+"Are you sure? I thought it was your sister of all things!"
+@@
+<</if>>\
+
+There is an awkward silence as Midori thinks of another quiz question.
+
+$Midori:
+@@#MidoriText;
+"Okay, who loves you more?"
+@@
+--
+@@#choices;
+<<if $ArisaLove gt 100>>
+<<button [[My sister does!|MidoriLoveEvent1-D]]>><</button>>
+<</if>>\
+<<if $SuikoLove is 100 and $SuikoErased is 0>>
+<<button [[The hooded girl does!|MidoriLoveEvent1-E]]>><</button>>
+<</if>>\
+<<if $RediaLove is 100>>
+<<button [[The sporty girl does!|MidoriLoveEvent1-F]]>><</button>>
+<</if>>
+<<button [[No one loves me!|MidoriLoveEvent1-G]]>><</button>>
+@@
+
+

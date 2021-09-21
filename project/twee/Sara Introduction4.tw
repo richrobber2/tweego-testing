@@ -1,0 +1,44 @@
+:: Sara Introduction4 {"position":"9810,3650","size":"100,100"}
+<<set $SaraLove +=60>>\
+$Name:
+@@#ProtagText;
+"Can I talk first? You don't even know my name!"
+@@
+
+As if she realized this, $Sara delivers one last hip bounce and jumps off of you.
+
+$Sara:
+@@#SaraText;
+"Sorry~ $Sara got happy, please, what's your name? Tell me, tell me!"
+@@
+
+You stand back up to your feet, brush the loose dirt off and look at $Sara. She is looking at you with anticipation. Her eyes widen as she stares at 'her hero'.
+
+It makes you feel a bit uncomfortable.
+
+$Name:
+@@#ProtagText;
+"My name is $Name. Um, I just wanted to make sure you were okay. I'm not a hero, but-"
+@@
+
+$Sara jumps closer to you and brings her arms in.
+
+$Sara:
+@@#SaraText;
+"$Name! $Name cared to see if $Sara was okay! $Name is hero to $Sara!"
+@@
+
+She might be saying the wrong word. While you do care about all cute girls, to say you're a hero is a huge misrepresentation.
+
+$Name:
+@@#ProtagText;
+"I'm flattered you think so highly of me but-"
+@@
+
+You stop when you notice that the little girl is looking up towards you, face glowing red and twitting her thumbs. Her eyes sparkle at the 'hero' before her.
+--
+@@#choices;
+<<button [[How about we just be friends.|Sara Introduction5]]>><</button>>
+@@
+
+

@@ -1,0 +1,6 @@
+:: Day03DQKarenTellAmber {"position":"33750,3930","size":"100,100"}
+<<set $KarenTellAmber to 1>>\
+Despite wanting to avoid a conflict, you're job is more  important.<<if $Smoking is 1>>Despite being a smoker yourself, you find it worrysome she'd go to such lenghs to smoke...It makes you question your smoking habits. Having to deal with the same problem now, it seems to be the best course of action to get her on the right track. Before that, you should probably debate about reporting her, she is a kid after all.<</if>><<if $Smoking is 0>>You're more worried about her wellbeing then anything, and decide to question if you should try to help her; but as of now doing on the clock could get you in trouble. You decide to wait a while to report her<</if>>
+--
+
+

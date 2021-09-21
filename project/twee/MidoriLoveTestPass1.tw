@@ -1,0 +1,48 @@
+:: MidoriLoveTestPass1 {"position":"8270,4350","size":"100,100"}
+You decide to be honest with yourself. While $Arisa, $Redia and $Suiko are cute girls, you're sure they don't really like you in that way.
+
+$Name:
+@@#ProtagText;
+"Because I-..Never had a girlfriend and thought it would be nice."
+@@
+
+You nervously itch the back of your head and hide your face from the floating fairy loli.
+
+$Name:
+@@#ProtagText;
+"I'm Sorry, I'll leave now."
+@@
+
+You dust yourself off and walk away from $Midori until she jets in front of you and hovers by your face.
+
+$Midori:
+@@#MidoriText;
+"You're honest. I can respect that because I never had a boyfriend."
+@@
+
+@@#NPCText;
+WUT!
+@@
+
+$Midori covers her face with her tiny palms and giggles.
+
+$Midori:
+@@#MidoriText;
+"I mean, you're my father since you dropped me into this pond but..."
+@@
+
+$Midori jumps onto your skull and nuzzles your hair. You panic for a second until you find it to be the fairy.
+
+$Midori:
+@@#MidoriText;
+"Say it~"
+@@
+
+-The forest fairy whispered into your ear.
+--
+@@#choices;
+<<button [[I wish for you to be my girlfriend!|MidoriLoveChoice]]>><</button>>
+<<button [[I can't say it!|MidoriLoveChoicefail]]>><</button>>
+@@
+
+

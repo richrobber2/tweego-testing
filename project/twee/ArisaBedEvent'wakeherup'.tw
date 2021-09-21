@@ -1,0 +1,50 @@
+:: ArisaBedEvent'wakeherup' {"position":"21570,3790","size":"100,100"}
+Seeing $Arisa slumbering on your bedpost, You carefully bend down and look at her relaxed smile.
+
+$Arisa:
+@@#ArisaText;
+"$Name...Are-..?"
+@@
+
+You smile as your sister's sleep-talk; while you caught her doing this before you always find it interesting. As you gingerly pick up your sister, her dead weight and light snoring makes you smile.
+
+
+$Arisa:
+@@#ArisaText;
+"Onii-chan..."
+@@
+
+Not wanting to alarm $Arisa, you childishly poke her cheek in an attempt to wake her up.
+
+Poke. Poke. Poke.
+
+...
+
+$Arisa:
+@@#ArisaText;
+"..Ummm...Onii-chan..."
+@@
+
+Your sister yawns then looks up at you; possibly half-awake.
+
+$Name:
+@@#ProtagText;
+"You fell asleep. How about you go back to your room and I'll get dinner ready."
+@@
+
+$Arisa gets up and rubs the sleep out of her eyes and stumbles quietly out of your room. When she gets to your doorway, she turns around to say,
+
+
+$Arisa:
+@@#ArisaText;
+"Thanks for spending time with me..."
+@@
+
+And with that, she quitely shuts the door; leaving you alone in your room.
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

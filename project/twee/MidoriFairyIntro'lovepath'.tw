@@ -1,0 +1,55 @@
+:: MidoriFairyIntro'lovepath' {"position":"7430,3090","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Do you feel okay? You were underwater for a while!"
+@@
+
+<<set $MidoriLove +=20>>\
+
+The petite floating ball of cuteness giggles; flattered then sighs.
+
+$Midori:
+@@#MidoriText;
+"You know I can read your mind! I'm flattered, really!"
+@@
+
+Then, noticing her posture slag, she proudly stands and announces to you:
+
+$Midori:
+@@#MidoriText;
+"Although you're a creep and should be hung, I admire your personality so far; might night screw you over~"
+@@
+
+You look at the fairy child confused and alarmed by her last sentence. $Midori sees your shocked expression
+
+She smiles.
+
+$Midori:
+@@#MidoriText;
+"It's not like that, Silly human~. Being thankful for hatching me, I will grant you one wish~"
+@@
+
+The all-powerful fairy places her hands on her hips and gives you a peace gesture.
+
+Then, it hits you;
+
+A Wish!
+
+Would can you wish for? She appears to be the real deal but this could also be some odd catch twenty-two!
+
+$Midori:
+@@#MidoriText;
+"No trick $Name, I won't be naughty bad fairy girl~"
+@@
+
+You're confused until you remember she can read minds.
+
+Shit, better take caution!
+--
+@@#choices;
+<<button [[Wish for someone to love you!|MidoriWishEvent'loveselection']]>><</button>>
+<<button [[Wish for power.|MidoriWishEvent'Mindcontrol']]>><</button>>
+<<button [[Think about your wish...|MidoriWishEvent'choice']]>><</button>>
+@@
+
+

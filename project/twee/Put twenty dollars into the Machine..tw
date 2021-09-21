@@ -1,0 +1,18 @@
+:: Put twenty dollars into the Machine. {"position":"14570,3370","size":"100,100"}
+<<set $Money -=20>>\
+<<set $VMachineEvent1 to 1>>\
+You open your wallet and slide a crisp 20.00 bill into the machine. Surprisingly, the machine plays a recorded message:
+@@#NPCText;
+	"Merumeru MII~ Press the mystery button to scan your luck!"
+@@
+
+@@#EffectText;
+Wut?
+@@
+--
+@@#choices;
+<<button [[Press button to receive prize!|Press button to receive prize]]
+>><</button>>
+@@
+
+

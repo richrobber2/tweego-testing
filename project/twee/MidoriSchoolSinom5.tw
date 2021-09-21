@@ -1,0 +1,34 @@
+:: MidoriSchoolSinom5 {"position":"12330,3790","size":"100,100"}
+<<set $LilithLove +=100>>\
+$Name:
+@@#ProtagText;
+"Sure Sinom, I will give her a chance..."
+@@
+Both delighted, Sinom releases his grasp then $Lilith takes his spot.
+
+$Lilith:
+@@#LilithText;
+"Dost thou verily mean it..? I would beest joyous to train thee to beest the best husband!"
+@@
+
+She leans her mouth over your ear and whispers softly,
+
+$Lilith:
+@@#LilithText;
+"Thank you, loyal pervert!"
+@@
+
+Sinom:
+@@#NPCText;
+"I assume you wanted the day off, my dearest buttercup? Go ahead!"
+@@
+
+$Lilith lets you go, bows to her father and heads towards the exit.
+
+What a character...
+--
+@@#choices;
+<<button [[Tell him about your sister's absence.|MidoriSchoolSinom6]]>><</button>>
+@@
+
+

@@ -1,0 +1,66 @@
+:: Arisaintrochoice3 {"position":"4210,2950","size":"100,100"}
+<<set $introchoice1 is 1>>\
+<<set $PlanToHelpDay01 to 1>>\
+<<if $SuikoLove lte 75 and $SuikoLove isnot 0>>\
+$Name:
+@@#ProtagText;
+"Hey $Arisa, wasn't there a hooded girl with you?"
+@@
+
+Your sister just stares at you and says nothing. You wonder if they got into a fight or something.
+<</if>>\
+<<if $SuikoLove is 0>>
+You were about to bring up something about a hooded girl but as you think about it, $Arisa only had $Redia over.
+
+$Name:
+@@#ProtagText;
+"Hey $Arisa, who was the other other girl you had over?"
+@@
+
+Your sister gives you a blank stare and cocks her head.
+
+$Arisa:
+@@#ArisaText;
+"Silly Onii-Chan! I only had $Redia over."
+@@
+
+What?
+
+As you think more about it, you assume it was just you seeing things.
+<</if>>\
+<<if $SuikoLove lt 100 and $SuikoLove gte 80>>
+$Name:
+@@#ProtagText;
+"What about $Suiko? She seemed really nice. did you-"
+@@
+
+Before you can finish your sentence, $Arisa cuts you off.
+
+$Arisa:
+@@#ArisaText;
+"-$Suiko is a child! I'm glad she left!"
+@@
+
+Harsh! I guess they did get in some fight. I might need to ask $Redia about what happened.
+<</if>>\
+<<if $SuikoEvent1Complete is 1 or $SuikoLove is 100>>
+$Name:
+@@#ProtagText;
+"What about $Suiko! I was able to help her out too! I was able to make her really happy. I am gla-"
+@@\
+
+You stop talking when you notice $Arisa giving you an annoyed look.
+
+$Arisa:
+@@#ArisaText;
+"Shut up!"
+@@
+<</if>>\
+--
+@@#choices;
+<<if $SuikoEvent1Complete is 1>>\
+<<button [[What is your Problem?!]]>><</button>><</if>>
+<<button [[Ask her more questions.|RediaRouteOne 6]]>><</button>>
+@@
+
+

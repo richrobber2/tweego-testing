@@ -1,0 +1,31 @@
+:: ArisaEvent3'OppaiRoute1'1 {"position":"20450,3510","size":"100,100"}
+What a show! If she was trying to fool you then why did she ask for a bra? Last you checked she was flat as a board!
+
+You can't help but point and laugh at her.
+
+$Name:
+@@#ProtagText;
+"Stop stuffing your bra and make dinner!"
+@@
+
+Your sister looks down and pouts. As she is crestfallen, a t-shirt falls out of her overalls and mockingly fails in front of her.
+
+There is a silence as you both stare at each other.
+
+$Arisa:
+@@#ArisaText;
+"I...Fucked this all up."
+@@
+
+You start chuckling as your flush red sister retrieves her shirt and slams your door.
+
+...
+
+Might as well rest for a bit.
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

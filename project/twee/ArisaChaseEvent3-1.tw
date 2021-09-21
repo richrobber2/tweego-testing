@@ -1,0 +1,28 @@
+:: ArisaChaseEvent3-1 {"position":"21430,4910","size":"100,100"}
+Next to her room, you notice the bath room door swing open and you hear her crawl into the bath tub.
+
+You wait for a moment to storm and slide the shower curtains over.
+
+@@#NPCText;
+OH SHIT!
+@@
+
+
+You find yourself stuck between the shower rods and your sister posing like a cat.
+
+$Arisa:
+@@#ArisaText;
+"Meow~ you found me!"
+@@
+
+
+The shower curtains drape over her nude body as your perverse sister rolls around the fabric like a cat in heat.
+--
+@@#choices;
+<<button [[Bail!|ArisaChaseEvent3-1'fail']]
+>><</button>>
+<<button [[Carry her back to her room.|ArisaChaseEvent5-1]]
+>><</button>>
+@@
+
+

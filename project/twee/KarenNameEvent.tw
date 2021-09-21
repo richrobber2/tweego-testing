@@ -1,0 +1,12 @@
+:: KarenNameEvent {"position":"710,430","size":"100,100"}
+$Karen:
+@@#KarenText;
+"Tsk, what a fucking loser."
+@@
+--
+@@#choices;
+<<button [[Back|setup]] 
+>><</button>>
+@@
+
+

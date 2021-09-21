@@ -1,0 +1,22 @@
+:: MidoriWishEvent'CashWish' {"position":"7850,3510","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Um...Can I get some cash?"
+@@
+
+$Midori gives you an unhedged smile and childish hums,
+
+$Midori:
+@@#MidoriText;
+"Humans are al-ways like this! I don't like-BAN Humans like your-retarded self!! I can't wish that but I'll give you some 'luck'."
+@@
+
+She seems to stop there and gives you time to decide for a wish for 'luck'; in air-quotes.
+
+Should you though? It seems sketchy that she put some effort on the word.
+--
+@@#choices;
+<<button [[Wish for luck.|BAD END 10: Lucky]]>><</button>>
+@@
+
+

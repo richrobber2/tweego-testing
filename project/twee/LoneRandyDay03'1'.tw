@@ -1,0 +1,30 @@
+:: LoneRandyDay03'1' {"position":"28850,3790","size":"100,100"}
+After thinking about it, you cave in and decide to nonchalantly advance to him. Once your becide him, $Randy turns his head and smiles; surprised by your presence.
+
+$Randy:
+@@#RandyText;
+"Yo, how have you been, old man?"
+@@
+
+Oh yeah, you never told $Randy your name; don't want to be reminded of your 'old' age each time he acknowledges you.
+
+$Name:
+@@#ProtagText;
+"Name's $Name, where you heading? to Midori Elementary?"
+@@
+
+$Randy looks up at you and appears to blush from his answer,
+
+$Randy:
+@@#RandyText;
+"Um, no actually..."
+@@
+
+He then looks to the sidewalk and starts to walk faster; as  if trying to run away from you.
+--
+@@#choices;
+<<button [[Let him walk off.|LoneRandyDay03'fail']]>><</button>>
+<<button [[Press him.|LoneRandyDay03'2']]>><</button>>
+@@
+
+

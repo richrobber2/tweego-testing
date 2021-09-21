@@ -1,0 +1,37 @@
+:: RediaEvent2'2' {"position":"13030,3510","size":"100,100"}
+<<set $RediaLove +=40>>\
+Sure, why not? At worst you look like a idiot in front of some twerps.
+
+You raise a arm toward the sun and dramatically point it at $Redia.
+
+$Name:
+@@#ProtagText;
+"Okay Hellcat! I, 'The Great $LastName of Legends' shall smite you!"
+@@
+She sees you were mocking her and smiles,
+
+$Redia:
+@@#RediaText;
+"$LastName of Legends? Bahaha~! 'The Newman Hellcat' has never lost a race! Line up at home plate and we'll see who is better!"
+@@
+
+You both walk dramatically toward home plate then stand parallel to each other.
+
+$Name:
+@@#ProtagText;
+"So, the first to run eight laps wins?"
+@@
+
+She nods and gives you a smile.
+
+$Redia:
+@@#RediaText;
+"On my mark! Three! Two! And One!"
+@@
+--
+@@#choices;
+<<button [[GO!|RediaEvent2'3']]
+>><</button>>
+@@
+
+

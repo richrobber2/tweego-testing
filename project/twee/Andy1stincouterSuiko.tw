@@ -1,0 +1,39 @@
+:: Andy1stincouterSuiko {"position":"30670,2250","size":"100,100"}
+Thinking about this odd situation, you lower your gaurd and think about how me might know $Suiko. If this guy knows her then this might be a 'good' thing.
+
+Putting your arms down, you ask.
+
+$Name:
+@@#ProtagText;
+"Enough games. Can you just tell me how you know $Suiko?"
+@@
+
+Seeing your now inoffensive demeanor, The man folds his arms and backs up slowly.
+
+???:
+@@#choices;
+"$Suiko is that girl you left alone. Hey, better to ignore the problems of a homeless child then help."
+@@
+
+This army hat wearing, grey polo shirt wearing asshole gives you a judgemental look as if mocking you.
+
+This guy knows more then you might ever know....So why is he hiding here?
+
+$Name:
+@@#ProtagText;
+"Can I ask you something then?"
+@@
+
+The older male loosens his arm and smiles.
+
+???:
+@@#choices;
+"50% chance you will fuck this up."
+@@
+--
+@@#choices;
+<<button [[Who are you to judge me?!|Andy1stincouterSuikoQuestion1]]>><</button>>
+<<button [[What do you know that I dont?|Andy1stincouterSuikohelp1]]>><</button>>
+@@
+
+

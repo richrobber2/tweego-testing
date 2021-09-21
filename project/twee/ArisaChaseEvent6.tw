@@ -1,0 +1,24 @@
+:: ArisaChaseEvent6 {"position":"21430,5190","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Enough, you’re a handful $Arisa!"
+@@
+
+Your sister pouts and boos at you. If she wasn't trying to seduce you would feel as if she was a toddler again.
+
+She is cute at times.
+<<set $ArisaLove +=40>>\
+
+$Name:
+@@#ProtagText;
+"Get dressed!"
+@@
+
+With the grace of a monkey tossing shit, you drop your sister off into her room and head back to yours while locking your door.
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

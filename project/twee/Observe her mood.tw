@@ -1,0 +1,27 @@
+:: Observe her mood {"position":"33890,2110","size":"100,100"}
+<<set $ObservedSuikoday03p2 += 1>>\
+<<set $SuikoLookAtMoodDay03 to 1>>\
+Trying to be as inconspicuous as possible, you wait until $Suiko looks away and take a quick, studying glance towards her.
+
+...
+
+<<if $SuikoLove gte 160>>
+While she appears to be noticably upset about how the day has been so far, she seems to be genuinely happy with your company! $Suiko occasionally smiles at you and the image of her brief intervoles of fond expression makes you smile. You're glad your invasive questions didn't ruin her day....you hope. 
+<</if>>\
+<<if $SuikoLove lte 150 and $SuikoLove gte 120>>
+$Suiko, while trying to appear happy and excited about you keeping her company, seems to be bothered. Maybe you shouldn't have been too hard on her about her living condition. You occasionally see $Suiko trying to appear happy, she gives a annoyed sigh and reverts back to her timid(be it also upset) disposition.
+<</if>>\
+<<if $SuikoLove lte 90 and $SuikoLove gte 120>>
+$Suiko doesn't seem too happy about how the day is going so far. She just appears to be staring blank into space periodiclly sighing. She seems to be annoyed but putting up a front as if not to seem too disappointed. Maybe , you were being too hard on her.
+<</if>>\
+<<if $SuikoLove lte 50 and $SuikoLove gte 80>>
+While $Suiko seems to be putting up with you, she is noticable upset, frowning, and just seems to be tolerating the situation. In a way, you feel like it's your fault for making her so depressed but there is still time to remedy the situation...right?
+
+...Maybe it's already too late.
+<</if>>
+--
+@@#choices;
+<<button [[Observe Something else.|SuikoDay03P2SuikoObserve2]]>><</button>>
+@@
+
+

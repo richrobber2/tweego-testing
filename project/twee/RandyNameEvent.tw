@@ -1,0 +1,12 @@
+:: RandyNameEvent {"position":"990,430","size":"100,100"}
+$Randy:
+@@#RandyText;
+"What a wannabe. I am the only one named that and you know it!"
+@@
+--
+@@#choices;
+<<button [[Back|setup]] 
+>><</button>>
+@@
+
+

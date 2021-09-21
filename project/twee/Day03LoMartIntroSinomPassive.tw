@@ -1,0 +1,67 @@
+:: Day03LoMartIntroSinomPassive {"position":"32910,4070","size":"100,100"}
+No, You shouldn't act so rash. It's not everyday you see your 'father' in this state and it would be best to show you actually care but acting like a concerned adult.
+
+
+So, like one you cut through the bullshit and be direct.
+
+$Name:
+@@#ProtagText;
+"Sinom. Why are you drinking again?"
+@@
+
+Old man Sinom nods and to add to his guilt reaches into his suit's side pocket to reveal a stainless steel flask. You watch in shock as this 'principle' unscrews the top and takes a hearty gulp from it.
+
+Sinom:
+@@#NPCText;
+"So, You're working now? I'm proud of you, man!"
+@@
+
+In a surprised shock, you slap the flask to the ground and give him a disapproving glare.
+
+$Name:
+@@#ProtagText;
+"What the fuck is wrong with you?! You're a principle for heaven's sake!"
+@@
+
+You bend down and grab the metal flask off the dusty sales floor only to be taken aback from a familar engraving inscribed on it.
+
+@@#EffectText;
+"To my best friend. From-"
+@@
+
+Sinom snatches the flask away from you and quickly stows it in his back pocket.
+
+...
+
+Sinom:
+@@#NPCText;
+"You should know I'm human as well. You should know not all fathers are perfect."
+@@
+
+
+$Name:
+@@#ProtagText;
+"What the hell Sinom! I thought you stopped drinking after what happened to 'him'!'."
+@@
+
+Sinom covers his face and groans.
+
+Sinom:
+@@#NPCText;
+"Let's not include that misunderstanding."
+@@
+
+-Then Sinom straightens his posture quite lethargicly and looks down at you like a scolded child.
+
+Sinom:
+@@#NPCText;
+"I don't have a legitimate reason for drinking again...I just miss Lotte..."
+@@
+--
+@@#choices;
+<<button [[Who is Lotte?|Day03LoMartIntroSinomLotteIntro]]>><</button>>
+<<button [[You need to leave|Day03LoMartIntroSinomPassiveExit]]>><</button>>
+<<button [[Help Sinom.|Day03LoMartIntroSinomPassiveHelp]]>><</button>>
+@@
+
+

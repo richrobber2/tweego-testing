@@ -1,0 +1,18 @@
+:: ParkIntroduction1 {"position":"6030,2390","size":"100,100"}
+<<set $WentToTown to 1>>\
+You think to yourself; you haven't been to the park in a while.  God, the last time you were there was when your sister was about six years old!"  If she wasn't 'busy' you'd take her with you, yet it would be nice to go alone for a change.
+
+...
+
+After a mile or so walk, you find yourself at a large, open field of lush grass and green oak trees. With the contrasting cityscape nearby, it seems like a entrance towards a wonderland style forest. More of a nature reserve than a park, the area includes a large, dirt path towards the nearby forest, a large, metal gazebo with rusted exercise equipment, a small sandbox and miscellaneous monkey bars, see-saws and jungle gyms spotted randomly throughout the area.
+
+The forest, or Midori Forest, rings a few great memories you had as a child. Back in the days of middle school, you would purposely get lost in the maze of thick woods just to feel 'away' from the troubles at home. If memory serves you well, you remember hearing about a spring being located somewhere within its depths. Although no one you know ever found it, you still hold some childhood whim to someday find it.
+
+After admiring the green land, you decide to:
+--
+@@#choices;
+<<button [[Sit down at the bench.|ParkIntroduction2]]
+>><</button>>
+@@
+
+

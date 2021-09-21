@@ -1,0 +1,38 @@
+:: Day03LoMartIntroSinomPassiveHelp2 {"position":"33330,4490","size":"100,100"}
+You sure hope you heard this wrong or something. 
+
+$Name:
+@@#ProtagText;
+"What do you mean by that? You're a healthy old man! I would do it regardless!"
+@@
+
+Old man Sinom smiles.
+
+Sinom:
+@@#NPCText;
+"I know you would. You're a good kid, $Name. Almost like a younger me."
+@@
+
+Sinom then stands up and places his massive hand on your head.
+
+@@#EffectText;
+POMF~
+@@
+
+Sinom:
+@@#NPCText;
+"That was kind of mean way to say that...Just, If you want to date my daughter it would mean the world to me. "
+@@
+
+Ugh, not this again. Does he really think it's okay for you to date his underage daughter? He must still be drunk.
+
+Before you can say you can't date $Lilith due to a world of reasons, Sinom leans in and gives you a signiture, 'Sinom hug.'.
+
+-But, his embrace seems to have a unexpected weight to it. As this old man who smells of whiskey holds you, you feel a tinge of nostalgia.
+--
+@@#choices;
+<<button [[Hug him back.|Day03LoMartIntroSinomPassiveHelp3]]>><</button>>
+<<button [[Do nothing.|Day03LoMartIntroSinomPassiveHelp2fail]]>><</button>>
+@@
+
+

@@ -1,0 +1,30 @@
+:: BAD END 16: Planted {"position":"2390,290","size":"100,100"}
+/* TODO add code for achievment here */
+As soon as he finished, you dart towards his leg and try to lift his leg he's balancing on.
+
+...It doesn't budge.
+
+Freaking out, you try your damnest to move the lardass until you notice him raising en elbow above your head.
+
+Fatass:
+@@#NPCText;
+"What an idiot! Well, Goodnight~"
+@@
+
+He wasn't wrong, you were now under a three hundred pound man and before it registered that you should flee, his tree trunk sized elbow comes storming down directly on your neck.
+
+Your chin and neck crash through the metal stage plateform  and you instantly black out.
+
+...
+
+While you survive the assault, you wake up in a hospital now paralyzed from the the next down. you will never be able to not only walk again but your parents are forced to take $Arisa away. Months later you are kicked out of the hospital and not only owe them thousands of dollars in bills, you no longer have a home.
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 16: Planted.">><<script>>Engine.restart();<</script>>/
+<</button>>
+@@
+
+

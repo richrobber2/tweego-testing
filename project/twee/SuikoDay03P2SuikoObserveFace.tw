@@ -1,0 +1,23 @@
+:: SuikoDay03P2SuikoObserveFace {"position":"34170,1550","size":"100,100"}
+<<set $ObservedSuikoday03p2 += 1>>\
+<<set $SuikoLookAtFaceDay03  to 1>>\
+Waiting for $Suiko to advert her eyes, you tilt your head down and without raising suspension, look up to her face.
+
+...
+
+While her eyes are sunken and show hours of fatugue, there is something about her eyes that seems....alluring. Not in a perverted sense, but... It's as if despite all the trouble she's been through a ray of hope still shines. Her brown( almost hazel) eyes seem to reflect some innocence or hope. A possible view of life you gave on up long ago? Maybe you're just a romantic who longs to appriciate purity.
+
+...
+
+$Suiko's brownish, short hair seems to have a fluffy, lightweight appearance compared to a few days ago. Maybe that shower she took was the first one she's had in a while. Her fluffy, short cut hair is cute! Without her cute face being hidden under that oversized hoodie, you can really appriciate $Suiko's appearance. 
+
+...
+
+$Suiko never really seems to smile but when she does; she's adorable! <<if $SuikoDay01HeadPat is 1>>Maybe if you pat her head, she'd smile for you.<</if>>
+--
+@@#choices;
+<<if $SuikoDay01HeadPat is 1>><<button [[Reach out and pat her head.|SuikoDay03P2SuikoObserveFacePatHead]]>><</button>><</if>>
+<<button [[Observe something else.|SuikoDay03P2SuikoObserve2]]>><</button>>
+@@
+
+

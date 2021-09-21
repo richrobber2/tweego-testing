@@ -1,0 +1,33 @@
+:: MidoriLoveTestFail2 {"position":"8410,4350","size":"100,100"}
+Thinking you’re on the way to date a fairy girl, you honestly tell her.
+
+$Name:
+@@#ProtagText;
+"It's because you're PRIME Loli! A fairy of all things? I could have an ageless loli!"
+@@
+
+$Midori doesn't seemed pleased by your honest response and gives you a mean look.
+
+$Midori:
+@@#MidoriText;
+"How preditable!"
+@@
+
+She folds her arms and reveals a hand that's primed to snap.
+
+$Midori:
+@@#MidoriText;
+"What about why you saved me? Because I was cute? Am I just a loli for you to mount?! Get outta here you creep!"
+@@
+
+@@#NPCText;
+"SNAP!"
+@@
+<<set $MidoriLove -=20>>\
+--
+@@#choices;
+<<button [[Next.|MidoriTeleport1]]
+>><</button>>
+@@
+
+

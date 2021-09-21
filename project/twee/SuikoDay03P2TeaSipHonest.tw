@@ -1,0 +1,86 @@
+:: SuikoDay03P2TeaSipHonest {"position":"31930,1830","size":"100,100"}
+$Suiko obviously tried hard and wants your opinion of the tea she made for you; at least you can be honest and tell her and offer some advice.
+
+Rubbing the back of your head, you calmly explain to $Suiko-
+
+$Name:
+@@#ProtagText;
+"It...Was not good at all! It was pretty bitter and my mouth feels numb from it. Look, I understand you made it for me but I don't want you to think that's how you make tea. First off, what was in that tea?"
+@@
+
+She appears upset that you didn't enjoy it but seems interested in what you're saying.
+
+$Suiko:
+@@#SuikoText;
+"Oh...Um..."
+@@
+
+Looking around nervously, she cuffs her hands and looks troubled.
+
+$Suiko:
+@@#SuikoText;
+"I made it with some white flowers I found by the railroad tracks. I thought...I could use any plant to make....Tea..."
+@@
+
+She then chuckles and replies with a humbled smile.
+
+$Suiko:
+@@#SuikoText;
+"I guess thats why people just buy tea...Ura ura~"
+@@
+
+Being reminded of your numb lips and the fact she admited the tea was made from unidentified flowers; you change your tone and scold $Suiko.
+
+$Name:
+@@#ProtagText;
+"On a serious note though; there is a reason people spend years mastering tea making. Most plants are poisonous $Suiko! What if you drunk it? From the numbness the aftertaste the sip of tea left on my lips it could have been poisonous! I wouldn't know what to do if you drunk it...You could have got very sick or worse!"
+@@
+
+While your unsure if the plant she picked could have been deadly it is a real possibility it was.
+
+$Suiko seems shocked by these facts and in a shock runs over to you and looks at your face.
+
+$Suiko:
+@@#SuikoText;
+"Are you alright?! Do you need anything?!"
+@@
+
+While your lips are sensitive, you don't think you're in any danger and reassure her everything is fine.
+
+$Name:
+@@#ProtagText;
+"I'm alright; I'm just glad you didn't drink it before me. Please be more careful. I know you wanted to surprise me but-"
+@@
+
+$Suiko then looks down and quickly brings head close to quickly kiss your irratated lips. In confusion of the action, you let the worried girl moisten your lips with her soft, warm kiss.
+
+...
+
+After a few seconds, she backs away and explains.
+
+$Suiko:
+@@#SuikoText;
+"K-kissing...I heard it could disinfect...Um..."
+@@
+
+In admist to the ackward situation, you feel like your lips feel better now (or maybe it's because this cute girl kissed you again.)
+
+Walking backwards to her side of the table, $Suiko bows and apologizes for the sudden assault.
+
+$Suiko:
+@@#SuikoText;
+"Sorry for that....Let's...um..."
+@@
+
+Then sits back down wearing a a bright smile with a flushed face of embarrassment.
+
+Minutes pass after this and the room is back to awkward silence.
+<<set $SuikoLove +=20>>\
+<<set $Libido +=20>>\
+--
+@@#choices;
+<<if $SuikoDay03P2Observe is 0>><<button [[Observe her.|SuikoDay03P2SuikoObserve]]>><</button>>
+<</if>>\
+@@
+
+

@@ -1,0 +1,57 @@
+:: RediaEvent2'10' {"position":"13030,4490","size":"100,100"}
+To ensure you don't get harmed again, you walk into the vacant locker room and gently sit her on a bench.
+
+$Redia:
+@@#RediaText;
+"Well, Th-...I mean, about time! My back hurts now because you 'Had' to carry me that way~!"
+@@
+You apologize for hurting her then bend over and touch her ankle.
+
+$Redia freaks out and kicks you with it!
+
+$Redia:
+@@#RediaText;
+"OUCH! Don't touch me you brute!"
+@@
+
+$Name:
+@@#ProtagText;
+"Why are you are so violent, Let me see your ankle!"
+@@
+
+She starts to kick her feet around and whine!
+
+$Redia:
+@@#RediaText;
+"No you brute! I'm fine! I said I-"
+@@
+
+You hold her assault off and manage to gently slide her pant leg up-...
+
+-to find that she is covered in bruises.
+
+You look up at her and she starts to cry again. While there is a large bruise around her ankle, the numerous welts and scars on her body are alarming. You decide to drop her leg and back off.
+
+$Name:
+@@#ProtagText;
+"I'm sorry...”
+@@
+
+Redia stands up and looks towards the floor.
+
+$Redia:
+@@#RediaText;
+"It's Fine! Just-! Don't say anything."
+@@
+
+$Redia reaches for her zipper and starts to take her sweatshirt off to reveal she isn't wearing a shirt or a sports bra. While normally, you’d be gushing red and staggering, the blemishes and scars over her tanned skin are alarming. Scars, cigarette burns, lashes and contusions.
+
+Right away, you can only assume she is being abused.
+--
+@@#choices;
+<<if $RediaLove gte 180>><<button [[Complement her skin.|RediaBestFriendEvent1]]>><</button>><</if>>
+<<button [[Tell her you have to go...|RediaEvent2'10'1]]
+>><</button>>
+@@
+
+

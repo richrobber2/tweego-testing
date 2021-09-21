@@ -1,0 +1,14 @@
+:: Suikointro'lone'failed {"position":"290,4630","size":"100,100"}
+Despite feeling a personal responsibility to stop the bullying, you decide it's simply not your problem. You turn and walk away; making sure not to be noticed from the kids and make your way out of the gym.
+<<set $Depression +=5>>\
+
+For the rest of the day you find yourself feeling kind of bad about the whole ordeal. While time makes you forget the whole thing, you sometimes recall the situation and feel like if someone helped you in the past, you would have been a better person.
+
+...
+--
+@@#choices;
+<<button [[Head home.|DayOneIntro]]
+>><</button>>
+@@
+
+

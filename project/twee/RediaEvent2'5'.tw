@@ -1,0 +1,39 @@
+:: RediaEvent2'5' {"position":"13170,3790","size":"100,100"}
+<<set $RediaLove -=40>>\
+<<set $Depression +=25>>\
+This is your chance to prove that old fart wrong!
+
+Noticing $Redia tire out, you give it your last bit of energy and head toward home plate.
+
+This is it! You are going to beat her! You're almost-.
+
+$Redia:
+@@#RediaText;
+"AAAAGH!"
+@@
+
+You stop running and turn around to $Redia tumbling to the floor into a cloud of dirt.
+
+She curls into a fetal position and holds her ankle.
+
+$Redia:
+@@#RediaText;
+"My Leg! dammit! DAMN IT, AH!"
+@@
+
+Boy2:
+@@#NPCText;
+"$Redia's fell!"
+@@
+
+Boy4:
+@@#NPCText;
+"Old Man! Use this chance and beat her!"
+@@
+--
+@@#choices;
+<<button [[Win the race!|RediaEvent2'5'1]]
+>><</button>>
+@@
+
+

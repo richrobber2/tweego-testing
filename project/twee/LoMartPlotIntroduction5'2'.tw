@@ -1,0 +1,17 @@
+:: LoMartPlotIntroduction5'2' {"position":"14430,4210","size":"100,100"}
+In a panic, you rush back outside and slam the door shut.
+
+...
+
+20 minutes pass.
+
+While you can hear papers shift and tiny footsteps; you have yet to hear her say for you to come in. While you're getting bored, you decide to:
+--
+@@#choices;
+<<button [[Peek inside the room.|LoMartPlotIntroduction5'3']]
+>><</button>>
+<<button [[Wait to be seen...|LoMartPlotIntroduction6]]
+>><</button>>
+@@
+
+

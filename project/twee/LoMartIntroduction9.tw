@@ -1,0 +1,52 @@
+:: LoMartIntroduction9 {"position":"10,5890","size":"100,100"}
+$Name:
+@@#ProtagText;
+"-So, did you like the show?"
+@@
+
+$Arisa quickly stands up and positions herself in front of you, wiping away the tears off her swollen cheeks.
+
+You ask her again.
+
+$Name:
+@@#ProtagText;
+"Well? Gross right?"
+@@
+
+She begins to adjust her posture, straightens her shiny, blond hair and wearing a smile, yells,
+
+$Arisa:
+@@#ArisaText;
+"I loved it a lot, Onii.."
+@@
+
+There is a moment of silence as you look at $Arisa trying to copy a name she learned from the show.
+
+$Name:
+@@#ProtagText;
+"Um, What did you call me?"
+@@
+
+The demon spawn blushes and repeats in full with added charm,
+
+$Arisa:
+@@#ArisaText;
+"I loved it a lot, Onii-chan~"
+@@
+
+@@#EffectText;
+OH. MY. GOD!
+@@
+
+This is bad. You always wanted to be called that by a girlfriend but hearing it from your sister of all things seems really fucked up!
+
+You have to stop her now or __She'll say it all the time__. It took her only until recently to stop calling you Daddy!
+--
+@@#choices;
+<<button [[Tell her it's time for bed!|Tell her it's time for bed]]
+>><</button>>
+<<button [[No problem, Imouto~!|LoMartIntroduction10]]
+>><</button>>
+@@
+
+

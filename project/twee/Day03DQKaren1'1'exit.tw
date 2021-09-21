@@ -1,0 +1,19 @@
+:: Day03DQKaren1'1'exit {"position":"33890,3930","size":"100,100"}
+Nope.
+
+This isn't your issue if underage kids want to smoke in the possibly unused janitor closet and not wanting her to get in trouble, you slam the door shut.
+
+$Karen:
+@@#KarenText;
+"Thank you~"
+@@
+
+-Her muffled and coughing voice carries through the door. Not wanting to cause a scene, you thankfully spot a broom and spend the remainder of the morning clearing the halls and allyways of the surprisingly dusty floor. While you somewhat fruitlessly clump up mounds of dirt, you think about reporting her to $Amber. It isn't good if someone catches a kid smoking in the store.
+<<set $KarenTellAmber to 0>>\
+--
+@@#choices;
+<<button [[Tell her about the incident.|Day03DQKarenTellAmber]]>><</button>>
+<<button [[Do not bring it up.|Day03KarenDontTellAmber]]>><</button>>
+@@
+
+

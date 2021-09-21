@@ -1,0 +1,16 @@
+:: Day03DQKaren {"position":"34170,3650","size":"100,100"}
+Mopping the floor seems like the best early course of action. After a few minutes of decluttering a section of the sales floor, you venture around until you find a dusty, wooden door labeled, 'Janitor's Closet."
+
+While you're getting ready to turn the door latch, you smell the stale smoke emitting from behind the door.
+
+Someone's smoking in the janitor's closet.
+
+<<if $Smoking is 1>> No doubte about it. The stagnent smell burns into your nostrols and reminds yourself to spray your clothes with air freshener later.<</if>>
+<<if $Smoking is 0>>This can't be good. As a employee of Lo-Mart, you should ensure the safety of the store; kids come here!<</if>>
+--
+@@#choices;
+<<button [[Open the door.|Day03DQKaren1]]>><</button>>
+<<button [[Knock on the door.|Day03DQKaren1'1']]>><</button>>
+@@
+
+

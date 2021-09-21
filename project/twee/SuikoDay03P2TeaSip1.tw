@@ -1,0 +1,52 @@
+:: SuikoDay03P2TeaSip1 {"position":"31790,1830","size":"100,100"}
+If you told her it was bad and probably poisonous would only hurt her ego. While it isn't the truth, you decide to lie to her face and say,
+
+$Name:
+@@#ProtagText;
+"It was pretty good."
+@@
+
+...Even you think it didn't sound convincing as you watch $Suiko puff her cheeks at you.
+
+$Suiko:
+@@#SuikoText;
+"You know, If I had Mr.Rabbit on, she would have mean things to...Say...uh...."
+@@
+
+She then crosses her arms and gives you a dirty look, only for her to quickly drop the act and frown.
+
+While you feel bad about lying the only thing you can think of is the fact Mr.Rabbit is a 'girl'. 
+
+$Suiko:
+@@#SuikoText;
+"Even I thought...It was bad...I wouldn't have got upset..."
+@@
+
+$Name:
+@@#ProtagText;
+"Then why did you want-!"
+@@
+
+You stop yourself upon deducing the answer yourself.
+
+$Name:
+@@#ProtagText;
+"Oh...You wanted my opinion on it...I'm so-"
+@@
+
+This time, you're cut off by $Suiko sighing loudly in defeat. How could you have been so blind to her gesture of kindness? She is a young girl and made it as a gift; but in reality it was to help her fragile ego. You used to do the same thing to show your mother you had worth; and equally got upset when she lied or showed false interest in your endeavors.
+<<set $Depression +=20>>\
+
+$Suiko:
+@@#SuikoText;
+"It's....Alright...I understand..."
+@@
+
+She then sits back down and begins to clear up the table of the 'good' tea.
+--
+@@#choices;
+<<if $SuikoDay03P2Observe is 0>><<button [[Observe her.|SuikoDay03P2SuikoObserve]]>><</button>>
+<</if>>\
+@@
+
+

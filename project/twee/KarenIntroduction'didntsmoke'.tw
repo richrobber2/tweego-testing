@@ -1,0 +1,59 @@
+:: KarenIntroduction'didntsmoke' {"position":"16670,3230","size":"100,100"}
+<<set $Fags to 0>>\
+You don't need to smoke...
+<<set $Fatigue -= 20>>\
+Taking a deep breath, you place your cigarettes and zippo beside you and look away from it. While your mind is yelling at you for what you just did; you feel a false sense of relief.
+
+You sit back down and attempt to fight the urge to put them back into your pocket. You can just leave it there and walk away from your addiction. You don't need them. You don't want those cancer sticks to control you anymore.
+
+You 'feel' better knowing that you can control your smoking habit.
+
+...
+
+Trying to ignore the pack beside you, you close your eyes and try to fight the voices in your head. You taking in laboring breaths in an attempt to flush your lung with clean air.
+
+???:
+@@#KarenText;
+"Hey mis-ter~"
+@@
+
+You practically jump out of the bench and quickly turn your head to find a teenage girl leaning over your shoulder.
+
+The girl looks about thirteen years old and has semi long, blueish hair. Her unnatural (possibly dyed) hair is straight but you notice a small bun just behind her head.
+
+She is wearing a blue sailor uniform with a pleated, white skirt and seems to have a black, designer handbag slung loosely in her right arm.
+
+Girl:
+@@#KarenText;
+"What'cha doing?"
+@@
+
+Annoyed, you look away from the school girl.
+
+$Name:
+@@#ProtagText;
+"What do you want? You didn't need to sneak up on me like that!"
+@@
+
+The girl sits down on the bench, lays her bag on her lap, and starts to rummage through it.
+
+You try to ignore her but you decide to peer over at her and you see her hand drift slowly toward your zippo and cigarette box.
+
+$Name:
+@@#ProtagText;
+"What are you doing?"
+@@
+
+She flinches; noticing she was spotted and quickly moves her hands onto her lap.
+
+Girl:
+@@#KarenText;
+"Nothing! I was just-! Um...”
+@@
+--
+@@#choices;
+<<button [[Accuse her of theft.|KarenIntroduction'didntsmoke'1]]
+>><</button>>
+@@
+
+

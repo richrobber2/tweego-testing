@@ -1,0 +1,33 @@
+:: Day03Introduction'2-2' {"position":"26050,3930","size":"100,100"}
+$Name:
+@@#ProtagText;
+"I know you're tired, but you really should get ready for school."
+@@
+
+Upon these words leaving your breath, $Arisa protests!
+
+$Arisa:
+@@#ArisaText;
+"Eh?! but I wanted to go to work to spy on you!"
+@@
+
+Her pouting face and pleading arms only rectify the fact she's being honest.
+
+Lookng down at your caring little sister, you maintain your 'parental' figure persona.
+
+$Name:
+@@#ProtagText;
+"You should go to school, I won't be upset if you sleep at school but you should go! Don't want you repeating the second grade or something..."
+@@
+
+<<set $ArisaLove -=20>>\
+<<set $ArisaSchoolDay03 to 0>>\
+
+$Arisa seems bummed out but can sense your judgment and slowly heads back toward her room; walking with a slump in her step.
+--
+@@#choices;
+<<button [[Next.|Day03Preintro]]
+>><</button>>
+@@
+
+

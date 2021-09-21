@@ -1,0 +1,69 @@
+:: RandyIntroduction5 {"position":"5470,2950","size":"100,100"}
+$Randy smiles and begins to laugh.
+<<set $RandyLove to 200>>\
+<<set $NoSara to 1>>\
+<<set $RandyLoneRoute to 1>>\
+
+$Randy:
+@@#RandyText;
+"I guess you're right. While I don't feel that way about her, I can still show I like her as a brother."
+@@
+
+$Randy looks towards Midori Forest and sighs.
+
+$Randy:
+@@#RandyText;
+"So what about your sister? Is she clingy and annoying like mine?"
+@@
+
+While you're about to say yes you realize that $Arisa isn't that bad of a sister as you first assumed.
+
+Hell, she despite being a annoying twerp at times she always seems to do small thing to show she cares. Really goes to show how much you changed.
+
+$Name:
+@@#ProtagText;
+"Well, all I can really say is while she can be annoying; she proves time and time again that she cares for me a lot. From the little bit of information I can gather, your sister seems to love you a lot! At least show you're a good brother and show you care about her by l-"
+@@
+
+$Randy gives you a thumbs up and smiles; his short blond hair shines in the sun as he reveals a cute smile and winks one of his blue eyes,
+
+$Randy:
+@@#RandyText;
+"Thanks a lot old man! I wish I had a Big brother like you~!"
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+Before you can tell him you're not gay $Randy runs off toward Midori Forest while looking at you; waving.
+
+You stand up and wave goodbye as he turns away and runs toward the forest.
+
+That is a interesting concept. You take a moment to wonder what life would be like if $Arisa was a boy...
+
+...
+
+'Boy' $Arisa:
+@@#ArisaText;
+"Oniisan~ let's watch hentai and fap together!"
+@@
+
+You cringe a little and feel a little thankful you don't have a younger brother.
+
+-In the situation you're in with her, things would be a lot weirder.
+
+With that over, you decide you wasted enough time here and head towards Midori Elementary.
+
+After you arrive, you decide to:
+--
+@@#choices;
+<<if $MidoriSEvent1 is 1>><<button [[Look for LO-Mart.|LoMartPlotIntroduction]]
+>><</button>><</if>>
+<<if $MidoriSEvent1 is 0>><<button [[Go into the school.|MidoriSchool3]]
+>><</button>><</if>>
+<<if $SawRedia1 is 0>><<button [[Look around the school yard.|MidoriSchool3'1']]
+>><</button>><</if>>
+@@
+
+

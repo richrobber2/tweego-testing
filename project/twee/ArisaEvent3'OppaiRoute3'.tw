@@ -1,0 +1,23 @@
+:: ArisaEvent3'OppaiRoute3' {"position":"20450,3930","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Nonsense, I love my sister!"
+@@
+<<set $Libido +=10>>\
+Your sister seems satisfied by your heartfelt admittance and laughs in dominance over flat chested girls.
+
+$Arisa:
+@@#ArisaText;
+"Come her and give your milky sister a hug~"
+@@
+
+Your sister opens her chest and offers a loving embrace to enjoy her newly created chest.
+--
+@@#choices;
+<<button [[Hug her!|ArisaEvent3'OppaiRoute4']]
+>><</button>>
+<<button [[Push her out of your room!|ArisaEvent3'OppaiRoute4-1']]
+>><</button>>
+@@
+
+

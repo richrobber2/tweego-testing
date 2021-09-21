@@ -1,0 +1,51 @@
+:: SuikoPast'Main' {"position":"430,4350","size":"100,100"}
+Thinking she must have heard you earlier in the crowd, she may want to offer a friendship.
+
+You look down to your sister and ask her to introduce herself. Despite being confused by the request, she looks at the trembling girl and says,
+
+$Arisa:
+@@#ArisaText;
+"Hello, I'm $Arisa!"
+@@
+
+The girl shrieked; probably alarmed by the interaction and looks towards the ground. Your sister looks confused as she extends her arm to offer a handshake.
+
+$Arisa:
+@@#ArisaText;
+"What's your name?"
+@@
+
+The hooded lass lifts her head slightly, see's your sister's hand and yelps in fear.
+
+Hooded Girl:
+@@#SuikoText;
+"Don't tease....me."
+@@
+
+You and $Arisa give this girl a puzzled look then $Arisa looks up to you a sighs.
+
+$Arisa:
+@@#ArisaText;
+"Maybe she doesn't want to be friends?"
+@@
+
+A loud gasp grabs both of your attention and the girl quickly reaches for $Arisa's hand.
+
+Hooded Girl:
+@@#SuikoText;
+"Friends?! I would...like that!"
+@@
+
+You look at this gestor and discover she is grabbing $Arisa's wrist. Your sister stares at this odd motion while the hooded girl starts to 'shake' her wrist. After an awkward few minutes of this action, she lets her go, bows politely and introduces herself.
+
+$Suiko:
+@@#SuikoText;
+"I'm $Suiko. What's your-Oh...sorry."
+@@
+--
+@@#choices;
+<<button [[Tell her everything is fine|SuikoPast'Main'2]]
+>><</button>>
+@@
+
+

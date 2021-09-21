@@ -1,0 +1,49 @@
+:: ArisaPastintro'neutral'1'end' {"position":"290,3370","size":"100,100"}
+<<set $ArisaPastIntroLove to 1>>\
+Like from some bizarre impulse, you throw yourself on the table and the legs snap from the pressure. Wrapping your arms around $Arisa, you flip yourself over and crash into the debris.
+
+@@#EffectText;
+SMASH!
+@@
+
+Languishing in pain from the stoneware shards and table wood splinters jabbing your sides and back, you can only open your eyes to witness the results of your action.
+
+Embracing $Arisa in your arms, her scared and shaking body curls into a ball; she begins to cry.
+
+$Name:
+@@#ProtagText;
+"Are you okay $Arisa?!"
+@@
+
+She begins to slowly open her eyes and you can realize how close you are to her.
+
+Her ocean blue eyes seem to freeze time.
+
+This feeling of empathy... This gaze of innocence...
+
+You hug your baby sister and fight a urge to cry.
+
+$Name:
+@@#ProtagText;
+"I'm Sorry! I...I!"
+@@
+
+With her head snuggled on your chest, $Arisa's frightened shakes seem to fade and see starts to tear up.
+
+$Name:
+@@#ProtagText;
+"You Twerp! Tha-!"
+@@
+
+$Arisa:
+@@#ArisaText;
+"Daddy~ My wish came true!"
+@@
+<<set $PastArisaEvent to 1>>\
+--
+@@#choices;
+<<button [[Afterwards...|Prointro2]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,32 @@
+:: Day03LoMartIntroSinomLotteIntro2 {"position":"32490,4490","size":"100,100"}
+As if losing his balance, Sinom unexpectingly sits on the dusty floor and and hides his face.
+
+Sinom:
+@@#NPCText;
+"She gave her life to give birth to $Lilith."
+@@
+
+...
+
+You don't know what to say or even think. You just learned he had a wife but to think she died giving birth to $Lilith.
+
+No wonder Sinom is obcessed with his daughter.
+
+Sinom:
+@@#NPCText;
+"I promised her I'd give our daughter a happy life but..."
+@@
+
+He then struggles to stand back up and sighs almost in defeat.
+
+Sinom:
+@@#NPCText;
+"I'll say this; I'm happy $Lilith likes you. It's almost poetic."
+@@
+--
+@@#choices;
+<<button [[How so?|Day03LoMartIntroSinomLotteIntro2True]]>><</button>>
+<<button [[You are a good father.|Day03LoMartIntroSinomLotteIntro2Sinom]]>><</button>>
+@@
+
+

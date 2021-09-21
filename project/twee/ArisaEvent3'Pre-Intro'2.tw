@@ -1,0 +1,31 @@
+:: ArisaEvent3'Pre-Intro'2 {"position":"20030,3650","size":"100,100"}
+You want to get mad at your evil sister but she just seemed worried about you. You recall how lucky you are that $Amber is a weird manager...
+
+The whole day could have drastically changed.
+
+Instead, you riffle her still nappy blond hair and give her a reassuring smile. While you stroke her head you begin to hear your sister laugh childishly.
+
+$Name:
+@@#ProtagText;
+"I should properly thank you! $Arisa, you single handedly found me a job, made me a 'brutally' honest resume and I got hired in less than one day!"
+@@
+
+<<set $ArisaLove +=20>>\
+
+Your still childish sister flings the pink blanket off her head and looks up at you; Wearing an astonished look of sheer happiness.
+
+$Arisa:
+@@#ArisaText;
+"Your cute Imouto $Arisa-chan always helps her "Manly Onii-ochinchin~""
+@@
+
+$Arisa's face turns red as you bare witness to your sister calling you a "big-penis".
+
+You want to get upset but $Arisa is a good sister.
+--
+@@#choices;
+<<button [[Retire to your room|ArisaEvent3'Pre-Intro'3']]
+>><</button>>
+@@
+
+

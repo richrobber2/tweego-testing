@@ -1,0 +1,10 @@
+:: PreArisaEvent3-1 {"position":"18350,3370","size":"100,100"}
+<<if $SuikoLove is 0>>
+<<goto [[PreArisaEvent3-'Erased Suiko 1']]>>
+<<elseif $SuikoDay01Event is 1 and $SuikoLove gte 100>>
+<<goto [[Head to porch|PreSuikoEvent2]]>>
+<<else>>
+<<goto [[Day02 Check2]]>>
+<</if>>
+
+

@@ -1,0 +1,49 @@
+:: SuikoDay03P2SuikoObserveFacePatHead1 {"position":"34310,1550","size":"100,100"}
+<<set $SuikoLove +=20>>\
+<<set $Depression -=10>>\
+<<if $Depression lte 0>><<set $Depression to 0>><</if>>\
+$Name:
+@@#ProtagText;
+"Oh...I'm sorry"
+@@
+
+Feeling bad about making $Suiko cry, you retreat your shameful hands into your pockets and look away.
+
+$Name:
+@@#ProtagText;
+"You look so cute....I just thought if I patted your soft hair; you'd smile."
+@@
+
+Wow! That sounds pretty selfish. No wonder $Suiko didn't want-.
+
+$Suiko:
+@@#SuikoText;
+"Do..You mean that?! Ura~"
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+
+You turn back to see the timid girl's tearful eyes swell up again but, a evident smile now on her face. Her normally pale complexion beams red; brighting the appearence of the normally gloomy child. Charmed by her happy face, you also smile and confirm her hopes.
+
+$Name:
+@@#ProtagText;
+"Yeah! You have a really nice smile and last time I patted your head you seem to-"
+@@
+
+-Then, you freeze mid-sentence as $Suiko gasps then looks down; bringing her hands up to cover her excitement. After a moment of enjoying her smiling face, $Suiko regains her composure and sighs; lowering her arms but still smiling.
+
+$Suiko:
+@@#SuikoText;
+"...Thanks~"
+@@
+
+After a few minutes, Things start to calm down and you both return to awkward silence.
+--
+@@#choices;
+<<button [[Observe something else.|SuikoDay03P2SuikoObserve2]]>><</button>>
+@@
+
+

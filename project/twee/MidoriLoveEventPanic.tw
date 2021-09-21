@@ -1,0 +1,24 @@
+:: MidoriLoveEventPanic {"position":"7430,3930","size":"100,100"}
+No, You can't do this to her! After a final kiss, you toss the three foot ragdoll to the floor and look back in a panic as she convulses on the grass.
+
+$Name:
+@@#ProtagText;
+"Are....you okay?"
+@@
+
+You walk over to look at her but she holds a pre-snapped hand to your direction.
+
+$Midori:
+@@#MidoriText;
+"Get outta here!"
+@@
+@@#NPCText;
+"SNAP!"
+@@
+<<set $MidoriLove -=40>>\
+--
+@@#choices;
+<<button [[Next.|MidoriTeleport1]]>><</button>>
+@@
+
+

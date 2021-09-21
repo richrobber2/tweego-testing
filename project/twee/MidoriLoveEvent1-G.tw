@@ -1,0 +1,26 @@
+:: MidoriLoveEvent1-G {"position":"8130,4210","size":"100,100"}
+You frown as you take a moment to reveal that no one likes you. You look up towards the now floating fairy and she smirks.
+
+$Midori:
+@@#MidoriText;
+"No wonder you want to date a fairy, you're a loser!"
+@@
+
+You ignore the question as your aware your nothing but a loser who lusts after kids.
+
+$Midori's laugh fades to silence as she tells you the final question.
+
+$Midori:
+@@#MidoriText;
+"Last question! Why should you date me?"
+@@
+
+The green haired forest fairy floats to the ground and looks sheepishly away from you. $Midori seems interested in what you have to say. Might need to think this out.
+--
+@@#choices;
+<<button [[You're really cute!|MidoriLoveTestFail1]]>><</button>>
+<<button [[You're really cute!|MidoriLoveTestFail2]]>><</button>>
+<<button [[I never had a girlfriend!|MidoriLoveTestPass1]]>><</button>>
+@@
+
+

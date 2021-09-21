@@ -1,0 +1,27 @@
+:: Day03LoMartIntroSinomLotteIntro1 {"position":"32630,4350","size":"100,100"}
+Genuinly interested in hearing about this girl, you ask him to continue.
+
+$Name:
+@@#ProtagText;
+"Can you tell me more about her? Was she your wife?"
+@@
+
+Sinom turns to you and nods.
+
+Sinom:
+@@#NPCText;
+"Aye. I miss her so much. I don't know if you'd remember but I used to be very depressed when you were a kid. Soon after you left elementary, I met a girl . She looked exactly like $Lilith."
+@@
+ 
+He takes another heartwarming glance at his daugther the looks back at you to continue,
+
+Sinom
+@@#NPCText;
+"Lotte was a 'angel'. Being with her made me realise I needed someone in my life. Lotte was that answer to my prayer. For that short time we were together, I never felt a ounce of self pity or a need to drink. But- My happiness was short lived."
+@@
+--
+@@#choices;
+<<button [[Next.|Day03LoMartIntroSinomLotteIntro2]]>><</button>>
+@@
+
+

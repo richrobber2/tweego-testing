@@ -1,0 +1,51 @@
+:: ArisaLoveEvent'TruePass' {"position":"23530,3930","size":"100,100"}
+You smile as if to sustain a laugh then take a swift attempt to rub her soft hair when her guard fails.
+
+"POMF"
+
+-You succeed!
+
+$Name:
+@@#ProtagText;
+"I'm really thankful you feel that way...Um.."
+@@
+
+Trying to choke back your words from escaping, you honestly tell your sister,
+
+$Name:
+@@#ProtagText;
+"I love you too..Imouto."
+@@
+
+While you feel sick from using that name to address your anime obsessed little sister, You're taken aback as $Arisa shoves herself into your chest and tightly hugs you in an oddly new situation.
+
+Normally $Arisa would quickly embrace of assault you with kisses yet this hug seem..weighted.
+
+As in she was lovingly holding you, $Arisa leans her head on you shoulder and mockingly starts to rub your head.
+
+$Arisa:
+@@#ArisaText;
+"Thank you, $Name! Um. I mean *hic* Onii-chan~"
+@@
+
+Listening to her speak, you can hear her high voice crack; she's sobbing with joy behind your back.
+
+You let $Arisa embrace you until she lets go and smiles at you; face trailing with tears.
+
+$Arisa:
+@@#ArisaText;
+"I love you, too!"
+@@
+
+After That, your morale return you to you senses and you quickly exit her room.
+
+...
+<<set $ArisaLove +=100>>\
+Once you get to your room, you lay down on your bed and look at your television; thankfully it's already idling on a movie selection screen.
+--
+@@#choices;
+<<button [[Check out the television.|ArisaEvent3'Intro']]
+>><</button>>
+@@
+
+

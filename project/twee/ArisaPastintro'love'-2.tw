@@ -1,0 +1,37 @@
+:: ArisaPastintro'love'-2 {"position":"150,3230","size":"100,100"}
+You decide to calm down and politely wipe the expensive crème off your face. While you struggle with showing your rage, $Arisa notices a clump of cake fall off your nose and laughs.
+
+$Arisa:
+@@#ArisaText;
+"Hehe~ you look funny!"
+@@
+
+You are taken aback by her innocent smile and find yourself cracking a smirk. You pat your frosting covered hand on her silky blonde hair and she jumps back.
+
+$Name:
+@@#ProtagText;
+"You brat! I can't stay mad at you."
+@@
+
+While the situation seems to have deescalated, an odd feeling of attachment and tolerance wash over you. Despite the mess, you feel like she might not be as bad as you originally thought. She may have ruined her birthday cake, but she still seems to have enjoyed herself.
+
+Looking downward at the cake you reach for a handful.
+
+$Name:
+@@#ProtagText;
+"Eat your cake, you're making a mess!"
+@@
+
+As your about to eat the handful of cake; your cheeky sister reaches her mouth close to the clump of cake and engulfs it entirely. You’re frozen in awe as she starts to lap up the crème off your fingers.
+
+You attempt to stop her but her cute suckling makes you smile.
+
+...What a troublesome sister.
+<<set $ArisaPastIntro to 1>>\
+--
+@@#choices;
+<<button [[Afterwards...|Prointro2]]
+>><</button>>
+@@
+
+

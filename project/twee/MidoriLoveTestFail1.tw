@@ -1,0 +1,32 @@
+:: MidoriLoveTestFail1 {"position":"8130,4350","size":"100,100"}
+Thinking you’re on the way to date a fairy girl, you honestly tell her.
+
+$Name:
+@@#ProtagText;
+"It's because you're cute!"
+@@
+
+$Midori doesn't fall for it for a second and scuff at you.
+
+$Midori:
+@@#MidoriText;
+"-And? You have to be more original then that!"
+@@
+
+She folds her arms and reveals a hand that's primed to snap.
+
+$Midori:
+@@#MidoriText;
+"What about why you saved me? Because I was cute? Am I just a loli for you to mount?! Get outta here!"
+@@
+
+@@#NPCText;
+"SNAP!"
+@@
+--
+@@#choices;
+<<button [[Next.|MidoriTeleport1]]
+>><</button>>
+@@
+
+

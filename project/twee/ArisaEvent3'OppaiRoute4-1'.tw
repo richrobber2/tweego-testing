@@ -1,0 +1,22 @@
+:: ArisaEvent3'OppaiRoute4-1' {"position":"20450,4070","size":"100,100"}
+Enough games!
+
+You stoically walk towards your sister and without skipping a beat, you grab her by her overall straps and toss her out of your room.
+
+She falls on her ass and turns in protest whist flailing her arms like a baby.
+
+$Arisa:
+@@#ArisaText;
+"Wait! Love me!"
+@@
+
+What a pest!
+
+You slam your door shut then wait for her to leave.
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

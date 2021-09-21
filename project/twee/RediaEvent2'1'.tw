@@ -1,0 +1,60 @@
+:: RediaEvent2'1' {"position":"13030,3370","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Oh it is easy~ I bet you I could run this faster than all you twerps!"
+@@
+
+The group echoes an "Ohhhh~" and $Redia gives you a cocky smile. She throws the bat to the dirt then cracks her knuckles.
+
+$Redia:
+@@#RediaText;
+"Oh? Old-timer wants to place a bet?"
+@@
+
+Old-timer? Those are fighting words!
+
+You crack your neck and begin to stretch your legs.
+
+$Name:
+@@#ProtagText;
+"I accept your challenge!"
+@@
+The kids add to the conflict:
+
+Kid1:
+@@#NPCText;
+"Okay! Winner becomes new coach!"
+@@
+
+Kid4:
+@@#NPCText;
+"Yeah! Down with the Hellcat!"
+@@
+
+Kid3:
+@@#NPCText;
+"Sounds fun! He seems like he knows how things are!"
+@@
+
+@@#EffectText;
+Wut?
+@@
+When did you accept to terms in this bet?! You were just trying to motivate them by stating how hard you had it as a kid!
+
+But, $Redia looks at you with a smirk as if enjoying the challenge.
+
+$Redia:
+@@#RediaText;
+"Fine by me! $Name! First to run eight laps becomes new coach!"
+@@
+
+You can't run! While you did skip earlier here, full blown dashing would give you a heart attack!
+--
+@@#choices;
+<<button [[Accept the terms and race her!|RediaEvent2'2']]
+>><</button>>
+<<button [[No! I didn't say that!]]
+>><</button>>
+@@
+
+

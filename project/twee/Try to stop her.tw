@@ -1,0 +1,47 @@
+:: Try to stop her {"position":"2670,2390","size":"100,100"}
+Fighting the pain of her stepping on you, you dart at $Suiko.
+
+$Name:
+@@#ProtagText;
+"Watch the road!!"
+@@
+
+As the semi-truck draws closer you grab the light girl by her hood and yank her away from the path of the truck.
+
+$Suiko is pulled backwards and starts to struggle.
+
+$Suiko:
+@@#SuikoText;
+"NO! My friend!!"
+@@
+
+The wheels of the semi roll over the plush toy and a nearby puddle explodes; covering her in mud and obscuring the plush.
+
+The truck speeds down the road and as the mud settles, all that is left is the guts and fluff of the once perfect plush rabbit.
+
+$Suiko falls to her knees and stares hollow eyed at the aftermath.
+
+$Suiko:
+@@#SuikoText;
+"..."
+@@
+
+Looking both ways, you walk to the rabbit and pick up each piece;
+
+It is beyond repair. $Suiko's eyes start to swell and she cries in despair for her fallen friend.
+
+$Suiko:
+@@#SuikoText;
+"WAHHH! No...*sniff* My only friend.."
+@@
+
+You need to do something.
+--
+@@#choices;
+<<button [[See if you can't fix Mr.Rabbit.|See if you cant fix Mr.Rabbit]]
+>><</button>>
+<<button [[Hand her the pieces and say you are sorry.|Hand her the pieces and say you are sorry.]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,12 @@
+:: ArisaKarenNameEvent {"position":"2530,430","size":"100,100"}
+$Karen:
+@@#KarenText;
+"Dude, I'm not your sister.."
+@@
+--
+@@#choices;
+<<button [[Back|setup1.5'arisaname']]  
+>><</button>>
+@@
+
+

@@ -1,0 +1,31 @@
+:: MidoriFairyIntro1-8 {"position":"6590,2950","size":"100,100"}
+While you're amazed about this fairy girl and her back story, you don't want to waste any more time!
+
+$Name:
+@@#ProtagVoice;
+"I'm really sorry! I am trying to find a runaway girl and before I get lost: Could you help me find her?"
+@@
+<<set $MidoriLove +=20>>\
+
+The green haired fairy's face suddenly seems delightful to help you; gesturing her arms to get your attention.
+
+$Midori
+@@#MidoriText;
+"Oh..O-oh! I can help help! This will be my -me thanks!"
+@@
+
+$Midori plants her tiny palm flat on the grass below and you shudder at a small pulse of force jolting through the woods.
+
+She sits there motionless for about ten minutes until she jumps into the air and holds her fingers to prepare a snap.
+
+$Midori:
+@@#MidoriText;
+"Aw...I'll tell take you there if you want. No be big deal for the ideal you have did, done!"
+@@
+--
+@@#choices;
+<<button [[Sure!|MidoriTeleport1]]
+>><</button>>
+@@
+
+

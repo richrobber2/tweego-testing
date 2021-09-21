@@ -1,0 +1,39 @@
+:: Day03LoMartIntro'NanakoIntro'2'Promote4-1 {"position":"30250,4630","size":"100,100"}
+Deciding you should at least apoligizr for ruining the 'event', you raise the microphone and somberly adress the crowd.
+
+$Name:
+@@#ProtagText;
+"I...just want to apoligize for my hostile behavior. I don't know what came over me. I could let someone exploit a kid like that and I just-"
+@@
+
+Before you could finish, the crowd starts to clap for your acknowledgement. You stand on the stage confused until you hear chatter from the onlookers.
+
+Onlooker 2:
+@@#NPCText;
+"That man protected $Nanako!"
+@@
+
+Onlooker 4:
+@@#NPCText;
+"If LO-Mart hired this guy, we can have pride in knowing are kids will be safe!"
+@@
+
+Onlooker 197:
+@@#NPCText;
+"He's a hero; A real human bean!"
+@@
+
+The crowd then starts to cheer your name as you place the microphone on the ground and smile. Maybe, you didn't ruin the day.
+
+with a releived sigh, you walk away from the stage; a storm of applause echoing behind you.
+
+...
+
+Okay, enough side tracks. You should got inside and do your job.
+--
+@@#choices;
+<<button [[Next.|Day03LoMartIntro'AmberEvent']]
+>><</button>>
+@@
+
+

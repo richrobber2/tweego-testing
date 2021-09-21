@@ -1,0 +1,16 @@
+:: PlotIntroduction8'1' {"position":"5190,3230","size":"100,100"}
+You feel horrible about it, but tell her everything is fine.
+
+<<set $Depression +=25>>\
+
+$Arisa:
+@@#ArisaText;
+" Onii-cha... what's wrong?"
+@@
+--
+@@#choices;
+<<button [[Tell her the situation.|PlotIntroduction8]]
+>><</button>>
+@@
+
+

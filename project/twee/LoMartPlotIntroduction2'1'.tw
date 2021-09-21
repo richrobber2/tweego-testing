@@ -1,0 +1,42 @@
+:: LoMartPlotIntroduction2'1' {"position":"14290,3510","size":"100,100"}
+<<if $VMachineEvent1 is 1>>After Messing around with the vending machine, you walk towards the automated doors and walk inside.<</if>>\
+<<if $VMachineEvent1 is 0>>You decide not to mess with the vending machine. Only having $Money dollars to your name, it’s best not to spend all your cash on a chance game. You ignore the machine and walk straight into the store.<</if>>
+
+You walk in and are greeted with an isle of fresh produce and a smell of sourdough bread. While the area is well lit, the roof resembles a large warehouse (cobwebs and dust included) which drapes the rafters.
+
+To your left is a small row of registers, and turnstile bagging areas? Each register has a numbered sign which includes crudely drawn anime girls carrying different types of items.
+
+Just above the registers is an 'acre' of female apparel, shoes, undergarments and hidden between the shoes and underwear is a large display case of makeup and cosmetics.
+
+Steering clear of the undergarments, you advance into the girly items to discover a section of stationary, followed by toiletries and a small, glass desk filled with costume jewelry.
+
+Going deeper, you begin to smell a fragrance of flowers being pumped through the exposed vents. Soon after, the smell is replaced by the smell of paper from a few sections of books and (surprisingly) Japanese manga.
+
+The nostalgic odor is soon masked by an area of cleaning chemicals, laundry detergents and aerosols.
+
+What an odd smelling place.
+
+After a short trek, your attention is stolen when you notice a large, hanging display for a new 'Loli'Mon®" game. Your curiosity peeked, you run towards it to discover a surprisingly large electronic section which stocks computers, consoles, games, and gimmicky accessories for the 'YPhone®'.
+
+After a short detour to oversee the selection of games, you spot a seemingly large toy isle that clearly seems to be a main focal point of the store. They mostly sell girls' toys, yet buried deep in the mess of dolls, cartoon toys, and princess cosplay is a lone isle of boy related playthings.
+
+Between the toys and electronics, is a small row of pet food and supplies.
+
+After this, the walkway bends back and you feel your body be molested by multiple rows of refrigerators leaking a slight cold draft.
+
+While you can only assume they are stocked with frozen foods and meats, you're astonished to find a nice selection of seafood and exotic pizzas.
+
+Once you're well chilled from the freezers, you walk back down the lane to find a small tailor desk with tables lined with assorted fabrics and linens, then a small sporting good area and finally, it loops back toward the entrance.
+
+...
+
+What an oddly setup store. More concerning, you didn't seem to notice anyone else in the store.
+
+The store was (or you just assumed was) open, maybe you just came in while they were on break. Maybe you should just come back later.
+--
+@@#choices;
+<<button [[Leave the store.|LoMartPlotIntroduction3]]
+>><</button>>
+@@
+
+

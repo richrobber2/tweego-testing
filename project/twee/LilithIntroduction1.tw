@@ -1,0 +1,44 @@
+:: LilithIntroduction1 {"position":"11350,3090","size":"100,100"}
+<<set $LilithLove +=10>>\
+<<set $LilithStats to 1>>\
+<<set $LilithIntro to 1>>\
+Her heel digs deeper into your hand as she grows more impatient.
+
+Stylish Girl:
+@@#LilithText;
+"Thou wilt answer me right this second or else!"
+@@
+With the pain of the child sized 10 heel, it forces you to confess.
+
+$Name:
+@@#ProtagText;
+"Sorry! I-I was enjoying you pee!"
+@@
+The lass releases her shoe off you and begins the cackle.
+
+Stylish Girl:
+@@#LilithText;
+"Oh~! I didn't expect thee to beest so honest! thou has't self respect after all.."
+@@
+She crosses her arms and stands dominantly over you, her pussy visible from under her dress.
+
+$Lilith:
+@@#LilithText;
+"Older male of honesty, I, $Lilith Von Sinom, care to wager with thee!"
+@@
+She looks from under you and smirks,
+
+$Lilith:
+@@#LilithText;
+"Giveth me twenty dollars and I wilt alloweth thee passeth!"
+@@
+@@#choices;
+What? She will let you walk away from this damning situation for just __twenty dollars__? You decide to:
+@@
+--
+@@#choices;
+<<if $Money gt 26>><<button [[Give her the money.|LilithIntroduction2]]>><</button>><</if>>
+<<button [[Use this chance to escape!|Use this chance to escape]]>><</button>>
+@@
+
+

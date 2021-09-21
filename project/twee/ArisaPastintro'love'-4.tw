@@ -1,0 +1,52 @@
+:: ArisaPastintro'love'-4 {"position":"150,3510","size":"100,100"}
+$Arisa:
+@@#ArisaText;
+"Daddy, wake up!"
+@@
+
+While your sister tried to pound on your chest, you grip the cake tightly and slam it into her tearing face. You forget she's only four years old and your arm punches through her.
+
+Noticing what you just done, you jump back and catch her.
+
+$Arisa's face is covered in cake and a trickle of blood begins to run down her face. She seems confused and understandably in pain from your cake fisted blow.
+
+$Name:
+@@#ProtagText;
+"I'm sorry $Arisa!"
+@@
+
+You cradle her in your arm as you use your white, polo shirt to clean up the mess on her face. As you reveal her face, your sister opens her ocean blue eyes and whilst sniffling, stares at you with surprise.
+
+$Arisa:
+@@#ArisaText;
+"Daddy?"
+@@
+
+You're frozen in time as you both stare into each other’s eyes.
+
+$Arisa really is a handful yet you now feel your suppressed brotherly love start to surface. You ruined her birthday cake and you gave her a hard time leading up to now; her face is bloody and she appears to be on the verge of tears.
+
+$Name:
+@@#ProtagText;
+"I'll- Make it up to you, we can go out to eat."
+@@
+
+Yet, she still seems upset, maybe you should be nicer to her, pretending to choke just to hit her may have left some distrust in your motives.
+
+$Arisa sniffled and tries to wipe her tears away.
+
+$Arisa:
+@@#ArisaText;
+"Can we get a cake?"
+@@
+
+You nod as you pick her up and cradle her to the store.
+
+...
+--
+@@#choices;
+<<button [[Afterwards...|Prointro2]]
+>><</button>>
+@@
+
+

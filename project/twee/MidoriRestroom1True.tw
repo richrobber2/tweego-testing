@@ -1,0 +1,18 @@
+:: MidoriRestroom1True {"position":"10790,3650","size":"100,100"}
+You burst through the door and are surprised to find just one stall and a sink inside. While you attempt to question if this is the boy's restroom, the cramps in your bowels demand you to shit right this moment.
+
+In a haste, you run to the only stall and swing it open.
+
+???:
+@@#LilithText;
+"Oh mine lord!"
+@@
+
+As the door is slammed open, you find a young girl with long, black twin-tails tied with red ribbons, screaming in terror. The girl stares in shock as you notice she is in the middle of urinating.
+--
+@@#choices;
+<<button [[Run out as fast as you can!]]>><</button>>
+<<button [[Apologize and shut the stall door.|LilithIntroduction]]>><</button>>
+@@
+
+

@@ -1,0 +1,21 @@
+:: SuikoHauntingEvent1 {"position":"27590,3510","size":"100,100"}
+As you head outside, you're greeted with a cloudy sky premature with impeding rain.  While you begin to walk to your new job, you feel as if someone is watching you. At first, you ignore this feeling until you find someone blocking your path.
+
+Being too late to react, you collide into the person and fall backwards.
+
+$Name:
+@@#ProtagText;
+"Ow, Sorry about that!  I wasn't-"
+@@
+
+
+You look up and see a small girl in a black hoodie; holding a shreded up rabbit plush. She is holding a purple, rabbit plush head in both her arms and looks down at you; emotionlessly.
+
+The girl's unnatually red eyes look down at you as if you're scum.  While you never seen this girl before, a nagging feeling in the back of your mind is telling you have.
+--
+@@#choices:
+<<button [[Do I know you?|SuikoHauntingEvent1-1]]>><</button>>
+<<button [[Sorry, Are you okay?|SuikoHauntingEvent1-2-1]]>><</button>>
+@@
+
+

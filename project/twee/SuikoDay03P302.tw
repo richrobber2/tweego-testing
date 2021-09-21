@@ -1,0 +1,7 @@
+:: SuikoDay03P302 {"position":"35290,1830","size":"100,100"}
+You attempt to remember how $Suiko could have had your old jacket for so long? Hell, you're even more confused on how you didn't notice this was your jacket when you stitched Mr.Rabbit-!
+
+...
+<<timed 7s>><<goto [[SuikoDay03P03FlashBack]]>><</timed>>
+
+

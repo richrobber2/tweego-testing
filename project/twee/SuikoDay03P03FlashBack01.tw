@@ -1,0 +1,19 @@
+:: SuikoDay03P03FlashBack01 {"position":"35990,1410","size":"100,100"}
+While you expected the rain to hinder your vision, it's proving to be worse then you antisipated. Gusts of wind seem to guide you aimlessly across the non-visable sidewalk as you fight against your umbrella. Without a sense of direction, you let your feet guide you along the barely visable sidewalk and find yourself utterly discombobulated.
+
+The rain starts spraying into your eyes and to add to the uselessness of your umbella, a surge of wind rips it out of your grasp and you fruitlessly dart after it.
+
+$Name:
+@@#ProtagText;
+"Damn it!"
+@@
+
+You can only focus on the the now tattered umbrella as it darts foward without you; being the only 'guide' you have. as long as you remain on the sidewalk, you'll eventully reach the arcade.
+
+This doesn't go as planned as the wind makes you its bitch and somehow stumble onto grass.
+--
+@@#choices;
+<<button [[Try to remember.|SuikoDay03P03FlashBack02]]>><</button>>
+@@
+
+

@@ -1,0 +1,16 @@
+:: Grab the spindle {"position":"2810,3230","size":"100,100"}
+<<set $drawer2 to 1>>
+<<seen>>
+    <<pickup '$playerinventory' unique 'spindle of thread'>>
+    <<notify 'info'>>You recieved a spindle of thread<</notify>>
+<<hidden>>
+<<content>>
+Blowing a layer of dust off the spindle, you retrieve it and put it next to Mr.Rabbit. You hope the thread is strong enough to properly hold his parts together. <<set $drawer2 to 1>>
+--
+<</seen>>
+@@#choices;
+<<button [[Look back inside drawer.|Look inside the drawer for supplies]]
+>><</button>>
+@@
+
+

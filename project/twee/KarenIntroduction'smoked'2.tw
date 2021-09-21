@@ -1,0 +1,63 @@
+:: KarenIntroduction'smoked'2 {"position":"16250,3510","size":"100,100"}
+<<if $Karenpantiesevent is 0>>
+Looking at $Karen's size, blue school uniform and flat bosom you can clearly tell she is still a kid.
+
+You crack a smile and $Karen responds by puffing out her cheeks.
+
+$Name:
+@@#ProtagText;
+"Only a kid would say that!"
+@@
+Acting cool, you dramatically flick your cigarette and watch the girl’s eyes glare at protest of what you just said.
+
+$Karen:
+@@#KarenText;
+"I'm not a kid! Here, I'll show you!"
+@@
+Placing the still burning cigarette in her mouth, the kid dismounts off the bench and positions herself in front of you.
+
+$Karen:
+@@#KarenText;
+"Would a child know you men like this?!"
+@@
+
+Wearing a determined smile, the school girl reaches down toward the bottom edge of her skirt and slowly pulls it up.
+
+Your attention is quickly directed to this girl as she finally lifts her skirt and exposed a contradicting pair of white panties.
+
+$Karen:
+@@#KarenText;
+"See, only an adult like myself would know what would turn on a man!"
+@@
+
+Looking at the girl's panties, it doesn't actually help her case.
+
+While you’re enjoying the show, you notice this 'adult' is wearing a very childish pair of panties.
+
+Her panties are all white (possibly cotton) and has a cute 'Pedro Bear' design on the front.
+
+The mustachioed bear design is from a Saturday morning cartoon made for kids; she's obviously still a kid.
+
+$Karen:
+@@#KarenText;
+"Well, say something. This is getting embarrassing~"
+@@
+
+Still displaying her bear panties, you decide to:
+<</if>>\
+<<if $Karenpantiesevent is 1>>
+After getting a good look at her panties, you draw your cigarette back towards your mouth and look up toward her. $Karen locks eyes with you and seems nervous.
+
+Having your fun, you decide to think with your head and realize you need to act like a proper role model.
+
+You need to explain to her that adults don't act so shameful.
+<</if>>\
+--
+@@#choices;
+<<if $Karenpantiesevent is 0>><<button [[Admire her panties.|KarenIntroduction'smoked'3]]
+>><</button>><</if>>
+<<button [[Scold her!|KarenIntroduction'smoked'3'1']]
+>><</button>>
+@@
+
+

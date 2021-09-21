@@ -1,0 +1,41 @@
+:: Arisaintrochoice2 {"position":"4070,2950","size":"100,100"}
+<<set $introchoice1 to 1>>\
+<<if $yelledatarisa is 1>>\
+<<set $ArisaLove +=10>>\
+$Name:
+@@#ProtagText;
+"I'm proud of you sis! To think you'd go behind my back to help someone!"
+@@
+
+Your sister senses your sarcasm, but boisterously laughs it off and smiles,
+
+$Arisa:
+@@#ArisaText;
+"I know it was wrong but I hoped you could help her get into games so she can relax! I thought it would calm her down! she's always so tense about her stupid baseball team!"
+@@
+
+You take a breath, knowing she is upset about you yelling at her earlier, but you can't help but not be proud of her.
+
+You deliver two pats to her blond numskull and apologies.
+<</if>>\
+<<if $yelledatarisa is 0>>
+<<set $ArisaLove +=20>>\
+$Name:
+@@#ProtagText;
+"I'm so proud of you $Arisa! I'm happy you decided to help out a friend! She seemed happy that I gave her my hand-held. It was as if you planned this all out!"
+@@
+
+$Arisa smiles and squeezes you tighter.
+
+$Arisa:
+@@#ArisaText;
+"Yay! Onii-chan praised me~ I knew that letting her try out a video game would calm her down! she always stresses about her baseball team so I hope this will help her relax and enjoy herself~!"
+@@\
+<</if>>\
+--
+@@#choices;
+<<button [[Ask her more questions.|RediaRouteOne 6]]
+>><</button>>
+@@
+
+

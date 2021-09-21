@@ -1,0 +1,28 @@
+:: KarenIntroduction'didntsmoke'2 {"position":"16670,3510","size":"100,100"}
+<<set $KarenLove -=20>>\
+You give the girl a mean look.
+
+$Name:
+@@#ProtagText;
+"Because I'm old enough to smoke! If I want to smoke I damn well please!"
+@@
+
+You stomp down on now destroyed cigarette box from underneath your shoe and give the girl a dirty look. The girl seems upset by your stupid excuse and clinches her hands into a fists.
+
+Girl:
+@@#KarenText;
+"Fucking adult! Telling me I can't smoke!"
+@@
+The girl stand up and starts to stomp her feet.
+
+Girl:
+@@#KarenText;
+"If I want to smoke I damn well please! What makes you think you can tell me how to live my life!?"
+@@
+--
+@@#choices;
+<<button [[Explain why she can't smoke.|KarenIntroduction'didntsmoke'2'1']]
+>><</button>>
+@@
+
+

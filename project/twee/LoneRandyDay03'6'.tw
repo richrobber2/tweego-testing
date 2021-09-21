@@ -1,0 +1,61 @@
+:: LoneRandyDay03'6' {"position":"28850,4350","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Think nothing of it! I see it as helping a friend. If I wanted a dress at your age I'd be happy if someone wanted to help me. I'm glad you see me as that person."
+@@
+
+You put your money back into your breast pocket and as you look back at $Randy who is giving you a smug smile.
+
+$Randy:
+@@#RandyText;
+"Oh? So you wanted to crossdress as a kid as well?"
+@@
+
+Wut?
+
+You nervously chuckle until the boy walks up to you and gives you a quick embrace.
+
+$Randy:
+@@#RandyText;
+"Thank you $Name! I'm glad even a adult like you understands that."
+@@
+
+While you never said you wanted to crossdress as a kid, you find the best thing to do is to not say anything; he seems happier thinking this.
+
+$Name:
+@@#ProtagText;
+"No problem! So you take this path to go to school?"
+@@
+
+$Randy releases you and says,
+
+
+$Randy:
+@@#RandyText;
+"Yeah, I take this route to head to school everyday I'll pick the dress up then!"
+@@
+
+
+$Randy then starts to blush as his uneasy expression changes to one of excitement.
+
+$Randy:
+@@#RandyText;
+"I got to go now so I'll see you then, $Name~"
+@@
+
+With that said, He awkwardly bows and then runs down the path and out of your sight(Assumingly heading to Midori Elementary.)
+
+As you stand there still confused from the whole situation you can only ponder if you can even find a dress he would like.
+
+Maybe $Amber could help you with that.
+
+...
+
+Enough wasting time, you should head to work before it's too late.
+--
+@@#choices;
+<<button [[Head to work.|Day03LoMartIntro]]
+>><</button>>
+@@
+
+

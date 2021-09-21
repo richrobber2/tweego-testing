@@ -1,0 +1,55 @@
+:: ArisaLoveEvent'correct' {"position":"23810,3930","size":"100,100"}
+You blush at your worried sister as she heartfelt admitted she did everything today because she loves you.
+
+Seeing her as your caring little sister, you're not surprised about her pursuit to help you out so much....Even after the mean and distant ways you showed your 'love' for her.
+
+Despite some reserve, you say;
+
+$Name:
+@@#ProtagText;
+"The reason is because it's heartwarming and cute."
+@@
+
+Taking her off guard, you lean close to her and pat her bushy blond hair.
+
+$Name:
+@@#ProtagText;
+"-And I'm thankful for having s little sis I used to treat like crap still want to help me."
+@@
+
+You stop rubbing her head then firm embrace your sister in a loving hug.You think of how much $Arisa goes out of her way to help you in a lot of things; Your dear sister still tolerates you despite being annoying at times.
+
+She really cares about you.
+
+$Name:
+@@#ProtagText;
+"After everything I did to you as a kid, you still love me; I'm glad you think of me in such a way."
+@@
+
+Your sister blushes as if you just admitted love to her and panics into a ball on her bed..this time she seemed excited about this news.
+
+$Arisa:
+@@#ArisaText;
+"That's-one way to put it....um, you can go now Onii-chan..um.."
+@@
+
+Your sister gestures a finger to her doorway and quietly requests,
+
+$Arisa:
+@@#ArisaText;
+"Please....no other things to ask for, go aw-way!~"
+@@
+
+Feeling a bit awkward, you get up and walk out of your sister's room.As you walk toward your room in the hallway,  you can faintly overhear $Arisa screaming in excitement.
+
+...
+<<set $ArisaLove +=80>>\
+
+Once you get to your room, you lay down on your bed and look at your television; thankfully it's already idling on a movie selection screen.
+--
+@@#choices;
+<<button [[Check out the television.|ArisaEvent3'Intro']]
+>><</button>>
+@@
+
+

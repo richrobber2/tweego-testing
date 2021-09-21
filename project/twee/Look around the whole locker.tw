@@ -1,0 +1,20 @@
+:: Look around the whole locker {"position":"11630,3650","size":"100,100"}
+Noticing the text books are slightly pushed out, you look behind them to find a small plush key chain of Mr.Rabbit collecting dust in the corner.
+
+You pick up the small trinket and wonder where it came from.
+
+Odd, was someone else using your old locker? you never told anyone the combination and even jammed the lock so it couldn't be changed.
+<<pickup '$playerinventory' 'Rabbit chain'>>
+<<seen>>
+    <<notify 'info'>>You picked up a a small plush key chain of Mr.Rabbit<</notify>>
+<<hidden>>
+<<content>>
+<</seen>>
+...
+--
+@@#choices;
+<<button [[Take the toy and shut the locker.|Shut the locker]]
+>><</button>>
+@@
+
+

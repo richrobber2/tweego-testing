@@ -1,0 +1,40 @@
+:: Day03LoMartIntroSinom {"position":"32910,3930","size":"100,100"}
+You're taken by surprise by how drained the silver haired Sinom looks. Normally, Sinom is very chipper and would have gave you a 'Sinom hug' but he appaears to be half awake and struggling to stay awake.
+
+As you walk towards Sinom (ignoring $Lilith) you notice.... A smell of hard liquor.
+
+Oh no...
+
+As you look back up towards Sinom, his glossed over eyes locks with yours and he shrugs his shoulders. He then suddenly announces to his daughter;
+
+Sinom:
+@@#NPCText;
+"$Lilith darling, Could you go elsewhere for a moment? I need to talk to $Name."
+@@
+
+$Lilith jumps to turn around and smiles childishly at her dad.
+
+$Lilith:
+@@#LilithText;
+"No problem daddy! lest I sure thee needeth to talk about art marriage. Hehe~"
+@@
+
+Sinom laughs and politely pushes his daughter away half-hazardly.
+
+$Lilith seems upset, but while she walks away she quickly flashes a 'peace' sign at you and exits with a childish laugh.
+
+...
+
+With her out of the way, the atmosphere turns dark as you hear Sinom state,
+
+Sinom
+@@#NPCText;
+"Like old times, huh $Name?"
+@@
+--
+@@#choices;
+<<button [[Smack him!|Day03LoMartIntroSinomTrue]]>><</button>>
+<<button [[Confront this problem casually.|Day03LoMartIntroSinomPassive]]>><</button>>
+@@
+
+

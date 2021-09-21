@@ -1,0 +1,39 @@
+:: LoneRandyDay03fail {"position":"28990,3650","size":"100,100"}
+<<if $SuikoLetter is 0>>\
+You decide to stand awkwardly on your front porch and let $Randy walk past; unannouced to your presense. It would've been nice to have someone to talk to whilst heading to work, you assume walking with a preubesent boy would possible get you arrested.
+
+...Still would have been nice to talk to him.
+
+Once $Randy is out of sight, you take the lone trek to LO-Mart.
+--
+@@#choices;
+<<button [[Next|Day03LoMartIntro]]
+>><</button>>
+@@
+<</if>>\
+<<if $SuikoLetter is 1>>\
+You decide to stand awkwardly on your front porch and let $Randy walk past; unannouced to your presense. It would've been nice to have someone to talk to whilst heading to work, you assume walking with a preubesent boy would possible get you arrested.
+
+...
+
+Whilst waiting on your porch, you look under your doormat and notice a piece of paper slightly sticking out from underneath.
+
+It's the letter from yesterday...
+
+Reaching under the mat, you retrive the now soaked letter into your grasp. As you look at the peeling , purple heart sticker a damning realization washes over you.
+
+Your job starts at 9am and $Suiko requested to see you at 9am. 
+
+You open the letter again but find the once readable letter is now smeared by the morning dew and slightly damp. You can't possibly abandon your first day of work but you're also worried and want see $Suiko.
+
+Do you decide:
+--
+@@#choices;
+<<button [[Work is more important.|PreSuikoRouteDay03'fail']]
+>><</button>>
+<<button [[Quickly go and visit her.|PreSuikoRouteDay03'pass']]
+>><</button>>
+@@
+<</if>>\
+
+

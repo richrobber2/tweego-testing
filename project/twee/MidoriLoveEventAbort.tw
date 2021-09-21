@@ -1,0 +1,17 @@
+:: MidoriLoveEventAbort {"position":"8130,3930","size":"100,100"}
+Knowing you simply can't win, you decide it's a lost cause and sigh in defeated annoyance.
+
+$Name:
+@@#ProtagText;
+"I'll just be one my way then. I-Got a lost girl to find."
+@@
+
+Seeing this as a chance to escape commitment, the fairy snaps her fingers and time seems to freeze and buffer.
+
+...
+--
+@@#choices;
+<<button [[Next.|MidoriTeleport1]]>><</button>>
+@@
+
+

@@ -1,0 +1,68 @@
+:: ArisaPastIntro'Hate'1 {"position":"10,3090","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Give up already! No one will ever love me!"
+@@
+
+Your voice echoes in the room; taunting the sad ideals you’ve chosen. The words rings too much sad truth and dampers your once superior ego.
+
+You don’t need love! Only a weakling relies on others!
+
+$Name:
+@@#ProtagText;
+"I...Don't need love..."
+@@
+
+Your sister wastes no time to rebuttal and pouts.
+
+Twerp:
+@@#ArisaText;
+"Then... I’ll um...”
+@@
+
+She puts a finger to her to her lips as if to choose the right words then blurts out with newfound pride,
+
+$Arisa:
+@@#ArisaText;
+“I want to…I will Love you-! For everyone who hates you!"
+@@
+
+She then walks toward you in an unwanted advancement for a…hug? Finding yourself conflicted with the realization no one loves you, a sad irony rings true;
+
+She may be the only one who loves you.
+
+Despite this, you tell her:
+
+$Name:
+@@#ProtagText;
+"No one loves me $Arisa but-!"
+@@
+
+She looks up at you and with her ocean blue eyes peering into your soul she squeezes you tighter.
+
+$Arisa:
+@@#ArisaText;
+"If I can show 'Daddy' what love is then he will want to be my dad!"
+@@
+
+You're confused yet can’t say you're not touched. Trying to deny $Arisa is starting to become a challenge.  In this sad world you live in, could $Arisa be the only person who loves you?
+
+You defiantly push $Arisa away and start to laugh. Nothing is funny but you can't convey your feelings.
+
+The four year old twerp...Um..Your sister looks confused at first then smiles.
+
+$Arisa:
+@@#ArisaText;
+"Daddy, Are you crying~"
+@@
+
+You get ready to raise your voice and deny her allegations but you feel a single tear slide down your cheek. An attempt to say something falls mute and you smile. What a weak willed person you’re starting to become. Looking down at your sister, you feel as if she may be the only one who wants to love you.
+
+Cute.
+--
+@@#choices;
+<<button [[Afterwards...|Prointro2]]
+>><</button>>
+@@
+
+

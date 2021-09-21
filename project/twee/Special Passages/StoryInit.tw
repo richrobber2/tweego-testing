@@ -1,0 +1,111 @@
+:: StoryInit {"position":"807,147","size":"100,100"}
+<<newmeter '$CashMeter'>><<label '$Money'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'gold' '#7fc5fa'>>
+<</newmeter>>
+<<newmeter '$ProtagDepressionMeter'>><<label '$Depression'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'grey' '#7fc5fa'>>
+<</newmeter>>
+<<newmeter '$ProtagFatigueMeter'>><<label '$Fatigue'>>
+    <<animation 300ms>>
+    <<colors 'yellow' '#abb9c4' '#7fc5fa'>>
+<</newmeter>>
+<<newmeter '$ProtagMoralityMeter'>><<label '$Corruption'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'black' '#7fc5fa'>>
+<</newmeter>>
+<<newmeter '$ProtagLibidoMeter'>><<label '$Libido'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'orange' '#7fc5fa'>>
+<</newmeter>>
+\
+<<newmeter '$arisalovebar'>><<label '$ArisaLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+<<newmeter '$arisahatebar'>><<label '$ArisaHate'>>
+    <<animation 300ms>>
+    <<colors 'red' 'yellow' '#7fc5fa'>>
+<</newmeter>>
+<<newmeter '$arisamoodbar'>><<label '$ArisaDepression'>>
+    <<animation 300ms>>
+    <<colors 'grey' 'silver' '#7fc5fa'>>
+<</newmeter>>
+\
+<<newmeter '$redialovebar'>><<label '$RediaLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+
+<<newmeter '$suikolovebar'>><<label '$SuikoLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+
+<<newmeter '$saralovebar'>><<label '$SaraLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+
+<<newmeter '$randylovebar'>><<label '$RandyLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+
+<<newmeter '$lilithlovebar'>><<label '$LilithLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+
+<<newmeter '$amberlovebar'>><<label '$AmberLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+
+<<newmeter '$karenlovebar'>><<label '$KarenLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+
+<<newmeter '$midorilovebar'>><<label '$MidoriLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+
+<<newmeter '$irisulovebar'>><<label '$IrisuLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+
+<<newmeter '$sulozilovebar'>><<label '$SuloziLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+
+<<newmeter '$lupitalove'>><<label '$LupitaLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+
+<<newmeter '$mikanlovebar'>><<label '$MikanLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+
+<<newmeter '$nanakolovebar'>><<label '$NanakoLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+
+<<newmeter '$clauselovebar'>><<label '$ClauseLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+
+<<newmeter '$vivianlovebar'>><<label '$VivianLove'>>
+    <<animation 300ms>>
+    <<colors 'yellow' 'red' '#7fc5fa'>>
+<</newmeter>>
+
+<<newinventory '$playerInventory'>>

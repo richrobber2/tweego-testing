@@ -1,0 +1,77 @@
+:: RediaBestFriendEvent1'2' {"position":"13590,3370","size":"100,100"}
+<<set $RediaLove += 20>>\
+<<if $RediaEvent1 is 1>>
+Pedosexual?!
+
+You think for a while and recall the events of yesterday where your sister explained 'eroge reasoning' to her.
+
+$Redia:
+@@#RediaText;
+"You do like young girls! This is perfect!"
+@@
+She seems delighted about knowing you're a pedosexual. Before it escalates, you tell her,
+
+$Name:
+@@#ProtagText;
+"Whoa now, $Redia! I do love girls but-!"
+@@
+
+She, like many others, interrupt your speechs and she adds,
+
+$Redia:
+@@#RediaText;
+"I never had a guy of any age say I was cute! Most think I am too boyish or mean to be anything but a annoyance! All boys my age are immature, mean, uncaring or are jerks, $Name! You've made my day!"
+@@
+
+While this might prevent her from thinking you're some creep this seems like a bad situation to be in.
+<</if>>
+<<if $RediaEvent1 is 0>>
+Pedosexual?!
+
+You try to think of how she knew that, but she follows with,
+
+$Redia:
+@@#RediaText;
+"$Arisa was right! You're someone who's nice and caring; who loves kids! I have trouble finding anyone who thinks I'm not just some rude or ugly girl!  All boys my age are immature, mean, uncaring or are jerks, $Name! You've made my day!"
+@@
+
+She seems not to know the real definition pedosexual. Before it escalates, you tell her,
+
+$Name:
+@@#ProtagText;
+"Whoa now, $Redia! I do love girls but That word means...”
+@@
+
+She stares into your eyes and slowly starts to frown but then returns to a delighted smile.
+
+$Redia:
+@@#RediaText;
+"You don't like kids? Hehehe~ you liar! $Arisa wouldn't have told me the differences between a pedophile and a pedosexual if you weren't one! You so far only seem caring and nice!"
+@@
+
+WHAT! While this might prevent her from thinking you're some creep this seems like a bad situation to be in.
+<</if>>\
+
+$Redia:
+@@#RediaText;
+"Hey! Let's take a shower together! You are sweating pretty badly so this is a great chance to clean up as well!"
+@@
+
+OH SHITBRICK! It's turning into a bad situation!
+
+$Redia starts to pull at your shirt but can’t seem to reach over your head.
+
+$Redia:
+@@#RediaText;
+"It's okay! I always wanted a bathing partner! We are best buddies after all!"
+@@
+
+She childishly turns around and runs towards the shower room; skipping on the black checkerboard tiles along the way.
+--
+@@#choices;
+<<button [[Undress and take a shower.|RediaBestFriendEvent1'3']]>><</button>>
+<<button [[Tell her you gotta go!|RediaEvent2'10'1]]
+>><</button>>
+@@
+
+

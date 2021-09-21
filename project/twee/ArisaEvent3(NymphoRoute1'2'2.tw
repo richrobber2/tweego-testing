@@ -1,0 +1,20 @@
+:: ArisaEvent3(NymphoRoute1'2'2 {"position":"21290,4070","size":"100,100"}
+Enough games! $Arisa even got her hair dyed a tint of pink.  As her parental figure you have to put a stop to this!
+
+<<set $ArisaLove -=20>>\
+
+$Arisa jerks away from you and pouts.
+
+$Arisa:
+@@#ArisaText;
+"I thought Onii-Chan liked slutty girls?!"
+@@
+--
+@@#choices;
+<<button [[I do but this is wrong!|ArisaEvent3'NymphoReject'1]]
+>><</button>>
+<<button [[I sure do!|ArisaEvent3'NymphoReject'1-1]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,37 @@
+:: RediaEvent2'9' {"position":"13030,4350","size":"100,100"}
+<<set $RediaBruises to 1>>\
+Trying not to hurt her ankle, you slide one arm under her knees and lift her up while supporting her back.
+
+The petite Hellcat begins to protest.
+
+$Redia:
+@@#RediaText;
+"Wha-?! Don't carry me like I am a bride or a princess! GAH!!!!"
+@@
+
+She flails for a while until she finally gives up; crossing her arms in defiance.
+
+She gives you a pout and looks away from you.
+
+$Name:
+@@#ProtagText;
+"You said to pick you up! Come now, you need to wash up!"
+@@
+
+$Redia:
+@@#RediaText;
+"Tsk! Whatever~....OW!!"
+@@
+
+Assuming you hurt her leg, she slaps you in the face. While it hurt and your face swells red, you ignore it.
+
+...
+
+Based are your 'excellent' tracking skills, you carry her off the field into the outdoor locker room.
+--
+@@#choices;
+<<button [[Sit her down.|RediaEvent2'10']]
+>><</button>>
+@@
+
+

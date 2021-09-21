@@ -1,0 +1,26 @@
+:: setup1.4 {"position":"430,1690","size":"100,100"}
+@@#choices;
+Your little sister's name:
+@@\
+@@#ProtagText;
+<<textbox "$Arisa" "">>
+@@\
+@@#choices;
+The Tomboy?:
+@@\
+@@#ProtagText;
+<<textbox "$Redia" "">>
+@@\
+@@#choices;
+The Timid Girl?:
+@@\
+@@#ProtagText;
+<<textbox "$Suiko" "">>
+@@\
+
+--
+@@#choices;
+<<button [[Confirm Data|setup1.5]]>><</button>>
+@@
+
+

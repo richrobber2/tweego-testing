@@ -1,0 +1,45 @@
+:: MidoriWishEvent'loveselection' {"position":"7990,3090","size":"100,100"}
+Midori looks at you with a smug smile.
+
+$Midori:
+@@#MidoriText;
+"What a cute human you are~! I don't see much girls you know but I'll assume you mean the kids peoples like $Arisa, $Redia and $Suiko.  I can also make that girl you're looking for like you more-many!"
+@@
+
+$Midori spins around in orbit and while laughing, points at you in disbelieving humor.
+
+$Midori:
+@@#MidoriText;
+"What a weirdo! I just hope your weirdo-strange behavior doesn't rub off on me-I!"
+@@
+
+While you are laughing in the inside about her cute, arrogant voice you're amazed to bear witness to an actual fairy...
+
+The one the town is named after as well as the school, park and hospital!
+
+$Name:
+@@#ProtagText;
+"Thanks a lot. I'm still amazed to see a fairy and this whole-!"
+@@
+
+Seems like even magical, wish giving fairies like to cut you off.
+
+$Midori quickly and proudly exclaims while bringing her small hand to a fist and preparing a snap,
+
+$Midori:
+@@#MidoriText;
+"You sure like to babble~ Shut-Quiet up or I'll drown you...tehe~"
+@@
+
+You take a step back out of fear then relax after noticing no violence.
+--
+@@#choices;
+<<if $SuikoErased is 1>><<button [[Wish for ??? back.|MidoriWish'SuikoErased']]>><</button>><</if>>
+<<if $SuikoErased is 0>><<button [[Wish for the hooded girl to love you more.|Midori Wish'SuikoLove']]>><</button>><</if>>
+<<button [[Wish for Redia to love you more.|MidoriWish'RediaLove']]
+>><</button>>
+<<button [[Wish for your sister to love you more.|MidoriWish'ArisaLove']]
+>><</button>>
+@@
+
+

@@ -1,0 +1,30 @@
+:: BAD END 6: The Lost Woods {"position":"990,290","size":"100,100"}
+/* TODO add code for achievment here */
+5 DAYS LATER.
+
+After walking for so long without food or water you feel your legs collapse and your body falls like a dead weight. You had good intentions, you thought to yourself that having a purpose would help you escape this prison of green.
+
+-But life doesn’t' work like that.
+
+As you lay crippled from exhaustion on the forest floor, you feel your breath start to slow down and your sore body begins to go numb. Your vision is starting to fade as everything starts to blur into a tint of green.
+
+As you feel yourself start to fade into the forest itself, all the warnings and memories about Midori Forest start to echo in your brain:
+
+"The foolish will surely get lost!"
+
+You argue that you're not a fool but if you just would have just took more time to plan out your routes; you wouldn't be in this situation.
+
+You're a fool.
+
+You blindly went into the woods without caring about your direction of bearings;
+
+<font size="3.5"><font color="#f23d00"><b>[-AND NOW YOU WILL BECOME A PART OF THE WOODS.]</b></font>
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 6: The Lost Woods.">><<script>>Engine.restart();<</script>><</button>>
+@@
+
+

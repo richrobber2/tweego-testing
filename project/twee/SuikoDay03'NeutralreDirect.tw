@@ -1,0 +1,29 @@
+:: SuikoDay03'NeutralreDirect {"position":"30950,1410","size":"100,100"}
+<<set $SuikoHate to 50>>\
+<<set $AndyCounter +=1>>\
+Instead, you just walk away. Her crying echos in your mind and you just want out of this situation.
+
+...
+
+Walking far enough, you realize you were walking the wrong path back upon finding yourself by some old railroad crates rusted seized to the rails. Breaking out of your stoic trance , you take in your situation.
+
+You just walked away from her. You're normally not that rude but you couldn't handle that situation. Maybe next time, you should be the ADULT you claim to be and help a child.
+
+Even in your own eyes you feel like a coward. Despite your mood falling to depression worst then yesterday, you tell yourself it was all a misunderstandings and....Lie to yourself.
+
+@@#EffectText;
+BANG,BANG BANG!
+@@
+
+-That's when you notice one of the carts are rattling and banging, almost as if something was inside. The best course of action is to run away, but being this close to them will get you noticed.
+
+While thinking of your next move, the cart a few feet from you rattles as the metal frame door on it slams open.
+
+Shit! You gotta get out of here.
+--
+@@#choices;
+<<button [[Run away.|AndyRedirectRunAway]]>><</button>>
+<<timed 30s>><<goto [[AndyNoSuikoIntro]]>><</timed>>
+@@
+
+

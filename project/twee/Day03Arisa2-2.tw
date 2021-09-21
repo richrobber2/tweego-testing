@@ -1,0 +1,24 @@
+:: Day03Arisa2-2 {"position":"26610,3930","size":"100,100"}
+You decide it isn't a hassle to worry about her. $Arisa walks that path every week with you; she must have wanted to make sure you weren't slowed down by her.
+
+$Name:
+@@#ProtagText;
+"Whatever, If you have any problems please call me! You know I worry about you, $Arisa."
+@@
+
+'CLICK'.
+
+...
+
+$Arisa abruptly hangs up the phone, leaving you a bit concerned. Thing about her past ventures alone, she might be trying to spy on you. Oh well, might be for the best.
+
+Judging by the time you have some some to spare.
+
+After placing your phone back into your breast pocket,  you grab the house keys and head towards the door...  
+--
+@@#choices;
+<<button [[Next.|Day03PreLoMart]]
+>><</button>>
+@@
+
+

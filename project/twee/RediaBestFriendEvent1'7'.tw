@@ -1,0 +1,32 @@
+:: RediaBestFriendEvent1'7' {"position":"13730,4070","size":"100,100"}
+Although $Redia's jacket is now wet from your water fight, you don't have any cloths you can give her. Anticipating the damp cold, $Redia slides both arms through the sleeves and shivers.
+
+$Redia:
+@@#RediaText;
+"Well...th-his sucks!"
+@@
+
+Still shaking from the cold, she zips her jacket up and begins to collect her belongings. Ensuring her hand held is in her pants, she looks up at you and smiles.
+
+$Redia:
+@@#RediaText;
+"I got to get ready for class soon. I hope to see you soon $Name!"
+@@
+
+With that she quickly leans over toward you and gives you an unintentionally cold embrace.
+
+$Redia:
+@@#RediaText;
+"Thanks for today, Bro!"
+@@
+
+Before you can reply, you hear the school bell ring and she quickly runs out of the locker room.
+
+...
+--
+@@#choices;
+<<button [[Get dressed and think about what happened.|RediaBestFriendEvent1'8']]
+>><</button>>
+@@
+
+

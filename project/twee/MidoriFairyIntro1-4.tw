@@ -1,0 +1,64 @@
+:: MidoriFairyIntro1-4 {"position":"6730,2950","size":"100,100"}
+Mysterious Little Girl:
+@@#MidoriText;
+"Το cWho είναι εσείς;"
+@@
+
+The girl's unknown dialect falls on your deaf ears yet her voice seems to radiate in the encapsulated pond; causing the flower pedals above to rain down dramatically.
+
+$Name:
+@@#ProtagText;
+"Um, are you....Okay?"
+@@
+
+The girl in organic attire brushes herself off and then politely stands before you.
+
+Mysterious Little Girl:
+@@#MidoriText;
+"Σας ευχαριστήστε ανθρώπινους! Επιτρέψτε σε με για να εισαγάγετε myself~ εγώ είναι!"
+@@
+
+The well composed girl then looks down at her body and sheiks in terror.
+
+Mysterious Little Girl:
+@@#MidoriText;
+"Αυτό δεν είναι το ελάττωμά μου! Δεν είναι εγώ! Αυτός ο ερπυσμός πρέπει να είναι παιδόφιλος! Μου έδωσε ένα τέτοιο άσεμνο, παιδαριώδες σώμα! Θα τον σκοτώσω! Είναι νεκρός!"
+@@
+
+She sighs and slouches; defeated, then annoyingly says;
+
+Mysterious Little Girl:
+@@#MidoriText;
+Ω! εννοώ..
+@@
+
+While you know she is speaking Greek, you sadly can't understand her. Her almost baby like voice is oddly soothing and almost dances with the air itself. She then gestures a fist with the index finger erect.
+
+Mysterious Little Girl:
+@@#MidoriText;
+Περιμένετε ένα μετρονόμο!
+@@
+
+Relaxed listening to this girl's voice, you're taken off guard as the girl teleports in front of you; hovering a good three feet off the ground, and while giving you the dirtiest look, she rams her lips into yours...Knocking you off your baring and leaving you in shock.
+
+After the sudden assault, the girl of green starts to stand politely and unprofessionally clears her throat,
+
+<<set $MidoriStats to 1>>\
+
+$Midori:
+@@#MidoriText;
+"You're quite the weirdo~ sorry I couldn't understand you so I decided to read your mind! Haha! As an almighty and magical fairy of Midori Acres! I can do almost anything!!"
+@@
+
+@@#EffectText;
+Wut?!
+@@
+
+Midori....This forest fairy, is not only a god damned fairy but a loli no less! You feel lucky and thankful you saved her but you must get going that little girl needs help!
+--
+@@#choices;
+<<button [[Act Calmly.|MidoriFairyIntro1-5'calm']]>><</button>>
+<<button [[Ask if she's okay.|MidoriFairyIntro1-5]]>><</button>>
+@@
+
+

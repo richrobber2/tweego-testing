@@ -1,0 +1,22 @@
+:: MidoriSchool4'1' {"position":"10932,3503","size":"100,100"}
+<<set $LockerEventScene to 1>>\
+Before heading to the main office, you decide to ponder around the old halls you used to idle in a long time ago.
+
+Observing the wall of lockers, you are shocked to find your old number collecting grime at the far edge of the hall.
+
+@@#EffectText;
+	#214
+@@
+
+You smile as you brush the thick dirt and reveal a old 'Loli'Mon®' sticker you placed on it years ago.
+
+A memory appears upon viewing the stamp.
+
+...
+--
+@@#choices;
+<<button [[Next.|LockerEvent]]
+>><</button>>
+@@
+
+

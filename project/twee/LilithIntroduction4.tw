@@ -1,0 +1,80 @@
+:: LilithIntroduction4 {"position":"11350,3510","size":"100,100"}
+<<set $LilithPanties to 1>>\
+<<set $LilithIntro to 1>>\
+You both stare at each other until the girl uncups her hands off herself, pats her dress down and smirks,
+
+$Lilith:
+@@#LilithText;
+"Well, well well ah..~I must sayeth, thou didst a most wondrous job~."
+@@
+
+She walks to her bloomers (which now rests on the ground), and tosses them to you. Whilst you don't know why, you snatch them from the her and inspect them.
+
+The are a small, yet old style of bloomers with black drawstrings and slightly stained with pee.
+
+You look up at the pantyless $Lilith and unsteadily fondle the cotton bloomers.
+
+$Name:
+@@#ProtagText;
+"Why are you-!"
+@@
+
+Like many other girls you know, she cuts you off mid sentence.
+
+$Lilith:
+@@#LilithText;
+"Ponder it a token of mine gratitude, um... Who art thee?"
+@@
+Oh yeah! You didn't tell her your name at all! you assume you were too busy being assaulted to ask... Silly you.
+
+$Name:
+@@#ProtagText;
+"Well, My name is $Name! Um, you said you are $Lilith? Like the demon in Jewish tales?"
+@@
+
+$Lilith brings her wrist to her mouth and coyly chuckles; if flattered.
+
+$Lilith:
+@@#LilithText;
+"Well art thee not the observant young sir! Ohohoh~  methinks I taken a liking to thee."
+@@
+
+'Thee', 'art' and 'methinks'? Her vocabulary is quite colorful for such a young girl...
+
+-If not unfitting of this generation.
+
+$Lilith:
+@@#LilithText;
+"Well, I am the reincarnation of the very same demon. I would of have killed thee if 't be true thee wast a normal pervert but, I wast surprised to beest fooled by how honest thee wast. Inside mine undergarment art a telephonic number in case thee ever wanteth to reacheth me."
+@@
+
+You look inside her underwear you find a tag inside that reads:
+<<seen>>
+    <<pickup '$playerinventory' 'Liliths Bloomers'>>
+<<hidden>>
+    <<notify 'info'>>You no longer have sewing tools<</notify>>
+<<content>>
+@@#EffectText;
+	"Property of Lilith Von Sinom"
+	      '(XXX)-XXX-5309'
+@@
+She walks toward you and drifts her hand onto your cheek.
+<</seen>>
+
+
+$Lilith:
+@@#LilithText;
+"I desire to heareth from thee again~"
+@@
+
+With that, the pantyless $Lilith gestures a kiss at you while exiting the restroom. You are left with awe at the event that took place and stuff the bloomers in your pants pocket.
+
+After making sure the coast is clear, you return to the safety of the empty hallway.
+--
+@@#choices;
+<<button [[Head to the main office.|MidoriSchool4]]
+>><</button>>
+<<if $LockerEventScene is 0>><<button [[Look around the hallway.|MidoriSchool4'1']]>><</button>><</if>>
+@@
+
+

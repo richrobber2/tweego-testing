@@ -1,0 +1,31 @@
+:: VMachineprize2 {"position":"14710,3650","size":"100,100"}
+The machine beeps and is followed by audible clapping.
+@@#NPCText;
+	"Normal Luck! You win a rare item!"
+@@
+
+	@@#EffectText;
+	BING!
+	@@
+
+You hear a soft item drop down the shoot and you bend over to retrieve your prize. You are holding a small, clear package labeled, 'Honeymoon Apron! For ages 9-12."
+
+While the item is folded and air sealed, you notice it is a small, white apron with a large, pink heart. Perhaps $Arisa Might like this.
+
+The machine powers off and says "Goodbye!"
+
+While the item is small, it takes some effort to shove it into your pocket. Well, that is interesting...
+<<seen>>
+    <<pickup '$playerinventory' unique 'HoneyMoon Apron'>>
+<<hidden>>
+<<content>>
+<<notify 'info'>>HoneyMoon Apron aquired<</notify>>
+--
+@@#choices;
+<<button [[Head into the store.|LoMartPlotIntroduction2'1']]
+>><</button>>
+@@
+<</seen>>
+
+
+

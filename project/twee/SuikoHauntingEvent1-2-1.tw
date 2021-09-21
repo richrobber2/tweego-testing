@@ -1,0 +1,44 @@
+:: SuikoHauntingEvent1-2-1 {"position":"27730,3650","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Sorry about that! Are you okay?"
+@@
+
+The girl looks at you, confused.
+
+???:
+@@#SuikoText;
+"Wha-?"
+@@
+
+Her emotionless face is now mixed with confusion as she pulls her hand away. 
+
+You get back up and ask her again.
+
+
+$Name:
+@@#ProtagText;
+"I didn't hurt you, did I? Sorry, I'm heading to work and I-"
+@@
+
+
+The hooded girl seems conflicted. While you look down at her she brings her hand back you to and quitly says,
+
+???:
+@@#SuikoText;
+"set to Zero!"
+@@
+
+She snaps her finger and...Wait? What were you doing? You find yourself standing in the middle of a sidewalk; Unaware of why you stopped.
+
+
+...
+
+Thinking about what you were doing before, You recall you were heading to work. While you don't know why you stopped walking, you shrug it off and continue onwards.
+--
+@@#choices;
+<<button [[Head to Lo-Mart!|Day03LoMartIntro]]
+>><</button>>
+@@
+
+

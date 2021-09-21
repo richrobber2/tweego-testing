@@ -1,0 +1,10 @@
+:: Shut the locker {"position":"11630,3510","size":"100,100"}
+Gathering all the items, you shut the locker and decide to-
+--
+@@#choices;
+<<if $LilithErased is 0>><<button [[Continue heading to the office.|MidoriSchool4]]>><</button>><</if>>
+<<if $LilithErased is 1>><<button [[Go to the office.|MidoriSchool4'ErasedLilith']]>><</button>><</if>>\
+<<if $LilithIntro is 0>><<button [[Go use the restroom.|MidoriRestroomEvent1]]>><</button>><</if>>
+@@
+
+

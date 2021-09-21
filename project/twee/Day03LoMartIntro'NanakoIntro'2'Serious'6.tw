@@ -1,0 +1,22 @@
+:: Day03LoMartIntro'NanakoIntro'2'Serious'6 {"position":"29550,4770","size":"100,100"}
+Despite being fat, the leg rockets towards you. Thinking fast you're able to take to blunt of the kick into your arm and stand your ground. While the kick feels like a whip and stings, you know not blocking the assault would have been far worse. 
+
+With his leg still making contact to your wrist, everything seems to slow down and you take a swift glance to survey the situation.
+
+You could go for the leg he's balancing on, or go for a assault on his exposed body. You have to think fast or you'd be right open for him to attack you.
+
+Fatass:
+@@#NPCText;
+"Not bad-"
+@@
+
+While he's talking you-
+--
+@@#choices;
+<<button [[Trip him.|BAD END 16: Planted]]
+>><</button>>
+<<button [[Knee him in the liver!|Day03LoMartIntro'NanakoIntro'2'Serious'7]]
+>><</button>>
+@@
+
+

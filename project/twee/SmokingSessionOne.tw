@@ -1,0 +1,19 @@
+:: SmokingSessionOne {"position":"1690,2250","size":"100,100"}
+Yes, your new habit! Well, not really.
+
+You started to smoke cancer sticks when $Arisa was a toddler.
+
+...
+
+You walk outside and quickly shut the front door behind you. With the door shut, you're greeted by an unfamiliar silence. For once, you don't have to worry about your annoying sister pestering you so you enjoy a nice and calm smoke session.
+<<set $Fags to 5>>\
+<<set $Zippo to 1>>\
+
+Stored inside your lucky, white polo shirt, you dig through your breast pocket and retrieve a crumbled up pack of 'Lolibooru' cigarettes and your trusty zippo. Mouth salivating, you pull out one crooked fag, place it in your mouth and spark the cherry.
+--
+@@#choices;
+<<button [[Next|SmokingSessionOne 1]]
+>><</button>>
+@@\
+
+

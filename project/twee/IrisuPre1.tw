@@ -1,0 +1,71 @@
+:: IrisuPre1 {"position":"430,3230","size":"100,100"}
+<font color="#712b2b">You do nothing.</font>
+<<set $Arisa to "Irisu">>\
+<<set $ArisaStats to 0>>\
+<<set $ArisaLove to 0>>\
+<<set $Depression +=75>>\
+<<set $IrisuStats to 1>>\
+<<set $IrisuDepression to 75>>\
+You realize too late as $Irisu starts to scream in sheer and misunderstood agony!
+
+Looking over the table; a puddle of fresh blood collects and drips off the corner she impacted.
+
+She’s now holding her right eye as cries of agony borrow into your mind. A large gash starts to become visible on her left eye, caking her lavender eye with fresh blood.
+
+Now In a panic, you find it best to run out of the kitchen and hide; appalled by your actions.
+
+You hated $Irisu but you never expected it to become so serious!
+
+...
+You decide to run away and lock yourself in your room until her crying fades. Knowing you eventually have to check on her, you still hide from this and tell yourself everything will be fine…Right?
+The urge to be a parent is ignored by remaining hidden way: cowering like the cockroach you are. Eventually, her crying fades into unnerving silence and the next few days remain so. Once you work the courage, you decide to check her wellbeing and walk outside to instantly find your white haired sister wearing some cos-play eyepatch with the sticker of a cartoon and a odd, purple rabbit in her lap.
+
+The damaged eye is still caked in blood but she 'appears' to be fine, as she is just sitting with a blank expression in her room. Blood stains spot her purple rug and gives off an eerie contrast to the color coded, velvet room.
+
+Filled with remorse form your past actions, you walk up to her and freeze when she begins to speak; her voice now carrying a stern tone.
+
+$Irisu:
+@@#IrisuText;
+"I get what you said earlier, $Name!"
+@@
+
+It seems devoid of all the joy and innocence, sending a chill damning spiralling into your heart.
+
+You want to ask what she meant by that until the words flash in your subconscious.
+
+$Irisu:
+@@#IrisuText;
+"I won't call you dad anymore. It was silly of me to call you that...”
+@@
+
+$Irisu jumps off the bed and grabs your shirt.
+
+Your attempt to back up fails as she pushes against you.
+
+As if she was some demon of your mind, she gazes at you; crying and begging while fresh blood companies her tears.
+
+$Irisu:
+@@#IrisuText;
+"Do you love me now?! You’re not my dad so you can love me!"
+@@
+
+You struggle and while you can get away, the image before you starts to burn into your mind. Inner voices scream at you from the knowledge that you could have pervented this.
+
+$Name:
+@@#ProtagText;
+"Look, I'm Sor-."
+@@
+
+Your sister cuts you off and raises her voice to a booming level.
+
+$Irisu:
+@@#IrisuText;
+"Don't!"
+@@
+--
+@@#choices;
+<<button [[Next.|IrisuIntro]]
+>><</button>>
+@@
+
+

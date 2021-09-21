@@ -1,0 +1,12 @@
+:: ArisaSuikoNameEvent {"position":"2110,430","size":"100,100"}
+$Suiko:
+@@#SuikoText;
+"Um....I'm not your sister yet..."
+@@
+--
+@@#choices;
+<<button [[Back|setup1.5'arisaname']] 
+>><</button>>
+@@
+
+

@@ -1,0 +1,44 @@
+:: Rub her head more {"position":"990,3230","size":"100,100"}
+<<set $SuikoLove +=10>>\
+<<set $SmokingSessionOneSchoolLifetrue to 0>>\
+<<set $SmokingSessionOneArisaFriendstrue to 0>>\
+<<set $SmokingSessionOneoldlifetrue to 0>>\
+<<set $SuikoDay01HeadPat to 1>>\
+Thinking $Suiko is enjoying the attention, you crack your wrist and start to aggressively pet her head. She responds by grunting at the change of pressure and seems to purr softly.
+
+$Suiko:
+@@#SuikoText;
+"What..is-Oh!"
+@@
+
+$Suiko's leg buckle and falls forward into your chest. You embrace her close and start to pet her head and back of her neck.
+
+$Suiko:
+@@#SuikoText;
+"T..his is-! Nice?"
+@@
+
+Lost in the moment, you are interrupted by your sister yelling down the hallway,
+
+$Arisa:
+@@#ArisaText;
+"Hey Twerp! Come watch this with us! You're missing the good part!"
+@@
+
+Hearing her friend call her, $Suiko pushes away from you with her rabbit plush and hastefully runs toward your room.
+
+Weird kid.
+
+...
+
+<<if $Smoking eq 1>>Noticing you're now alone, you decide to use this chance to go outside and smoke.<</if>>
+<<if $Smoking eq 0>>Noticing you're now alone, you decide to use this chance to go outside and get some fresh air.<</if>>
+--
+@@#choices;
+<<if $Smoking eq 1>><<button [[Step outside and smoke a cigarette.|SmokingSessionOne]]
+>><</button>><</if>>
+<<if $Smoking eq 0>><<button [[Step outside and get some fresh air.|NONSmokingSessionOne]]
+>><</button>><</if>>
+@@
+
+

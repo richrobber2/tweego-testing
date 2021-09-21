@@ -1,0 +1,34 @@
+:: SuikoDay03P2SuikoObserveChestUndo {"position":"33890,1970","size":"100,100"}
+Oh Shit!
+
+What in the hell are you doing?!
+
+Realising the low you were about to stoop, you come to some rational sense and promply apoligize.
+
+$Name:
+@@#ProtagText;
+"Sorry! I didn't mean to-"
+@@
+
+$Suiko:
+@@#SuikoText;
+"I like your shirt....Please...don't take it back..."
+@@
+
+She embraces the shirt and seems to shiver in fear of you taking it. Maybe, $Suiko really didn't see your pervese action at all. Using this situation to erase the possibility of her realising your true motive, you apoligise for the 'confusion'.
+
+$Name:
+@@#ProtagText;
+"I-Um...Wanted to get some dust off of it! Yeah! Sorry,I should've asked..."
+@@
+
+And, like a pervert in denial, you could own up to the wrong doings of your obscene libido.  
+
+After some warrented silence of self reflection, things seem to return to normal....However you feel like crap now.
+<<set $Depression +=20>>\
+--
+@@#choices;
+<<button [[Observe Something else.|SuikoDay03P2SuikoObserve2]]>><</button>>
+@@
+
+

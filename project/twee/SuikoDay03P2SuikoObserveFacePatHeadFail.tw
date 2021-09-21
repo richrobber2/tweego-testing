@@ -1,0 +1,23 @@
+:: SuikoDay03P2SuikoObserveFacePatHeadFail {"position":"34450,1550","size":"100,100"}
+It then dawns on you that it's quite selfish of you to pat $Suiko's head against her will and retract your attempts to molest her forehead.
+
+
+$Name:
+@@#ProtagText;
+"Forget about it."
+@@
+
+However, $Suiko seems dissapointed by your response and emits an almost annoyed sigh.
+
+$Suiko:
+@@#SuikoText;
+"Thats...Alright...Just tell me next...time..."
+@@
+
+Wait, so she didn't mind if you rubbed her head? Oh well, it would seem forced if you attempted it now.
+--
+@@#choices;
+<<button [[Observe something else.|SuikoDay03P2SuikoObserve2]]>><</button>>
+@@
+
+

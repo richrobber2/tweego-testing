@@ -1,0 +1,31 @@
+:: Sara Introduction10 {"position":"9670,4630","size":"100,100"}
+Feeling a bit nostalgic, you walk over to the thrashing girl and look down at her. Watching $Sara protest you smile, you bend over and pat her head.
+
+$Name:
+@@#ProtagText;
+"Its okay $Sara. If you want, I can come back tomorrow. If I see you at the park I'm sure we can make time to play with you."
+@@
+
+$Sara freezes in place and smiles at you.
+
+$Sara:
+@@#SaraText;
+"Will $Sara's boyfriend will meet $Sara tomorrow?"
+@@
+$Sara playfully grabs your arm and embraces it.
+
+$Sara:
+@@#SaraText;
+"Promise $Sara?"
+@@
+
+She looks up at you with wide, pleading eyes and an uncertain, cute smile.
+--
+@@#choices;
+<<button [[I promise!|Sara Introduction11]]
+>><</button>>
+<<button [[That's up to your brother to decide.|Sara Introduction11'1']]
+>><</button>>
+@@
+
+

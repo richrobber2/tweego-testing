@@ -1,0 +1,48 @@
+:: Day03NoArisa1-3 {"position":"26890,3930","size":"100,100"}
+Might as well since it's in front of you...
+
+...
+Tuesday, Day 3620.
+
+<<if $SuikoLove gte 100>>
+@@#ArisaText;
+I Can't stand $Suiko. 
+
+I don't know why she acts so shy unless around Onii-chan. I didn't want to invite her but $Redia bitched at me to do so. Yes, I may be jealous of her but ever since she told me she wanted to see him it pissed me off. The only reason I tolarate her is because my brother wanted me to be her friend. When she ran out of my brother's room after our 'discussion' I found Onii-chan working on her rabbit plush and going out of his way to help her. For the 'shy' girl persona she wears she seemed to really enjoy his handywork; going so far as to kiss him for 'saving' her rabbit plush. While it appeared to be a lost cause, I got to admit he was creative. $Suiko could be trying to win my Onii-chan over with timid cuteness...The one thing I can't do. Tommarow, I'll set up some 'animes' to uncontiously influence him...I will make my brother love me!
+@@
+
+So $Arisa is jealous of $Suiko. How were you to know she saw $Suiko as a threat. That must of been why she seemed upset for the rest of that day. Even if $Suiko my like you, You don't think anything would come from it.
+
+After reading the journal entry, You decide to:
+<</if>>\
+<<if $SuikoLove lt 100>>
+@@#ArisaText;
+I'm glad $Suiko left after our 'discussion'.
+
+I will not let that timid brat make a pass at my Onii-chan! $Redia may want to befriend my brother, at least she asked me beforehand! This '$Suiko' girl has the nerve to weasle her way into my plans and 'include' herself today; just to spend time and leer at him from afar. Yes, I'm jealous but I can't stand her! I will not let this timid brat get any affection, to the point I will stalk her and misdirect her if she even tried to talk to him. Something about her seems odd. As long as my brother doesn't bump into her while I'm away I can ensure her will only have eyes for me.
+@@
+
+So $Arisa was jealous of $Suiko. You never assumed $Suiko might like you but what's more worrying is how much she detests her for it. Maybe the next time you see her, You should talk to her about the mentioned 'Discussion'.
+
+After reading the journal entry, You decide to:
+<</if>>\
+<<if $SuikoLove is 0>>
+@@#ArisaText;
+I've noticed something odd today. My brother asked me if there was a 'hooded' girl with $Redia and I. I don't know what he meant at all! Is someone stalking us? Could be a threat. I called $Redia soon after and seemed to be clueless about it. Now that I think about it, I think I used to know a 'hooded' girl. Whenever I look at the rabbit plush on my desk I feel like It once belonged to a girl in a hood...Which makes no sense at all! Best thing I can do is observe my Onii-chan and listen if he brings it up again.
+@@
+
+What an odd thing to write about.  You were sure that even you knew a girl who wore a hoodie, And the rabbit plush? 
+
+You look over to $Arisa's desk and see a purple, 'Mr.Rabbit' plush. How did that get here? You don't ever recall buying her such a plush doll but looking at it seems to form a memory of the mentioned 'hooded' girl. Odd. Best not think about it.
+
+After reading the journal entry, You decide to:
+<</if>>
+...
+--
+@@#choices;
+<<button [[Head outside.|Day03PreLoMart]]
+>><</button>>
+<<button [[Flip to another page.|Day03NoArisa2-1]]>><</button>>
+@@
+
+

@@ -1,0 +1,29 @@
+:: ArisaBedEvent1-3'bedevent' {"position":"21850,4210","size":"100,100"}
+You can't just let her sleep with her room in ruin! $Arisa worked hard to get you a job at Lo-Mart, so why don't you clean up her trashy room.
+
+Keep quite to ensure you don't wake her, you silently start to put all her cloths, organize her many anime plush toys, collect her trash until you find her laptop hidden in a pillowcase.
+
+Shame on her, you gave her your old, pink laptop and she keeps it in her pillowcase?
+
+...Then the reality sets in. Could your sister be trying to hide her laptop from you? It's not too far fetched; You remember telling $Arisa at a young age about respecting someone's privacy; but as her 'parent' you need to ensure she isn't being exploited online.
+
+Maybe you can invade her privacy later.
+<<set $ArisaLaptop to 1>>\
+
+Deciding this isn't the best time to be snooping through your sister's computer, you place the old laptop on her anime figurine ridden desk and plug it in.
+
+Once you picked up all the litter off her pink rug, you turn to your sleeping sister clinging onto a a pink pillow.
+
+$Arisa:
+@@#ArisaText;
+"Cuddle me...more.."
+@@
+--
+@@#choices;
+<<button [[Pat your sister on the head|ArisaBedEvent1-3'bedeventLike']]
+>><</button>>
+<<button [[Wake her up|ArisaBedEvent1-3'bedeventHate']]
+>><</button>>
+@@
+
+

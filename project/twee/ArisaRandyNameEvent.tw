@@ -1,0 +1,12 @@
+:: ArisaRandyNameEvent {"position":"2810,430","size":"100,100"}
+$Randy:
+@@#RandyText;
+"You know I'm a boy? I'm can never be your sister."
+@@
+--
+@@#choices;
+<<button [[Back|setup]] 
+>><</button>>
+@@
+
+

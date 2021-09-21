@@ -1,0 +1,31 @@
+:: See if you cant fix Mr.Rabbit {"position":"2670,2530","size":"100,100"}
+<<set $timedifference1 to 1>>\
+You look down at the remains of Mr.Rabbit. Everything is ruined except the ears, pompom tail and parts of the face. $Suiko is staring at her friend's body while you inspect it.
+
+$Name:
+@@#ProtagText;
+"Come back inside, I'll see what I can do."
+@@
+
+$Suiko stands back up, now broken and unresponsive.
+
+$Suiko:
+@@#SuikoText;
+"You...see-do?"
+@@
+
+You grab her dirt covered hand and guide her back inside the house. Once inside you lay out the remaining parts of the plush on a table and look at $Suiko; she's covered in mud and dripping wet.
+
+$Name:
+@@#ProtagText;
+"Go get cleaned up $Suiko, I have an idea to save Mr.Rabbit... Or at least in idea to save it."
+@@
+
+But she doesn't move an inch as if leaving the body would mean abandoning her friend.
+--
+@@#choices;
+<<button [[Guide her to the bathroom.|Guide her to the bathroom]]
+>><</button>>
+@@
+
+

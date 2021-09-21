@@ -1,0 +1,43 @@
+:: RediaIntroLoneScold {"position":"1410,4490","size":"100,100"}
+Quite immature of you, you rudely toss the baseball back at the redhead and raise your voice.
+
+$Name:
+@@#ProtagText;
+"You trying to kill me?! Why did you throw a baseball at me!"
+@@
+
+The young, red haired girl gives you a shocked expression that quickly evaperates to anger as she picks her ball back up.
+
+Red headed brat:
+@@#RediaText;
+"Hey, you caught it! I didn't think you'd act like that!"
+@@
+
+Her blue eyes gives you a judgemental look and she looks away from you.
+
+Red head:
+@@#RediaText;
+"I saw you looking at me, Do you want something or are you hear to insult me like every other 'adult'."
+@@
+
+What she just said makes you think. While you're annoyed that she threw a baseball at you, no one was hurt and it's probably your fault she threw it. You are a adult surrounded by kids; to them, you're the strangest person in the gym.
+
+$Name:
+@@#ProtagText;
+"No, I'm sorry for lashing out. I guess I wasn't expecting it."
+@@
+
+The red head seems surprised by your reponse and oddly gives your a smirk.
+
+$Redia:
+@@#RediaText;
+"You should but...nice catch nevertheless.Name's $Redia.
+What can I help you with?
+@@
+--
+@@#choices;
+<<button [[Say you were wondering if you wanted a friend.|RediaIntroLoneTrue2]]>><</button>>
+<<button [[Why are you not looking for a friend?|RediaIntroLoneTrue1-1]]>><</button>>
+@@
+
+

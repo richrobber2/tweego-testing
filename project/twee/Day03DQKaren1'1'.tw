@@ -1,0 +1,30 @@
+:: Day03DQKaren1'1' {"position":"34030,3930","size":"100,100"}
+Concerned about something burning in the janitior's closet, you humbly knock on the door once; only for the figure inside to scramble around.
+
+Faintly, you hear a familar voice curse in a panic and remain dead silent.
+
+*Knock Knock!*
+
+$Name:
+@@#ProtagText;
+"Who's in there?!"
+@@
+
+Being a employee of L0-Mart, you try to carry the 'brotherly' tone $Amber expects from you and discover the blue haired girl from eariler. She was fetal position in the corner of the janitor's closet as a cloud of smoke flows into the sales floor.
+
+$Karen:
+@@#KarenText;
+"Oof, What are you do-Doing here?!"
+@@
+
+Her voice is nervous and shakes in a stumble of words. In her hands is a lit cigarette and a cheap, eletric lighter.
+
+
+You're stumped at what to do. This clearly underage school girl is hotboxing in a store's janitor closet. the smell of tobacco was so thick you gag(She must have been smoking in their for a while).
+--
+@@#choices;
+<<button [[Shut the door.|Day03DQKaren1'1'exit]]>><</button>>
+<<button [[Walk inside and shut the door.|Day03DQKaren1'2']]>><</button>>
+@@
+
+

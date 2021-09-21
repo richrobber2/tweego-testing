@@ -1,0 +1,86 @@
+:: NightmareSuiko1 {"position":"4490,2390","size":"100,100"}
+$Name:
+@@#ProtagText;
+"I think your name is-"
+@@
+
+Suddenly, the plush doll explodes into a cloud of white fluff while screaming in an ear blistering howl. You turn your head to shield yourself from the blast.
+
+???:
+@@#SuikoText;
+"Mister....who are..?"
+@@
+
+You are scared halfway to hell when you look back and not only find the remains of the tattered rabbit plush, but also a young girl wearing patchwork clothes.
+
+The girl is shivering as she stares in fear of you.
+
+You look back down and see the rabbit on the ground; its red eyes are staring back at you.
+
+???:
+@@#SuikoText;
+"Mr..Rabbit?"
+@@
+
+The girl points at you while tilting sideways.
+
+Thinking she wants her rabbit back, you pick up the remains of the thing and hold it in your hands.
+
+It can not be repaired.
+
+$Name:
+@@#ProtagText;
+"Was this your plush?"
+@@
+
+???:
+@@#SuikoText;
+"Mr.Rabbit?"
+@@
+
+You nod.
+
+$Name:
+@@#ProtagText;
+"I am sorry-!"
+@@
+
+You hang your head in defeat. You begin to feel horrible because it wasn't your fault! you just wanted to prot-!
+
+You remember something; a faint memory echo of a word.
+
+$Name:
+@@#ProtagText;
+"-$Suiko."
+@@
+
+The hallway suddenly bursts into light and you reappear in an empty room with a door almost similar to your house's front door. While opening the door you hear a loud scream of terror and a tiny weight collides into you; forcing you outside onto your front porch.
+
+$Name:
+@@#ProtagText;
+"OW! What was tha-"
+@@
+
+You flip yourself over to find $Suiko lying on your back; her plush rabbit can be seen in your peripheral vision being thrown from the colliding impact. As $Suiko regains her bearings, she notices her rabbit plush falling on the nearby road.
+
+$Suiko:
+@@#SuikoText;
+"NO! Mr.Rabbit!!"
+@@
+
+$Suiko pulls herself up (stepping on your back as leverage) and runs to rescue her dear plush.
+
+As she runs torward the road, you notice a large truck with no purpose being on a residential road, speeding toward the stuffed rabbit.
+<<set $SuikoLove to 50>>\
+<<set $RediaLove to 50>>\
+<<set $ArisaLove to 50>>\
+<<set $SuikoErased to 0>>
+<<set $SuikoAware to 1>>\
+<<set $SuikoEvent1 to 1>>\
+--
+@@#choices;
+<<button [[Try to stop her!|Try to stop her]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,45 @@
+:: SuikoDay03P2TeaSip {"position":"31790,1690","size":"100,100"}
+With the uttermost caution not to get sick, you kiss the lip of the cup and let the extremly bitter tea and leaves enter your pallet.
+
+Your face puckers, but you fight your gag reflex while you take one mouthful of tea and gently place the cup down like some 'cultured tea expert'.
+
+$Suiko leans over the table and emits a excited smile.
+
+$Suiko:
+@@#SuikoText;
+"You drunk it?!...Oh~"
+@@
+
+She then hides her face fruitlessly with her arms; forgetting she took her jacket off.
+
+$Suiko:
+@@#SuikoText;
+"Please...tell me...If it's...Um..."
+@@
+
+While this is happening, you're stuggling to to properly swallow the 'beverage'. The taste of bitter plant matter and 'stinging' assaults your mouth and your mind isnt helping with it yelling at you to spit it out!
+
+Thankfully, you're doing well at hiding the internal conflict of this invasion of bad taste and give a reassuring smile to $Suiko.
+
+You nod and gester a thumbs up; using the head motion to shallow the sip of 'tea'.
+
+$Name:
+@@#ProtagText;
+"Mhm...It's-"
+@@
+
+-While gestering, you notice your your lips are feeling strangly numb; almost tingling from where the tea was exposed too. It may be your imagination but you are feeling a tad uneasy about what you just drunk despite only being a sip.
+
+$Suiko:
+@@#SuikoText;
+"Please tell me the truth..."
+@@
+
+Should you? While you don't want to hurt her feelings but the feeling of your numb mouth is alarming. You attempt to whip off the lack of feeling off your bottom lip and tell her-
+--
+@@#choices;
+<<button [[Tell her it is pretty good.|SuikoDay03P2TeaSip1]]>><</button>>
+<<button [[It needs improvement.|SuikoDay03P2TeaSipHonest]]>><</button>>
+@@
+
+

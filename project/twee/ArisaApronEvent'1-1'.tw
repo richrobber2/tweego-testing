@@ -1,0 +1,43 @@
+:: ArisaApronEvent'1-1' {"position":"25210,3790","size":"100,100"}
+Looking down at the tray before you, you then look at your cute, yet sexually dressed sister and proceed to drink the glass of milk before you.
+
+$Name:
+@@#ProtagText;
+"*Gulp, gulp*, Ah, while it wasn't my goal to lewdly dress my imouto, I will say it looks great on you."
+@@
+
+Polishing off your glass of milk, you continue,
+
+$Name:
+@@#ProtagText;
+"Seems like you like to please your brother by exploiting my love for ecchi anime tropes."
+@@
+
+<<set $ArisaLove +=20>>\
+
+The moment you put your glass on your nightstand, $Arisa throws herself around your chest in a heavy, silent hug. Your struggle to balance your serving tray as $Arisa rubs her plump cheeks into your shirtless chest.
+
+$Arisa:
+@@#ArisaText;
+"If it makes you happy; I'm happy~"
+@@
+
+After her heartfelt embrace, she backs up and grabs your now empty glass of milk.
+
+$Arisa:
+@@#ArisaText;
+"I woke you up quite early, so enjoy your breakfast and I'll get ready for school."
+@@
+<<set $ArisaSchoolDay03 to 0>>\
+Backing up to your door, she gives you one last maid bow and exits your room.
+
+...
+
+You only spend a few minute to finish off your meal and prepare to get ready for work.
+--
+@@#choices;
+<<button [[Next.|Day03Preintro]]
+>><</button>>
+@@
+
+

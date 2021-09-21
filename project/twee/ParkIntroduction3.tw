@@ -1,0 +1,45 @@
+:: ParkIntroduction3 {"position":"6030,2670","size":"100,100"}
+<<set $greengrassarea to 0>>\
+<<set $MidoriOrb to 0>>\
+???:
+@@#RandyText;
+"-I don't love you!"
+@@
+
+You're awoken by a boy's voice yelling beside you. After an exaggerated yawn, you look to your left to see a young boy yelling at a younger girl. Both of them have very short blond hair and blue eyes. The boy is wearing a yellow V-neck shirt and tiny pair of black shorts. The younger girl, you can only assume to be his sister, is dressed in a pink t-shirt and wearing a tiny pair of booty shorts.
+
+The girl looks at the boy and begins to cry.
+
+Girl:
+@@#SaraText;
+"Bro...But-!"
+@@
+
+The boy makes a fist and dramatically points at the girl.
+
+Boy:
+@@#RandyText;
+"How could I ever love an annoying brat like you? All you do is whine and complain for me to play with you. How about you do me a favor and disappear!"
+@@
+
+The girl begins to scream at the top of her lungs and turns around then runs hallowing towards the woods. The boy turns away from his sister and sits on the bench.
+
+Boy:
+@@#RandyText;
+"Annoying brat! I hope she gets lost out here!"
+@@
+
+While this is one of those situations you can ignore; you can’t let a young girl go in the woods by herself. Someone as young as her could get lost or hurt out there.
+
+...
+--
+@@#choices;
+<<button [[Run after the girl.|SaraIntroduction1]]
+>><</button>>
+<<button [[Not your problem.|RandyIntroduction1]]
+>><</button>>
+<<button [[Just leave.|ParkIntroduction'Leave']]
+>><</button>>
+@@
+
+

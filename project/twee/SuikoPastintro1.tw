@@ -1,0 +1,43 @@
+:: SuikoPastintro1 {"position":"570,4210","size":"100,100"}
+You decide the timid girl would be an ideal companion for your shy and cowardly sister. Grabbing her small hand, you peer down at her and tell her your motives.
+<<set $SuikoPastIntro to 1>>\
+<<set $SuikoIntroLock to 1>>\
+
+$Name:
+@@#ProtagText;
+"Well you heard your new Principal, let's go find you a friend."
+@@
+
+You walk towards the bleacher as $Arisa protests and tries to escape your grip.
+
+$Arisa:
+@@#ArisaText;
+"NO! Brother is my friend! I don't want to!"
+@@
+
+???:
+@@#SuikoText;
+"Um, Hello? Do you... Need help?"
+@@
+
+You both turn around and you find the hooded girl fidgeting nervously.
+
+$Arisa, seeing this new threat, gives the girl a dirty look and growls.
+
+$Arisa:
+@@#ArisaText;
+"What do you want!?"
+@@
+
+The girl, hidden inside her black hoodie, looks around and seems at a loss of words. She clings on her purple, rabbit plush close to her chest and starts to avoid eye contact.
+
+-...She must be bad a talking to people.
+--
+@@#choices;
+<<button [[Tell your sister to introduce herself.|SuikoPast'Main']]
+>><</button>>
+<<button [[Think of a way for the girl to introduce herself.|SuikoPast'Love']]
+>><</button>>
+@@
+
+

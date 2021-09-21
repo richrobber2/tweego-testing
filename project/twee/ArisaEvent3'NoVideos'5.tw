@@ -1,0 +1,48 @@
+:: ArisaEvent3'NoVideos'5 {"position":"22130,3930","size":"100,100"}
+You cradle your naked sister in your arms and smile at her.
+
+$Name:
+@@#ProtagText;
+"You are so cute, $Arisa."
+@@
+
+You take your imouto close and hug her.
+
+$Arisa:
+@@#ArisaText;
+"It's nice, cuddle your imouto~"
+@@
+
+As your carry your sister in your arms, you're hit by feeling of warm nostalgia.
+
+The image of a three year old $Arisa appears in your arms as you reluctantly hold on to your annoying toddler.
+
+$Arisa(as a toddler):
+@@#ArisaText;
+"Wug mei Daddi~"
+@@
+
+What a twerp! Already out of diapers and causing havoc for you. Holding the child in your arms, you feel a new feeling wash over your hard ass expressions.
+
+This warmth, this must be love! To confirm your findings, $Arisa Smiles at you.
+
+...
+
+$Arisa:
+@@#ArisaText;
+"I Love you, $Name."
+@@
+
+Back in reality and you find your sister cradled in your arms amidst a loving embrace of fondness.
+
+In a panic, you gently place $Arisa on the couch and head back to your room.
+
+<<set $ArisaLove +=20>>
+She is becoming a handful lately. Might need to talk to her about it some day
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

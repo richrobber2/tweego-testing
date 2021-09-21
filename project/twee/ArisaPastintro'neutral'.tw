@@ -1,0 +1,38 @@
+:: ArisaPastintro'neutral' {"position":"290,2950","size":"100,100"}
+While you still hate this kid, you feel a uneasy feeling in your chest and decide to humor the situation.
+
+You hate this child, yet a unease in your chest weakens the temper. Giving her a chance as another way to break her 'pride', you humor her wish and say;
+
+$Name:
+@@#ProtagText;
+"A wish! What could a snot-nosed four year old ever want?!"
+@@
+
+You stare back at the twerp to await her response. While her watering blue eyes and puffed out cheeks show the expected incoming tantrum, you decide to remain silent to humor the situation. $Arisa looks at you, sighs and struggling with an cracking voice says:
+
+$Arisa:
+@@#ArisaText;
+"I..want-tto be the one to love you.."
+@@
+
+The room fills with her stifled whining... making you feel odd.
+
+Staring at your annoying sister, you feel a moment of emotion and feel powerless to say anything. What os is on about?
+
+$Arisa:
+@@#ArisaText;
+"Daddy is always sad. If you think being a daddy means you are him then $Arisa would not love you. I wish for you to be loved...”
+@@
+
+Still frozen by this four year old's words, your sister clings to you as if to embrace you.
+
+Is...This the same brat?
+--
+@@#choices;
+<<button [[Push her off the table!|ArisaPastintro'neutral'1]]
+>><</button>>
+<<button [[Hug her back.|ArisaPastintro'neutral'2]]
+>><</button>>
+@@
+
+

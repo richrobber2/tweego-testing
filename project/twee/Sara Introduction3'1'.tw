@@ -1,0 +1,51 @@
+:: Sara Introduction3'1' {"position":"9950,3650","size":"100,100"}
+<<set $SaraLove -=20>>\
+Having trouble breathing with this little twerp, you decide enough is enough.
+
+$Name:
+@@#ProtagText;
+"Get off of me!"
+@@
+You push the girl off you and stand up to brush the dirt off of you.  $Sara remains sitting on the ground and now seems to be cowering in a ball with a frightened look on her face.
+
+$Sara:
+@@#SaraText;
+"Don't hurt $Sara..$Sara sorry~"
+@@
+
+Looking at the now frightened girl before you; you can't help but feel bad...and a little confused. The girl that was idealizing you as a 'hero' now appears traumatized and now cowering in a mess of tears.
+
+You can't be mad at cute girl like herself. You walk toward $Sara, bend down and offer a hand to her.
+
+$Name:
+@@#ProtagText;
+"I'm sorry $Sara. Are you okay?"
+@@
+
+$Sara wipes her eyes with her wrists and smiles back at you.
+
+$Sara:
+@@#SaraText;
+"You're not mad at $Sara?"
+@@
+
+Why does she care if you’re mad at her? Well, she did make you worry about her and tricked you into thinking she was in danger but, she seems like a sweet girl.
+
+$Name:
+@@#ProtagText;
+"I can't be upset at you."
+@@
+
+$Sara's eyes begin to sparkle in amazement and reaches for your hand.
+
+$Sara:
+@@#SaraText;
+"I'll forgive you, if you be my Hero!"
+@@
+Be her hero? Weren’t you already her 'hero'?
+--
+@@#choices;
+<<button [[How about we just be friends?|Sara Introduction5]]>><</button>>
+@@
+
+

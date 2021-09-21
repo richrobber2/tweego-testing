@@ -1,0 +1,57 @@
+:: LoMartPlotIntroduction11'1' {"position":"14430,4770","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Oh, My middle name is $MidName."
+@@
+$Amber looks over the paperwork again and asks,
+
+$Amber:
+@@#AmberText;
+"So, 'Your' middle name is "ONII-CHAN"!"
+@@
+
+@@#EffectText;
+Wut.
+@@
+
+You cough nervously as $Amber looks away from the papers and stares at you.
+
+$Name:
+@@#ProtagText;
+"Um, No it's-"
+@@
+
+$Amber:
+@@#AmberText;
+"Onii-Chan is it not?!"
+@@
+
+She gives you a vexing glare. Does she want me to say it's Onii-Chan?
+
+Finally, you tell her the truth.
+
+$Name:
+@@#ProtagText;
+"Well, my little sister calls me that, but it's $MidName."
+@@
+
+$Amber scoffs and says under her breath,
+
+$Amber:
+@@#AmberText;
+"...About time you're honest."
+@@
+
+She then puts her papers down and sighs. Her tone seems totally different now as she almost squeals in excitement.
+
+$Amber:
+@@#AmberText;
+"Well, THIS IS GOLD! You have a little sister and she calls you Onii-Chan! Boy, someone like you would be perfect! This will go well; all too well! We can have an Onii-Chan for my LO-Mart!"
+@@
+--
+@@#choices;
+<<button [[Next.|LoMartPlotIntroduction13]]
+>><</button>>
+@@
+
+

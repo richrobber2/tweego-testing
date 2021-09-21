@@ -1,0 +1,38 @@
+:: MidoriLoveEventWrong {"position":"8830,4070","size":"100,100"}
+You look down in defeat and admit to the magical fairy girl,
+
+$Name:
+@@#ProtagText;
+"Sorry, I never kissed a girl"
+@@
+
+$Midori clicks her tongue and sighs.
+
+$Midori
+@@#MidoriText;
+"It was your sister when she was seven years old, you dummy!"
+@@
+
+<<set $MidoriLove -=20>>\
+
+You feel dumb about forgetting that but at least you didn't have to admit it.
+
+After a brief pause, $Midori asks you.
+
+$Midori:
+@@#MidoriText;
+"Next Question, Who loves you more?"
+@@
+--
+@@#choices;
+<<if $ArisaLove gt 100>>
+<<button [[My sister does!|MidoriLoveEvent1-D]]>><</button>><</if>>
+<<if $SuikoErased is 0>>
+<<if $SuikoLove is 100 and $SuikoErased is 0>><</if>>
+<<button [[The hooded girl does!|MidoriLoveEvent1-E]]>><</button>><</if>>
+<<if $RediaLove is 100>>
+<<button [[The sporty girl does!|MidoriLoveEvent1-F]]>><</button>><</if>>
+<<button [[No one loves me!|MidoriLoveEvent1-G]]>><</button>>
+@@
+
+

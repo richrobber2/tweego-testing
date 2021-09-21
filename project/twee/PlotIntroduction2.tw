@@ -1,0 +1,69 @@
+:: PlotIntroduction2 {"position":"5050,2390","size":"100,100"}
+Mom:
+@@#NPCText;
+"It's about your allowance, we've been having personal problems and, we don't care to pay the rent anymore."
+@@
+
+You are sent into an 'OH SHIT' moment and drop your phone on the ground.
+
+Fuck.
+
+FUCK!
+
+GOD DAMN IT!
+<<set $Depression to 50>>\
+
+You are fucked.
+
+You can't help but think how fucked you are! How will $Arisa handle this?! They don't care. They never cared.
+
+DAMN IT ALL!
+
+You are so upset you can't think straight but you manage to pick up your phone and 'attempt' to listen to her; for $Arisa's sake.
+
+$Name:
+@@#ProtagText;
+"..I..am still here."
+@@
+
+Bitch.
+
+Mom:
+@@#NPCText;
+"I hope for your sake! Long story short, you need to pay us the monthly rent, so can you please stop being a weird, lazy brat and support your family?!"
+@@
+
+The urge to hang up grows stronger as you feel personally attacked. You dropped out of school just to help support your sister and she still thinks you're that aloof child from nine years ago?!
+
+You bite your tongue and fight the impulse to toss your cellphone.
+
+$Name:
+@@#ProtagText;
+"I can look for a job! I'm sure a 24 year old can get hired even as a high school dropout with a child~!"
+@@
+You can taste your own sarcasm.
+
+Mom:
+@@#NPCText;
+"Your sake I hope... The house bill and utilities sum up to about $700, weekly"
+@@
+
+OH FUCK!
+
+-As if hearing yourself mentally curse.
+
+Mom:
+@@#NPCText;
+"Don't curse, you ass! What if baby $Arisa heard you?!"
+@@
+
+NOT.THIS.SHIT.AGAIN!!
+
+You manage to fight your anger a while longer.
+--
+@@#choices;
+<<button [[Next.|PlotIntroduction3]]
+>><</button>>
+@@
+
+

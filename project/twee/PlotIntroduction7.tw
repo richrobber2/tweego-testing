@@ -1,0 +1,21 @@
+:: PlotIntroduction7 {"position":"5050,3090","size":"100,100"}
+<<set $Arisarequestno1 to 0>>\
+You get up (still dressed in the same clothes as yesterday), and open your door to find your sister standing in your doorway; hair a mess and dressed in full pink pajamas.
+
+She greets you with a blank expression.
+
+$Arisa tilts her head, concerned.
+
+$Arisa:
+@@#ArisaText;
+"Onii-bro? Are you alright?"
+@@
+--
+@@#choices;
+<<button [[Tell her the situation.|PlotIntroduction8]]
+>><</button>>
+<<button [[Tell her you are fine.|PlotIntroduction8'1']]
+>><</button>>
+@@
+
+

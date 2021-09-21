@@ -1,0 +1,41 @@
+:: Suikointro'lone' {"position":"290,4210","size":"100,100"}
+<<set $SuikoIntroLock to 1>>\
+Despite originally only wanting to make a friend for $Arisa for her first day at school, you decide to see what's wrong with the somewhat 'out of place' girl.Maybe it's because you feel like you can get her to talk to Sister, but something else seems to be your motive.
+
+As you head to under the bench, you notice a small group of kids start to crowd around her. You keep your distance to overhear the development.
+
+Boy1:
+@@#NPCText;
+"Whatcha got there?"
+@@
+
+One of the kids point at her plush toy as the group seems to close around her. While you’re a few feet away, you hear the event unfold.
+
+The hooded girl holds her plush close and looks to the ground.
+
+Hooded girl:
+@@#SuikoText;
+"My..Friend."
+@@
+
+The small group laughs at her reply and you spot another boy reach for her stuffed rabbit.
+
+Boy2:
+@@#NPCText;
+"Friend? You look older than us yet you still play with dolls?! Give me that!"
+@@
+
+The girl moves away but the crowd surrounds her only escape.
+
+As the aggressing kid grasps the plush, the girl curls into a ball; holding on to her possession for dear life. While the girl struggles, the other boys start to help him take her plush.
+
+While it isn't your problem, you feel conflicted. Not as an adult but being in a similar situation like this before.
+--
+@@#choices;
+<<button [[Step in to help her out!|Suikointro'lone'1]]
+>><</button>>
+<<button [[Leave her alone.|Suikointro'lone'failed]]
+>><</button>>
+@@
+
+

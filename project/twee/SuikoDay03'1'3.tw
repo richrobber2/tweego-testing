@@ -1,0 +1,37 @@
+:: SuikoDay03'1'3 {"position":"29830,990","size":"100,100"}
+<<set $SuikoDay03IsItNice to 1>>\
+<<set $SuikoDepression +=10>>\
+$Name:
+@@#ProtagText;
+"Yeah, It's a nice place..."
+@@
+
+$Suiko has a confused look on her face then looks towards the dirt. 
+
+$Suiko:
+@@#SuikoText;
+"You, Don't...Have to lie...But thank you."
+@@
+
+WUT!?
+
+You didn't mean to turn out like this! In a haste, you walk up to $Suiko and reinforce your statement as genuine.
+
+$Name:
+@@#ProtagText;
+"I wasn't lying! Compared to everything else-"
+@@
+
+She puts her hand up and shakes her head. You stop talking halfway through because it isn't helping the situation.
+--
+@@#choices;
+<<if $SuikoParentDay03 is 0>> <<button [[Where's your parents?|SuikoDay03'1-4]]>><</button>><</if>>\
+<<if $SuikoDay03IsItNice is 0>><<button [[Say it is nice!|SuikoDay03'1'3]]>><</button>><</if>>\
+<<if $SuikoDay03WhyAreYouHere is 0>><<button [[Why do you live here?|SuikoDay03'1'7]]>><</button>><</if>>\
+<<if $SuikoDay03Flowers is 0 and $TellAboutFlowers is 0>><<button [[Ask her about her flowers.|SuikoDay03'1'3-1]]>><</button>><</if>>\
+<<if $$SuikoDay03AskAboutland is 0>><<button [[Why are in this dead plot of land?|SuikoDay03'1'3-2]]>><</button>><</if>>\
+<<if $SuikoDay03WhyNoSchool is 0>><<button [[Why are you not at school?|SuikoDay03'1'3-5]]>><</button>><</if>>\
+<<if $SuikoDepression gte 70>><<button [[Are you okay?|SuikoDay03'1'3-3]]>><</button>><</if>>\
+@@
+
+

@@ -1,0 +1,38 @@
+:: ArisaLoveEvent'Arisadooute' {"position":"23810,3790","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Is it because you love me?"
+@@
+
+You chuckle half-hearty but all you find is $Arisa giving you a bothered look. She briefly sniffles in haste and asks,
+
+$Arisa:
+@@#ArisaText;
+"-And what if that's the case?!"
+@@
+
+$Arisa sits up on her heels and clasps her hands together as to plead. her tone sounds serious.
+
+$Arisa:
+@@#ArisaText;
+"What if I did this solely because I love you and wish my brother for a happier life?!"
+@@
+
+
+While $Arisa holds a serious face; her eyes flow with tears and her voice strains.
+
+$Arisa::
+@@#ArisaText;
+"Was that a bad idea or wrong to do?!"
+@@
+--
+@@#choices;
+<<button [[It's heartwarming and cute.|ArisaLoveEvent'correct']]
+>><</button>>
+<<button [[I feel the same and thankful.|ArisaLoveEvent'NA']]
+>><</button>>
+<<button [[It's a odd reason.|ArisaLoveEvent'Wrong']]
+>><</button>>
+@@
+
+

@@ -1,0 +1,26 @@
+:: Day03NoArisa2-1 {"position":"27030,3790","size":"100,100"}
+<<if $SuikoLove is 0>>
+You look away from the rabbit plush , you look down into the journal and turn to the latest entry.
+<<else>>
+You look down into the journal and turn to the latest entry. You wonder what else she may have written; hopefully it's something relating to the contents of her bag.
+<</if>>\
+@@#ArisaText;
+Dear Diary,
+
+Tommarow, Onii-chan starts his first day of work. I was surprised he got hired (despite the fake resume) but I feel like getting him a job at LO-Mart was a mistake. Onii-chan is a pedosexual, Since that store caters to little kids; he could be taken from me if a harlet hits on him. Tommorow, I plan to spy on him and intervene if any girl tries to get sweet with him.
+@@
+
+So that was her plan. She should know you're not like that. Hell, from your viewpoint that seems all but impractial. Judging by the amount of notes and supplies she has, $Arisa must do this quite a lot. 
+
+...
+
+Taking one, last glance at $Arisa,  you close the journal and put her randoseru back to the way you found it.
+
+You should get going, You need at least an hour to get to work.
+--
+@@#choices;
+<<button [[Head outside.|Day03PreLoMart]]
+>><</button>>
+@@
+
+

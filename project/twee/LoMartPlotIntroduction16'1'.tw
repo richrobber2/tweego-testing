@@ -1,0 +1,39 @@
+:: LoMartPlotIntroduction16'1' {"position":"14430,5470","size":"100,100"}
+Hmmm...Might be best if you ask for more information.
+
+$Name:
+@@#ProtagText;
+"$Amber, What would I be doing? Stocking items? Cleaning? Customer service? Also, what about time when I work and um.... Pay."
+@@
+
+$Amber seems annoyed at first but seems to understand after remembering this was a job interview.
+
+$Amber:
+@@#AmberText;
+"Well, I will mostly tell you over the intercom if I need anything done, but I just want you to help customers and build a feeling of trust with the kids.
+
+I have people come after hours to clean and stock item because they refuse to be around the kids. About pay..."
+@@
+
+$Amber takes a deep breath and yells angrily,
+
+$Amber:
+@@#AmberText;
+"I don't like it when all people care about is pay! DAMN IT!"
+@@
+
+She begins to hyperventilate then forces a calm tone to say,
+
+$Amber:
+@@#AmberText;
+"But, being an old friend and fellow pedophile, I will give you a chance to explain why you care about the amount I pay you."
+@@
+--
+@@#choices;
+<<button [[Drop the subject.|LoMartPlotIntroduction16'2']]
+>><</button>>
+<<if $AmberLove eq 130>><<button [[Tell her about your situation.|LoMartPlotIntroduction16'3']]
+>><</button>><</if>>
+@@
+
+

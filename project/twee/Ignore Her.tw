@@ -1,0 +1,16 @@
+:: Ignore Her {"position":"1270,2810","size":"100,100"}
+You decide to ignore the hooded girl left in your living room; she can do what she wants for all you care. After staring at you for a moment, she gives you a shy nod and head towards your room.
+<<set $SuikoEvent1 to 0>>\
+<<set $SmokingSessionOneSchoolLifetrue to 0>>\
+<<set $SmokingSessionOneArisaFriendstrue to 0>>\
+<<set $SmokingSessionOneoldlifetrue to 0>>\
+After a while you have a few minutes or so to be alone.
+--
+@@#choices;
+<<if $Smoking eq 1>><<button [[Step outside and smoke a cigarette.|SmokingSessionOne]]
+>><</button>><</if>>
+<<if $Smoking eq 0>><<button [[Step outside and get some fresh air.|NONSmokingSessionOne]]
+>><</button>><</if>>
+@@
+
+

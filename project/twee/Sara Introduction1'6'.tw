@@ -1,0 +1,18 @@
+:: Sara Introduction1'6' {"position":"10090,3930","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Goodbye! Hope to see you guys again!"
+@@
+You childishly wave goodbye at the two kids, but your gesture seems to be ignored as $Randy grabs onto his sister's arm and disappear into the wood line.
+
+...
+
+You wait for them to leave and decide to follow the same route until you somehow reappear outside the entrance of Midori Forest.
+
+Although you don't understand how you're five or so feet away from the path you first entered, you decide not to bother with it and decide to stop wasting time.
+--
+@@#choices;
+<<button [[Walk to Midori Elementary.|MidoriSchool1]]>><</button>>
+@@
+
+

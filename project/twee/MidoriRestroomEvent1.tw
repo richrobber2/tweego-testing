@@ -1,0 +1,21 @@
+:: MidoriRestroomEvent1 {"position":"10790,3510","size":"100,100"}
+You suddenly have the massive urge to take a shit.
+
+Based solely on past knowledge of similar situations, you run down the hall until you find two parallel doors where the restrooms used to be in your head.
+
+There is just one problem;
+
+As you examine the two doors you notice both doors are unmarked.
+
+While you know one is 'Male' and the other is 'Female', you have seem to forgot which one to enter.
+
+You feel your sphincter begin to loosen from the phantom load dropping down.
+--
+@@#choices;
+<<button [[Choose the left door.|MidoriRestroom1False]]
+>><</button>>
+<<button [[Choose the door on the right.|MidoriRestroom1True]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,27 @@
+:: MidoriFairyIntro1-5 {"position":"6730,3090","size":"100,100"}
+Concerned that she may have almost drowned, you walk up to her and sit on the floor to be eye level with her.
+
+$Midori:
+@@#MidoriText;
+"What! What, what-?!"
+@@
+
+$Name:
+@@#ProtagText;
+"Are you okay, you almost drowned?"
+@@
+
+She tries to hide her face in her tiny arms but fails miserably at it.
+
+$Midori:
+@@#MidoriText;
+"Why do you care? Can I explain what I'm me doing?!"
+@@
+--
+@@#choices;
+<<button [[Sure, go ahead.|MidoriFairyIntro'truepath']]>><</button>>
+<<button [[Ask if she feels okay.|MidoriFairyIntro'lovepath']]
+>><</button>>
+@@
+
+

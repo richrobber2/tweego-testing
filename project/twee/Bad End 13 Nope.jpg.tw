@@ -1,0 +1,29 @@
+:: Bad End 13: Nope.jpg {"position":"1970,290","size":"100,100"}
+/* TODO add code for achievment here */
+-Yet, you decide to decline her offer.
+
+$Name:
+@@#ProtagText;
+"You know what? I think I'll look elsewhere..."
+@@
+
+$Amber is silent as you  decide to get up from your seat and walk towards the door.
+
+...
+
+While your sister gives you hell for declining the job, the damning realization of the deadline draws closer until something odd happens.
+
+Within a few days, a swat team raids your house and not only takes $Arisa away from you but you discover you're under arrest for suspicion of being a pedophile. You're presented with your resume as evidence and it doesn't go well for you.
+
+Not only did you fail to get a job, but you also lost your sister to the police and you're now in jail.
+
+...Well, it isn't that bad; at least you got a cell under your head and three meals a day.
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "Bad End 13: Nope.jpg.">><<script>>Engine.restart();<</script>><</button>>
+@@
+
+

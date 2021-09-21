@@ -1,0 +1,11 @@
+:: setup2 {"position":"10,1970","size":"100,100"}
+NOTE: This Game is influenced by your choices.
+ --
+@@#choices;
+<<button [[Begin the story.|LoMartIntroductionpost]]>><</button>>
+@@\
+<<set $DayCounter to 0>>\
+
+<<set $WarningRandom to either("0", "1", "2", "3", "4", "5", "6", "7")>>
+
+

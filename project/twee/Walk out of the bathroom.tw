@@ -1,0 +1,12 @@
+:: Walk out of the bathroom {"position":"11210,3370","size":"100,100"}
+You look at $Lilith for a few seconds and after feeling safe, you bow slightly and walk out of the bathroom.
+
+What a strangely erotic girl!
+--
+@@#choices;
+<<button [[Continue heading to the office.|MidoriSchool4]]
+>><</button>>
+<<if $LockerEventScene is 0>><<button [[Look around the hallway.|MidoriSchool4'1']]>><</button>><</if>>
+@@
+
+

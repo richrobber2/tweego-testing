@@ -1,0 +1,33 @@
+:: ArisaChaseEvent5-1 {"position":"21290,5050","size":"100,100"}
+What a handful she is! If she knew you were a pedophile you're sure she would be a threat!
+
+$Arisa:
+@@#ArisaText;
+"No, Meow nyan~"
+@@
+
+You hold back your weakness to cat girls and pick up your nude imouto.
+
+$Name:
+@@#ProtagText;
+"I'll carry you back to your room. After that I want you to make dinner!"
+@@
+
+Your sister licks your cheek and giggles.
+<<set $Libido +=10>>\
+$Arisa:
+@@#ArisaText;
+"Nyan! Onii-Chan loved Nya~!"
+@@
+
+This can't go on for much longer. If $Arisa continues this tease you will be putty in her hands.
+
+--
+@@#choices;
+<<button [[Ignore her.|ArisaChaseEvents5-2'fail']]
+>><</button>>
+<<button [[Humor her.|ArisaChaseEvent6]]
+>><</button>>
+@@
+
+

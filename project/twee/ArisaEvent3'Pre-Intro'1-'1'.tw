@@ -1,0 +1,26 @@
+:: ArisaEvent3'Pre-Intro'1-'1' {"position":"20170,3510","size":"100,100"}
+<<set $ArisaLove -=40>>\
+$Name:
+@@#ProtagText;
+"I appreciate the help $Arisa....-But how could you?!"
+@@
+
+You give your sister a foul look and even feel your fist tighten; you freeze.
+
+Prank or not, her intentions were good. You even got a job and met an old friend because of her today.
+
+Defeated and instantly calmed, you sigh and while heading to the door way, you briefly turn around to say:
+
+$Name:
+@@#ProtagText;
+"Thanks for today. You really helped me out!"
+@@
+
+Before heading out you see $Arisa giving you a melancholy smile; but oddly unsatisfied.
+--
+@@#choices;
+<<button [[Retire to your room.|ArisaEvent3'Pre-Intro'3']]
+>><</button>>
+@@
+
+

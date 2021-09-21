@@ -1,0 +1,121 @@
+:: RediaEvent2 {"position":"13030,3230","size":"100,100"}
+<<set $SawRedia1 to 1>>\
+You walk into the circle and say,
+
+$Name:
+@@#ProtagText;
+"You kids have it easy! When I was a lad, Coach Dimby would have ran you boys into the dirt!"
+@@
+
+You're surprised you remember that hardass.
+
+As if noticing your stature over the party of tired boys, $Redia looks at you and smiles.
+
+<<if $RediaLove is 100>>
+$Redia:
+@@#RediaText;
+"OH! Hey Bro!"
+@@
+All the boys look at you in horror.
+
+Boy1:
+@@#NPCText;
+"Hellcat has a brother?!"
+@@
+
+Boy2:
+@@#NPCText;
+"What a twist!"
+@@
+
+Boy5:
+@@#NPCText;
+"He looks too old to be a brother!"
+@@
+
+Fucking kids, you are well within age to be her brother!
+
+Redia smacks her bat on the dirt and yells in stereo,
+
+$Redia:
+@@#RediaText;
+"He isn't my brother you twerps! He..."
+@@
+She blushes.
+
+$Redia:
+@@#RediaText;
+"-Is my bo.. I mean friend! A good friend at that!"
+@@
+The boys back and cower in fear.
+
+Boy3:
+@@#NPCText;
+"Whatever you say Hellcat! Anyways, I think your 'friend' stated that your training was easy!"
+@@
+
+Redia points her bat at you and hisses.
+
+$Redia:
+@@#RediaText;
+"You say it's easy to run this diamond?!"
+@@
+<</if>>\
+<<if $RediaLove lt 100>>
+$Redia:
+@@#RediaText;
+"OH! Hey $Name!"
+@@
+
+All the boys look at you in horror.
+
+Boy1:
+@@#NPCText;
+"Hellcat has a friend?!"
+@@
+
+Boy2:
+@@#NPCText;
+"What a twist!"
+@@
+
+Boy5:
+@@#NPCText;
+"Isn't it strange she has older friends?"
+@@
+
+Fucking kids, you are she is just a friend of your sister.
+
+Redia smacks her bat on the dirt and yells in stereo,
+
+$Redia:
+@@#RediaText;
+"Yeah, I have older people I talk too."
+@@
+She blushes.
+
+$Redia:
+@@#RediaText;
+"In fact, I want to know him better one day!"
+@@
+The boys back and cower in fear.
+
+Boy3:
+@@#NPCText;
+"Whatever you say Hellcat...Anyways, I think your 'friend' stated that the training was easy!"
+@@
+
+Redia points her bat at you and hisses.
+
+$Redia:
+@@#RediaText;
+"You say it's easy to run this diamond?"
+@@
+<</if>>\
+--
+@@#choices;
+<<button [[Reassure them it's easy.|RediaEvent2'1']]
+>><</button>>
+@@
+
+

@@ -1,0 +1,20 @@
+:: ArisaEvent3'HaremRoute1'4 {"position":"20730,3790","size":"100,100"}
+$Arisa walks up you and then crawls on your bed seductively wiggling her hips.
+
+$Arisa:
+@@#ArisaText;
+"I'm jealous of the-Um, I wish my life could be like that."
+@@
+
+You really need to explain why you two can't be like that! While she can never do that, the idea that your imouto is sexually interested in you is creepy.
+--
+@@#choices;
+<<button [[Scold her.|ArisaEvent3'HaremRoute1'4'-1]]
+>><</button>>
+<<button [[I am too!|ArisaEvent3'HaremRoute1'5']]
+>><</button>>
+<<button [[A guy can dream.|ArisaEvent3'HaremRoute1'5'-1]]
+>><</button>>
+@@
+
+

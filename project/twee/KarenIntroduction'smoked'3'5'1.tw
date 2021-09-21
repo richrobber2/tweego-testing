@@ -1,0 +1,38 @@
+:: KarenIntroduction'smoked'3'5'1 {"position":"16250,3930","size":"100,100"}
+<<set $KarenLove -=20>>\
+<<set $KarenDelinquent to 1>>\
+$Name:
+@@#ProtagText;
+"Smoking isn't for everyone. I wouldn’t recommend a kid like you to smoke but I'd be hypocrite if I told you couldn't."
+@@
+
+$Karen gives you a dirty look and it takes you a while to figure out why. Before you can correct yourself does it for you.
+
+$Karen:
+@@#KarenText;
+"So, I am still just a kid to you! Enjoy your Fag stick, I hope you choke on it!"
+@@
+
+$Name:
+@@#ProtagText;
+"No, I didn't mean it like-"
+@@
+
+But it's too late. You stop trying to correct yourself as you see the blue haired child quickly turn around and run toward to road.
+
+What's with her? Why does she care so much about not being called a kid?
+
+Oh well.
+
+...
+
+After watching the girl run out of your sight, you take a few more puffs off your cigarette and prematurely stub it out on the bench. With that done, you decide to collect your things and head back home.
+
+$Arisa must be eager to see how today went.
+--
+@@#choices;
+<<button [[Walk back home.|PreArisaEvent3]]
+>><</button>>
+@@
+
+

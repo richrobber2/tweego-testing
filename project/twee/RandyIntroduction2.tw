@@ -1,0 +1,56 @@
+:: RandyIntroduction2 {"position":"5470,2530","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Aren't you going to go after your sister? You can't just let her go into the woods alone!"
+@@
+The boy sighs and says,
+
+Boy:
+@@#RandyText;
+"She is-! a bother. Like you would know how annoying a little sister is!"
+@@
+
+But unbeknownst to him, not only can you relate to how he feels but you still have to deal with an annoying sister.
+
+You smile and decide to humor the lad.
+
+$Name:
+@@#ProtagText;
+"You're not the only big brother who has to deal with an annoying sister."
+@@
+The boy stows his annoyed expression away and looks and laughs,
+
+Boy:
+@@#RandyText;
+"Oh, you have a sister as well?"
+@@
+
+You nod and the Boy repositions closer to you; facing your direction with interest.
+
+$Name:
+@@#ProtagText;
+"About nine years ago, my parents adopted a girl and forced me to care for her. She is about your age now and she still annoys me."
+@@
+
+You lay your hands on the somewhat muscular boy's shoulder and say wholeheartedly,
+
+$Name:
+@@#ProtagText;
+"But I still care for her! She looks up to me and seems to care about me a lot! I can't tell you how to treat your sister, but if I was you; I'd at least make sure she doesn't get hurt!"
+@@
+
+The boy sinks into his lap and mutters,
+
+Boy:
+@@#RandyText;
+"My situation is a little more complicated than that."
+@@
+--
+@@#choices;
+<<button [[Tell him to suck it up!|RandyIntroduction2'1']]
+>><</button>>
+<<button [[How So?|RandyIntroduction3]]
+>><</button>>
+@@
+
+

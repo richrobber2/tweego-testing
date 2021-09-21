@@ -1,0 +1,18 @@
+:: Run out as fast as you can! {"position":"10650,3650","size":"100,100"}
+OH SHIT!
+
+Not needing to use the restroom anymore, you slam the stall shut and hurry back into the hallway.
+
+...
+
+After a few minutes, you are relieved no one is chasing you or the cops are not opening fire at you.
+
+You stand nonchalantly in the hall for while until you feel that the coast is clear.
+__
+
+@@#choices;
+<<button [[Head to the main office.|MidoriSchool4]]>><</button>>
+<<if $LockerEventScene is 0>><<button [[Look around the hallway.|MidoriSchool4'1']]>><</button>><</if>>
+@@
+
+

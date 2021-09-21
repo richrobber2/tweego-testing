@@ -1,0 +1,55 @@
+:: BAD END 3: The Smartest Thief {"position":"570,290","size":"100,100"}
+/* TODO add code for achievment here */
+Why the hell not.
+
+You stupidly decide to grab the game box and stuff the container into your pants. After the rush of stealing the handheld, you're hit with a rush of unrelenting guilt and a damning realization hits you; you just stole an expensive item from a place you wanted to be employed at. You reach back into your pants, but it's too late.
+
+???:
+@@#AmberText;
+"You fucking thief!"
+@@
+
+You turn around to find an ebony girl pointing a revolver directly at you. Startled, you quickly try to remove the item from your pants but the sides of the box get stuck on your belt loop.
+
+$Name:
+@@#ProtagText;
+"I'm not-"
+@@
+
+BAM!
+
+The revolver fires and you are knocked back by the force. An intense pain burns inside your shoulder and in a panic, you try to run away.
+
+BAM!
+
+Another shot loudly echoes inside the thin storage room and a large bullet pierces your stomach. You try to scream in pain but only foaming blood spills out. The short black lady walks towards your wounded body while spinning the revolver.
+
+Girl:
+@@#AmberText;
+"You asshole! You come here asking for a job interview and I find you only here only to steal from me! To think my old friend was no better than the other assholes that worked here before!"
+@@
+
+Seeing her come closer with the gun, you fruitlessly try to escape; yet the pain of your two gunshot wounds makes moving extremely painful.
+
+The girl bends over your bloody body and lays the barrel of the gun on your skull.
+
+Girl:
+@@#AmberText;
+"Being an old friend, I will give you a swift death!"
+@@
+
+Friend? What is she-!
+
+BAM!
+
+Everything goes black...
+
+...
+
+<font size="3.5"><font color="#f23d00"><b>[YOU REALLY ARE AN IDIOT]</b></font>
+--
+@@#choices;
+<<button "BAD END 3: The Smartest Thief.">><<script>>Engine.restart();<</script>><</button>>
+@@
+
+

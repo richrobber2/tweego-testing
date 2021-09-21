@@ -1,0 +1,35 @@
+:: ArisaChaseEvent1-4 {"position":"21850,5050","size":"100,100"}
+$Name:
+@@#ProtagText;
+"You little brat!"
+@@
+
+$Arisa:
+@@#ArisaText;
+"-Eep"
+@@
+
+Your sister shriek as you grasp her waist and start to tickle her waist line.
+
+Ever since she was young, $Arisa has had a weakness to tickling.
+
+You drift your hands up her legs as to start to tickle around her lap.
+
+$Arisa:
+@@#ArisaText;
+"No~ I'll pee myself~!"
+@@
+
+She's known to do this and you feel uneasy. Last thing you want is your sister to pee on you.
+
+(That's not your fetish yet.)
+
+--
+@@#choices;
+<<button [[Head back to your room.|ArisaChaseEvent1-4'failed']]
+>><</button>>
+<<button [[Don't stop.|ArisaChaseEvent1-5]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,41 @@
+:: Day03Introduction1 {"position":"26050,3650","size":"100,100"}
+Dressing up in your preset uniform, you readjust your nametag on your breast pocket and head to your doorway.
+
+Opening your door, you once again find your sister at your door.
+
+This time around, $Arisa is fully dressed in her pink overalls but is curled up in a ball, sleeping at the edge of your path.
+
+$Name:
+@@#ProtagText;
+"$Arisa, wake up!"
+@@
+
+Your spazz of a sister quickly jumps awake from her odd slumber and jolts towards you,
+
+$Arisa:
+@@#ArisaText;
+"Onii-chan! It's time to-!"
+@@
+
+Her sudden reflex causes her to slam face first into your broad chest. Recovering from the collision, she looks at you with relief and confusion.
+
+$Name:
+@@#ProtagText;
+"Why are you sleeping here? This is the 2nd time I caught you at my doorway!"
+@@
+
+$Arisa yawns then gives you a relieved smile; her hair unkempt and face tired, she sighs and responds.
+
+$Arisa:
+@@#ArisaText;
+"Oh, sorry Onii-chan! I wanted to be able to wake you but I feel asleep. I'm sorry if I startled you."
+@@
+--
+@@#choices;
+<<button [[That's unhealthy!|Day03Introduction'2-1']]
+>><</button>>
+<<button [[That's so sweet!|Day03Introduction'1-2']]
+>><</button>>
+@@
+
+

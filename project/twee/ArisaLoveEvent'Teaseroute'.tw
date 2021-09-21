@@ -1,0 +1,37 @@
+:: ArisaLoveEvent'Teaseroute' {"position":"23110,3790","size":"100,100"}
+Feeling heavily conflicted about this, and push your sister off of you.
+
+$Arisa bounces slight on the bed and gives you a mean look.
+
+$Arisa:
+@@#ArisaText;
+"That was mean, Onii-chan!"
+@@
+
+Puffing her cheeks at you, you stand back from your emotional sister back up toward the door.
+
+$Name:
+@@#ProtagText;
+"Sorry, this is too much for me!"
+@@
+
+While your succubus sister is defeated, she sticks her short tongue at you and 'blees'.
+
+$Arisa:
+@@#ArisaText;
+"Onii-chan, you're so cute when your shy~"
+@@
+<<set $ArisaLove +=20>>\
+
+Blushing from this sly response, you quickly turn around and dart toward your room. To add insult to injury, you hear $Arisa playfully laugh at your sad attempt to flee.
+
+...
+
+Once you get back inside, you shut your door and jump on your bed  to find your television on a dvd selection screen.
+--
+@@#choices;
+<<button [[Check out the menu of the dvd.|ArisaEvent3'Intro']]
+>><</button>>
+@@
+
+

@@ -1,0 +1,34 @@
+:: Day03LoMartIntroSinomLotteIntro {"position":"32630,4210","size":"100,100"}
+You never heard that name before. Well it has been nine years and you only discovered Sinom had a daughter yesterday.
+
+Out of curiousity, you directly ask,
+
+$Name:
+@@#ProtagText;
+"Who is Lotte? Another one of your daughters?"
+@@
+
+Without looking at you, Sinom peers over towards $Lilith at the other side of the store and states,
+
+Sinom:
+@@#NPCText;
+"No...she wasn't. She was-..."
+@@
+
+He then peer back at you, smiles and looks back at $Lilith while pointing.
+
+Sinom:
+@@#NPCText;
+"She was an angel who's beauty was reincarnated into the  daughter she left me."
+@@
+
+While your attention was on $Lilith, you hear Sinom sniffle. As you look back you see the normally happy old man on the verge of crying.
+
+
+You feel unsure what to do. 
+--
+@@#choices;
+<<button [[Tell me about her .|Day03LoMartIntroSinomLotteIntro1]]>>><</button>>
+@@
+
+

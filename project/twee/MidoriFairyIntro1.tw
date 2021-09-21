@@ -1,0 +1,17 @@
+:: MidoriFairyIntro1 {"position":"6730,2390","size":"100,100"}
+Noticing the unnatural glow in your pants pocket, you retrieve the orb from your pocket and as mysterious as its glow, the sentient orb bounces out of your hands and rolls into the pond.
+ @@#EffectText;
+ PLOP!
+ @@
+
+ ...
+
+ There is a dead silence so mute you can hear the orb rolling down to the pond floor.
+ --
+@@#choices;
+ <<button [[Leave and look for the girl.|BAD END 9: In a Hole]]>><</button>>
+<<button [[Look into the pond.|MidoriFairyIntro1-1]]
+>><</button>>
+@@
+
+

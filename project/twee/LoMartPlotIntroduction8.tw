@@ -1,0 +1,19 @@
+:: LoMartPlotIntroduction8 {"position":"14290,4350","size":"100,100"}
+You sit down in the shaky, plastic chair and stare at the black girl as she opens her desk and pulls out a stack of papers. She sorts through the papers then looks at you and smiles,
+
+Small Ebony Girl:
+@@#AmberText;
+"So, you're Mr. $LastName! Do you remember me?"
+@@
+She must be $Amber yet, her small size and childish face makes you assume this must be her daughter of something.
+
+What should you say?
+--
+@@#choices;
+<<if $RecalledAmber is 1>><<button [[Yes, I do!|LoMartPlotIntroduction9]]
+>><</button>><</if>>
+<<button [[No, but how do you know me?|LoMartPlotIntroduction8'1']]
+>><</button>>
+@@
+
+

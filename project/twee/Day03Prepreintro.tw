@@ -1,0 +1,21 @@
+:: Day03Prepreintro {"position":"25770,3230","size":"100,100"}
+Seeing your sister obviously tired and struggling to shut your door while carrying the dishes, you decide to repay the favor by asking,
+
+$Name:
+@@#ProtagText;
+"What, can I ask you something?"
+@@
+
+Trying to maintain her grip on the dishes, $Arisa turns back around andawaits your question.
+
+$Arisa:
+@@#ArisaText;
+"Yes Onii-chan? What do you wanna ask?"
+@@
+--
+@@#choices;
+<<button [[Tell her she can stay home and rest.|Day03Prepreintrorest]]>><</button>>
+<<button [[Do you plan to do dishes before leaving?|Day03Prepreintrofail]]>><</button>>
+@@
+
+

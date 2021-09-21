@@ -1,0 +1,37 @@
+:: Punish your sister for already inviting friends over without permission {"position":"1270,2530","size":"100,100"}
+<<set $ArisaLove -=10>>\
+<<set $RediaLove -=10>>\
+<<set $yelledatarisa to 1>>\
+Your anger now boiling over, you switch to 'Parent Mode' and begin to scold $Arisa.
+
+$Name:
+@@#ProtagText;
+"$Arisa! Did you make plans without telling me?! We made a rule that you would tell me before hand! Now I have to scold you in front of your friends!"
+@@
+
+$Arisa is taken off guard and her eyes begin to swell with tears.
+
+$Arisa:
+@@#ArisaText;
+"But Onii-Chan, You- I...um....sorry..."
+@@
+
+$Redia gives you a mean look and $Suiko hides deeper into her hood. The atmosphere feels uneasy and after a moment of guilt, you change your tone.
+
+With a forced sigh you rephrase your sentence,
+
+$Name:
+@@#ProtagText;
+"Oh okay $Arisa. But next time, tell me. I would have let you anyway."
+@@
+
+$Arisa seems upset that you scolded her in front of her friends; perhaps it wasn't a good idea to make an ass of yourself and yell at her with her friends staring judgmentally at you.
+
+$Arisa regains her preppy and happy face, but everyone seems upset about your outburst.
+--
+@@#choices;
+<<button [[Next.|LoMartIntroductionTwo 3]]
+>><</button>>
+@@
+
+

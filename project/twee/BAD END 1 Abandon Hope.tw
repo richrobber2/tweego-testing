@@ -1,0 +1,21 @@
+:: BAD END 1: Abandon Hope {"position":"290,290","size":"100,100"}
+/* TODO add code for achievment here */
+You tell your father that that's okay and soon after, they come over to take $Arisa away from you.
+
+She was too much of a hassle anyways.
+
+...
+
+A month soon passes and you are alarmed when police and government agents come and escort you off the property. It was impossible to get a job in time and you just let it happen. There was nothing you could have done anyway.
+
+
+<font size="3.5"><font color="#f23d00"><b>[YOU'RE A FAILURE AS A BROTHER]</b></font>
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 1: Abandon Hope.">><<script>>Engine.restart();<</script>><</button>>
+@@
+
+

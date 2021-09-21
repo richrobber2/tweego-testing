@@ -1,0 +1,23 @@
+:: Sara Introduction7 {"position":"9670,4070","size":"100,100"}
+$Randy, the brother, smirks at you and starts to laugh; holding his chest and enjoying this situation.
+
+$Randy:
+@@#RandyText;
+"You have a boyfriend now? Ha-ha, Well do you mind if I talk to your 'boyfriend', $Sara?"
+@@
+
+His smirking face makes the air thick. Gesturing you to come over, you expect that he might want to beat the crap out of you.
+
+Standing there, unsure on what to do, $Sara runs behind you and fruitlessly pushes you toward $Randy.
+
+$Sara:
+@@#SaraText;
+"Oh please $Sara's boyfriend! Talk to $Sara's brother!"
+@@
+--
+@@#choices;
+<<button [[Go talk to him.|Sara Introduction8]]>><</button>>
+<<button [[Run away.|Sara Introduction8'1']]>><</button>>
+@@
+
+

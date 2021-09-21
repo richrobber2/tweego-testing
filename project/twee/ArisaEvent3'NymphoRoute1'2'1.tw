@@ -1,0 +1,20 @@
+:: ArisaEvent3'NymphoRoute1'2'1 {"position":"21290,3790","size":"100,100"}
+Noticing your sister's sudden change of hair, you run over to her in 'parental' mode.
+
+$Name:
+@@#ProtagText;
+"$Arisa! Why did you dye your pretty blond hair?!"
+@@
+
+Upon closer examination of her, you notice her skin in also lightly tanned and a strong smell of candy perfume wharfs off of her. You have no idea how she could have changed herself so fast...
+
+-It must be a prank or a cosplay.
+--
+@@#choices;
+<<button [[Are you cosplaying or something?|ArisaNymphoEvent1]]
+>><</button>>
+<<timed 5s>><<button [[How about you wash that stuff off and get clean up!|ArisaEvent3(NymphoRoute1'2'2]]
+>><</button>><</timed>>
+@@
+
+

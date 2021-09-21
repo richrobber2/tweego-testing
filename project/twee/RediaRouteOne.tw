@@ -1,0 +1,55 @@
+:: RediaRouteOne {"position":"3790,2250","size":"100,100"}
+<<set $RediaLove +=20>>\
+$Redia:
+@@#RediaText;
+"What's that?!"
+@@
+
+Without looking at her you reply,
+
+$Name:
+@@#ProtagText;
+"It's a video game called, 'Loli'Mon®'."
+@@
+
+$Redia:
+@@#RediaText;
+"'Lol-man'?"
+@@
+
+You let out an annoyed sigh; people who call it that needs to be shot.
+
+$Name:
+@@#ProtagText;
+"No it's pronounced, 'Loli'Mon®'. It's an old video game where you adopt young children who are personifications of monsters.
+
+Sounds stupid but it's actually really engaging!"
+@@
+
+Surprisingly, $Arisa discloses more information,
+
+$Arisa:
+@@#ArisaText;
+"It's kind of like bug collecting. You go around, find or adopt 'Loli'Mon®', meet other players, collect badges from around a large map and foil evil organizations~!"
+@@
+
+Then, as if implying something to you, she speaks close to your ear,
+
+$Arisa:
+@@#ArisaText;
+"You can ask my dear Onii-Chan, he has a 'spare' if you wanna play it?"
+@@
+
+Taking a glance over to $Redia, she seems amazed and focused on your game screen.
+
+$Redia:
+@@#RediaText;
+"I don't know! I was told games are unhealthy and make you a loser!"
+@@
+--
+@@#choices;
+<<button [[Grab your spare handheld and let her play. |RediaRouteOne 2]]
+>><</button>>
+@@
+
+

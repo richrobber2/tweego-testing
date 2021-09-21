@@ -1,0 +1,16 @@
+:: ArisaFailedEvent1-2 {"position":"21710,4630","size":"100,100"}
+You don't have time for her games. If she wants to act like a toddler, so be it!
+
+Annoyed and slightly turned on, you awkwardly walk toward your door and slam it shut.
+
+$Name:
+@@#ProtagText;
+"Get Dressed, you Nymph!"
+@@
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

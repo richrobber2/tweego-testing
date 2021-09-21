@@ -1,0 +1,41 @@
+:: Day03Preintro {"position":"26330,3090","size":"100,100"}
+/* TODO fix this passage to show the correct things the player is holding onto */
+<<if $ArisaSchoolDay03 is 1>>\
+After ensuring you have all your things, you collect your belongings-
+<</if>>
+@@#choices;
+[Your Pockets/Person Contains]
+@@
+
+@@#choices;
+<<if $Smoking is 1>>\
+$Fags 'Lolibooru' cigarettes
+Your $Zippo lucky Zippo
+$Money Dollars
+Your Cellphone
+Your Nametag
+<<elseif $smokingevent2 is 0>>\
+<<set $Depression +=10>>
+[You Decide to leave your cigarettes.]
+<<set $fags to 0>>
+Your $Zippo lucky Zippo
+$Money Dollars
+Your Cellphone
+Your Nametag
+<<elseif $Smoking is 0>>
+$Money Dollars
+Your Cellphone
+Your Nametag
+@@
+<</if>>\
+--
+<<if $ArisaSchoolDay03 is 0>>\
+<<button [[Next.|Day03Arisa]]
+>><</button>>
+<</if>>
+<<if $ArisaSchoolDay03 is 1>>\
+<<button [[Next.|Day03NoArisa]]
+>><</button>>
+<</if>>
+
+

@@ -1,0 +1,36 @@
+:: ArisaLoveEvent'TrueFail' {"position":"23390,3930","size":"100,100"}
+-Of course she'll say that; its not like this was the first time she admitted love for you.
+
+$Name:
+@@#ProtagText;
+"This isn't the first time you told me, so it's okay."
+@@
+
+$Arisa gives you a unsettling glare and seems angered by your response and clinches her fists to her sides.
+
+$Arisa:
+@@#ArisaText;
+"Oh, so it's nothing to you when I say that?!"
+@@
+
+Your visually upset sister backs away from you and seems disgusted by how causally you took her believes. Her fists now swell with anger and seems genuinely upset.
+
+$Arisa:
+@@#ArisaText;
+"It'd be best if you went to your room now...Onii-chan."
+@@
+
+<<set $ArisaLove -=60>>\
+
+Your sister's blue eyes glare are you as you agree with her stressed voice and half-hazardly make an attempt to flee without causing anymore problems.
+
+...
+
+Once you get to your room, you lay down on your bed and look at your television; thankfully it's already idling on a movie selection screen.
+--
+@@#choices;
+<<button [[Check out the television.|ArisaEvent3'Intro']]
+>><</button>>
+@@
+
+

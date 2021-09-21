@@ -1,0 +1,23 @@
+:: PlotIntroduction9'1' {"position":"5190,3370","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Are you sure? I think I need to solve this myself."
+@@
+
+$Arisa pouts and crosses her arms,
+
+$Arisa:
+@@#ArisaText;
+"I can help Onii-Chan! I can, I really can!"
+@@
+<<set $ArisaLove -=10>>\
+<<set $Arisarequestno1 is 1>>\
+
+You should listen to her, not like __YOU__ have any suggestions.
+--
+@@#choices;
+<<button [[Listen to her help.|PlotIntroduction9]]
+>><</button>>
+@@
+
+

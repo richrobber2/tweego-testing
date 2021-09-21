@@ -1,0 +1,36 @@
+:: MidoriSchool4 {"position":"10790,3370","size":"100,100"}
+Enough wasting time!
+<<set $SinomIntro to 1>>\
+
+You walk back up the hallway and spot the old glass walled office ironically located in front of the school entrance.
+
+The door is metal and rusty, unlike the wooden doors that dot the hallway. On the door, is a sign that reads:
+
+@@#NPCText;
+	Principal Sinom
+	(Principal Of Midori Elementary School!)
+@@
+
+<<if $LilithIntro is 1>>\
+He is still here! Oh old Mr.Sino-No way!
+
+You remember the girl you saw in the bathroom earlier-
+
+	"$Lilith Von Sinom"
+
+Did that old fart have a daughter while you're away? You got to mention that to him!
+
+(Well, not the part where you licked her pussy.)
+<</if>>\
+<<if $LilithIntro is 0>>\
+He is still here! Oh old Mr. Sinom!
+
+While you were a bit of a handful to him, Mr. Sinom was a great kind Principal!
+<</if>>\
+--
+@@#choices;
+<<button [[Walk in and introduce yourself.|MidoriSchoolSinom1]]
+>><</button>>
+@@
+
+

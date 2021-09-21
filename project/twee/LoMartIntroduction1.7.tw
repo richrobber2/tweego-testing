@@ -1,0 +1,24 @@
+:: LoMartIntroduction1.7 {"position":"10,2670","size":"100,100"}
+<<varchange "arisa">>
+You glare at this mistake and slam your hands on the table-
+x
+$Name:
+@@#ProtagText;
+"I am not your Dad! He hates us!"
+@@
+
+Still being four, the innocent cancer cell smiles and laughs.
+
+Brat:
+@@#ArisaText;
+"You're funny~"
+@@
+
+Is this all a joke to her?! As you feel the urge of smacking her start to rise, you decide to:
+--
+@@#choices;
+<<button [[Get upset at her.|ArisaPastintro'hate']]>><</button>>
+<<button [[Think rationally.|ArisaPastintro'love']]>><</button>>
+@@
+
+

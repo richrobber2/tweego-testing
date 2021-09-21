@@ -1,0 +1,77 @@
+:: Cheat Code Menu {"position":"430,1130","size":"100,100"}
+Please enter a password:
+
+<<set $password to ''>>\
+<<textbox '$password' '' autofocus>>
+<span id='textbox-reply'></span>
+<span id='textbox-submit'>\
+    <<button 'Submit'>>
+        <<set $password to $password.trim().toLowerCase().replace(/\s\s+/g, ' ')>>
+        <<if $password is 'godofthisnewworld'>>
+            <<replace '#textbox-reply'>>\
+                Cheat Menu Unlocked!\
+            <</replace>>
+            <<replace '#textbox-submit'>>\
+                [[Cheat Menu]]\
+            <</replace>>
+			 <<elseif $password is 'therabbitoffalseexistence'>>
+            <<replace '#textbox-reply'>>\
+               Memory Unlocked.
+			  <<timed 1s>>Ȩ̲̫̺͔̩̘̈́̑ͅr͙̤̟͔͚̮̥̞̊̿ȁ̷̜͓̟̭̻̇͆̎̊ͮ̊s̓͊͋͂ͤ̀ͧ̾̎͏̤̞͇͎̬̝̖͞i̷̢̙̲̫̰̣̣ͥ̄͞n̐̊̂ͣ̑ͧ҉̟̦͕̹̬͇͈̠ģ̷̘̙̰̮͖̖̬͂̇͂͗ͫ̈́̀̀ ̡̛̫͇̰̩̦̙̗͗̓͊ͤ͐̚R͇̮͓͖̼̓̾͑ͣ̐͊ȅ̸̯̣̖͉͓̟̲ͯ̋͂͗̚͝a̴̜̮̳̬͕̔͛̌ͮ̈̇͜ḽ̬͙̹̘͉̞͒̃̑͂̇̓ͮ̌͠ͅį͚̬͎̂̂͂͌͗͐͛̒t̹̩̼͖̣́ͫͅy̢̝͉͖̝͇̠ͧͦ͡ͅ ̨̳͈̣̜̅ͤͬ͐ͬͤ͠A̵̡͕̬͈̥̋ͅͅ.̫͓̗̮͇̺͊ͩ
+̵̉̇҉̵̗͓̺̞̘<</timed>>
+<<timed 3s>>
+̡̛͚͖͙͈͐̀̊͛̈̈ͤ/̚͏̯̤̮͎͉̰͙͢e̴̻͉ͮ͛̅̅͢͟r̿ͬͯ͐͂ͥ͐ͧ͏̡̞͍͇̭͠r̵̖̬̣͍̬͇̔ͤ̓̇ͦ̓̆̾ͯ͢o̦̙̦̥̘̱̜̤̤ͩ̆ŗ̡̤̗͎͎͈͍̤ͩͤ͗́̚.̶̨̝̝ͩ͊̑̋̔͞ͅ ̟̣ͩ̆ͥ̐̽ͥ
+̟̝ͬͫ͐̑̉̽̓
+̐̈͛̕͏̙͔̬̮͞P̡̳̙̪͗ͮͦͫ̅͗ą̵̸̮̣̤̳̞̘ͬ̏̿̄ͥ̃̇ţ͎̼̘̦̼͌̄͆̋ͪ͡c̠̺̥͔̱̰͉͒̓ͦ͗̑h̷̡̪̰̼̟̯̏͛̈́ͭ̾i̳͚͓̦̬̔̓̂ͩ̿ͩͨ̔̓̀n̷̼̻̣̞̬͖͗̉ͤ̂̒͜͠ͅg̶̶̢͙̠͎̹̬͕̥͒̎̽ͦ̓ͅ ͈ͩ̎ͭ͛͛͆̈ͤ͂Ŗ̺͙̟͈͍̝̩̉͗ͬ͛e̽͆̊҉̸͍̱̪͇͎̮͓̺͡a̤ͨ̉l̶̗̭ͣ̊̈́ͣ͂ͯͦ̊ǐ̵̛̯̹̖̼̝̦̦̋ͤ͝ͅt̬̟̹͒͑y̸̟̦͉͚̦̟̦̳̙̌̐̎̾̉ ̶̳͓̻͛ͦͣ̾̓̌ͤÁ̢̹͗̂ͨͬ͜͡.̞̲̻ͪ͒ͪ̑̉̓ͤ.̗̝͂̔͛ͪ̓ͥ̄̇͌͢͝.͖̗̭̟͍͉̀̓̂̆̒́͂̇͡
+̥̺̖͔͔ͬ̾̅ͥͪ<<timed 2.8s>> <font size="1"><font color="#ffff52">Sucess!</font>
+<</timed>>\
+̷̨̗͍̟ͤ́<</timed>>
+
+			   <<set $AltIrisuChance to 1>>\
+			   <<set $I̡͓̦ͅri̥s̗̥̖̺͟u̗͙͚̙Stats to 1>>\
+            <</replace>>
+            <<replace '#textbox-submit'>>\
+                [[???|Hidden Event 1]]\
+            <</replace>>
+			<<elseif $password is 'theramblingsofasickfuck'>>
+            <<replace '#textbox-reply'>>\
+               ???\
+            <</replace>>
+            <<replace '#textbox-submit'>>\
+                [[Loliconman's Logs]]\
+            <</replace>>
+			<<elseif $password is 'mygamemyuniverse'>>
+            <<replace '#textbox-reply'>>\
+               ???\
+            <</replace>>
+            <<replace '#textbox-submit'>>\
+                [[Customsetup]]\
+            <</replace>>
+			<<elseif $password is '1148'>>
+            <<replace '#textbox-reply'>>\
+               :^)>\
+            <</replace>>
+            <<replace '#textbox-submit'>>\
+                [[oof lets go|kill my elf]]\
+            <</replace>>
+			<<elseif $password is 'oniichan'>>
+            <<replace '#textbox-reply'>>\
+               ...\
+            <</replace>>
+            <<replace '#textbox-submit'>>\
+                [[...|Hidden Route 2]]\
+            <</replace>>
+            <<run $('#textbox-answer').attr('readonly', 'true');>>
+        <<else>>
+            <<replace '#textbox-reply'>>\
+                Incorrect.  Please try again.\
+            <</replace>>
+        <</if>>
+    <</button>>\
+</span>
+--
+@@#choices;
+<<button [[Options.|Menu]]>><</button>>
+@@
+
+

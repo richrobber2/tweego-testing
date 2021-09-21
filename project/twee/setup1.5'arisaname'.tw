@@ -1,0 +1,39 @@
+:: setup1.5'arisaname' {"position":"570,1690","size":"100,100"}
+<<if $Arisa is "Suiko">>
+<<goto 'Start'>>
+<</if>>
+<<if $Arisa is "Redia">>
+<<goto 'Start'>>
+<</if>>
+<<if $Arisa is "Randy">>
+<<goto 'Start'>>
+<</if>>
+<<if $Arisa is "Sara">>
+<<goto 'Start'>>
+<</if>>
+<<if $Arisa is "Amber">>
+<<goto 'Start'>>
+<</if>>
+<<if $Arisa is "Lilith">>
+<<goto 'Start'>>
+<</if>>
+<<if $Arisa is "Midori">>
+<<goto 'Start'>>
+<</if>>
+<<if $Arisa is "Mikan">>
+<<goto 'Start'>>
+<</if>>
+<<if $Arisa is "Vivian">>
+<<goto 'Start'>>
+<</if>>
+<<if $Arisa is "Karen">>
+<<goto 'Start'>>
+<</if>>
+<<if $Arisa is "Irisu">>
+<<goto 'Start'>>
+<</if>>
+<<if $Arisa is "Nanako">>
+<<goto 'Start'>>
+<</if>>
+
+

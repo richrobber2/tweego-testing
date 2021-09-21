@@ -1,0 +1,15 @@
+:: Grab the scissors {"position":"2530,3230","size":"100,100"}
+<<seen>>
+    <<pickup '$playerinventory' unique 'Scissors'>>
+    <<notify 'info'>>Scissors aquired<</notify>>
+<<hidden>>
+<<content>>
+You brush off the apple peels off the dirty scissors and place it beside Mr.Rabbit. you can't save him completely but you could salvage his parts to make something. <<set $drawer1 to 1>>
+--
+<</seen>>
+@@#choices;
+<<button [[Look back inside drawer.|Look inside the drawer for supplies]]
+>><</button>>
+@@
+
+

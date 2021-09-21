@@ -1,0 +1,44 @@
+:: LoMartPlotIntroduction10 {"position":"14290,4630","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Wow $Amber! To think all those Business classes paid off! I would've never guessed you’d be an owner of a store!"
+@@
+$Amber sighs and goes back to looking at her papers.
+
+$Amber:
+@@#AmberText;
+"It's not so bad. When I finished high school, I went to college for four years to pursue business management and when I got my degree my parents gave me a small loan of 5.1 million dollars to open up this place but-"
+@@
+5.1 million dollars?! Damn, her family is richer than you thought!
+
+$Amber sighs and looks at you.
+
+$Amber:
+@@#AmberText;
+"While kids come to this store a lot, I can't seem to get anyone who wants to work here. I had a few employees work here before, but most left after feeling uncomfortable and had a group earlier this week decided to steal electronics from me."
+@@
+
+$Amber opens a desk drawer and dramatically drops a revolver on her desk.
+
+$Amber:
+@@#AmberText;
+"Sadly, they decided to leave this earth after I caught them!"
+@@
+
+She looks back at you with a serious glare.
+
+$Amber:
+@@#AmberText;
+"I'm going to ask you a few questions. While I'm ecstatic you want to work here and submitted a application, I have to make sure you're fit to work here!"
+@@
+
+Holy shit! 
+
+You're not sure if you're shock $Arisa actually set you up to work here or your possible employer might have killed some shoplifters.
+--
+@@#choices;
+<<button [[Okay, ask me anything!|LoMartPlotIntroduction11]]
+>><</button>>
+@@
+
+

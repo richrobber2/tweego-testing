@@ -1,0 +1,37 @@
+:: PlotIntroduction8 {"position":"5050,3230","size":"100,100"}
+You sink your head low and feel too powerless to even relay your parent's message to her.
+
+$Arisa blinks and displays an uneasy smile. Seeing your melancholy smile, she spreads her arms out to offer a hug.
+
+$Arisa:
+@@#ArisaText;
+"$Name-Onii-Chan, I can tell when you're upset. I may be a kid but I want to help or cheer you up all the time! Onii-chan, what's wrong?"
+@@
+Wow, what a sweet thing to say! Perhaps the annoying, little brat isn't that bad of a sister. In fillip of this moment of brotherly affection, you lean over on your knees and firmly envelop her in your arms.
+
+After moment of a awkward sibling hug, you place your hands on her slender shoulders and explain,
+
+$Name:
+@@#ProtagText;
+"Long story short, our parents are now refusing to pay the rent for the house. So, I have thirty days to find a job an-"
+@@
+
+Killing the sobriety of your problem, your lovable and caring Imouto quickly blurts out,
+
+$Arisa:
+@@#ArisaText;
+"Is that all, Onii-Chan?! $Arisa can help! I really can!!"
+@@
+
+@@#EffectText;
+Wut?
+@@
+--
+@@#choices;
+<<button [[Listen to her help.|PlotIntroduction9]]
+>><</button>>
+<<button [[Say you will find your own solution.|PlotIntroduction9'1']]
+>><</button>>
+@@
+
+

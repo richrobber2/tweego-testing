@@ -1,0 +1,25 @@
+:: Sara Introduction8'2' {"position":"9670,4350","size":"100,100"}
+No, you have to get out of here now!
+
+$Name:
+@@#ProtagText;
+"Sorry $Sara, I got to go! Hope to see you later!"
+@@
+
+After quickly saying good bye, you run past $Randy and flee into the wood line. While you admit $Sara was a nice girl and feel bad about having to leave so soon; it's best not to take any chance of being labeled as a creeper.
+
+You can only imagine that $Randy thought you were going to hurt his sister.
+
+...Still, good to see that brat actually went to see if his sister was safe.
+
+After about ten minutes or so, you notice the forest start to taper away and you appear near the entrance of Midori Park.
+
+Collapsing on your needs and noticing you're not being chased, you take a breather and decide to stop wasting time and head to Midori Elementary.
+--
+@@#choices;
+<<if $MidoriSEvent1 is 1>><<button [[Look for LO-Mart.|LoMartPlotIntroduction]]>><</button>><</if>>
+<<if $MidoriSEvent1 is 0>><<button [[Go into the school.|MidoriSchool3]]>><</button>><</if>>
+<<if $SawRedia1 is 0>><<button [[Look around the school yard.|MidoriSchool3'1']]>><</button>><</if>>
+@@
+
+

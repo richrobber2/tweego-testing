@@ -1,0 +1,80 @@
+:: RandyIntroduction3'1' {"position":"5610,2810","size":"100,100"}
+What a selfish excuse; you bet that he's confusing his sister's love as non-sibling love.
+
+$Name:
+@@#ProtagText;
+"What does that have to do with your sister? Who cares about your sexuality! I bet your sister's wellbeing is more important than your pity grip on sexuality!"
+@@
+
+The boy looks at you, possibly offended and yells,
+
+Boy:
+@@#RandyText;
+"I'm sure you'd never understand having a sister that loves you that way! It's because of her I decided to only like boys! But you! Oh, you're just an ass!"
+@@
+
+$Name:
+@@#ProtagText;
+"That sounds like my sister! Although I never let my views makes me treat anyone different!"
+@@
+
+The boy laughs.
+
+Boy:
+@@#RandyText;
+"So, you think it's about me being gay? I just don't want my sister drooling over me constantly!"
+@@
+
+$Name:
+@@#ProtagText;
+"How about you put your pity sexuality aside and care for your sister kid! There is a difference between brotherly love and love! Would you rather have your sister hate you or have her get hurt because you failed to protect her?"
+@@
+
+The boy looks at you; confused and sighs.
+
+Boy:
+@@#RandyText;
+"You may be right, but if I go after her, she’ll assume I love her!"
+@@
+
+This boy has no idea what sisterly love is. Getting fed up with this, you decide to be brutally honest with him.
+
+$Name:
+@@#ProtagText;
+"Look, this has nothing to do with your sexuality. This is more about doing the right thing and being there for your sister. Even if you don't love her like that, you can still be a great big brother and show her you care about her as a brother!
+
+If this is about what you like sexually then you need stop looking at your sister like that and show her you care about her as a brother!
+
+You're acting very selfish about something so unrelated."
+@@
+
+The boy stares at you and growls slightly, but after a moment to think it out he looks into his lap and says,
+
+Boy:
+@@#RandyText;
+"You're not wrong... Damn it, I was only thinking about myself."
+@@
+
+The boy stands up and faces Midori Forest, then looks at you and smiles.
+
+Boy:
+@@#RandyText;
+"Thanks old man! I'll...go find her!"
+@@
+
+With that, the boy smiles and leaves on his adventure to find his sister.
+
+On that note, you get up and decide to head on your own adventure towards Midori Elementary.
+
+Once you arrive; you decide to:
+--
+@@#choices;
+<<if $MidoriSEvent1 is 1>><<button [[Look for LO-Mart.|LoMartPlotIntroduction]]
+>><</button>><</if>>
+<<if $MidoriSEvent1 is 0>><<button [[Go into the school.|MidoriSchool3]]
+>><</button>><</if>>
+<<if $SawRedia1 is 0>><<button [[Look around the school yard.|MidoriSchool3'1']]
+>><</button>><</if>>
+@@
+
+

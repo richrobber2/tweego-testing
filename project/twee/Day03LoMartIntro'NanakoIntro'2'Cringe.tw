@@ -1,0 +1,35 @@
+:: Day03LoMartIntro'NanakoIntro'2'Cringe {"position":"29690,3930","size":"100,100"}
+It was a mistake for $Nanako to hand you the microphone.
+
+Wearing a smug smile you say into the intercom,
+
+$Name:
+@@#ProtagText;
+"Well I'm the Onii-chan of LO-Mart! I'll make 'sure' all the young little customers are happy. I like little girls afterall, so I'm sure it was a great idea to hire me to oversee and help all the cute, young babes this store gets~"
+@@
+
+Once you're done talking, The crowd remains silents until $Nanako snatches the microphone you; giving you a disgusted stare.
+
+She looks back at the onlookers and announces,
+
+$Nanako:
+@@#NanakoText;
+"Sorry about that! He likes to joke around, Hahaha..."
+@@
+<<set $NanakoLove -=20>>\
+<<set $NanakoCringe to 1>>\
+
+Then, quite unexpectingly, She pushes you off the stage and nearly break your neck.
+
+Oof!
+
+Dusting yourself off, you catch a glimpse of $Nanako turning her nose to you as you decide to head inside the store.
+
+...
+--
+@@#choices;
+<<button [[Walk inside the store.|Day03LoMartIntro'AmberEvent']]
+>><</button>>
+@@
+
+

@@ -1,0 +1,38 @@
+:: ArisaEvent3'Pre-Intro'1 {"position":"20030,3370","size":"100,100"}
+<<set $ArisaLove +=20>>\
+Noticing your sister crying, you decide to look past the severity of the destruction as you lean over her 'bed' and start to brush her cheek.
+
+After brushing your hand over her cheek, you drift your hand up towards her silky, blonde hair and pat her head.
+
+"Pat pat pat"
+
+$Name:
+@@#ProtagText;
+"$Arisa, I'm home~!"
+@@
+
+You whisper this only a few feet away from her ear, which causes you're cheeky sister to jolt up, pushed her laptop away like an instinct, backed away from you; also petrified.
+
+$Name:
+@@#ProtagText;
+"Are you okay $Arisa?"
+@@
+
+Your sister covers up in a pink blanket and hides her eyes from you.
+
+$Arisa:
+@@#ArisaText;
+"Onii-Chan, Ho-W! Was um...today?"
+@@
+She looks guilty, as if she trying to hide something from you.
+--
+@@#choices;
+<<button [[Thank her for her help.|ArisaEvent3'Pre-Intro'2]]
+>><</button>>
+<<button [[How could you!|ArisaEvent3'Pre-Intro'1-'1']]
+>><</button>>
+<<button [[I have good news!|ArisaEvent3'Pre-Intro'2-'1']]
+>><</button>>
+@@
+
+

@@ -1,0 +1,32 @@
+:: SuikoDay03P03FlashBack {"position":"35990,1270","size":"100,100"}
+<<set $DayCounter to 0>>\
+Five Years Ago.
+
+...
+
+$Arisa:
+@@#ArisaText;
+"$Name! Are you still going to the arcade?"
+@@
+
+Today, we took the bus to go to the arcade, but it started to downpour so your both strained underneath the bus stop. The bus is running late, so your alone holding your sister's hand under a sheltered bus stop.
+
+
+You look across the falling rain and sigh. You stupidly promised $Arisa that you'd let her go to the arcade after she whined about some limited plush doll. 
+
+You look down at your six year old sister and sigh in annoyance. This rain is not letting up and you doesn't appear that any bus will be coming anytime soon. From memory alone, it appears from the light poles and the appearence of this bus stop you're probably by Midori Hospital; which is only a down the road to Pantsu Arcade.
+
+With the rain not having any end in site, you grab your umbrella, flip your jacket's hoodie up and firmly grasp your sister's hand and half-hazardly tell her,
+
+$Name:
+@@#ProtagText;
+"We are going to ruin through the rain, hold onto my hand and don't let go!"
+@@
+
+Gripping her tiny hand tightly, you open your umbrella and dash into the downpour.
+--
+@@#choices;
+<<button [[Next.|SuikoDay03P03FlashBack01]]>><</button>>
+@@
+
+

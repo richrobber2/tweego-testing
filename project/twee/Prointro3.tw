@@ -1,0 +1,32 @@
+:: Prointro3 {"position":"10,3930","size":"100,100"}
+Principal Sinom:
+@@#NPCText;
+"Well, you're free to go. How about you find someone who would be a good friend for your daughter~"
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+Before letting you go, Mr. Sinom ruffles her hair then casually walks into the crowd of admiring children. You look down at your sister and ponder who would be a good friend for her.
+
+You peer back and scope the crowd for potential candidates. While most of the children seem to have already established conversations and friends, you spot two girls alienated from the others.
+
+Looking up at the gym bleachers and spot an oddly red headed girl casually tossing a baseball. She seems like a sporty girl; dressed in a red jump suit and a sports bag with a wooden bat poking out. While $Arisa seems to only follow what you enjoy, a sporty friend may help her meet new friends and acquire new hobbies.
+
+Not wanting to feel like you're forcing a friendship on one person, you look around and spot another girl oddly sitting alone under the adjacent bench.
+
+While you can't make her out, she appears to be a girl wearing a black hoodie cradling what seems like a bunny plush. This girls seems to be sheltered and trying to avoid the others. Maybe a timid little girl would be a good friend for $Arisa. While your sister is hyper and playful, she has a fear of strangers.
+
+You decide to introduce $Arisa to:
+--
+@@#choices;
+<<button [[Introduce her to the sporty girl.|RediaPastintro1]]
+>><</button>>
+<<button [[Introduce her to the timid girl.|SuikoPastintro1]]
+>><</button>>
+@@\
+<<set $SuikoIntroLock to 0>>\
+<<set $RediaIntroLock to 0>>\
+
+

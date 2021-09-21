@@ -1,0 +1,40 @@
+:: RediaIntroLoneTrue1-1 {"position":"1270,4630","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Why are you not looking for a friend? Didn't you hear Principle Sinom eariler?"
+@@
+
+The redhead sits down and responds with a uneasy tone.
+
+$Redia:
+@@#RediaText;
+"I..Want- Um, I don't need friends. I need to focus on my joining the baseball team; Friends would only slow me down."
+@@
+
+Odd, that doesn't sound like something a child would say. While that reason sounds like something you said around the time you were her age, you now know how unhealthy those ideals were.
+
+$Name:
+@@#ProtagText;
+"Of course you need friends. Having someone you can relate and talk can help you a lot. Like they say; All work and no play will make you dull."
+@@
+
+While you felt you didn't properly explain the reason to this girl you barely know, $Redia sighs and gives another reason.
+
+$Redia:
+@@#RediaText;
+"Having friends would only make me dull and sloppy. If I did have friends, I'm sure my father wouldn't approve."
+@@
+
+You try to say more to deter this strange way of thinking, but the redhead pulls out her baseball again and stares intensly at it.
+
+$Redia:
+@@#RediaText;
+"I was told I'm only good at one thing. Why should I do something that would prevent me from being the best at what I do."
+@@
+--
+@@#choices;
+<<button [[What about being happy?|RediaIntroLoneTrue1-2]]>><</button>>
+<<button [[Is that really what you want?|RediaIntroLoneTrue2-1]]>><</button>>
+@@
+
+

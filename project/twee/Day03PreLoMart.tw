@@ -1,0 +1,12 @@
+:: Day03PreLoMart {"position":"27310,3510","size":"100,100"}
+<<if $RandyLove is 200>>
+<<goto 'LoneRandyDay03Intro'>>
+<<elseif $SuikoLove is 0>>
+<<goto 'SuikoHauntingEvent1'>>
+<<elseif $SuikoLetter is 1>>
+<<goto 'PreSuikoRouteDay03'>>
+<<else>>
+<<goto 'Day03LoMartIntro'>>
+<</if>>
+
+

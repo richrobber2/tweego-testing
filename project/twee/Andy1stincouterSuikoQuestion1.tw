@@ -1,0 +1,23 @@
+:: Andy1stincouterSuikoQuestion1 {"position":"30670,2390","size":"100,100"}
+This whole situation is starting to piss you off! Who is this guy to judge you?! First, he assaults you then he starts insulting your life choices! 
+
+Holding a fist, the man frowns at your actions but pauses for your rebuttle.
+
+$Name:
+@@#ProtagText;
+"Just who the hell are you! What do you know about me that I 'clearly' don't get!?"
+@@
+
+Preparing for him to 'punish' your agressive behavior like before, the man smiles in this unfitting situation and calm states;
+
+$Andy:
+@@#ProtagText;
+"I am $Andy. What about 'You' I don't get is how you can be so fucking selfish and self centered all this time despite the way you treat $Redia and of course; $Arisa..."
+@@
+--
+@@#choices;
+<<button [[How do you know my sister?!|Andy1incounterAskArisa]]>><</button>>
+<<button [[Remain silent and listen|Andy1incounterSilent]]>><</button>>
+@@
+
+

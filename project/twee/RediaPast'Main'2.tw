@@ -1,0 +1,47 @@
+:: RediaPast'Main'2 {"position":"10,4350","size":"100,100"}
+After shaking your sister's hand, $Redia looks at you and smiles.
+
+$Redia:
+@@#RediaText;
+"Judging by this adult's catching arm, I assume you’re into sports?"
+@@
+
+Knowing your sister only does things you enjoy, your sister lies and replies,
+
+$Arisa:
+@@#ArisaText;
+"I learn from the best! I'm interested in sports but I enjoy anime and protecting this loser~"
+@@
+
+$Redia smirks at you then looks back at your sister.
+
+$Redia:
+@@#RediaText;
+"Anime? Isn’t that some Japanese sport?"
+@@
+
+
+$Arisa laughs nervously and looks at you; as if hoping you can help her with her first social interaction. Knowing your sister isn't the sport playing type, you try to think of a sports anime that she can use to 'relate' to sports. A football anime flashes in your mind.
+
+$Name:
+@@#ProtagText;
+"Did you like football? Zura was your coach back in then!"
+@@
+
+Zura being the protagonist of said anime. You hope she gets your reference. Your sister smiles and carries on this false statement.
+
+$Arisa:
+@@#ArisaText;
+"I forgot! I enjoy the footballs! While I enjoy football, I never really got into the basics. What sports do you enjoy?"
+@@
+
+Your sister winks at you and the two starts rambling about sports. As the two carry on a now stable conversation, you slowly back away and let the two break the ice. Not expecting a goodbye, $Redia looks towards you, winks starts to talk to her new 'friend'. At first, you think she saw through the lie but since they seem to be getting along you walk away from them and decide to:
+--
+@@#choices;
+<<button [[Head home.|DayOneIntro]]
+>><</button>>
+<<if $SuikoIntroLock is 0>><<button [[Go talk to the other girl.|Suikointro'lone']]
+>><</button>><</if>>
+@@
+
+

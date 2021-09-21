@@ -1,0 +1,37 @@
+:: SuikoDay03P2Tea {"position":"31930,1410","size":"100,100"}
+<<set $SuikoDay03P2Tea to 1>>\
+You look down at the tea before you and start to question if you should drink it or not.
+
+At first glance, the floating settlement and cheap, obviously playset cup makes you worried about drinking it.
+
+$Suiko:
+@@#SuikoText;
+"It's my own blend...I learned...myself..."
+@@
+
+She smiles and nervously attempts to hid this fact. The look of the chunks floating like pulp doesn't look like conventional tea and with how crudely concocted it looks it won't go down easy. 
+
+No... You shouldn't disrespect your 'hostess' like this! Maybe if drink it you might be surprised.
+
+Looking down at the stagnent tea, you hesitantly ask $Suiko,
+
+$Name:
+@@#ProtagText;
+"What type of tea is...This?"
+@@
+
+-But the only reply you get is,
+
+$Suiko:
+@@#SuikoText;
+"It's a...Secert. Ura ura~"
+@@
+
+What should you do?
+--
+@@#choices;
+<<button [[Drink the Tea|SuikoDay03P2TeaDrink]]>><</button>>
+<<button [[Pass on the drink|SuikoDay02P2TeaReject]]>><</button>>
+@@
+
+

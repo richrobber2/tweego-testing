@@ -1,0 +1,20 @@
+:: Check out the vending machine {"position":"14570,3230","size":"100,100"}
+You walk toward the vending machine and find a small passage written by the buttons:
+@@#EffectText;
+	'Mystery Item Machine. Please deposit 20.00 dollars to activate. Select the highlighted button and receive one of three ultra-rare items! This machine can only be used once every 12 hours to prevent greedy people! Be sure to have fun!'
+@@
+
+Under this label is a green light labeled 'Open for Business'.
+
+Looks interesting but 20.00 is steep for any type of vending machine.
+
+Should you try it?
+--
+@@#choices;
+<<button [[Put twenty dollars into the vending machine.|Put twenty dollars into the Machine.]]
+>><</button>>
+<<button [[Ignore it and head inside.|LoMartPlotIntroduction2'1']]
+>><</button>>
+@@
+
+

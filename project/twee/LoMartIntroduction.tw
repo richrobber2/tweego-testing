@@ -1,0 +1,21 @@
+:: LoMartIntroduction {"position":"10,2250","size":"100,100"}
+<<set $SuikoPastIntro to 0>>\
+<<set $SuikoPastIntroLoveLone to 0>>\
+<<set $Load to 1>>\
+You lived a particularly Normal Life.
+
+You got good grades at school, had many friends, and never did anything illegal. You recall generally being loved up until High School, and yet, you were always an outcast. Everything seemed pretty simple until the end of your sophomore year.
+
+Then, your parents decided to give birth to a little girl.
+
+The surprise birth came as a surprise to no one but yourself.
+
+Your father was always away in Japan (possibly drunk), while your mother was a CEO of some company that seemed to engulf her days.
+
+Being confronted with a newborn was not only shocking, but it also put your life on hold. Since your dad was never in the states and your mother was only home at night, so the responsibility to care for her fell on you.
+--
+@@#choices;
+<<button [[Next.|LoMartIntroduction1.5]]>><</button>>
+@@
+
+

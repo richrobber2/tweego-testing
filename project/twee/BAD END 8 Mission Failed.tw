@@ -1,0 +1,26 @@
+:: BAD END 8: Mission Failed {"position":"1270,292","size":"100,100"}
+/* TODO add code for achievment here */
+Thinking you now have the upper hand, you lean forward and attempt to steal her 'rifle'. Unfortunately, she sees your shadow creep forward until she artfully turned around and you hear a gunshot.
+
+"BAM"
+
+...
+
+The black-haired soldier looks down and stared in horror as you're not aware that half your face was sheared off.
+
+Then, it hits you and the sudden influx of pain hopelessly chokes on your blood-filled lungs.
+
+As you finally pass out from the pain, your head collides hard with the reinforced concert your porch is made of.
+
+...
+
+<font size="3.5"><font color="#f23d00"><b>[Um....Game Over?]</b></font>
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 8: Mission Failed.">><<script>>Engine.restart();<</script>><</button>>
+@@
+
+

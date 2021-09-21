@@ -1,0 +1,48 @@
+:: Suikointro'lone'1 {"position":"290,4350","size":"100,100"}
+Feeling the girl may need your help, you walk over to the small group of kids and raise your voice to the bullies.
+
+$Name:
+@@#ProtagText;
+"What are you boys doing? Making 'friends' I hope."
+@@
+
+The group of bullies turn around and before noticing you announce,
+
+Boy1:
+@@#NPCText;
+"Can't you see we're busy? Buzz of-"
+@@
+
+A collective gasp echoes between them as they slowly peer up and see this towering old man above them.  As the crowd opens up you see the now frightened girl reclaim her plush and on the verge of tears. Simply giving the boys a mean look, they hastily decide to leave.
+
+Boy2:
+@@#NPCText;
+"Run!"
+@@
+
+The group then spreads out like cockroaches; leaving you alone with the distraught girl. Seeing this, you slowly approach her.
+
+As you walk to her, the hooded girl opens her brown eyes which are filled with tears. She flinches as you knell a few feet from her and softly ask her if she's okay.
+
+$Name:
+@@#ProtagText;
+"Are you alright? You're not hurt, are you?"
+@@
+
+The hooded girl wears a confused face for what seems like minutes, she stands back up and looks back at you in a unsure gaze.
+
+Hooded girl:
+@@#SuikoText;
+"Wh..I'm..Confus.."
+@@
+<<set $SuikoPastIntroLoveLone to 1>>\
+--
+@@#choices;
+<<button [[I wanted to see if you were okay.|Suikointro'lone/love']]
+>><</button>>
+<<button [[I wanted to see if you wanted a friend.|Suikointro'lone/main']]
+>><</button>>
+@@\
+<<set $SuikoPastIntroLone to 1>>\
+
+

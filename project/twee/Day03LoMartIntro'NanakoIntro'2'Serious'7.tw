@@ -1,0 +1,43 @@
+:: Day03LoMartIntro'NanakoIntro'2'Serious'7 {"position":"29550,4910","size":"100,100"}
+This is getting old!
+<<set $NanakoIdolRoute to 1>>\
+<<if $ATFCard is 1>>
+<<set $ATFfight1 to 1>>\
+<</if>>\
+While this asshole is talking, you dash toward him pulling your elbow back and push all your weight just below his ribs; making contact into his liver.
+
+As soon as he hear the gasp of pain from your liver shot, you flank to the side and the man stumbled to the floor.
+
+$Name:
+@@#ProtagText;
+"Hope it ruptured, you ass!"
+@@
+
+High off the plan actually working you look over the crowd as they seem shocked a somewhat skinny man took down a land whale and then cheer loudly.
+
+You look down at the fatass who is now twitching in visable agony and now being done with his antics, you nudged him with some sharp kicks.
+
+$Name:
+@@#ProtagText;
+"Get the FUCK out of here!"
+@@
+
+Unlike before, the fatass onlooker stuggles to his feet and runs off in noticable pain. As you watch him leave the property, the crowd starts to cheer and cause a uproar over the show you just displayed.
+
+You stand in awe as they chant your name until you feel a tapping on your shoulder.
+
+You turn your head to see $Nanako smiling and holding the microphone towards you.
+
+$Nanako:
+@@#NanakoText;
+"Talk to your fans..."
+@@
+--
+@@#choices;
+<<button [[Are you okay!?|Day03LoMartIntro'NanakoIntro'2'Serious'8]]
+>><</button>>
+<<button [[Take the mic.|Day03LoMartIntro'NanakoIntro'2'Serious'8-1]]
+>><</button>>
+@@
+
+

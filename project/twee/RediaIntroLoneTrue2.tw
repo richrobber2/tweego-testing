@@ -1,0 +1,36 @@
+:: RediaIntroLoneTrue2 {"position":"1130,4630","size":"100,100"}
+$Name:
+@@#ProtagText;
+"So you saw me? I don't know if you heard Principle Sinom earier but, I saw you alone up here and was wondering why you weren't looking for a friend."
+@@
+
+The redhead now concerned about your reasoning, steps backwards and puts her hands up in defense.
+
+$Redia:
+@@#RediaText;
+"Woah now! Don't you think you're too old to be in this school asking kids for friendship?"
+@@
+
+Ha! Smart kid.
+
+You smile at this question and reinstate what you meant.
+
+$Name:
+@@#ProtagText;
+"No, That's isn't it at all!"
+@@
+
+Then, you turn your head over towards $Suiko and your sister and continue.
+
+$Name:
+@@#ProtagText;
+"The blonde haired girl in overalls is my sister. It's also her first day here and seeing you alone, I was wondering if you could talk to her."
+@@
+
+$Redia looks over your shoulder and making binoculars hands, spots your little sister and the hooded girl.
+--
+@@#choices;
+<<button [[Next.|RediaIntroLoneTrue3]]>><</button>>
+@@
+
+

@@ -1,0 +1,145 @@
+:: Start [BootScreen t8n-typewriter-10] {"position":"150,125"}
+[LoliDOS 0.3v PA Terminal] 0.3
+01101001 01110010 01101001 01110011 01110101
+_ _ _
+<<timed 1s>>LOADING 0.3 PART 2 (Rev 8)<</timed>>
+<<timed 3s>><font color="#ffff52">SUCCESS!</font><</timed>>
+<<timed 4s>><<goto [[BootLogo]]>><</timed>>\
+<<set $Name to '@@color:#ff0329;' + $Name + '@@'>>\
+<<set $MidName to '@@color:#ff0329;' + $MidName + '@@'>>\
+<<set $LastName to '@@color:#ff0329;' + $LastName + '@@'>>\
+<<set $Arisa to '@@color:#ff007f;' + $Arisa + '@@'>>\
+<<set $Irisu to '@@color:##dbd1a7;' + $Irisu + '@@'>>\
+<<set $Suiko to '@@color:#1a0133;' + $Suiko + '@@'>>\
+<<set $Redia to '@@color:#FF3030;' + $Redia + '@@'>>\
+<<set $Karen to '@@color:#1E90FF;' + $Karen + '@@'>>\
+<<set $Amber to '@@color:#113f11;' + $Amber + '@@'>>\
+<<set $Lilith to '@@color:#e5c6f2;' + $Lilith + '@@'>>\
+<<set $Nanako to '@@color:#DDA0DD;' + $Nanako + '@@'>>\
+<<set $Clause to '@@color:#c19a6b;' + $Clause + '@@'>>\
+<<set $Midori to '@@color:#7fff00;' + $Midori + '@@'>>\
+<<set $Sara to '@@color:#fbec5d;' + $Sara + '@@'>>\
+<<set $Randy to '@@color:#ff8243;' + $Randy + '@@'>>\
+<<set $Mikan to '@@color:#ff9f00;' + $Mikan + '@@'>>\
+<<set $Michael to '@@color:#87a96b;' + $Michael + '@@'>>\
+<<set $Lupita to '@@color:#b7b5b2;' + $Lupita+ '@@'>>\
+<<set $Sulozi to '@@color:#487f79;' + $Sulozi+ '@@'>>\
+<<set $Vivian to '@@color:#802B15;' + $Vivian+ '@@'>>\
+<<set $Nanako to '@@color:#dba606;' + $Nanako+ '@@'>>\
+<<set $ReserveWish to 0>>\
+<<set $Corruption to 0>>\
+<<set $Fatigue to 0>>\
+<<set $Awareness to 0>>\
+<<set $AmberHateFeeling to 'No Hate'>>\
+<<set $AmberHate to 0>>\
+<<set $LibidoMenu to 0>>\
+<<set $ReservedWishMenu to 0>>\
+<<set $SuikoAwareTimer to 0>>\
+<<forget $BADEND is true>>\
+<<set $Day1 to 0>>\
+<<set $Day2 to 0>>\
+<<set $Day3 to 0>>\
+<<set $Day4 to 0>>\
+<<set $Day5 to 0>>\
+<<set $Day6 to 0>>\
+<<set $Day7 to 0>>\
+<<set $Day8 to 0>>\
+<<set $PlayerNameDisplay to 0>>\
+<<set $DepressionDisplay to 0>>\
+<<set $Money to 300>>\
+<<set $MoneyStats to 0>>\
+<<set $ArisaStats to 0>>\
+<<set $SuikoStats to 0>>\
+<<set $RediaStats to 0>>\
+<<set $LilithStats to 0>>\
+<<set $RandyStats to 0>>\
+<<set $SaraStats to 0>>\
+<<set $MidoriStats to 0>>\
+<<set $AmberStats to 0>>\
+<<set $KarenStats to 0>>\
+<<set $KarenStats to 0>>\
+<<set $MikanStats to 0>>\
+<<set $MidoriStats to 0>>\
+<<set $NanakoStats to 0>>\
+<<set $SoluziStats to 0>>\
+<<set $IrisuStats to 0>>\
+<<set $ClauseStats to 0>>\
+<<set $VivianStats to 0>>\
+<<set $ArisaDepression to 0>>\
+<<set $RediaDepression to 0>>\
+<<set $SuikoDepression to 75>>\
+<<set $IrisuMessage to 0>>\
+<<set $SaraDepression to 0>>\
+<<set $RandyDepression to 0>>\
+<<set $LilithDepression to 0>>\
+<<set $AmberDepression to 0>>\
+<<set $MikanDepression to 0>>\
+<<set $IrisuDepression to 0>>\
+<<set $VivianDepression to 0>>\
+<<set $ArisaDepressionStat to 0>>\
+<<set $RediaDepressionStat to 0>>\
+<<set $SuikoDepressionStat to 0>>\
+<<set $SaraDepressionStat to 0>>\
+<<set $RandyDepressionStat to 0>>\
+<<set $LilithDepressionStat to 0>>\
+<<set $AmberDepressionStat to 0>>\
+<<set $MikanDepressionStat to 0>>\
+<<set $IrisuDepressionStat to 0>>\
+<<set $VivianDepressionStat to 0>>\
+<<set $Abilities to 0>>\
+<<set $UIBAR to 0>>\
+<<set $ArisaLoveStats to 0>>\
+<<set $RediaLoveStats to 0>>\
+<<set $SuikoLoveStats to 0>>\
+<<set $MikanLoveStats to 0>>\
+<<set $KarenLoveStats to 0>>\
+<<set $AmberLoveStats to 0>>\
+<<set $LilithLoveStats to 0>>\
+<<set $VivianLoveStats to 0>>\
+<<set $SaraLoveStats to 0>>\
+<<set $RandyLoveStats to 0>>\
+<<set $MidoriLoveStats to 0>>\
+<<set $SuloziLoveStats to 0>>\
+
+<<set $Karen to "Karen">>\
+<<set $Amber to "Amber">>\
+<<set $Irisu to "Irisu">>\
+<<set $Nanako to "Nanako">>\
+<<set $Vivian to "Vivian">>\
+<<set $Michael to "Micheal">>\
+<<set $Lilith to "Lilith">>\
+<<set $Sara to "Sara">>\
+<<set $Randy to "Randy">>\
+<<set $Midori to "Midori">>\
+<<set $Lupita to "Lupita">>\
+<<set $Randy to "Randy">>\
+<<set $Mikan to "Mikan">>\
+<<set $Sulozi to "Sulozi">>\
+<<set $Midori to "Midori">>\
+<<set $Clause to "Clause">>\
+<<set $Name to '@@color:#ff0329;' + $Name + '@@'>>\
+<<set $MidName to '@@color:#ff0329;' + $MidName + '@@'>>\
+<<set $LastName to '@@color:#ff0329;' + $LastName + '@@'>>\
+<<set $Arisa to '@@color:#ff007f;' + $Arisa + '@@'>>\
+<<set $Irisu to '@@color:#712b2b;' + $Irisu + '@@'>>\
+<<set $Suiko to '@@color:#1a0133;' + $Suiko + '@@'>>\
+<<set $Redia to '@@color:#FF3030;' + $Redia + '@@'>>\
+<<set $Karen to '@@color:#1E90FF;' + $Karen + '@@'>>\
+<<set $Amber to '@@color:#113f11;' + $Amber + '@@'>>\
+<<set $Lilith to '@@color:#ad75ea;' + $Lilith + '@@'>>\
+<<set $Nanako to '@@color:#DDA0DD;' + $Nanako + '@@'>>\
+<<set $Clause to '@@color:#c19a6b;' + $Clause + '@@'>>\
+<<set $Midori to '@@color:#7fff00;' + $Midori + '@@'>>\
+<<set $Sara to '@@color:#fbec5d;' + $Sara + '@@'>>\
+<<set $Randy to '@@color:#ff8243;' + $Randy + '@@'>>\
+<<set $Mikan to '@@color:#ff9f00;' + $Mikan + '@@'>>\
+<<set $Michael to '@@color:#87a96b;' + $Michael + '@@'>>\
+<<set $Lupita to '@@color:#b7b5b2;' + $Lupita+ '@@'>>\
+<<set $Sulozi to '@@color:#487f79;' + $Sulozi+ '@@'>>\
+<<set $Vivian to '@@color:#802B15;' + $Vivian+ '@@'>>\
+<<set $IrisuBootMsg to 0>>\
+<<set $RestartMenu to 0>>\
+<<set $MoneyInfo to $Money>>\
+<<remember $RestartMenu>>\
+
+

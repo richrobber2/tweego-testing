@@ -1,0 +1,79 @@
+:: SuikoDay03'1'3-5 {"position":"30390,990","size":"100,100"}
+<<set $SuikoDepression +=10>>\
+<<set $SuikoDay03WhyNoSchool to 1>>\
+Remembering it's a school day, You quickly notice the obvious; $Suiko isn't at school!<<if $IratuIntro is 1>>Well, Not like Iratu would care if his students where absent, but it's kinda odd she isn't at school right now<</if>><<if $IratuIntro is 0>>Sinom is quite harsh about kids being abcest; surely he's aware of this.<</if>>
+
+$Name:
+@@#ProtagText;
+"$Suiko, any reason you're not at school? It's not good to miss school!"
+@@
+
+$Suiko:
+@@#SuikoText;
+"I don't like school!!"
+@@
+
+The normally timid $Suiko seems adament about her response and it takes you off guard. Her voice carries a echo across the dirt vally and after noticing her raised voice, she looks down at her feet and sighs.
+
+$Suiko:
+@@#SuikoText;
+"There is no....point. Not like...anyone..."
+@@
+<<if $SuikoPastIntroLoveLone is 1>>\
+Now that you think about it, $Suiko was bullied quite a lot in school. You don't recall $Arisa or $Redia saying anything about her missing school lately. Maybe you should press her a little more.
+
+Trying to ease into the topic, you lower your voice and ask her,
+
+$Name:
+@@#ProtagText;
+"$Suiko, I got to ask. Are those boys from kindergarden still bothering you?"
+@@
+
+The hooded $Suiko seems confused and a slight smile appears on her face upon noticing you remembered that event almost three years ago.
+
+$Suiko
+@@#SuikoText;
+"You remem-! Oh..~"
+@@
+
+You look at $Suiko now confused, as she blushes for a moment then remembers the question;
+
+$Suiko:
+@@#SuikoText;
+"Yeah, but it isn't just that...I just don't-"
+@@
+
+Then, she looks towards the ground and kicks around some dust; as if uneasy with the conversation.
+
+$Name:
+@@#ProtagText;
+"Well, as a adult I have to say it's not good for you to ditch school but then again I'm a hypocrite. When I was in school I ditched class a lot mostly due to the same reasons."
+@@
+
+Then, as if you understood her reason, you walk up to her and give her a quick embrace. $Suiko jumps backwards and emits a 'Ep!'.
+
+$Suiko:
+@@#SuikoText;
+"Ura! Sorry! I wasn't expecting that- I mean that you...did the same..Um..."
+@@
+
+$Suiko is now quiet. She seems to be acting wierd... 
+
+What else should you say?
+<<set $SuikoLove +=20>>\
+<</if>>\
+<<if $SuikoPastIntroLoveLone is 0>>\
+That's odd, based on how nice $Suiko is, you would assume she was quite liked? Maybe she just didnt want to go to school today? Best not to press it.
+<</if>>\
+--
+@@#choices;
+<<if $SuikoParentDay03 is 0>><<button [[Where's your parents?|SuikoDay03'1-4]]>><</button>><</if>>\
+<<if $SuikoDay03IsItNice is 0>><<button [[Say it is nice!|SuikoDay03'1'3]]>><</button>><</if>>\
+<<if $SuikoDay03WhyAreYouHere is 0>><<button [[Why do you live here?|SuikoDay03'1'7]]>><</button>><</if>>\
+<<if $SuikoDay03Flowers is 0>><<button [[Ask her about her flowers.|SuikoDay03'1'3-1]]>><</button>><</if>>\
+<<if $$SuikoDay03AskAboutland is 0>><<button [[Why are in this dead plot of land?|SuikoDay03'1'3-2]]>><</button>><</if>>\
+<<if $SuikoDay03WhyNoSchool is 0>><<button [[Why are you not at school?|SuikoDay03'1'3-5]]>><</button>><</if>>\
+<<if $SuikoDepression gte 70>><<button [[Are you okay?|SuikoDay03'1'3-3]]>><</button>><</if>>\
+@@
+
+

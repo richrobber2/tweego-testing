@@ -1,0 +1,20 @@
+:: ArisaChaseEvent2-1 {"position":"21010,4910","size":"100,100"}
+You look around and her giggling around the living room.
+
+Your search ends there when you see your pantied clad sister posing indecently towards you.
+
+$Arisa:
+@@#ArisaText;
+"You found me, wanna prize?"
+@@
+
+You're trapped in a fly trap; as your little sister spreads her legs and ensnares your view with a display of her camel toe.
+--
+@@#choices;
+<<button [[Head back to your room.|ArisaChaseEvent2-1'fail']]
+>><</button>>
+<<button [[Look at her panties.|ArisaChaseEvent2-2]]
+>><</button>>
+@@
+
+

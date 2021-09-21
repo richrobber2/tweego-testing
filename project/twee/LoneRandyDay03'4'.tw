@@ -1,0 +1,30 @@
+:: LoneRandyDay03'4' {"position":"28850,4210","size":"100,100"}
+By how $Randy is trying to give you his money you can only imagine he has some pride for raising that much. You might regret it in the long run but it's probably best if you let him keep his hard earned spendings.
+
+You reach into your shirt's breast pocket and pull out a crisp one hundred dollar bill. $Randy seems confused by your gesture and asks,
+
+$Randy:
+@@#RandyText;
+"What are you doing? I should have enough to get one!"
+@@
+
+His voice is slightly raised and hints at sounding annoyed by your action.
+
+$Name:
+@@#ProtagText;
+"I'll tell you what, how about I buy you the dress this time? You showed you have a lot of trust in me so I'll return the favor. Also if I bought it for you, no one would question you for buying a dress."
+@@
+
+$Randy smiles as he stuffs his money back into his shorts then looks up at you; crying?
+
+$Randy:
+@@#RandyText;
+"You'd do that for me? why? I barely know you..."
+@@
+--
+@@#choices;
+<<button [[Think nothing of it!|LoneRandyDay03'6']]
+>><</button>>
+@@
+
+

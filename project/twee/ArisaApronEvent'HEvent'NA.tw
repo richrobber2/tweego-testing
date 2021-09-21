@@ -1,0 +1,18 @@
+:: ArisaApronEvent'HEvent'NA {"position":"25630,3790","size":"100,100"}
+Carrying a tone of sarcasm, you cartoonishly engulf the eggs and munch down on the surprising well done egg.
+
+Loudly chewing the adequate egg, $Arisa humors you.
+
+$Arisa:
+@@#ArisaText;
+"Good boy~ I made that egg with love! Did you enjoy it? I'll feed you another, Onii-chan!"
+@@
+
+Stabbing the second and last egg off your plate, she hovers the food over your watering mouth whilst making airplane noises. You stare at her attempt to emasculate you and think of a way to be a smart ass.
+--
+@@#choices;
+<<button [[Play along  (Sarcasticly).|ArisaApronEvent'HEvent'troll]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,12 @@
+:: AmberNameEvent {"position":"850,430","size":"100,100"}
+$Amber:
+@@#AmberText;
+"I'd should fucking sue you. Kiss ass son of a bitch!"
+@@
+--
+@@#choices;
+<<button [[Back|setup]] 
+>><</button>>
+@@
+
+

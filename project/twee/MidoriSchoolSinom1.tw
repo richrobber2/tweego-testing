@@ -1,0 +1,76 @@
+:: MidoriSchoolSinom1 {"position":"12330,3230","size":"100,100"}
+<<if $LilithIntro is 1>>\
+You walk into the office to see the silver haired man playing on his cellphone.
+
+That's when you notice pictures of $Lilith plastering the desk, shelfs and taped on the glass walls.
+
+He must really love his daughter.
+
+Principal Sinom drifts a eye towards you and smiles; still looking at his phone.
+
+Principal Sinom:
+@@#NPCText;
+"Oh? I think I know you! You're Mr.$LastName! How is my old trouble maker?!"
+@@
+
+Mr. Sinom walks towards you offering a hug.
+
+@@#EffectText;
+OH LORD!
+@@
+
+You back up slowly but he embraces you with a shoulder and places his phone in front of your eyes.
+
+On his phone is yet another photo of $Lilith giving a cute peace sign to the camera.
+
+Principal Sinom:
+@@#NPCText;
+"Isn't she adorable! My little princess is soo~ cute!"
+@@
+--
+@@#choices;
+<<button [[Next|MidoriSchoolSinom2]]
+>><</button>>
+@@
+
+<</if>>\
+<<if $LilithIntro is 0>>\
+You walk into the office to see the silver haired man playing on his cellphone.
+
+That's when you notice pictures of of black haired girl plastering the desk, shelfs and taped on the glass walls.
+
+You guess it must be his daughter.
+
+Principal Sinom drifts a eye towards you and smiles; still looking at his phone.
+
+Principal Sinom:
+@@#NPCText;
+"Oh! Mr.$LastName! How have you been?"
+@@
+
+You are delighted to see Mr. Sinom but the room full of pictures are kind of new to you.
+
+$Name:
+@@#ProtagText;
+"How's it been, old timer?"
+@@
+Mr. Sinom smiles at your response.
+
+Principal Sinom:
+@@#NPCText;
+"Well I had a daughter about ten years ago and life is swell!"
+@@
+
+Remembering he is on the clock, he gets to the point.
+
+Principal Sinom:
+@@#NPCText;
+"What can I help you with?"
+@@
+--
+@@#choices;
+<<button [[Tell him about your sister's absence.|MidoriSchoolSinom2-1]]>><</button>>
+@@\
+<</if>>\
+
+

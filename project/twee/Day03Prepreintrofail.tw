@@ -1,0 +1,27 @@
+:: Day03Prepreintrofail {"position":"25630,3510","size":"100,100"}
+While $Arisa went out of her way to make you breakfast, you really don't want to have to do dishes when you come home.
+
+$Name:
+@@#ProtagText;
+"$Arisa, Be sure to start the dishwasher before you leave."
+@@
+<<set $ArisaLove -=20>>\
+
+Your sister glares at you with a tired disposition and sighs.
+
+$Arisa:
+@@#ArisaText;
+"Fine~!"
+@@
+
+And with that, she slams the door and leaves you alone in your room.
+
+...
+
+Might as well get ready for work.
+--
+@@#choices;
+<<button [[Next.|Day03Preintro]]>><</button>>
+@@
+
+

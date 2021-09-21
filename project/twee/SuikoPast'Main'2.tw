@@ -1,0 +1,42 @@
+:: SuikoPast'Main'2 {"position":"430,4490","size":"100,100"}
+Noticing her fear of this new interaction, you step beside and ensure this $Suiko girl is doing well. Your slight movement makes her move away from you..
+
+$Name:
+@@#ProtagText;
+"It's Okay, $Suiko!"
+@@
+
+The timid girl looks at you and a visual smile draws into vision,
+
+$Name:
+@@#ProtagText;
+"You’re doing well! Don't be shy, my sister here wants to be your new friend."
+@@
+
+$Arisa:
+@@#ArisaText;
+"Nice to meet you $Suiko, this guy is my dad and my name is $Arisa $LastName! I make sure he doesn't get into trouble."
+@@
+
+$Suiko's smile radiates from under her obscuring hoodie and she bows to your introduction.
+
+$Suiko:
+@@#SuikoText;
+"He, seems nice...Um nice to meet you $Arisa."
+@@
+
+$Arisa gives you a smug expression and then pushes you aside to talk to her new 'friend'.
+
+$Arisa:
+@@#ArisaText;
+"How about we get to know each other! Anyone who likes my brother is okay in my book!"
+@@
+
+You spend the next few minutes listening to their exchange. While this wallflower seems to be doing well, you decide to spend the next few minutes observing the two.
+--
+@@#choices;
+<<button [[Observe the interaction|SuikoPast'Main'4]]
+>><</button>>
+@@
+
+

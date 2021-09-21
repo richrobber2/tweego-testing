@@ -1,0 +1,9 @@
+:: Press button to receive prize {"position":"14570,3510","size":"100,100"}
+<<if $Hairclip is 1>><<goto "LoMartPlotIntroduction2'1'">>
+<<elseif $HoneyMoonApron is 1>><<goto "LoMartPlotIntroduction2'1'">>
+<<elseif $NoPrize1 is 1>><<goto "LoMartPlotIntroduction2'1'">>
+<<else>>
+<<goto "VendingMachineJump1">>
+<</if>>
+
+

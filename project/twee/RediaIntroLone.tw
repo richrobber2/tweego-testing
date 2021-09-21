@@ -1,0 +1,28 @@
+:: RediaIntroLone {"position":"990,4210","size":"100,100"}
+<<set $RediaPastIntroLone to 1>>\
+<<set $RediaIntroLock to 1>>\
+Before leaving the gym, you look back up towards the bleachers to see the red haired girl looking towards your sister.
+
+Maybe you can talk to her and see if she wants to be your sister's friend as well.
+
+...
+
+As you advance towards the empty beachers, the redhead stands up and faces you with something in her hand.
+
+Within earshot of the girl you attempt to beckon her over with a disarming wave.
+
+$Name:
+@@#ProtagText;
+"Hey, can I talk to you real fast?"
+@@
+
+Instead of walking down to greet you, you see her lean back, and quickly throw whatever what was in her grasp hand at you!
+
+Thinking fast, you:
+--
+@@#choices;
+<<button [[Attempt to catch it.|RediaIntroLoneTrue]]>><</button>>
+<<button [[Move out of the way.|RediaIntroLoneFail]]>><</button>>
+@@
+
+

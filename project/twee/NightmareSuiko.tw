@@ -1,0 +1,64 @@
+:: NightmareSuiko {"position":"4490,2250","size":"100,100"}
+While you're asleep, you have an odd dream.
+
+You appear in a long hallway in complete darkness. A cold breeze freezes the air around you and you shiver.
+
+???:
+@@#SuikoText;
+"Ura ura~ Who are you?"
+@@
+
+You hear a falsetto female voice emitting from under you and you're taken to awe by a stuffed purple rabbit toy gazing at you.
+
+$Name:
+@@#ProtagText;
+"Who are you?"
+@@
+The stuffed plush's eyes are glowing a flat red.
+
+Stuffed Rabbit:
+@@#SuikoText;
+"I ask myself that because of you."
+@@
+
+You're confused, you swear you've seen this rabbit before. After a moment of brain-storming you ask it,
+
+$Name:
+@@#ProtagText;
+"You're a girl's plush."
+@@
+
+That is a famous Mr.Rabbit plushy. You feel like you seen it before yet you're drawing a blank.
+
+Mr.Rabbit:
+@@#SuikoText;
+"Mr....Rabb.it?"
+@@
+
+The plush says its name as it reads your mind.
+
+Mr.Rabbit:
+@@#SuikoText;
+"You...fix..rabbit?"
+@@
+
+Suddenly, You scream out!
+
+$Name:
+@@#ProtagText;
+"It was beyond repair $Suiko! I am so-?!"
+@@
+
+Mr.Rabbit:
+@@#SuikoText;
+"Tha...at-! I am...her?"
+@@
+--
+@@#choices;
+<<button [[Say it's name.|NightmareSuiko1]]
+>><</button>>
+<<button [[Wake up.|PlotIntroduction1]]
+>><</button>>
+@@
+
+

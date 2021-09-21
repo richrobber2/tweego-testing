@@ -1,0 +1,43 @@
+:: KarenIntroduction'NonSmoking''1' {"position":"17370,3370","size":"100,100"}
+What a bother.
+
+You decide it's probably best if you head home. Ignoring the girl's prank, you pause for a second decide to start walking back home.
+
+Noticing you leaving, the brat runs in front of you with her hands behind her back and gives you sassy smile.
+
+Girl:
+@@#KarenText;
+"Leaving so soon? I'm sure you need this though!"
+@@
+
+She reveals one of her hands and display your nametag. You must have dropped it when she spooked you earlier.
+
+Girl:
+@@#KarenText;
+"So 'Onii-chan'. Do you want it back?"
+@@
+
+You give the girl an annoyed look but you know you're powerless to get it back yourself. Defeated you cross your arms and humor her.
+
+$Name:
+@@#ProtagText;
+"Of course I do! Are you blackmailing me or something?"
+@@
+
+The girl looks at you in astonishment then laughs.
+
+Girl:
+@@#KarenText;
+"That's a great idea! I was just going to tease you a bit but that's a great idea! Give me...Um...Eighty thousand dollars and I'll give your nametag back!"
+@@
+
+Eighty thousand dollars?! Is she retarded or something! What type of person does she think you are?!
+--
+@@#choices;
+<<button [[Toy with her.|KarenIntroduction'NonSmoking''2']]
+>><</button>>
+<<button [[Bargin with her.|KarenIntroduction'NonSmoking''1'1]]
+>><</button>>
+@@
+
+

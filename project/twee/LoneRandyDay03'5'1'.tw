@@ -1,0 +1,40 @@
+:: LoneRandyDay03'5'1' {"position":"28990,4210","size":"100,100"}
+It would probably make $Randy happy if you agreed to buy him his dress; He seemed to work hard for his money and it with your new job, it isnt much of a waste as long as it makes a kid happy.
+
+You put the hundred dollar bill back into your breast pocket and give the boy a thumbs up.
+
+$Name:
+@@#ProtagText;
+"Sounds like a plan! I'll buy you a dress!"
+@@
+
+While he seems to be happy about hearing your involvement, $Randy gives you a look of cringe.
+
+$Randy:
+@@#RandyText;
+"Oh-okay.... Well, thank you then! Since I take this route to head to school everyday I'll pick the dress up then!"
+@@
+
+$Randy then starts to blush as his uneasy expression changes to one of excitement.
+
+$Randy:
+@@#RandyText;
+"I'll see you then, $Name~"
+@@
+
+With that said, he awkwardly bows and then runs down the path and out of your sight(Assumingly heading to Midori Elementary.)
+
+As you stand there still confused from the whole situation you can only ponder if you can even find a dress he would like.
+
+Maybe $Amber could help you with that.
+
+...
+
+Enough wasting time, you should head to work before it's too late.
+--
+@@#choices;
+<<button [[Head to work.|Day03LoMartIntro]]
+>><</button>>
+@@
+
+

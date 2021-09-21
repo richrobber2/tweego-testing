@@ -1,0 +1,15 @@
+:: LoMartIntroductionThree 1 {"position":"3230,2250","size":"100,100"}
+<<set $timedifference1 to 0>>\
+The sensual cries of underpaid voice actors echo in your ears. You know it can only mean one thing; $Arisa was not keeping the shows PG. As you walk down the dimly lit hallway, your bedroom door slams open as you notice $Suiko franticly rush past you, rabbit in hand, and hurries out the front door.
+<<set $SuikoEvent1Complete to 0>>\
+
+With the door to your room now ajar, you hear one of your favorite voice actors emit sexy cries from your television.
+--
+@@#choices;
+<<button [[Walk in enraged|Walk in enraged]]
+>><</button>>
+<<button [[Sneak in and observe the situation.|LoMartIntroductionThree 2]]
+>><</button>>
+@@
+
+

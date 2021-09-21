@@ -1,0 +1,23 @@
+:: MidoriForest'Sara'south2 {"position":"6030,3370","size":"100,100"}
+Noticing the opening is just wide enough for you to slither through, you get on all fours and push yourself into the narrow entrance. Dirt and loose grass stain your shirt and you can hear your pants snagging on the twigs.
+
+Upon getting to the other side, you stand on your feet and dust yourself off.
+
+$Name:
+@@#ProtagText;
+"Ugh, what am I even doing?"
+@@
+
+You look up and are amazed to witness yourself in front of a crystal clear pond encased around a chamber of foliage and flowers.
+
+Overhead, is a thick canopy of tree branches and a drift of pink pedals dancing sluggishly into the pond ahead.
+
+You walk up towards the front of the pond and notice the green orb on your pocket is now turning your pants into a greenish glow.
+--
+@@#choices;
+<<button [[Head back and look for the girl.|MidoriForest'Sara'west4]]>><</button>>
+<<button [[Take out the orb and inspect it.|MidoriFairyIntro1]]
+>><</button>>
+@@
+
+

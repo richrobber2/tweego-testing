@@ -1,0 +1,24 @@
+:: MidoriSchoolSinom4 {"position":"12330,3650","size":"100,100"}
+$Lilith is blushing as she smiles at you then places both hands on her rosy cheeks.
+
+$Lilith:
+@@#LilithText;
+"Daddy, thee knoweth the fusty rules of Sinom! That gent saw me in discase so that gent is destined to wed me!"
+@@
+$Lilith turns to you and gives you a sarcastic, smug smile.
+
+Mr. Sinom advances towards you, but are instantly grabbed by the brute and lifts you up for a 'loving' embrace.
+
+Sinom:
+@@#NPCText;
+"Oh joy! If you decide to, I can become a GrandPapy! What do you say? Give my only and special daughter a chance to court you!"
+@@
+--
+@@#choices;
+<<button [[Politely decline.|MidoriSchoolSinom4'1']]
+>><</button>>
+<<button [[Sure, I see no problem...|MidoriSchoolSinom5]]
+>><</button>>
+@@
+
+

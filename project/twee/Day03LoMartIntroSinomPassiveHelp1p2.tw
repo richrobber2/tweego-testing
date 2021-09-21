@@ -1,0 +1,46 @@
+:: Day03LoMartIntroSinomPassiveHelp1p2 {"position":"33190,4490","size":"100,100"}
+While you're not really sure of the motives of his sentence, you just assume he's delirious and decide to humor him.
+
+$Name:
+@@#ProtagText;
+"I will! You should know I-"
+@@
+
+Then it hits you.
+
+"-Ever disappear."
+
+Realizing the only possible meaning to that play of words, you panic.
+
+$Name:
+@@#ProtagText;
+"What do you mean by that! You can't-"
+@@
+
+He sluggishly lays a hand on your shoulder and looks you sqaure in your eyes; only to smile at you.
+
+Sinom:
+@@#NPCText;
+"Just..promise me you make $Lilith happy."
+@@
+
+With that, Sinom stands up and walks away without any context to his request. 
+
+$Name:
+@@#ProtagText;
+"What do you mean! Sinom? Sinom!"
+@@
+
+...
+
+He's gone.
+
+You hopw that was just drunken rambling; too late to do anything now.  You hope what he sad wasn't some horrid forshadowing or something.
+
+After retrieiving some paper towels and some lysol, you clean up the vomit Sinom left you and now carry a concern for that old man.
+--
+@@#choices;
+<<back>>
+@@
+
+

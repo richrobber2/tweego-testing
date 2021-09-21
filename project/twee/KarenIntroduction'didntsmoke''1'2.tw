@@ -1,0 +1,70 @@
+:: KarenIntroduction'didntsmoke''1'2 {"position":"16810,3370","size":"100,100"}
+<<set $KarenStats to 1>>\
+$Name:
+@@#ProtagText;
+"Do you know how annoying it is to be a smoker?!"
+@@
+The girl looks at you as if you're a moron.
+
+Girl:
+@@#KarenText;
+"What are you a moron or something?"
+@@
+$Name:
+@@#ProtagText;
+"Smoking is bad for your health and extremely addicting; making up pity excuses all the time to smoke, smelling like a stale bar and causing me to feel sick to my stomach if I don't smoke! I'm a moron."
+@@
+Then, you hatch a have assed idea. You turn towards the now puzzled looking girl and lay your hand on her shoulders. The moment you touched her, she begins to frail and tries to shake you off.
+
+Girl:
+@@#KarenText;
+"Let go of me you weirdo!"
+@@
+$Name:
+@@#ProtagText;
+"What's your name?"
+@@
+The girl stops struggling and looks at you as you look at the girl with a determined, yet stoic expression.
+
+The girl stares into your eyes and seems too confused to resist you anymore.
+
+Girl:
+@@#KarenText;
+"My name is $Karen. Why do you-"
+@@
+
+Trying to make your next sentence sound dramatic you shake her and yell,
+
+$Name:
+@@#ProtagText;
+"$Karen, You look like a smart person! Cute girls like yourself shouldn't smoke! It will only make you into a slave and miserable!"
+@@
+$Karen:
+@@#KarenText;
+"Eep Let me go you freak!"
+@@
+
+"SLAP!"
+
+$Karen slaps across the face then pushes you backwards. As you try to recover from the assault, you catch a faded glimmer of her banding down to grab your crumbled cigarette box and your lighter.
+
+$Karen:
+@@#KarenText;
+"Later loser~!"
+@@
+
+$Karen takes a step forward and attempts to flee, only for her misstep and fall forward.
+
+$Karen:
+@@#KarenText;
+"Wah!"
+@@
+--
+@@#choices;
+<<button [[Jump in front of her to cushion her fall!|KarenIntroduction'didntsmoke''1'3]]
+>><</button>>
+<<button [[Do nothing...|KarenIntroduction'didntsmoke''1''1']]
+>><</button>>
+@@
+
+

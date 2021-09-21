@@ -1,0 +1,59 @@
+:: Walk in enraged {"position":"3370,2390","size":"100,100"}
+<<set $RediaLove -=10>>\
+<<set $RediaEvent1 to 0>>\
+You storm into the room and $Redia and $Arisa stare at you in shock.
+
+$Name:
+@@#ProtagText;
+"$Arisa! I told you to keep it PG!"
+@@
+
+She gives you a blank stare and $Redia seems annoyed by your outburst.
+
+$Redia:
+@@#RediaText;
+"Hey! We're watching a show! Keep quiet you brute!"
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+You could get upset, but if she isn't calling you a pedophile now then you guess it's okay?
+
+$Arisa:
+@@#ArisaText;
+"It's Okay Onii-Chan! Just play your game or something!"
+@@
+
+You're annoyed but sigh and decide it isn't worth the extra stress.
+
+You just ignore them and lay down on your bed.
+
+After a refreshing stretch, you reach over to your nearby nightstand and pull out your 'Game Shota®' (A Classic Handheld Game System.®) and attempt to tune out the last nine years of your life.
+
+...
+
+__An Hour__ passes with almost complete silence.
+
+The television is seen idling on a selection screen.
+
+You find it odd that $Redia and your sister have been silent for so long; Until you look over your shoulder and find the two brats watching you play!
+
+You glare damningly at the two annoyances then get back to your game.
+
+$Name:
+@@#ProtagText;
+"Do you mind, twerp?! I'm playing 'Loli'Mon®'!"
+@@
+
+Feeling a tug on your sleeve, you face toward your three'o'clock to find the sporty red head practically staring at your game's screen.
+
+You return to your game to ignore her yet you're soon blasted in the ear with questions.
+--
+@@#choices;
+<<button [[Next.|RediaRouteOne]]
+>><</button>>
+@@
+
+

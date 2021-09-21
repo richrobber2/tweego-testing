@@ -1,0 +1,14 @@
+:: ScreenLock {"position":"10,290","size":"100,100"}
+[LoliDOS 0.3v PA Terminal] 0.3
+01101001 01110010 01101001 01110011 01110101
+_ _ _
+<<timed 60s>>You have chosen to disagree to the Boot Warning Message. Please Wait 10 Minutes to return to the title.<</timed>>
+<<timed 600s>>
+--
+@@#choices;
+<<button [[Restart Game.|Start]]>><</button>>
+<<button [[Disagree.|ScreenLock]]>><</button>>
+<</timed>>
+@@
+
+

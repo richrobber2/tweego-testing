@@ -1,6 +1,0 @@
-:: StoryTitle
-Tweego Basic Setup
-
-:: Start
-hello there this is a test for showing inventory items and when u click on them they show the discriptions of the item
-<<button "Open I nventory" "inventory">><</button>>

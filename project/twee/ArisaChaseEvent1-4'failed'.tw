@@ -1,0 +1,21 @@
+:: ArisaChaseEvent1-4'failed' {"position":"21710,5190","size":"100,100"}
+You don't have time for her games. You can't let her advances get to you.
+
+Annoyed and slightly turned on, you awkwardly walk toward your door and slam it shut.
+
+$Name:
+@@#ProtagText;
+"You had your fun, get dinner ready!"
+@@
+
+While saying this, you ease yourself out of the room and slam the door to your room.
+
+...$Arisa is an odd girl.
+<<set $ArisaLove -=40>>\
+--
+@@#choices;
+<<button [[Next|PreDAY02End]]
+>><</button>>
+@@
+
+

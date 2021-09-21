@@ -1,0 +1,26 @@
+:: CheckLOMartTime'1' {"position":"15130,3370","size":"100,100"}
+<<set $CheckedLOMartTime to 1>>\
+Being swept in from your excitement, you realize you forgot to check when LO-Mart opens! Without skipping a beat, you face the automatic doors and look at the store hours sign:
+
+@@#EffectText;
+
+	OPEN:
+	9:00am
+	Closed:
+	10:00pm
+
+Closed on weekends.
+@@
+
+Okay, that's good to know! At least you can take $Arisa to school in the morning. If you’re lucky enough, you could use your lunch break to walk your home as well.
+
+...
+
+With that out of the way you walk away from LO-Mart and see a bench not too far from the entrance.
+--
+@@#choices;
+<<button [[Head towards it and sit down.|KarenIntroduction'GotoIFSmoking']]
+>><</button>>
+@@
+
+

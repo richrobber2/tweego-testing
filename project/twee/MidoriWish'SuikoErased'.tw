@@ -1,0 +1,27 @@
+:: MidoriWish'SuikoErased' {"position":"8130,3230","size":"100,100"}
+<<set $SuikoErased to 0>>\
+<<set $SuikoLove to 200>>\
+
+The magical forest fairy snaps her finger and a loud distortion rips through reality. Everything to the simplest flower pedal seemed to freeze for mere seconds before settling back to forward motion.
+
+$Midori:
+@@#MidoriText;
+"Done~! $Midori is supreme! I noticed a girl missing in your memory and 'Fairy God' made her known now."
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+$Midori then looks at you and smiles; still high off her 'abilities'.
+
+$Midori:
+@@#MidoriText;
+I am done! I will sent-throw you where you need to be.
+@@
+--
+@@#choices;
+<<button [[Next.|MidoriTeleport1]]>><</button>>
+@@
+
+

@@ -1,0 +1,35 @@
+:: LoneRandyDay03'2'1 {"position":"28990,3930","size":"100,100"}
+$Name:
+@@#ProtagText;
+"You should just be yourself."
+@@
+
+After looking at you as if you offended him, $Randy scuffs and replies,
+
+$Randy:
+@@#RandyText;
+"I AM! What isn't me is wanting to be a boy!"
+@@
+
+Angery, The boy swiftly smacks you accross the face and flares his cheeks.  The motion of which takes you by surprise and you step back.
+
+$Randy:
+@@#RandyText;
+"I thought you'd know that much about me, but you're like the others! Fuck off!
+@@
+
+Holding your cheek, $Randy stomps out of you way and aggeressivly storms off away from you. Yiou didn't expect for him to get so upset about it; it isnt normal for a boy to want to dress like a girl.
+
+<<set $RandyLove to 40>>\
+<<set $Depression +=10>>\
+
+...
+
+Maybe you should just head to work.
+--
+@@#choices;
+<<button [[Next.|Day03LoMartIntro]]
+>><</button>>
+@@
+
+

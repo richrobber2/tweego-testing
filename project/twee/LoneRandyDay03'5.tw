@@ -1,0 +1,27 @@
+:: LoneRandyDay03'5 {"position":"29130,4070","size":"100,100"}
+Probably best just to forget about the whole thing and head to work; you already caused enough problems. 
+
+$Name:
+@@#ProtagText;
+"Just forget about it. How about you ask someone else to do it? I got to head to work."
+@@
+
+As you put your money back into your pocket $Randy crosses his arms and raises a eyebrow annoyingly.
+
+$Randy:
+@@#RandyText;
+"If I could ask someone to do it then I wouldn't have asked you! You adults are all the same..."
+@@
+
+Before you can say anything, $Randy storms off as you stand in confusion of what just happened. You still don't know why he got so upset but as of now there is nothing you can do.
+
+...
+
+You should just forget about it and head to work already.
+--
+@@#choices;
+<<button [[Head to work.|Day03LoMartIntro]]
+>><</button>>
+@@
+
+

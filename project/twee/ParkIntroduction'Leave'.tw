@@ -1,0 +1,19 @@
+:: ParkIntroduction'Leave' {"position":"6450,2530","size":"100,100"}
+Probably best just to take your leave here. Although you don't know how much time has passed, It might be a good idea to stop wasting time and get busy.
+
+...
+
+After a short walk, you take a nearby shortcut to find yourself in front of Midori Elementary School.
+--
+@@#choices;
+<<if $MidoriSEvent1 is 1>><<button [[Look for LO-Mart.|LoMartPlotIntroduction]]
+>><</button>><</if>>\
+<<if $MidoriSEvent1 is 0>><<button [[Go into the school.|MidoriSchool3]]
+>><</button>>
+<</if>>\
+<<if $SawRedia1 is 0>><<button [[Look around the school yard.|MidoriSchool3'1']]
+>><</button>>
+<</if>>\
+@@
+
+

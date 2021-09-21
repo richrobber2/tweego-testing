@@ -1,0 +1,93 @@
+:: Day03LoMartIntro'AmberEvent' {"position":"30670,3790","size":"100,100"}
+<<if $Day03NoAmberNanako is 1 and $NanakoIdolRoute is 0>>\
+As you walk inside the store, you are taken off guard by how dead it is inside. You stand idle at the doorway and start to look around until you hear a loud screech of the intercom speakers coming to life. Like before, you cover your ears until you hear $Amber's voice over them. Being your boss, you listen.
+
+$Amber(intercom):
+@@#AmberText;
+"Oh, hello $Name! I'm glad you made it in time! So, welcome to your first day of work! First, I want you-"
+@@
+
+The intercom then cuts off. As you wait for your duties to be told, you stand there in sheer confusion. After a few minutes, the loud feedback of the speakers come to life again.
+
+$Amber(intercom):
+@@#AmberText;
+"I didn't really plan this far ahead. If I need you i'll let you know. just leave me alone and help anyone you see."
+@@
+
+Wut?
+
+Before you can say anything(like you could), the scream of the wonky intercom assaults your ears as it dies into silence.
+
+...
+
+Now what?
+
+<</if>>
+<<if $NanakoVoiceActorRoute is 1>>\
+As you walk inside the store, you are taken off guard by how dead it is inside. You stand idle at the doorway and start to look around until you hear a loud screech of the intercom speakers coming to life. Like before, you cover your ears until you hear $Amber's voice over them. Being your boss, you listen.
+
+$Amber(intercom):
+@@#AmberText;
+"About time, $Name! Thanks to the event you caused, I'm in my office talking to $Nanako. I will talk to you later about it. As for your task, I want you to-"
+@@
+
+The intercom then cuts off. As you wait for your duties to be told, you stand there in sheer confusion. After a few minutes, the loud feedback of the speakers come to life again.
+
+$Amber(intercom):
+@@#AmberText;
+"I didn't really plan this far ahead. If I need you I'll let you know. just let me handle $Nanako and just help anyone you see."
+@@
+
+Wut?
+
+Before you can say anything(like you could), the scream of the wonky intercom assaults your ears as it dies into silence.
+
+Hopefully everything is alright with $Nanako. while you feel like you overreacted, you still protected her...right?
+
+...
+
+Now what?
+
+<</if>>\
+<<if $NanakoIdolRoute is 1>>\
+As you walk inside the store, you are taken off guard by how dead it is inside. You stand idle at the doorway and start to look around until you hear a loud screech of the intercom speakers coming to life. Like before, you cover your ears until you hear $Amber's voice over them. Being your boss, you listen.
+
+$Amber(intercom):
+@@#AmberText;
+"Oh, hello $Name! I'm glad you made it in time! Did you enjoy seeing your favorite idol? I saw how you protected her; great stuff! So, welcome to your first day of work! First, I want you-"
+@@
+
+The intercom then cuts off. As you wait for your duties to be told, you stand there in sheer confusion. After a few minutes, the loud feedback of the speakers come to life again.
+
+$Amber(intercom):
+@@#AmberText;
+"I didn't really plan this far ahead. If I need you I'll let you know. Just leave me alone and help anyone you see. $Nanako will be busy until lunch so stay inside the store."
+@@
+
+Wut?
+
+Before you can say anything(like you could), the scream of the wonky intercom assaults your ears as it dies into silence.
+
+...
+
+Now what? 
+
+<</if>>\
+Without a sense of direction and technicly being employed to do work, you find the best course of action is to find something to look busy. The sales floor seems vacant so you decide it would be best to clean up the mess of pallets and visable grime. Thankfully (and somewhat unthankfully), the store all arounds seems to be in total disarray! Stock littered on the floor, dirt caking the tile floor and pallets of inventory are blocking the walkways! You thought $Amber had night workers but looks far worse then yesterday. You have many options to look busy, so you decide to:
+--
+@@#choices;
+<<if $LilithLove gte 180>><<button [[Put away the pallets.|Day03LoMartIntroLilith]]
+>><</button>><</if>>
+<<if $KarenSubmissive is 1>><<button [[Organize the book isle.|Day03LoMartIntroKarenSub1]]
+>><</button>><</if>>
+<<if $KarenDelinquent is 1>><<button [[Organize the shampoo isle.|Day03LoMartIntroKarenDOM1]]
+>><</button>><</if>>
+<<if $RediaLove gte 180>><<button [[Organize the Electronic isle|Day03LoMartIntroRediaGamer]]
+>><</button>><</if>>
+<<button [[try and operate a register.|Day03LoMartIntroNAmorning]]
+>><</button>>
+<<if $KarenLove gte 90>><<button [[Mop the sales floor.|Day03DQKaren]]
+>><</button>><</if>>
+@@
+
+

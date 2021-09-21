@@ -1,0 +1,53 @@
+:: RediaPastintro'love' {"position":"150,4210","size":"100,100"}
+<<set $RediaIntroEvent to 1>>\
+<<set $RediaPastIntroLove to 1>>\
+With your excellent reflexes, you pinpoint the twirling ball and pluck it from the air. As the baseball spins in your grip, the crowd of elementary students look at you in amazement.
+
+$Arisa:
+@@#ArisaText;
+"Nice Catch Bro!"
+@@
+
+Among the chatting onlookers, a lone clapping gets your attention as you see the red head approach you.
+
+Red head:
+@@#RediaText;
+"Indeed, I never seen a person catch a baseball with his bare hands."
+@@
+
+You toss the ball back to the red head, making $Arisa notice this girl's introduction. Your sister intercepts her advancement and begins to study her.
+
+Red head:
+@@#RediaText;
+"Who's this brat? Your guard dog?"
+@@
+
+The two girls eye each other down. $Arisa seems unsure at first, then surprises you by gesturing a handshake.
+
+$Arisa:
+@@#ArisaText;
+"You can say that. Someone has to keep this man in check."
+@@
+
+The sporty girl ignores your sister's offering and looks back at you.
+
+$Redia:
+@@#RediaText;
+"Name's $Redia. I take it you’re not an elementary student with this girl 'protecting' you."
+@@
+
+You can sense the hostility between the two and decide to introduce your sister.
+
+$Name:
+@@#ProtagText;
+"This is my spunky sister, $Arisa. I noticed that you were alone and thought she would make a good friend for you, $Redia."
+@@
+
+You grab $Redia's and your sister's arm and force a handshake. Despite trying to break away, the red head grips her hand and starts to shake her hand. Letting them both go, you step back and watch there interaction.
+--
+@@#choices;
+<<button [[Observe.|RediaPastintro2]]
+>><</button>>
+@@
+
+

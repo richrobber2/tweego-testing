@@ -1,0 +1,37 @@
+:: PlotIntroduction3 {"position":"5050,2530","size":"100,100"}
+$Name:
+@@#ProtagText;
+"$Arisa is gonna be ten years old soon! I've got __far__ more to worry about than her cursing!!"
+@@
+
+Mom:
+@@#NPCText;
+"Your 'job' is to raise your sister! Damn, child, you better make sure she's always happy and better than her waste of a brother!!"
+@@
+
+WOW! That was pretty low. She even insults you in the 3rd person.
+
+Mom:
+@@#NPCText;
+"For your sake I expect you to get a job and pay me in full in exactly 30 days!"
+@@
+
+$Name:
+@@#ProtagText;
+"*Sigh* No problem, I'll try m-"
+@@
+
+To add to your overwhelming fear of the future, she abruptly hangs up her phone.
+
+...
+
+You are left in silence as you try to wrap your head around the fact you have no idea how to even apply for a job.
+
+...Maybe your "father" can help.
+--
+@@#choices;
+<<button [[Call him.|PlotIntroduction4]]
+>><</button>>
+@@
+
+

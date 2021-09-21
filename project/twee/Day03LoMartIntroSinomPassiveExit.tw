@@ -1,0 +1,53 @@
+:: Day03LoMartIntroSinomPassiveExit {"position":"33190,4070","size":"100,100"}
+While you have a lot of respect for your old principle, this kind of behavior from someone in his fifties is pathethic. While you don't want your first 'duty' at work to be this; it's the best course of action.
+
+Pointing towards the exit on the other side of the store, you give Sinom a mean look and sternly order him-
+
+$Name:
+@@#ProtagText;
+"I'm going to have to ask you to leave. I can't have you drunk at a place made for kids."
+@@
+
+Sinom appeared surprised by your demand and smiles.
+
+Sinom:
+@@#NPCText;
+"Ye-yeah... Probably for the best..."
+@@
+
+Despite his smiling face, his tone of voice shows guilt for his public drunkardness.
+
+That's when a flicker of nostalgia washes over you and almost if your mouth mouth by itself, you announce to Sinom.
+
+$Name:
+@@#ProtagText;
+"Hey Sinom!"
+@@
+
+He stops walking and turns his waist to listen.
+
+Sinom:
+@@#NPCText;
+"What is..Ugh- It?"
+@@
+
+
+Smiling, you unconsciously state,
+
+$Name:
+@@#ProtagText;
+"I hope you get better soon..."
+@@
+
+But, he just turns back around and walks off. You feel oddly sad in a way as you watch your old role-model be reduced to nothing but a dead-beat drunk.
+
+Much like your father was.
+
+...
+<<set $Depression +=10>>\
+--
+@@#choices;
+<<back>>
+@@
+
+

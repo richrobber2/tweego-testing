@@ -1,0 +1,51 @@
+:: SuikoDay03P2SuikoObserveChest1 {"position":"33890,1830","size":"100,100"}
+<<set $SuikoLove -=10>>\
+<<set $Libido +=10>>\
+<<set $Corruption +=10>>\
+While you'd love to get a better look at this preteen's breasts; you are finding it hard to visualize the emerging shape. 
+So, you slowly start to move your head to an tilt and lean closer without looking too obvious. Despite your nonchalant motions, it doesn't take long for $Suiko to question your motives.
+
+$Suiko:
+@@#SuikoText;
+"Um...What's wrong?"
+@@
+
+You can't give up now! You already made it a mission to observe her breasts! Ugh, You wish you could just ask-
+
+$Suiko:
+@@#SuikoText;
+"$Name, is their something on 'your' shirt?"
+@@
+
+That's it! You could simply ask this innocent loli to lift her shirt; it is your's afterall.
+
+Trying to maintain your 'adult' decorum, reach over the cement table and slowly start to reach for 'your' shirt.
+
+$Suiko, seeing your pervy and ill intentive hands approaching wraps her arms tight around her chest and timidly asks you,
+
+$Suiko:
+@@#SuikoText;
+"Are...You taking....your shirt back?!"
+@@
+
+@@#EffectText;
+WUT?
+@@
+
+Realizing you're trying to lift her shirt up to see her breasts, you quickly come to your senses and retract back.
+
+The confused $Suiko seems conflicted and in tears over your attempt to take her shirt. She holds her shirt close and practicly shaking, waits for your response.
+
+$Suiko:
+@@#SuikoText;
+"I...thought you gave it to....Me...I like it..."
+@@
+
+She liked the shirt you gave her? Crap, this is bad! You could tell her that you were just trying to lift her shirt to oggle her perky breasts, but then she'd think of you as some exploitive creep!
+--
+@@#choices;
+<<if $SuikoLove gte 120>><<button [[Tell her the truth.|SuikoDay03P2SuikoObserveChest2]]>><</button>><</if>>
+<<button [[Say it is a misunderstanding.|SuikoDay03P2SuikoObserveChestUndo]]>><</button>>
+@@
+
+

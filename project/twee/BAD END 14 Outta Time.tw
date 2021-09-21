@@ -1,0 +1,34 @@
+:: BAD END 14: Outta Time {"position":"2110,290","size":"100,100"}
+/* TODO add code for achievment here */
+'"Ring, ring, ring! Ring, ring, ring! You're fucked, you're fucked!"'
+
+Your eyes shot open as you awake to your phone alarm. Sluggish, you sluggishly turn to your phone and are quickly horrified by the time;
+
+@@#EffectText;
+11:28am
+@@
+
+
+Included on your phone is an indicator stating four missed calls and a text message reading,
+
+@@#AmberText;
+"You were late to your first day at work?! Don't bother coming; you're fired!"
+@@
+
+As you put your phone down in defeat and while you know you're never told what time to come for work you can't deny you fucked up.
+
+Faintly, you can hear your sister hopelessly knock on your door.
+
+You should've been more responsible and checked the time.
+
+...
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 14: Outta Time.">><<script>>Engine.restart();<</script>>/
+<</button>>
+@@
+
+

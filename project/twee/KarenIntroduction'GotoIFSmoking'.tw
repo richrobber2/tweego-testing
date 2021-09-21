@@ -1,0 +1,8 @@
+:: KarenIntroduction'GotoIFSmoking' {"position":"15550,3230","size":"100,100"}
+<<if $Smoking is 0>>\
+ <<goto [[KarenIntroduction'NonSmoking']]>>\
+ <<elseif $Smoking is 1>>\
+ <<goto [[KarenIntroduction'Smoking']]>>\
+ <</if>>
+
+

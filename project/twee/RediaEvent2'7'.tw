@@ -1,0 +1,71 @@
+:: RediaEvent2'7' {"position":"13030,4070","size":"100,100"}
+You start to rub her back.
+
+$Name:
+@@#ProtagText;
+"$Redia, tell me what's wrong?"
+@@
+Still hiding her head, she replies,
+
+$Redia
+@@#RediaText;
+"I hate this! I Hate sports! I hate those boys! I HATE MY LIFE!"
+@@
+<<set $SportyRedia to 0>>\
+<<set $GamerRedia to 1>>\
+
+She quickly grabs your shirt and buries her tearing face into it.
+
+$Redia:
+@@#RediaText;
+"I want out! Ahhhgah!"
+@@
+...
+
+-Coach Dimby kicks you one last time and you collapse to the cold dirt. Noticing this, the other members swarm your body.
+
+Boy1:
+@@#NPCText;
+"So, the 'Mighty $LastName" couldn't take it!"
+@@
+
+Boy2:
+@@#NPCText;
+"Fucking loser! He's a waste!"
+@@
+
+Boy3:
+@@#NPCText;
+"Shame. We could have used you if you didn't suck so badly!"
+@@
+
+You curl up into your shell and start to cry as Coach Dimby runs toward you at a high speed and kicks you in the side.
+
+$Name:
+@@#ProtagText;
+"GAH!!!"
+@@
+You flinch in agony as everyone looks down at you.
+
+Coach Dimby:
+@@#NPCText;
+"GET OFF MY FIELD! I don't need both a loser and a crybaby on my team!"
+@@
+
+You remember them laughing as you try to stand up and limp off the field.
+
+...
+
+You flash back to real life and are greeted by $Redia's dirty face awash in a flood of tears.
+
+$Redia:
+@@#RediaText;
+"Brother, please..I.Uaggh..!"
+@@
+--
+@@#choices;
+<<button [[Comfort her.|RediaEvent2'8']]
+>><</button>>
+@@
+
+

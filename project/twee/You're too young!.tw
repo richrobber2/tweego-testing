@@ -1,0 +1,22 @@
+:: You're too young! {"position":"150,5470","size":"100,100"}
+$Arisa:
+@@#ArisaText;
+"Oh poo! I am almost nine years old!"
+@@
+
+She's just recently turned eight years old, her age is enough reason not to let her watch this smut.
+
+-Or maybe, she won't understand it at all and she'll get bored.
+
+$Arisa:
+@@#ArisaText;
+"Is it because you prefer cartoon girls on the shows?"
+@@
+What? How did she know?!
+--
+@@#choices;
+<<button [[Tell her the real reason.|LoMartIntroduction6]]
+>><</button>>
+@@
+
+

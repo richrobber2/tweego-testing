@@ -1,0 +1,42 @@
+:: ArisaFailedEvent1 {"position":"21710,4490","size":"100,100"}
+Being the adult figure you gloat about being, you stand you and pick your sister up by her overall straps.
+
+$Name:
+@@#ProtagText;
+"Stop. You are acting like a brat!"
+@@
+
+
+While your sister begins to fuss like a twerp, she is powerless to escape your grasp....or is she?
+
+$Arisa:
+@@#ArisaText;
+"Not so fast Onii~"
+@@
+
+Like some majestic bird of nudity, your sister jumps out of her overalls and stands before you only dressed in plain, white underwear.
+
+$Arisa laughs as your gaze is locked on your sister's bare chest and pure panties.
+
+$Name:
+@@#ProtagText;
+"Get dressed, now!"
+@@
+
+$Arisa pulls up her panties and laughs.
+
+$Arisa:
+@@#ArisaText;
+"If you catch me I will do what you want, Onii-Chan~"
+@@
+
+With that, Your nude imouto grabs her overalls from you and rushes out your door.
+--
+@@#choices;
+<<button [[Slam the door.|ArisaFailedEvent1-2]]
+>><</button>>
+<<button [[Chase her.|ArisaChaseEvent1]]
+>><</button>>
+@@
+
+

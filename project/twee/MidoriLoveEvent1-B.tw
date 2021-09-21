@@ -1,0 +1,25 @@
+:: MidoriLoveEvent1-B {"position":"8550,3930","size":"100,100"}
+You have to be honest; who knows what this imp can do!
+
+You pound your chest and boast.
+
+$Name:
+@@#ProtagText;
+"I'll be honest....I have to be for your love!"
+@@
+
+Your gusto is laughable yet this out of touch fairy seems amused by your sense of self pride.
+
+$Midori:
+@@#MidoriText;
+"Okay then! Tell me who was you're first kiss!"
+@@
+--
+@@#choices;
+<<button [[Your sister.|MidoriLoveEvent1-C]]>><</button>>
+<<button [[I never was kissed.|MidoriLoveEventWrong]]>><</button>>
+<<button [[The hooded girl was!|MidoriLoveEventSuikoLoveCheck]]
+>><</button>>
+@@
+
+

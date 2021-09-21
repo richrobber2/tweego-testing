@@ -1,0 +1,34 @@
+:: MidoriForest'Sara'west4 {"position":"6310,3510","size":"100,100"}
+<<if $MidoriOrb is 1>>\
+<<set $MidoriOrb to 0>>\
+Enough wasting time, you decide to leave the area and head towards the footprints you saw earlier.
+
+While you walk away from the tower of trees you notice the glowing orb suddenly stop emitting its glow and feel it shatter in your pocket.
+
+You stop walking and take the now shards of the orb and drop it on the forest floor.
+
+While it's strange, you decide to ignore it and continue to follow the footprints.
+<</if>>
+
+Finally! You found something that might end this wild 'loli' chase!
+
+You follow the foot prints and find that leads to a thinner area of woods and becomes obscured by the thicker grass.
+
+She must be here somewhere!
+
+You look around the area:
+
+To your left is a large area of jagged rocks.
+
+To your right, is a manmade trail that seems to lead to thicker woods.
+
+And straight head is a massive oak tree with large, spanning branches obscured with large bundles of leaves.
+You decide to:
+--
+@@#choices;
+<<button [[Walk towards the massive tree.|Sara Introduction]]>><</button>>
+<<button [[Go towards the thicker woods.|MidoriForest'Sara'north4]]>><</button>>
+<<button [[Head towards the rocks.|MidoriForest'Sara'east4]]>><</button>>
+@@
+
+

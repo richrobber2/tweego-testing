@@ -1,0 +1,26 @@
+:: ArisaApronEvent'1' {"position":"25210,3650","size":"100,100"}
+Confused, yet humbled by this gesture, you ask your dear sister;
+
+$Name:
+@@#ProtagText;
+"This is all sweet and all but why are you wearing an apron? where did you-?"
+@@
+
+You then recall winning a white apron yesterday; You must have forgotten with the series of events bombarding you recently.
+
+$Arisa smiles at you and spins around in a playful jesture, revealing her bare ass in a ballerina spin and followed by a playful giggle.
+
+$Arisa:
+@@#ArisaText;
+"Does it look nice? Many brothers would only dream of having a cute imouto serve him in a nude apron~ Was that your plan?"
+@@
+--
+@@#choices;
+<<button [[No, but it suits you!|ArisaApronEvent'1-1']]
+>><</button>>
+<<if $Libodo gte 40>>
+<<button [[Tell her to get dressed this instant!|ArisaApronEvent'2-1']]
+>><</button>><</if>>
+@@
+
+

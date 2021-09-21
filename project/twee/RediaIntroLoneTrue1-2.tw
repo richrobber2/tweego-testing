@@ -1,0 +1,38 @@
+:: RediaIntroLoneTrue1-2 {"position":"1410,4770","size":"100,100"}
+<<set $RediaIntroloneEvent to 1>>\
+From what you can gather, her reasoning isn't hers. If her father only wanted her to go her because to the baseball team it shows she didn't have a say in the matter. With this loose fact, you ask $Redia a serious question.
+
+$Name:
+@@#ProtagText;
+"Is that what you really want? If You rely on others to tell you how to live, are you really alive?"
+@@
+
+The young girl seems surprised by your words but quickly tell you,
+
+$Redia:
+@@#RediaText;
+"This is....My choice. If I make friends it will only make worse at baseball."
+@@
+
+You burt out almost like a reflex,
+
+$Name:
+@@#ProtagText;
+"Do you really think that? If not I'm wasting my time."
+@@
+
+You wait for her to defend her reasoning but instead, gives you a mean look and walks away from your presense. when she passes you, you hear a soft whisper leave her mouth.
+
+$Redia:
+@@#RediaText;
+"I do..."
+@@
+
+While you want to talk more, it isn't really your place to correct her. Since you're now alone on the bleachers, you decided your wasting your time and head back home.
+--
+@@#choices;
+<<button [[Head home.|DayOneIntro]]
+>><</button>>
+@@
+
+

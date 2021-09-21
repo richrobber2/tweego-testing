@@ -1,0 +1,54 @@
+:: LoMartIntroductionTwo 5 {"position":"1130,2950","size":"100,100"}
+As you watch $Redia and $Arisa enter your room, you decide to walk over to $Suiko. Noticing your advancement, she stiffens up and begins to fidget.
+
+In an attempt to not scare the frail girl, you stop a few feet away from her and ask;
+<<if $SuikoPastIntro is 0>>
+$Name:
+@@#ProtagText;
+"Are you alright, Little Girl?"
+@@
+
+
+Visibly shaking, she looks to her sides and decides to hold her stuffed rabbit to you and proceeds to talk for it on her behalf.
+<</if>>\
+<<if $SuikoPastIntroLove is 1 and $SuikoPastIntro is 0>>
+
+$Name:
+@@#ProtagText;
+"Are you alright, $Suiko?"
+@@
+
+
+She smiles at you, holds 'Mr.Rabbit' in front of you and gestures it like you showed her long ago. The plush even waves at you.
+<</if>>\
+<<if $SuikoPastIntro is 1>>
+$Name:
+@@#ProtagText;
+"Are you alright, $Suiko?"
+@@
+
+Visibly shaking, she looks to her sides and decides to hold her stuffed rabbit to you and proceeds to talk for it on her behalf. She smiles at you as if remembering you from before.
+<</if>>\
+
+$Suiko's 'Plush':
+@@#SuikoText;
+"Ura Ura~ Can...we go watch television as well? I...I mean we didn't know if you meant us...."
+@@
+
+You crack a smile and pat her rabbit on the head.
+
+$Name:
+@@#ProtagText;
+"Nonsense Mr.Rabbit! You're welcome to join your friends."
+@@
+
+You then cautiously move your hand over to the scared $Suiko and gently begin to rub her hood. She flinches again but then slowly takes a look at you; revealing a girl with straight but short brown hair and eyes.
+--
+@@#choices;
+<<button [[Continue to rub her.|Continue to rub her hood.]]
+>><</button>>
+<<button [[Let her join her friends.|LoMartIntroductionTwo 6]]
+>><</button>>
+@@
+
+

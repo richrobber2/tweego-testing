@@ -1,0 +1,37 @@
+:: ArisaLoveEvent1-2'loveroute' {"position":"23110,3650","size":"100,100"}
+You smile at your loving and concerned sister. While she acts selfish, she still hasn't forgot her wish.
+
+Heaven knows she has not.
+
+Her devotion to make you happy might be fruitless at times, the idea your sister would waste her time to help her brother get a job. The distruat of your sister's emotions shows how sorrowful she is about possibly ruining your life.
+
+you look down into your sister's crystal blue eyes and tell her in a hopeful tone,
+
+$Name:
+@@#ProtagText;
+"I like to think of it like this, A wish you made long ago might be coming true.."
+@@
+
+The words you just admitted sound cringy coming off your tongue, $Arisa grows silents and stares astonished by your reply.
+
+You smile at your confused sister as she surprising starts to glow red.
+
+A almost mute phase softly whimpers off your sister's quivering lips.
+
+$Arisa:
+@@#ArisaText;
+"Onii-...chan.."
+@@
+
+Your sister pushes her head up and gently kisses you on the lips.
+--
+@@#choices;
+<<button [[Back off.|ArisaLoveEvent'Teaseroute']]
+>><</button>>
+<<button [[Kiss her back.|ArisaLoveEvent'LoveRoute']]
+>><</button>>
+<<button [[Tell her this is wrong and run into your room.|ArisaLoveEvent'NARoute']]
+>><</button>>
+@@
+
+

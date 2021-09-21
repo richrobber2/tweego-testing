@@ -1,0 +1,15 @@
+:: Find supplies for Mr.Rabbit {"position":"2670,2950","size":"100,100"}
+You walk back to the table where Mr.Rabbit lays in a heap.
+
+While you can't put the plush back together, you may be able to make a cute change to $Suiko's hoodie. Folding $Suiko's hoodie, you place it by Mr.Rabbit's body then head towards your utility drawer and look inside.
+<<set $drawer1 to 0>>\
+<<set $drawer2 to 0>>\
+<<set $drawer3 to 0>>\
+<<set $drawer4 to 0>>\
+--
+@@#choices;
+<<button [[Look inside the drawer for supplies.|Look inside the drawer for supplies]]
+>><</button>>
+@@
+
+

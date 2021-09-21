@@ -1,0 +1,42 @@
+:: Sara Introduction11'1' {"position":"9950,4630","size":"100,100"}
+<<set $RandyLove +=20>>\
+You shake the pleading girl off your hand and look over at $Randy.
+
+$Name:
+@@#ProtagText;
+"That's up to your brother to decide. Will it be a problem if I see you guys tomorrow?"
+@@
+
+$Randy looks at you and smiles.
+
+$Randy:
+@@#RandyText;
+"Sure.. If we see you that is. I'm sure you're a busy man."
+@@
+
+$Sara:
+@@#SaraText;
+"I hope we see you then! I wanna have a date with $Sara's boyfriend!"
+@@
+
+$Sara bows at you and runs towards $Randy.
+
+$Randy:
+@@#RandyText;
+"Well, it was nice yo meet you. I hope we meet again~"
+@@
+
+With that, He grabs his sister's hand and they both exit the area through the wood line.
+
+...
+
+You wait for them to leave and decide to follow the same route until you somehow reappear outside the entrance of Midori Forest.
+
+Although you don't understand how you're five or so feet away from the path you first entered, you decide not to bother with it and decide to stop wasting time.
+--
+@@#choices;
+<<button [[Walk to Midori Elementary.|MidoriSchool1]]
+>><</button>>
+@@
+
+

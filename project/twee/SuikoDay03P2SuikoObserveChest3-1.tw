@@ -1,0 +1,35 @@
+:: SuikoDay03P2SuikoObserveChest3-1 {"position":"34590,1970","size":"100,100"}
+How can you not say her chest isn't okay?!
+
+$Name:
+@@#ProtagText;
+"It's perfect! Flat yet has a noticable bump! thank you so much for showing it to me! Man, I'd kill to touch them!"
+@@
+
+-Did, you just say that...
+
+In a horny panic, you're surprised to see $Suiko unphased by your outburst. in fact, she appears to be wearing a satisfied smile; be it, one still confused over your lewd request.
+
+$Suiko:
+@@#SuikoText;
+"Th-Thanks!I'm worried I'm not developing well."
+@@
+
+She then looks down towards her flatlands and shrugs.
+
+$Suiko:
+@@#SuikoText;
+"I don't understand the appeal, but... I'm glad you like them."
+@@
+
+As she conseals her bosom, she gives you a innocent chuckle and sits back down.
+
+...
+
+<<set $SuikoLove +=10>>\
+--
+@@#choices;
+<<button [[Observe something else.|SuikoDay03P2SuikoObserve2]]>><</button>>
+@@
+
+

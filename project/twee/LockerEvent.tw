@@ -1,0 +1,60 @@
+:: LockerEvent {"position":"11630,3230","size":"100,100"}
+<<set $DayCounter to 0>>\
+__Fourteen years ago__
+
+$Michael:
+@@#NPCText;
+"Hey $Name! Caught the one hundred and fifty first 'Loli'Mon®' yet?"
+@@
+
+The statement 'Mike' made throws you off.
+
+$Name:
+@@#ProtagText;
+"Mike, there is only one hundred and fifty! don't give me that crap!"
+@@
+
+As if expecting your reply, he slaps your locker shut and displays a sticker of a purple rabbit.
+
+$Michael:
+@@#NPCText;
+"This one! Apparently, it was added into the game by a disgruntled coder who 'Loli'Mon®' design was deemed too generic."
+@@
+
+You look at the sticker and understand why it was scraped; It just appears to be a stuffed doll; no likeness to a human at all!
+
+$Name:
+@@#ProtagText;
+"So what is so special about it? just looks like a toy!"
+@@
+In reality, you are amazed such drive went just to add this generic looking thing into the game you both enjoy.
+
+$Michael:
+@@#NPCText;
+"People say it's called 'Mr.Rabbit', It is said to be able to be brought back if it ever is forgotten by its owner."
+@@
+
+$Name:
+@@#ProtagText;
+"Wut?"
+@@
+$Michael playfully pushes you on the side and criticizes you.
+
+$Michael:
+@@#NPCText;
+"Stop saying that! It's just 'What', not 'Wut'! It makes you look retarded!"
+@@
+
+Then, as if that never happened, he pats the sticker and smiles,
+
+$Michael:
+@@#NPCText;
+"I feel like 'Mr.Rabbit' is the unloved 'Loli'Mon®'. I hope one day, I can help everything feel loved!"
+@@
+--
+@@#choices;
+<<button [[Next.|LockerEvent1]]
+>><</button>>
+@@
+
+

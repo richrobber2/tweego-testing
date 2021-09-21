@@ -1,0 +1,199 @@
+:: PreArisaEvent3 {"position":"18350,3230","size":"100,100"}
+Taking the boring trek back home you're amazed by the amount of things that transpired today. At a leisurely pace, you take a moment and thing about the people you met today.
+
+@@#RediaText;
+$Redia:
+@@\
+
+<<if $RediaLove gte 200>>\
+@@#RediaText;
+You made $Redia's day today, who would of thought there was a cute girl hiding under that tomboy personality. You are flattered she think of you as her best friend and as brother. You hope to see her again; such a cute kid!
+@@\
+<</if>>\
+<<if $RediaLove lte 140 and $RediaLove gte 200>>
+@@#RediaText;
+It was good to see $Redia today. You expected her to be a sporty tom-boy but to think she doesn't like sports. Perhaps she isn't what she makes herself out to be.
+@@\
+<</if>>\
+<<if $RediaLove lte 40 and $RediaLove gte 80>>
+@@#RediaText;
+It was nice to see $Redia but you feel like you could of acted better around her. Maybe you should try to see her again.
+@@\
+<</if>>\
+<<if $RediaLove lte 100>>
+@@#RediaText;
+You could have been nicer to $Redia. You feel like you should try to be nicer to her but it's probably best just to leave her alone.
+@@\
+<</if>>\
+<<if $LilithIntro is 1>>\
+<<if $LilithErased is 0>>
+@@#LilithText;
+$Lilith:
+@@
+<</if>>
+<<if $LilithLove is 200>>
+@@#LilithText;
+While $Lilith seems like a really perverted and troublesome girl, you feel like it might be fun to see her again! You're surprised she forced you to lick her pussy but it was amazing to say the least! Totally worth the twenty dollars! You also hope she wasn't serious about marrying her.
+@@
+<<elseif $LilithLove lt 100>>
+@@#LilithText;
+That $Lilith Girl....Wow! You're surprised you meet such a sophisticated yet lewd girl! You kind of feel bad you turned down her request to marry her but you thought she was just messing with you. You wonder if you will see her again.
+<<elseif $LilithLove lt 180 and $LilithErased isnot 1>>
+The girl you met in the school's restroom was quite the odd girl. You’re kind of glad you left when you did. Was kind of nice that you got to lick her pussy.
+@@
+<</if>>
+<<if $LilithErased is 1>>
+@@#LilithText;
+You think you might have seen a girl at Midori Elementary school but when you think about it you just remember going straight to Principal Iratu. Odd.
+@@
+<</if>>\
+<</if>>\
+
+<<if $LilithErased is 0>>
+@@#choices;
+Priciple Sinom:
+@@
+<<if $LilithLove is 200>>
+@@#choices;
+You're surprised old Principal Sinom is not only still working at Midori Elementary but that he also has a really cute daughter! He's kind of obsessed with his daughter to the point it's questionable and the fact he'd let her child 'marry' you bizarre! At least he seems to care a lot about $Lilith.
+@@
+<<elseif $LilithLove gte 100 and $LilithLove lt 200>>
+@@#choices;
+You're surprised old Principal Sinom is not only still working at Midori Elementary but that he also has a really cute daughter! Kind of worrying he wanted you to marry his daughter though. He seemed kind of pissed off that you refused to. Man, the Sinom Traditions are weird.
+@@
+<<elseif $LilithLove lte 50>>
+@@#choices;
+You're surprised old Principal Sinom is not only still working at Midori Elementary. Nice to see he's doing well!
+@@
+<</if>>
+
+<<if $LilithErased is 1>>
+@@#choices;
+Priciple Iratu:
+@@\
+@@#choices;
+What a Jerk! To think someone like that is running Midori Elementary! He seems like someone you don't want to meet in a dark ally. You hope $Arisa will be fine going to a school with such a brute of a Principal.
+@@\
+@@#choices;
+<<click "Look at card he gave you">><<toggleclass "#LookatATFCard" "hidden">><</click>>@@<div id="LookatATFCard" class="hidden">
+@@#choices;
+You stop walking for a moment and retrieve the card Principal Iratu oddly gave to you. Looking down at the well embossed 'calling' card you notice some there is some writing on it:
+@@\
+
+      ATF
+"All the Fallen"
+
+Under the font is this piano black, glossy card is also a black RFID square with a rabbit design in the middle.
+
+...
+
+What a strange item.
+
+With that, you put the card back into your shirt pocket and continue walking.
+</div>\
+
+<</if>><</if>>\
+@@#AmberText;
+ $Amber:
+ @@\
+
+<<if $PayRaise1 is 1>>\
+@@#AmberText;
+ It was great to not only see $Amber again, but to think she is the one who runs LO-Mart. While you admit she is a tad strange and possibly a threat to little kids, she has proved that she is a caring person by being so eager to hire you but also by giving you four hundred dollars and giving you a pay raise before you even started working. She may seem like a violent and possibly crazy girl but her heart seems to be in the right place. You wonder if you can get her to stop calling you oniichan but then again she is going paying you well.
+ @@\
+<</if>>\
+ <<if $PayRaise1 is 0>>\
+ @@#AmberText;
+  It was great to not only see $Amber again, but to think she is the one who runs LO-Mart. Although she seems a little unhinged, she has done a lot to get where she's at today. Although you admit you envy that, you feel like the pressure of her running the store kind of left her a mess of her former self.
+@@\
+<</if>>\
+<<if $SaraIntro is 1 or $SaraErased is 0>>
+@@#SaraText;
+$Sara:
+@@
+<</if>>\
+<<if $SaraLove gte 110>>
+@@#SaraText;
+$Sara was a really cute and hyperactive girl! In some ways, she reminds you of $Arisa when she was younger. It could be troublesome if she actually thinks you're her boyfriend but you think it's just a cry for attention. Perhaps that little girl has more to her then just that.
+@@\
+<<elseif $SaraLove eq 80 and $SaraLove lte 100>>
+@@#SaraText;
+You felt good to help a little girl out. Hope she can get along better with her brother. Seems like she needs someone to keep her company.
+@@\
+<<elseif $Saralove is 60>>
+@@#SaraText;
+You felt good to help a little girl out. Hope she can get along better with her brother.
+@@\
+<<elseif $SaraLove lte 40>>
+@@#SaraText;
+The girl you helped at Midori Park was a weird one. Hope her brother can help her out.
+@@\
+<</if>>\
+<<if $NoSara is 1>>
+@@#RandyText;
+$Randy:
+@@\
+@@#RandyText;
+That $Randy reminds you a lot of yourself as a young kid. Having an annoying little sister like yourself, you can understand some of the bullshit he must go through. While you're not homosexual you think it's kind of interesting that a kid that young knows himself so well. Hope you see him again someday.
+@@\
+<</if>>\
+<<if $RandyIntro is 1 and $RandyErased is 0>>
+@@#RandyText;
+$Randy:
+@@\
+<</if>>\
+<<if $RandyLove lte 120 and $NoSara is 0 and $RandyErased is 0>>
+@@#RandyText;
+Good to see $Randy actually went into the Midori Forest to look for his sister. Although he seemed like he didn't care for her, he seemed to be very protective of her. Perhaps there is more to him then he lets off to be.
+@@\
+<<elseif $RandyLove gte 120 and $NoSara is 0 and $RandyErased is 0>>
+@@#RandyText;
+Good to see $Randy actually went into the Midori Forest to look for his sister. Although he seemed like he didn't care for her, he seemed to be very protective of her. You wonder if you could help him be a better brother for $Sara.
+@@\
+<</if>>\
+<<if $KarenErased is 1>>
+@@#KarenText;
+You think you saw a girl outside L0-Mart but it's hard to remember....odd.
+@@\
+<</if>>\
+<<if $KarenErased neq 1>>
+@@#KarenText;
+$Karen:
+@@\
+<</if>>\
+<<if $KarenSubmissive is 1>>
+@@#KarenText;
+$Karen seems like a nice girl, you hope you see here again. She seems like a really nice and caring girl at heart. You wonder what type of person she really is.
+@@\
+<</if>>\
+<<if $KarenDelinquent eq 1 and $KarenLove neq 30>>
+@@#KarenText;
+That $Karen girl is an odd girl. It seems like if you don't help her she could get into a lot of trouble but if you play your cards right it might be fun to enable her. Hope you'll see her again.
+@@
+<</if>>\
+<<if $Karenscammed eq 1 and $KarenLove neq 30>>
+@@#KarenText;
+That girl (you think her name was $Karen) was quite a strange one. You wonder if you'll see her again.
+@@\
+<</if>>\
+<<if $KarenTrueRoute is 1 and $KarenLove isnot 30>>
+@@#KarenText;
+$Karen seemed like a really cute girl. She seemed to be a good girl at heart but you almost enjoyed her company. You hope to see $Karen again soon.
+@@\
+<</if>>\
+<<if $KarenLove is 30>>
+@@#KarenText;
+That $Karen girl you say earlier was a weird girl. You might have been too mean earlier.
+@@\
+<</if>>\
+
+...
+
+After what seems like an oddly fast walk, you arrive at your home.
+--
+@@#choices;
+<<button [[Walk to the front porch.|PreArisaEvent3-1]]
+>><</button>>
+@@
+
+

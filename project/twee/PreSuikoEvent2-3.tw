@@ -1,0 +1,28 @@
+:: PreSuikoEvent2-3 {"position":"18910,3510","size":"100,100"}
+<<set $SuikoLove +=20>>\
+<<set $SuikoLetter to 1>>\
+Out of curiosity, you gently peel back the 'seal' sticker and unfold a torn piece of notebook paper.
+
+Inscribed on this document, its purple ink addressed to you:
+
+@@#SuikoText;
+	Dear $Name $LastName,
+
+	Hello $Name! I..um, hope you're doing well! I just wanted to let you know I'm thankful for what you did for Mr. Rabbit and wanted to invite you to my house for tea at 9am tomorrow~! :D
+
+	I live on 229 Blue Full Lane.
+
+	Your Friend,
+
+	$Suiko Hanagwonwai.
+
+@@
+
+$Suiko wrote this?! Wow, she must have really taken a liking to you! While you have to go to work and take $Arisa to school, you put the letter under your welcome mat and head inside. You might think about going later if thinks work out.
+--
+@@#choices;
+<<button [[Head inside.|ArisaEvent3'Pre-Intro']]
+>><</button>>
+@@
+
+

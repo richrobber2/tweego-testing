@@ -1,0 +1,28 @@
+:: ArisaEvent3'HaremRoute1'6-2 {"position":"20590,4350","size":"100,100"}
+<<timed 1.3s>>[set TO 0]<</timed>>
+Noticing your sister is suddenly feeling down, <<timed 1.5s>>you bend down on your knee and move her back to wipe a tear off her flushed cheeks.<</timed>>
+
+$Name:
+@@#ProtagText;
+"What's wrong, Imouto?"
+@@
+Your sister starts to rub her eyes then without warning, lays her soft, tiny hand on your face and kisses your slightly agap mouth.
+
+You can't fight back as your sister starts to hold a tongue kiss for a few seconds then releases you with a notable 'Pop!’
+
+$Arisa:
+@@#ArisaText;
+"I'm so lucky you're my brother~."
+@@
+
+Achieving <<timed 1.6s>>her daily quest to kiss you, she licks some of your drool off your bottom lip<</timed>> and pushes you back on your bed. Amidst of you falling, you hear your bedroom door slam so loud it shakes the walls.
+<<set $ArisaLove+=60>>\
+<<set $ArisaHaremRoute to 1>>\
+Knowing you made your dear imouto happy, you continue watching more anime until you need to make dinner.
+--
+@@#choices;
+<<timed 1.7s>><<button [[Next.|PreDAY02End]]
+>><</button>><</timed>>
+@@
+
+

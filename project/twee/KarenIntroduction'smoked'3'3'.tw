@@ -1,0 +1,52 @@
+:: KarenIntroduction'smoked'3'3' {"position":"16390,3790","size":"100,100"}
+You smile at the misguided girl and pull your cigarette out of your mouth.
+
+$Name:
+@@#ProtagText;
+"This might sound contradicting but a lot about being an adult is just being yourself! A part of being an adult is having to freedom to be who you really want to be."
+@@
+
+$Karen gives a judgmental glare as if doubting your reply.
+
+After staring at her and hearing her 'hum', she throws her unfinished cigarette on the ground and smiles.
+
+$Karen:
+@@#KarenText;
+"So, you're saying I just need to be myself and I'll be an adult?"
+@@
+
+After saying this, $Karen undoes the bun in her hair then reaches into her purse to reveal a pair of think, blue framed glasses.
+
+Turning away from you, she slides the lenses onto her face and looks back at you; now wearing the somewhat nerdy pair of corrective lenses.
+
+$Karen:
+@@#KarenText;
+"People always tell me I look like a child when I wear theses. I'm always told that if I style my hair and not wear glasses I will look more mature and adult. But from what you are saying, as a cool looking adult, then you must be right!"
+@@
+
+$Karen's simple change to her appearance makes her look more of a nerdy, yet sophisticated woman.
+
+If she looked like this a few minutes before you probably would have never thought of her has a delinquent!
+
+$Name:
+@@#ProtagText;
+"That is right! Honestly if I knew that earlier time in school probably would have gone a lot better."
+@@
+
+In your case, you realize this wouldn't have been the case for you at all but she seems to have found some closure in your advice.
+
+$Karen Stomps down on the cancer stick before her and spits down at it.
+
+$Karen:
+@@#KarenText;
+"People also said I would look cool smoking! Honestly, they are disgusting! I can't even see why adults smoke them!"
+@@
+--
+@@#choices;
+<<button [[Compliment her on her dramatic change!|KarenIntroduction'smoked'3'5']]
+>><</button>>
+<<button [[It isn't for everyone.|KarenIntroduction'smoked'3'5'1]]
+>><</button>>
+@@
+
+

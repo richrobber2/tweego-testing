@@ -1,0 +1,34 @@
+:: BAD END 2: You Knave! {"position":"430,430","size":"100,100"}
+/* TODO add code for achievment here */
+Stylish Girl:
+@@#LilithText;
+"It's one thing to best a pervert, but a knave! I misprise those more than anything else!"
+@@
+
+She then inhales to the top of her lungs.
+
+Stylish Girl:
+@@#LilithText;
+"holp me! I am gonna beest raped!"
+@@
+
+Wu- You mean, OH, SHIT!
+
+You try your hardest to escape the high heel in your hand and succeed;
+
+-Until you run outside and are faced with a police officer pointing a 12 gauge shotgun directly at your face!
+
+Wow! At least the school has better security!
+
+Which sucks for you because after you reach this conclusion he fires a round directly into your skull.
+
+<font size="3.5"><font color="#f23d00"><b>[YOU SHOULD OF TOLD THE TRUTH.]</b></font>
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 2: You Knave!">><<script>>Engine.restart();<</script>><</button>>
+@@
+
+

@@ -1,0 +1,42 @@
+:: PlotIntroduction11 {"position":"5050,3650","size":"100,100"}
+<<set $Money to 300>>\
+<<set $MoneyStat to 1>>\
+<<set $TalkedToPrincipal to 0>>\
+<<set $LOMartHired to 0>>\
+<<set $SawRedia1 to 0>>\
+<<set $LilithIntro is 0>>\
+<<set $WentToTown to 0>>\
+<<set $LilithIntro to 0>>\
+<<set $LilithErased to 0>>\
+<<set $RediaErased to 0>>\
+<<set $MidoriSEvent1 to 0>>\
+<<set $LockerEventScene to 0>>\
+Before you can even question that weird statement, your caring sister rushes to her room while jumping for joy.
+
+You stand in your doorway, totally lost in all the possibilities that could happen in the next month. You may have put too much trust in a nine year old but she does seem to know a lot about what she's doing.
+
+You look down at your sluggish posture and tired complexion. Perhaps, it'd be good to go out and enjoy the town. You think you seen a sign for LO-Mart not to far from $Arisa's school. Probably best to also check out the school as well (Since you realized you don't actually have the phone number to call her absent.)
+
+...
+
+After hastefully making a cup of coffee, you get yourself cleaned up, grab your things and head out the door; leaving your sister alone to hopefully set up your paperwork.
+@@#choices;
+[Your Pockets Now Contain]
+@@
+@@#choices;
+<<if $Smoking is 1>>\
+<<pickup '$playerinventory' 'Cigarettes'>>
+$Fags 'Lolibooru' cigarettes
+Your $Zippo lucky Zippo
+<</if>>\
+<<pickup '$playerinventory' 'Cell Phone'>>
+$Money Dollars
+Your Cellphone
+@@
+--
+@@#choices;
+<<button [[Next.|MainPlotOne]]
+>><</button>>
+@@
+
+

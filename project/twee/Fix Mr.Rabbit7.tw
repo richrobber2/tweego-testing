@@ -1,0 +1,68 @@
+:: Fix Mr.Rabbit7 {"position":"2670,4210","size":"100,100"}
+<<set $SuikoLove to 100>>\
+<<set $SuikoDepression to 25>>\
+<<set $timedifference1 to 1>>\
+<<set $SuikoEvent1 to 0>>\
+<<set $SuikoEvent1Complete to 1>>\
+She releases you and flops the hoodie back up. Still excited about the ears, she spins around in a circle and jumps at you face first.
+
+While jumping, her arms extend and she hugs you.
+
+She is hanging on you.
+
+$Name:
+@@#ProtagText;
+"I am glad you are hap-?!"
+@@
+
+She quickly draws her face closer and plants a soft kiss on your lips. Holding the assault for a few seconds, she jumps down and stares at you with a radiating smile.
+
+$Suiko:
+@@#SuikoText;
+"Umm...that was for you..my..first..kiss."
+@@
+
+@@#EffectText;
+HOLY FUCK BUCKETS!!
+@@
+
+You can still feel her saliva drooling down your lips as you stand at the mercy of this amazing cute girl. She...she gave you her first kiss...WOW!
+
+While you stand shocked and excited of the accomplishment, $Suiko giggles.
+
+$Suiko:
+@@#SuikoText;
+"Well $Name....I gottaa..Ura ura~"
+@@
+
+You notice $Suiko is flushed, but before you can say goodbye, she darts toward the front door and runs off outside. You are now alone in your living room.
+
+Due to the stress and excitement of today, you feel like it would be best for you to retire to your room. On the way to your room, you notice the door to the bathroom is wide open.
+
+You walk over to shut the door and find $Suiko's rags draped on the floor and the bathtub caked with dirt.
+
+Expecting one of the girls to notice this, you attempt to pick up the rags and they fall apart in your hands.
+
+Did $Suiko really wear this?
+
+You gather the remaining pieces and discard them in the trash in the living room; making sure to cover the 'shirt' under the surrounding waste to obscure it.
+
+As you close the lid, you feel a little better about helping the poor girl.
+...
+
+After cleaning up the bathroom, you put on a dirty polo shirt that you'd left in the restroom, then walked towards your room again and remembered that $Arisa is watching television in your room with $Redia.
+
+As you walk closer you hear the sensual cries of underpaid voice actors echoing in your ears. You know it can only mean one thing; $Arisa was not keeping the shows PG.
+
+You make it to your door to find it ajar from $Suiko running out abruptly. You can hear $Arisa talking.
+
+How should you react?
+--
+@@#choices;
+<<button [[Walk in enraged!|Walk in enraged]]
+>><</button>>
+<<button [[Sneak in and observe the situation.|LoMartIntroductionThree 2]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,60 @@
+:: Day03LoMartIntro'NanakoIntro'2'Serious'8 {"position":"29550,5050","size":"100,100"}
+You move the microphone away and look at the still shaking idol with geniune concern.
+
+$Name:
+@@#ProtagText;
+"Are you okay? What a creep that guy was."
+@@
+
+<<if $FightEventHit1 is 0>>
+<<set $NanakoLove +=50>>\
+$Nanako:
+@@#NanakoText;
+"Of course I am! I was amazed he couldn't even touch you! Hell, not only are you protective you can fight well! Truely they chose the right man for the job~"
+@@
+
+It doesn't register at first, but you hear her voice echo through the speaker system. Remembering her job, you look to the side and see she had the microphone close enough to pick up the conversation; causing the crowd to go in a uproar of praise.
+<<if $Depression gt 9>>
+<<set $Depression -=10>>\
+<</if>>\
+$Nanako,  while wearing going back into her idol persona, then directly faces the crowd of now esstatic onlookers and announces,
+
+$Nanako:
+@@#NanakoText;
+"Let's hear it for $Name! A kind brother and protector of your idol, $Nanako Namco~"
+@@
+<</if>>\
+<<if $FightEventHit1 is 1>>
+$Nanako:
+@@#NanakoText;
+"I'm fine, how about you? He roughed you up a bit."
+@@
+
+While you're in some pain, you try to act tough and brush it off.
+
+$Name:
+@@#ProtagText;
+"I'm okay but it was worth it. I'm glad that jerk didnt hurt you."
+@@
+
+Then, as if remembering her job , she brings the microphone to her face and announces to the crowd,
+
+$Nanako:
+@@#NanakoText;
+"Let's hear it for $Name! Not only does he care about kids, he is willing to take some blows to ensure they are safe!"
+@@
+<</if>>\
+
+You then realize you're wasting too much time and decide to walk away from the stage; a storm of applause echoing behind you.
+
+...
+
+Okay, enough side tracks. You should got inside and do your job.
+<<set $NanakoIdolRoute to 1>>\
+--
+@@#choices;
+<<button [[Next.|Day03LoMartIntro'AmberEvent']]
+>><</button>>
+@@
+
+

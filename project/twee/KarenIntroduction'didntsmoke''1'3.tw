@@ -1,0 +1,64 @@
+:: KarenIntroduction'didntsmoke''1'3 {"position":"16810,3510","size":"100,100"}
+<<set $KarenLove +=40>>\
+Acting without common sense, you jump forward from the bench and slam your body on the pavement in front of her.
+
+'THUD'
+
+$Karen's body land hard on your rag dolled body and you cushion her fall. Her impact causes your face to bounce on the ground.
+
+While you're lying on the parking lot in pain, you look up to see $Karen still on top of you, looking at you with widened eyes.
+
+Still recuperating, you say,
+
+$Name:
+@@#ProtagText;
+"Are you alright? Ugh, that hurt...”
+@@
+
+For a single frame of vision, you witness the girl smile then shiftily jump backwards while placing a hand on her skirt.
+
+$Karen:
+@@#KarenText;
+"Th-um...Are you retarded or something?! You made me trip!"
+@@
+
+You slowly get up in a wary daze. While you don't appear to be injured you think she would have been injured if you didn't do that.
+
+Instead of getting angry at her insults, you brush off your cloths then let out a breath of relief.
+
+$Name:
+@@#ProtagText;
+"Sorry but if I didn't do that you would have fell pretty hard."
+@@
+
+$Karen brushes her skirt off and readjusts her purse on her shoulder.
+
+$Karen:
+@@#KarenText;
+"Great, now I'm all dusty! Thanks a lot dork!"
+@@
+
+$Karen glares at you then cocks her head away from you.
+
+$Karen:
+@@#KarenText;
+"Humph! I'm outta here! Thanks for nothing jackass!"
+@@
+
+What a bitch!
+
+You almost injure yourself cushioning her and she doesn't even thank you?! Oh well, you can't make everyone happy.
+
+You watch as the brat heads back towards the sidewalk and disappear down the road.
+
+...
+
+You take moment to recover from your fall, then you retrieve your lighter from off the bench and decide you should probably head back home; $Arisa must be waiting for you.
+<<set $KarenTrueRoute to 1>>\
+---
+@@#choices;
+<<button [[Head home|PreArisaEvent3]]
+>><</button>>
+@@
+
+

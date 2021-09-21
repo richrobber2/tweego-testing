@@ -1,0 +1,27 @@
+:: KarenIntroduction'SmokingEvent'3 {"position":"15830,3650","size":"100,100"}
+A sting of words are flashing into your brain.
+<<set $Fatigue += 10>>\
+SMOKE! Take a breather! You deserve to smoke! You're only making yourself suffer.
+
+You feel a bead of sweat run down your face as the urge to smoke start to wash over your reasoning. You want to smoke! You make this choice long ago to smoke; why are you fighting it now! Who cares with $Arisa thinks! She's just a kid.
+
+You deserve to smoke after all the trouble she puts you through.
+
+…
+
+...No, it isn't.
+
+You're just making excuses to smoke but you feel yourself automatically jumping to excuses of why you need to smoke.
+
+You want to smoke but (at the same time), you don't want to.
+
+You regain your focus and find your grasp crushing the box.
+--
+@@#choices;
+<<button [[Move the pack away from you.|KarenIntroduction'didntsmoke']]
+>><</button>>
+<<button [[Smoke. A. Cigarette!|KarenIntroduction'smoked']]
+>><</button>>
+@@
+
+

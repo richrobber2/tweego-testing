@@ -1,0 +1,29 @@
+:: SuikoDay03P2SuikoObserve {"position":"33890,1130","size":"100,100"}
+<<if $ObservedSuikoday03p2 gte 3>>
+<<goto [[SuikoDay03P3Intro]]>>
+<</if>>\
+<<if $ObservedSuikoday03p2 gt 1>>
+<<if $ObservedSuikoday03p2 gte 3>>
+<<goto [[SuikoDay03P3Intro]]>>
+<</if>>\
+<<if $ObservedSuikoday03p2 is 1>>
+Looks like she hasn't noticed you looking around yet. Looks like you still have time. so you glance at-
+<</if>>\
+<<if $ObservedSuikoday03p2 is 2>>
+She hasn't appeared to have noticed your wondering eyes(or she simply hasn't said anything.) This time, you observe:
+<</if>>
+<</if>>\
+Listening to the stillness of the room, you begin to let your eyes wonder and explore the small details of the room.
+
+While $Suiko is sitting down on the oppisite side of the table, you decide to take this chance to sheepishly inspect the area. Maybe you can use this awkward pause to observe:
+--
+@@#choices;
+<<if $SuikoLookAtFigureDay03 is 0>><<button [[Her figure.|SuikoDay03P2SuikoObserveFigure]]>><</button>><</if>>\
+<<if $SuikoLookAtFaceDay03 is 0>><<button [[Her face.|SuikoDay03P2SuikoObserveFace]]>><</button>><</if>>\
+<<if $SuikoLookatChestDay03 is 0>><<button [[Her chest.|SuikoDay03P2SuikoObserveChest]]>><</button>><</if>>\
+<<if $SuikoLookAtMoodDay03 is 0>><<button [[Observe her mood.|Observe her mood]]>><</button>><</if>>\
+<<if $SuikoLookAtRoomDay03 is 0>><<button [[Observe the room.|Observe the room.]]>><</button>><</if>>\
+<<if $SuikoLookAtBelongingsDay03 is 0>><<button [[Observe her belongings.|Look at her stuff]]>><</button>><</if>>\
+@@\
+
+

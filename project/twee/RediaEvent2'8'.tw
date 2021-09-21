@@ -1,0 +1,74 @@
+:: RediaEvent2'8' {"position":"13030,4210","size":"100,100"}
+You embrace $Redia.
+
+Deep down, you know you've been in her shoes before.
+
+You brush some dirt off of her while you draw her close.
+
+$Redia:
+@@#RediaText;
+"Stop hugging-! *hic* Stop..."
+@@
+
+$Name:
+@@#ProtagText;
+"I was never in The Midori Clovers."
+@@
+
+You admit to both to $Redia and Yourself.
+
+She stops whining to listen to what you have to say.
+
+$Name:
+@@#ProtagText;
+"I mean, I tried out every year of baseball season but I was told I was too slow and whiny to ever be on the team. I realized they came to see me as not only a joke, but a fool and often tormented me for fun."
+@@
+
+$Redia:
+@@#RediaText;
+"You idiot!"
+@@
+
+She barks at you, then follows it with,
+
+$Redia:
+@@#RediaText;
+"..That sounds. Like-Me."
+@@
+$Name:
+@@#ProtagText;
+"What do you mean? Didn't they elect you coach?"
+@@
+
+You think about it for a moment and notice it's odd for a ten year old to coach a baseball team.
+
+$Redia:
+@@#RediaText;
+"Our old Coach said I was a disgrace and never wanted...A girl on his team. While I was- Um, more motivated and could keep up with the team, they would and still assault me if I screw up.
+
+A year ago, Coach Dimby died from a heart attack and no adult wanted to coach us."
+@@
+She frowns and starts to choke up.
+
+$Redia:
+@@#RediaText;
+"I...Wanted so bad to be...Ugh! In the team that I begged <<if $LilithErased is 0>>Principal Sinom<</if>> <<if $LilithErased is 1>>Principal Iratu<</if>>to reinstate the team if I became the new coach.. But he didn't care and wanted to shut the team down after this year due to no competitors in the area."
+@@
+
+She is right. Midori Clovers was more of a club than a competitive team.
+But wow, she did all that just to be on the team?!
+
+While you feel little respect for Coach Dimby, you are more pissed off the team was reduced to this!
+
+$Redia:
+@@#RediaText;
+"But...No one treated me like everyone else does. I just want out! $Name, help me up...”
+@@
+$Redia firms wraps her arms around your chest.
+--
+@@#choices;
+<<button [[Pick her up.|RediaEvent2'9']]
+>><</button>>
+@@
+
+

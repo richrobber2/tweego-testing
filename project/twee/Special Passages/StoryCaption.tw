@@ -1,0 +1,287 @@
+:: StoryCaption {"position":"570,10","size":"100,100"}
+@@#qsave;
+<<link "S">>
+	<<script>>Save.autosave.save("Quick Save");<</script>>
+<</link>>\
+@@\
+@@#qload;
+<<link "L">>
+	<<script>>Save.autosave.load();<</script>>
+<</link>>\
+@@\
+<<if $UIBar is 1>>\
+@@#choices;
+$Name $MidName $LastName
+@@\
+<FONT SIZE=2>\
+@@#choices;
+<font size='2'>\
+@@#choices;
+<font color ="white">[Day:$DayCounter]
+</font>\
+<<if $DayCounter is 0>>\
+<br>The Past.
+<<elseif $DayCounter is 1>>\
+<br>Monday.
+<<elseif $DayCounter is 2>>\
+<br>Tuesday.
+<<elseif $DayCounter is 3>>\
+<br>Wednesday.
+<<elseif $DayCounter is 4>>\
+<br>Thursday.
+<<elseif $DayCounter is 5>>\
+<br>Friday.
+<<elseif $DayCounter is 6>>\
+<br>Saturday.
+<<elseif $DayCounter is 7>>\
+<br>Sunday.
+<<else>>\
+<<set $DayCounter to 1>>
+<</if>>\
+@@\
+<<if $Awareness is 1>>
+@@#choices;
+<font color ="silver">Aware:$Awareness</font>\
+@@\
+<</if>>\
+@@#choices;
+<font color ="yellow">\
+Money:
+<<showmeter '$CashMeter' `$Money/ 700`>>\
+($MoneyMessages)</font>\
+@@\
+@@#choices;
+<font color ="grey">Mood:<<showmeter '$ProtagDepressionMeter' `$Depression/ 100`>>\
+($DepressionMessages)</font>\
+@@\
+@@#choices;
+<font color ="#ADD8E6">Fatigue:<<showmeter '$ProtagFatigueMeter' `$Fatigue/ 100`>>\
+($FatigueMessages)</font>\
+@@\
+<<if $Corruption gte 1>>
+@@#choices;
+<font color ="black">Morality:<<showmeter '$ProtagMoralityMeter' `$Corruption/ 100`>>\
+($CorruptionMessages)</font>\
+@@\
+<</if>>\
+@@#choices;
+<font color ="orange">Libido:<<showmeter '$ProtagLibidoMeter' `$Libido/ 100`>>\
+($LibidoMessages)</font>\
+@@\
+<<if $Wishes gte 1>>\
+@@#choices;
+<font color ="gold">Wishes:$Wishes</font>\
+@@\
+<</if>>\
+@@\
+<<if $Depression is 0>>\
+<<set $DepressionMessages to 'Content'>>
+<<elseif $Depression gt 1 and $Depression lte 20>>\
+<<set $DepressionMessages to 'Bummed'>>
+<<elseif $Depression gt 20 and $Depression lte 40>>\
+<<set $DepressionMessages to 'Sad'>>
+<<elseif $Depression  gt 40 and $Depression lte 50>>\
+<<set $DepressionMessages to 'Depressed'>>
+<<elseif $Depression gt 50 and $Depression lte 60>>\
+<<set $DepressionMessages to 'Vexed'>>
+<<elseif $Depression gt 60 and $Depression lte 70>>\
+<<set $DepressionMessages to 'Resentful'>>
+<<elseif $Depression  gt 70 and $Depression lte 80>>\
+<<set $DepressionMessages to 'Suicidal'>>
+<<elseif $Depession gt 80 and $Depression isnot 100>>\
+<<set $DepressionMessages to '<span class is 'blink'><font color is 'red'>Questioning Reality</font></span>'
+<<elseif $Depression gte 100>>\
+<<goto "BAD END 0: Forgotten By All">>\
+<<else>>\
+<<set $DepressionMessages to '???'>>\
+<</if>>\
+<</if>>\
+<<if $Fatigue is 0>>\
+<<set $FatigueMessages to 'Well Rested'>>\
+<<elseif $Fatigue gt 1 and $Fatigue lte 20>>\
+<<set $FatigueMessages to 'Refreshed'>>
+<<elseif $Fatigue gt 20 and $Fatigue lte 40>>\
+<<set $FatigueMessages to 'Awake'>>\
+<<elseif $Fatigue  gt 40 and $Fatigue lte 50>>\
+<<set $FatigueMessages to 'Wary'>>\
+<<elseif $Fatigue gt 50 and $Fatigue lte 60>>\
+<<set $FatigueMessages to 'Tired'>>\
+<<elseif $Fatigue gt 60 and $Fatigue lte 70>>\
+<<set $FatigueMessages to 'Worn Out'>>\
+<<elseif $Fatigue  gt 70 and $Fatigue lte 80>>\
+<<set $FatigueMessages to 'Drained'>>\
+<<elseif $Depession gt 80 and $Fatigue isnot 100>>\
+<<set $FatigueMessages to '<span class is 'blink'><font color is 'red'>Collapsing</font></span>'>>\
+<<else>>\
+<<set $FatigueMessages to '???'>>\
+<</if>>\
+<<if $Money lt 0>>\
+<<set $MoneyMessages to 'Indebted'>>\
+<<elseif $Money is 0>>\
+<<set $MoneyMessages to 'Pennyless'>>\
+<<elseif $Money gt 1 and $Money lte 180>>\
+<<set $MoneyMessages to 'Poor'>>
+<<elseif $Money gt 180 and $Money lte 300>>\
+<<set $MoneyMessages to 'Fine'>>\
+<<elseif $Money  gt 300 and $Money lte 500>>\
+<<set $MoneyMessages to 'Sustainable'>>\
+<<elseif $Money gt 500 and $Money lte 680>>\
+<<set $MoneyMessages to 'Doing well'>>\
+<<elseif $Money gt 680 and $Money lte 800>>\
+<<set $MoneyMessages to 'Ideal'>>\
+<<elseif $Money  gt 800 and $Money lte 1000>>\
+<<set $MoneyMessages to 'Not a Issue'>>\
+<<elseif $Depession gt 1000>>\
+<<set $MoneyMessages to 'Rich!'>>\
+<<else>>\
+<<set $MoneyMessages to '???'>>\
+<</if>>\
+<<if $Corruption is 0>>\
+<<set $CorruptionMessages to 'Innocent'>>\
+<<elseif $Corruption gt 1 and $Corruption lte 20>>\
+<<set $CorruptionMessages to 'Normal'>>
+<<elseif $Corruption gt 20 and $Corruption lte 40>>\
+<<set $CorruptionMessages to 'Deviant'>>\
+<<elseif $Corruption  gt 40 and $Corruption lte 50>>\
+<<set $CorruptionMessages to 'Perverse'>>\
+<<elseif $Corruption gt 50 and $Corruption lte 60>>\
+<<set $CorruptionMessages to 'Obscene'>>\
+<<elseif $Corruption gt 60 and $Corruption lte 70>>\
+<<set $CorruptionMessages to 'Tainted'>>\
+<<elseif $Corruption  gt 70 and $Corruption lte 80>>\
+<<set $CorruptionMessages to 'Fucked Up'>>\
+<<elseif $Depession gt 80 and $Corruption isnot 100>>\
+<<set $CorruptionMessages to '<span class is 'blink'><font color is 'red'>Monster!</font></span>'>>\
+<<else>>\
+<<set $CorruptionMessages to '???'>>\
+<</if>>\
+<<if $Libido is 0>>\
+<<set $LibidoMessages to 'Pure'>>\
+<<elseif $Libido gt 1 and $Libido lte 20>>\
+<<set $LibidoMessages to 'Normal'>>
+<<elseif $Libido gt 20 and $Libido lte 40>>\
+<<set $LibidoMessages to 'Enticed'>>\
+<<elseif $Libido  gt 40 and $Libido lte 50>>\
+<<set $LibidoMessages to 'Half-Chub'>>\
+<<elseif $Libido gt 50 and $Libido lte 60>>\
+<<set $LibidoMessages to 'Turned on.'>>\
+<<elseif $Libido gt 60 and $Libido lte 70>>\
+<<set $LibidoMessages to 'Horny'>>\
+<<elseif $Libido  gt 70 and $Libido lte 80>>\
+<<set $LibidoMessages to 'Pent Up.'>>\
+<<elseif $Depession gt 80 and $Libido isnot 100>>\
+<<set $LibidoMessages to 'In Heat'>>
+<<elseif $Libido gte 100>>\
+<<set $LibidoMessages to 'Needs to cum.'>>
+<<else>>\
+<<set $LibidoMessages to '???'>>\
+<</if>>\
+<<if $Abilities is 1>>\
+@@#choices;
+<<click "Abilities">><<toggleclass "#Abilities" "hidden">><</click>>\
+<div id="Abilities" class="hidden">\
+--
+<<if Has.fileAPI>>\
+@@#choices;
+	<<link "Save">>
+		<<script>>Save.export();<</script>>
+	<</link>>\
+@@\
+@@#choices;
+	<<link "Load">>
+		<<script>>
+		$(document.createElement('input'))
+			.css({
+				display    : 'block',
+				visibility : 'hidden',
+				position   : 'fixed',
+				left       : '-9999px',
+				top        : '-9999px',
+				width      : '1px',
+				height     : '1px'
+			})
+			.attr({
+				type          : 'file',
+				id            : 'saves-import-file',
+				tabindex      : -1,
+				'aria-hidden' : true
+			})
+			.on('change', Save.import)
+			.trigger('click');
+		<</script>>
+	<</link>>
+<<else>>
+	No Saves Detected.
+<</if>>\
+@@\
+@@\
+@@#choices;
+	<<link "Edit World">>
+		<<script>>UI.settings();<</script>>
+	<</link>>\
+@@\
+@@#choices;
+[[Restart World|(Restart)Title]]
+@@\
+@@\
+<<if $Day1 is 1>>\
+@@#choices;
+<<link "Load Day 1">><<script>>Save.slots.load(1)<</script>><</link>>\
+@@\
+<<elseif $Day2 is 1>>\
+@@#choices;
+<<link "Load Day 2">><<script>>Save.slots.load(2)<</script>><</link>>\
+@@\
+<<elseif $Day3 is 1>>\
+@@#choices;
+<<link "Load Day 3">><<script>>Save.slots.load(3)<</script>><</link>>\
+@@\
+<<elseif $Day4 is 1>>\
+@@#choices;
+<<link "Load Day 4">><<script>>Save.slots.load(4)<</script>><</link>>\
+@@\
+<<elseif $Day5 is 1>>\
+@@#choices;
+<<link "Load Day 5">><<script>>Save.slots.load(5)<</script>><</link>>\
+@@\
+<<elseif $Day6 is 1>>\
+@@#choices;
+<<link "Load Day 6">><<script>>Save.slots.load(6)<</script>><</link>>\
+@@\
+<<elseif $Day7 is 1>>\
+@@#choices;
+<<link "Load Day 7">><<script>>Save.slots.load(7)<</script>><</link>>\
+@@\
+<<elseif $Day8 is 1>>\
+@@#choices;
+<<link "Load Day 1">><<script>>Save.slots.load(8)<</script>><</link>>\
+@@\
+<<elseif $Day9 is 1>>\
+@@#choices;
+<<link "Load Day 9">><<script>>Save.slots.load(9)<</script>><</link>>\
+@@\
+<<elseif $Day10 is 1>>\
+@@#choices;
+<<link "Load Day 10">><<script>>Save.slots.load(10)<</script>><</link>>\
+@@\
+<<elseif $Day11 is 1>>\
+@@#choices;
+<<link "Load Day 11">><<script>>Save.slots.load(11)<</script>><</link>>\
+@@\
+<<elseif $Day12 is 1>>\
+@@#choices;
+<<link "Load Day 12">><<script>>Save.slots.load(12)<</script>><</link>>\
+@@\
+<<elseif $Day13 is 1>>\
+@@#choices;
+<<link "Load Day 13">><<script>>Save.slots.load(13)<</script>><</link>>\
+@@\
+<<elseif $Day14 is 1>>\
+@@#choices;
+<<link "Load Day 14">><<script>>Save.slots.load(14)<</script>><</link>>\
+@@\
+</div>\
+<</if>>\
+@@\
+@@\
+<</if>>\

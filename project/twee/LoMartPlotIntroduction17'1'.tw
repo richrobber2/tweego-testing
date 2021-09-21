@@ -1,0 +1,38 @@
+:: LoMartPlotIntroduction17'1' {"position":"14430,5610","size":"100,100"}
+Not this shit again.
+
+You have to deal with your step-sister calling you that and now your boss is calling you onii-chan!
+
+$Name:
+@@#ProtagText;
+"Umm...What is this supposed to be? You can't say my name is onii-chan!"
+@@
+
+$Amber stares at you with a smile as if you didn't say anything.
+
+$Amber:
+@@#AmberText;
+"So, do you like the nametag?"
+@@
+
+Her eyes hollow out and an unsettling, open mouth smile draws on her face.
+
+$Amber:
+@@#AmberText;
+"So, do. You. Like! The nametag?"
+@@
+
+She is starting to creep you out; if you had more opinions, you would have declined after asking if you're a pedophile.
+
+$Amber:
+@@#AmberText;
+"Onii-Chan~! Haha....Ehehe...~"
+@@
+<<set $AmberLove -=20>>\
+--
+@@#choices;
+<<button [[Thank her and put the nametag on.|LoMartPlotIntroduction17]]
+>><</button>>
+@@
+
+

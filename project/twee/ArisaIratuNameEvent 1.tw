@@ -1,0 +1,9 @@
+:: ArisaIratuNameEvent 1 {"position":"1970,430","size":"100,100"}
+What?! I'm not your sister!
+--
+@@#choices;
+<<button [[Back|setup]] 
+>><</button>>
+@@
+
+

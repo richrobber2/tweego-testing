@@ -1,0 +1,28 @@
+:: ArisaApronEvent'HEvent'Fail {"position":"25490,3790","size":"100,100"}
+A feeling of guilt and discomfort of being treated like a child starts to annoy you and you calmly decline the fork by bringing your hand to the incoming force feeding.
+
+$Name:
+@@#ProtagText;
+"I can eat it myself! How about you get dressed and ready for school."
+@@
+
+Giving your sister an annoyed look, her glowing smile washes away and she places the utincil on your tray.
+
+$Arisa:
+@@#ArisaText;
+"Oh. I guess I was enjoying the moment."
+@@
+
+The tone of her voice carries a hint of disappointment and finally admits defeats. Without saying a word, $Arisa simply turns away and walks out of your room.
+<<set $ArisaLove -=20>>\
+<<set $ArisaSchoolDay03 to 1>>\
+...
+
+With your annoying sister out of the picture, you finish your meal in peace.
+--
+@@#choices;
+<<button [[Next.|Day03Preintro]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,14 @@
+:: Day02 Check2 {"position":"18350,3510","size":"100,100"}
+<<if $LilithErased is 1>>
+<<goto [[AltrouteLilith|PreArisaEvent3'LilithAlt']]>>
+<<elseif $LilithErased is 1 and $SuikoErased is 1>>
+<<goto [[Look at item|PreArisaEvent3-'Erased Suiko 1']]>>
+<<elseif $LilithErased is 0 and $SuikoErased is 0>>
+<<goto [[Head to porch|PreArisaEvent3-2]]>>
+<<elseif $ArisaLove is 155>>
+<<goto [[ArisaSelectionEvent|ArisaLoveEvent1]]>>
+<<elseif $ArisaLove lte 151>>
+<<goto [[PreArisaEvent3-2]]>>
+<</if>>
+
+

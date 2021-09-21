@@ -1,0 +1,46 @@
+:: LoMartPlotIntroduction12 {"position":"14290,4910","size":"100,100"}
+Realizing if you said your sister wrote that in might not look good in your favor. Instead, you try to play it off and say,
+
+$Name:
+@@#ProtagText;
+"My middle name is $MidName, Onii-Chan is just a nickname my little sister calls me."
+@@
+
+You chuckle softly and try to play it off but $Amber responds by beginning to sweat and shake.
+
+<<set $AmberLove +=20>>\
+...Is she okay?
+
+$Amber:
+@@#AmberText;
+"Youyouyou- ! Have a sister?"
+@@
+$Amber begins to tap her fingers on her desk and start to lick her lips.
+
+You have a bad feeling about this but, you reluctantly say,
+
+$Name:
+@@#ProtagText;
+"Um...Yes?"
+@@
+
+There is a moment of silence so long you almost decide to leave until $Amber stands up, draws her arms to her sides and emits a loud squeal.
+
+$Amber:
+@@#AmberText;
+"Yes. Yes! Hell Yes!! This is too perfect! Not only do you have a sister but she calls you Onii-Chan?! You're so lucky! It's like my loli anime I watch daily. I can see it now!"
+@@
+
+$Amber reaches over her desk and firmly clasps your hand; She squeezes your hands so hard they start to turn blue. You look at her and notice she is giggling under her breath.
+
+$Amber:
+@@#AmberText;
+"You can be the 'Onii-Chan' of LO-Mart!"
+@@
+--
+@@#choices;
+<<button [[Next.|LoMartPlotIntroduction13]]
+>><</button>>
+@@
+
+

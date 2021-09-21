@@ -1,0 +1,28 @@
+:: ArisaEvent3'NymphoRoute'Exit {"position":"21430,3930","size":"100,100"}
+No, you need to stop this!
+
+You push your sister off and point towards your door,
+
+$Name:
+@@#ProtagText;
+"Get out of her! You're too much!"
+@@
+
+Your sister laughs at this and reads between the lines.
+
+$Arisa:
+@@#ArisaText;
+"Okay then, I'll leave you to jack off~"
+@@
+
+Your sister sticks her slender ass at you while she slowly 'dances' out of your room.
+
+Whoa....What got into her?
+<<set $ArisaNymphoRoute to 1>>\
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

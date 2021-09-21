@@ -1,0 +1,149 @@
+:: SuikoDay03P2SuikoObserveChest2 {"position":"34170,1830","size":"100,100"}
+$Name:
+@@#ProtagText;
+"$Suiko, I wasn't trying to take the shirt back...I wanted to...see your bare chest."
+@@
+
+...
+<<if $SuikoLove gte 170>>
+$Suiko:
+@@#SuikoText;
+"Oh, Okay then! I don't see why but here..."
+@@
+
+$Suiko starts to fidget and looks around nervously; then the unthinkable happens.
+<<set $Libido +=30>>\ 
+
+$Suiko brings her hands down to the seam of 'your' shirt and shamelessly lifts it to reveal not only her perky nipples but also reveals she isnt wearing shorts....or panties.
+
+The view and sudden surprise of nopan $Suiko causes your libido to jump and your cock to swell out of shear surprise.
+
+$Name:
+@@#ProtagText;
+"Why aren't you wearing panties?!"
+@@
+
+
+Using her shirt to cover her face, she explains.
+
+$Suiko:
+@@#SuikoText;
+"I...don't like wearing them! They always gets sticky!"
+@@
+
+@@#EffectText;
+WUT!?
+@@
+
+Trying to remain calm, you bring up the obivous question.
+
+$Name:
+@@#ProtagText;
+"Wha-! What about the panties and shorts I gave you?!"
+@@
+
+$Suiko lowers her arms(revealing her flush, red face) and says,
+
+$Suiko:
+@@#SuikoText;
+"I left them on the floor...I didn't want to get them dirty."
+@@
+
+She can't be serious! She refuses to wear panties because they always get 'sticky'? You would've she didn't wear them because she didn't want your sister's handmedowns.
+
+What does she mean by 'sticky'?
+--
+@@#choices;
+<<if $Libido gte 40>><<button [[Ask her what she means.|SuikoDay03P2SuikoNOPAN1]]>><</button>>
+<</if>>
+<<button [[Thank her.|SuikoDay03P2SuikoObserveChest3]]>><</button>>
+@@
+<<elseif $SuikoLove gte 120 and $SuikoLove lt 170>>
+$Suiko:
+@@#SuikoText;
+"My chest? Why would you wanna look at my chest?"
+@@
+
+Before you can answer her legitimate question, $Suiko blinks in confusion and reaches for her shirt collar.
+
+@@#EffectText;
+Wut?
+@@
+<<set $Libido +=20>>\
+
+Without any hint of embarrassment, $Suiko pulls the collar all the way down to her belly and presents her stiff nipples towards you.
+
+$Suiko:
+@@#SuikoText;
+"Why do you wanna see them? they are like a boys chest."
+@@
+
+-But, you don't see a flat chest as boyish. While you observe her bosoms, your boner rises as you closly examine the pink buds before you. While her skin is pale and practically paper white, her nipples are a bright, almost crimson red.
+
+While she lacks noticable breasts, her nipple stands erect and shows her developing womenhood. Hiding your excitement, you lear closer and try to see any elevation or mass to her bosoms.
+
+$Name:
+@@#ProtagText;
+"Ah, flat as a board~"
+@@
+
+Shit! You just said that aloud...
+
+You look back up at $Suiko's face, but she doesn't seem bothered by your lewd compliment.
+
+$Suiko:
+@@#SuikoText;
+"You're odd $Name. It's just my chest..."
+@@
+
+Just her chest? could it be that she doesn't know about se-!
+
+-And just like that, you realise you're exploiting her ignorance. Noticing your perverse actions, you recoil back to sitting upright and look away.
+
+$Suiko:
+@@#SuikoText;
+"Is...My chest okay?"
+@@
+
+She pulls her shirt back up then leans over the cement table; waiting for your reply.
+@@#choices;
+<<button [[Apologize|SuikoDay03P2SuikoObserveChest2Fail]]>><</button>>
+<<button [[It is a nice chest!|SuikoDay03P2SuikoObserveChest3-1]]>><</button>>
+@@
+<<else>>
+$Name:
+@@#ProtagText;
+"$Suiko, let me see your nipples!"
+@@
+
+There is a awkward silence as what you just said vibrates through the small shed.
+
+...
+
+$Suiko looks up at you; confused and blank faced. Then, she starts to shake.
+
+$Suiko:
+@@#SuikoText;
+"I...don't wanna..."
+@@
+
+<<set $Depression +=20>>\
+This isn't going as well as you planned. Probably best to get out of this awkward situation as fast as possible.
+
+$Name:
+@@#ProtagText;
+"Oh nevermind. I was just playing anyways."
+@@
+<<set $SuikoLove -=20>>\
+But, you knew you weren't playing; you wanted to gander a perverse look at this small girl. Why are you like this!
+
+...
+
+You decide to let the silence pass by until $Suiko appears to back to normal(or done judging you.)
+--
+@@#choices;
+<<button [[Observe something else.|SuikoDay03P2SuikoObserve2]]>><</button>>
+@@
+<</if>>\
+
+

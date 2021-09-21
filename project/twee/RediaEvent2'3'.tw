@@ -1,0 +1,73 @@
+:: RediaEvent2'3' {"position":"13030,3650","size":"100,100"}
+$Redia and $Name:
+@@#RediaText;
+"GO!"
+@@
+<<set $Fatigue += 10>>\
+Upon hearing the word, you both dash toward second base, third, then back to home plate. The first lap was easy enough but the small red-head is right beside you.
+
+Feeling surprised you are not too winded, you pick up the pace and manage a six inch gap ahead of her.
+
+As you run, you start to envision images of the past. Beside $Redia, you can see a younger you running as well.
+
+...
+
+Coach Dimby:
+@@#NPCText;
+"Damn it $Name! You better not slow down on me now!"
+@@
+
+Upon hearing this, you wipe the sweat off your cheeks and pace faster.
+
+$Name:
+@@#ProtagText;
+"Coach! I am dying!"
+@@
+Running behind you, Coach Dimby firmly kicks you in the tush.
+
+You yelp slightly and attempt to cover more ground just to flee from his onslaught.
+
+$Name:
+@@#ProtagText;
+"Stop! That hurts~!"
+@@
+
+Coach Dimby draws closer as you are trying to escape.
+
+Coach Dimby:
+@@#NPCText;
+"You're the slowest runner on our team! You said you were 'The Great $LastName' well so far, you're the '$LastName of Laggardly'!!"
+@@
+
+"No, you're slow! Prove him wrong!” The voices in your head yell.
+
+Yet, Coach Dimby draws closer and delivers another kick.
+
+Coach Dimby:
+@@#NPCText;
+"If I kick you again I am kicking you off the team, $Name!"
+@@
+
+DAMN IT! You can't let this go on! You tried so hard to get this far, the team is the only family you have!
+
+...
+
+You break the illusion to find yourself still running against $Redia. You don't know what lap your on but you know $Redia is behind you.
+
+In the midst of your panting breath, you can hear a sentence escape her mouth.
+
+$Redia:
+@@#RediaText;
+"Augh, DAMN IT! I can't let this go on!"
+@@
+
+You quickly look back and notice her slowing down.
+--
+@@#choices;
+<<button [[Run faster!|RediaEvent2'5']]
+>><</button>>
+<<button [[Slow down.|RediaEvent2'4']]
+>><</button>>
+@@
+
+

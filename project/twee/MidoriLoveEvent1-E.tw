@@ -1,0 +1,33 @@
+:: MidoriLoveEvent1-E {"position":"8410,4210","size":"100,100"}
+$Name:
+@@#ProtagText;
+"$Suiko loves me a lot! She's a sweet girl"
+@@
+
+$Midori laughs at you again. Despite knowing your right, she still finds humor in your pedo desires.
+
+$Midori:
+@@#MidoriText;
+"That's kinda deserving of you! You seem nice to her."
+@@
+
+You take a moment to think about $Suiko and suspect she might like you. While do don't think about it as more of just caring for a child but she did kiss you.
+
+...
+
+$Midori coughs to get your attention and asks a final question.
+
+$Midori:
+@@#MidoriText;
+"Last question! Why should you date me?"
+@@
+
+The green haired forest fairy floats to the ground and looks sheepishly away from you. $Midori seems interested in what you have to say. Might need to think this out.
+--
+@@#choices;
+<<button [[You're really cute!|MidoriLoveTestFail1]]>><</button>>
+<<button [[You’re a prime loli!|MidoriLoveTestFail2]]>><</button>>
+<<button [[I never had a girlfriend!|MidoriLoveTestPass1]]>><</button>>
+@@
+
+

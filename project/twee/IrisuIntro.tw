@@ -1,0 +1,93 @@
+:: IrisuIntro {"position":"850,3790","size":"100,100"}
+<<set $NOUIBAR to 0>>\
+@@#IrisuText;
+<<set $IrisuRoute is 1>>\
+<<remember $IrisuRoute is 1>>
+<font color="#dbd1a7">
+So here we are again
+
+<<timed 1s>>Cant say I'm surprised anymore.
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 3s>>The game we play will never change.
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 7s>>You choose this path.
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 8s>>Into this abyss.
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 11s>>-and to think I would have allowed you to forget about me.
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 20s>>I wanna say you done this before.
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 22s>>But it's been so many times I tend to forget.
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 27s>>I have learned so much about you from it all...
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 30s>>You think NO one noticed?
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 31s>>The 'powers' you have?!
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 35s>>Well, I have them too!
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 39s>>I just had to tempt you with 'hints'
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 43s>>-And once you pulled this shit again..
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 46s>>I would have my control.
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 50s>>Unlike the others who can 'reset' time.
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 54s>>I can now control it.
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 56s>>What jokes they are! 
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 56s>>Hahaha...
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 60s>>Welcome to my World, $Name.
+<<scrolldown>>\
+<</timed>>\
+
+<<timed 61s>>[SET TO 1]
+<<scrolldown>>\
+<</timed>>\
+
+</font>\
+@@\
+<<timed 65s>><<goto IrisuIntro1>><</timed>>\
+
+

@@ -1,0 +1,63 @@
+:: KarenIntroduction'NonSmoking''1'4 {"position":"17650,3650","size":"100,100"}
+<<set $KarenLove +=40>>\
+<<set $KarenSubmissive to 1>>\
+$Name:
+@@#ProtagText;
+"No, that was great! It was a lot more than I expected!"
+@@
+
+$Karen takes the twenty dollar bill out of her panties and places it inside a small, blue purse she had slung over her shoulder. She then looks away from you and starts to twist her hair.
+
+<<set $Money -=20>>\
+
+$Karen:
+@@#KarenText;
+"Really?! I just...did what my friends told me to do to make money. I was kind of nervous actually."
+@@
+
+Wait? She was just acting like that? What kind of friends does she have?!
+
+$Karen walks up to you then grabs one of your hands.
+
+$Karen:
+@@#KarenText;
+"So, I told you my name....Um, so can I ask what is your name is?"
+@@
+
+No way! This can't be the same girl from earlier. You just assumed she was some kind of delinquent but now she's acting like a normal school girl.
+
+$Name:
+@@#ProtagText;
+"My name is $Name...Look I'm sorry for that request-"
+@@
+
+$Karen tugs on your hand and smiles; she seems happy that she did a good job.
+
+$Karen:
+@@#KarenText;
+"No, you were not as bad as what they said adults are! I must be a good adult to get complimented on my sexiness~"
+@@
+
+She then let’s go of your hand and politely bows.
+
+$Karen:
+@@#KarenText;
+"Umm, I got to go now! Thanks again for the money! I hope to see you again, Papa-$Name~"
+@@
+
+With that, the blue haired $Karen spun around in joy and walked towards the sidewalk.
+
+Although you feel bad for exploiting a kid like that, it seemed to make her happy...and twenty dollars richer.
+
+...
+
+Once the blue haired nymph is out of your sight, you decide it'll be a good time to head home and tell $Arisa the good news.
+
+She must be worried.
+--
+@@#choices;
+<<button [[Head Home.|PreArisaEvent3]]
+>><</button>>
+@@
+
+

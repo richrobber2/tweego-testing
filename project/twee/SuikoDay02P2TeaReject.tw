@@ -1,0 +1,37 @@
+:: SuikoDay02P2TeaReject {"position":"32070,1550","size":"100,100"}
+Feeling this won't end well and to prevent the potential disappointment of not liking her tea; you politely push the cup away from you like a child rejecting food he doesn't like.
+
+Without wasting any time for you to explain, $Suiko sighs and takes the cup away from you.
+
+$Suiko:
+@@#SuikoText;
+"Was something wrong with it? I spent.. All morning making it.."
+@@
+
+There is a slight strain of her upset voice cracking thru; almost if she's about to cry over your rejection.
+
+Being honest, you calmly explain;
+
+$Name:
+@@#ProtagText;
+"I appriciate the hard work and effort, but it just doesn't look good. I know-"
+@@
+
+$Suiko:
+@@#SuikoText;
+"How....About I try it first....Then will you drink some? I...Made it just-... For you..."
+@@
+
+After saying this, she picks up your cup and smells it...Only to wrench and shiver from the smell in her nose.
+
+$Suiko:
+@@#SuikoText;
+"It?!...Very aromic...Well, here I go..."
+@@
+--
+@@#choices;
+<<button [[Say you do not need to drink it.|SuikoDay03P2SuikoDrinkteastop]]>><</button>>
+<<button [[Let her drink it.|BAD END 22: Tainted Tea Was The End Of She.]]>><</button>>
+@@
+
+

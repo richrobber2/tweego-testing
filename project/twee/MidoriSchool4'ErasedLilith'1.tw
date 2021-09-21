@@ -1,0 +1,54 @@
+:: MidoriSchool4'ErasedLilith'1 {"position":"11910,3370","size":"100,100"}
+<<set $MidoriSEvent1 to 1>>\
+While this asshole's language pisses you off, you ignore it.
+
+$Name:
+
+"Sorry Mr.Iratu, I-"
+
+He slams his hands on his oak desk and screams,
+
+Principal Iratu:
+@@#NPCText;
+"That is 'Principal' Iratu to you! Fucking child..."
+@@
+
+Wow, what a jerk! Despite this you continue.
+
+$Name:
+@@#ProtagText;
+"Yes, no disrepect but, I just wanted to tell you my sister-"
+@@
+He appears annoyed and stares angrily at you.
+
+Principal Iratu:
+@@#NPCText;
+"Oh~! Is this about how I mistreat your poor sister?! Oh heavens! 'My poor sister is failing math and it's my fault! Is that what this is about?"
+@@
+
+He makes air quotes with his fingers while saying this.
+
+$Name:
+@@#ProtagText;
+"No! I just wanted to tell you she is going to be absent today. As her legal guardian I wanted to deliver this message so there isn't any hassle later."
+@@
+
+Principal Iratu:
+@@#NPCText;
+"Oh. Well, get the fuck out of my office! You're wasting my time."
+@@
+
+Not wanting to be bitched at, you walk back out.
+
+What a dick!
+
+With your job done, you decide to-
+<<set $TalkedToPrincipal to 1>>\
+--
+@@#choices;
+<<if $SawRedia1 is 0>><<button [[Look around the school yard.|MidoriSchool3'1']]>><</button>><</if>>
+<<button [[Look for LO-Mart.|LoMartPlotIntroduction]]
+>><</button>>
+@@\
+
+

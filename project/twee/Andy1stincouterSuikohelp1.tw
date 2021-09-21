@@ -1,0 +1,42 @@
+:: Andy1stincouterSuikohelp1 {"position":"30530,2390","size":"100,100"}
+Once away from his choking grasp you notice this whole fight is fruitless, you deduce the best course of action is to find out what he knows about $Suiko that you clearly don't know.
+
+$Name:
+@@#ProtagText;
+"What do you know about $Suiko that I don't?!"
+@@
+
+You keep your guard up, but to your surprise; the man humours your question well.
+
+???:
+@@#choices;
+"That you saw how bad off she was and you abandoned her; may I ask why, 'Jimbo'?"
+@@
+
+Before you can come up with a excuse, the man appears before you with his hand on your shoulder.
+
+???:
+@@choices;
+"Long ago, I remember a younger you going out of his way to help a small, abandoned girl, cleaning her up and taking her to 'enjoy' life. At this point though-"
+@@
+
+He then looks deep into your eyes and continues with a stoic expresion and tone.
+
+???:
+@@#choices;
+"You're just that selfish brat from....Wanna say six years ago."
+@@
+
+Why is he saying 'you'? Abandoned girl? Does he mean $Suiko?! That doesn't make sense! This guy sounds like some stalker.
+
+???:
+@@#choices;
+"So $Name, you wanna help $Suiko or not? I mean you did ditch your first day of work; So I could be wrong about this and you just made a mistake."
+@@
+--
+@@#choices;
+<<button [[I wanna help her|AndyHelpSuiko1]]>><</button>>
+<<button [[I can not help her!|BAD END 20: Same as ever.]]>><</button>>
+@@
+
+

@@ -1,0 +1,13 @@
+:: CheckLOMartTime {"position":"15130,3230","size":"100,100"}
+As you walk out of the store, a nagging feeling itches in the back of your mind;
+
+Wasn't there something you should check before you leave?
+--
+@@#choices;
+<<button [[It's not important.|KarenIntroduction'GotoIFSmoking']]
+>><</button>>
+<<button [[Take a moment to remember...|CheckLOMartTime'1']]
+>><</button>>
+@@
+
+

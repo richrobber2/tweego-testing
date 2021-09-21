@@ -1,0 +1,45 @@
+:: LockerEvent1 {"position":"11630,3370","size":"100,100"}
+You teleport back to present time and find yourself petting the sticker.
+<<set $DayCounter to 2>>\
+
+<<if $SuikoEvent1Complete is 1>>\
+
+Wait a second?
+
+Mr.Rabbit!
+
+$Suiko's plush doll you made into a jacket? That Mr.Rabbit!?
+
+...You should ask her if she knows that.
+<<set $LockerEventScene is 1>>
+<</if>>\
+
+<<if $SuikoEvent1Complete is 0>>\
+You feel like you recently seen Mr.Rabbit before but you are sure the last time you saw the unloved 'Loli'Mon®' was when that event happened..
+Odd.
+<</if>>\
+
+...
+
+Remembering the combination, you dial it into the lock and-
+
+'click'
+
+The locker opens up to the amazing circumstance of your dumb luck.
+
+Inside are some old textbooks and your old lucky red, cat shirt!
+
+Your lucky, old red shirt, which is now too small for you and the fact you forgot about it makes you excited you found it, yet upset you left it to rot.
+
+<<set $OldShirt to 1>>\
+
+You are somehow able to stuff the shirt into your pants, taking care not to damage it.
+
+...
+--
+@@#choices;
+<<if $SuikoEvent1Complete is 1>><<button [[Look around the whole locker.|Look around the whole locker]]>><</button>><</if>>
+<<button [[Shut the locker.|Shut the locker]]>><</button>>
+@@
+
+

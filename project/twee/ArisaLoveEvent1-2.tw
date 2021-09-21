@@ -1,0 +1,44 @@
+:: ArisaLoveEvent1-2 {"position":"22830,3510","size":"100,100"}
+You lean down over your sister; geniunly concerned about her depression.
+
+$Name:
+@@#ProtagText;
+"What's wrong $Arisa?"
+@@
+
+Your dear sister embraces your shoulders and begins to whine in agony.
+
+$Arisa:
+@@#ArisaText;
+"What's wrong Imouto?"
+@@
+
+Knowing that she likes being called, 'Imouto' $Arisa sniffs in a sobbing mess and apologizes;
+
+$Arisa:
+@@#ArisaText;
+"I'm sorry $Name! I knew my idea wouldn't work! I made a fake resume for you as a joke-Gah...And I feel asleep on my laptop. When I woke up I discovered I sent it to $Amber. I didn't think about it at first, but-"
+@@
+
+She grips your shirt as your sister stares up into your eyes. Her grasp make it prevalent she's shaking.
+
+$Arisa:
+@@#ArisaText;
+"I wanted to help but I ruined your life!"
+@@
+
+$Arisa hopelessly sniffs and tries to dry her eyes on her wrists.
+--
+@@#choices;
+<<if $ArisaPastIntroLove is 1 and $ArisaLove gte 100>><<button [[Tell her it make her wish come true.|ArisaLoveEvent1-2'loveroute']]
+>><</button>>
+<</if>>\
+<<if $ArisaLove gte 155>>
+<<button [[I'm glad my sister helped his Pedophile brother.|ArisaLoveEvent1-2'Likesroute']]
+>><</button>>
+<</if>>
+<<button [[Tell her it's no problem.|ArisaLoveEvent1-2'NAroute']]
+>><</button>>
+@@
+
+

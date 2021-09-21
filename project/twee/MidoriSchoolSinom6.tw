@@ -1,0 +1,40 @@
+:: MidoriSchoolSinom6 {"position":"12330,3930","size":"100,100"}
+<<set $MidoriSEvent1 to 1>>\
+You look at Mr. Sinom again and __finally__ tell him,
+
+$Name:
+@@#ProtagText;
+"Sinom, My sister is at home today and will not be at schoo-"
+@@
+Why does everyone just cut you off! Kinda annoying!
+
+Sinom:
+@@#NPCText;
+"Don't Worry! She called me from your house already! She is good but I am glad you came here just to tell me!"
+@@
+
+You politely bow and he follows suit.
+
+$Name:
+@@#ProtagText;
+"Thanks for the help and sorry about your daughter's interruption. The whole thing was a freak accident and-"
+@@
+
+Sinom:
+@@#NPCText;
+"Oh she likes you $Name! I couldn't be more proud! Anyways, I got some stuff to review. hope to see you again; Step-Son~."
+@@
+
+He then sits back down and ogles at his phone.
+
+...
+
+You walk out the office with your mission complete and decide:
+--
+@@#choices;
+<<if $SawRedia1 is 0>><<button [[Look around the school yard.|MidoriSchool3'1']]>><</button>><</if>>\
+<<button [[Look for LO-Mart.|LoMartPlotIntroduction]]
+>><</button>>
+@@
+
+

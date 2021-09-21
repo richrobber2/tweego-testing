@@ -1,0 +1,12 @@
+:: ArisaIrisuNameEvent {"position":"3650,430","size":"100,100"}
+$Irisu:
+@@#IrisuText;
+"You should already know I'm her..."
+@@
+--
+@@#choices;
+<<button [[Back|setup1.5'arisaname']] 
+>><</button>>
+@@
+
+

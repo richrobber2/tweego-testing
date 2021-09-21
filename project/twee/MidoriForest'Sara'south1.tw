@@ -1,0 +1,20 @@
+:: MidoriForest'Sara'south1 {"position":"6310,3230","size":"100,100"}
+<<set $greengrassarea to 1>>\
+Curious about the oddly green grass, you walk towards the large area of grassland and notice apparent statue laying down in the center of the field. Curious, you walk over to it and investigate.
+
+...
+
+You come closer and notice the statue is of a young girl with fairy wings. The statue details her as a girl with long hair wearing a dress made of leaves.
+
+The icon also carries a strange, green orb sitting inside her cuffed palms that oddly gives off a greenish hue.
+
+While the statue is interesting and appears mystical, you probably shouldn't mess with it.
+--
+@@#choices;
+<<button [[Stand the statue back up.|MidoriForest'Sara'south1'1']]
+>><</button>>
+<<button [[Head Back.|MidoriForest'Sara'west3]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,27 @@
+:: MidoriLoveChoice1 {"position":"8270,4630","size":"100,100"}
+$Midori:
+@@#MidoriText;
+"Well, I -we both have places to go so I'll be on my way."
+@@
+
+As if pushed aside from this 'interesting' discovery and events, you failed to remember about the girl from earlier. In a slight panic, you ask $Midori.
+
+$Name:
+@@#ProtagText;
+"Shit! Actually can you help me find the girl I was chasing earlier? She ran into your forest and I don't want her to get lost!"
+@@
+
+$Midori closes her eyes and tries to recall your memories.
+
+$Midori:
+@@#MidoriText;
+"Oh, she not far! I-me can teleport you to her. I am the Great $Midori!"
+@@
+
+With that, she snaps her fingers...
+--
+@@#choices;
+<<button [[Next|MidoriTeleport1]]>><</button>>
+@@
+
+

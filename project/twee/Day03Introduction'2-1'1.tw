@@ -1,0 +1,33 @@
+:: Day03Introduction'2-1'1 {"position":"26190,3930","size":"100,100"}
+While it goes against your 'Parental' judgments, you smile toward your caring imouto and decide to let her have a day of rest.
+
+$Name:
+@@#ProtagText;
+"You know what? I'll let you have the day off today."
+@@
+
+$Arisa seems surprised by your decision and reasonably questions your choice out of disbelief.
+
+$Arisa:
+@@#ArisaText;
+"Re-Really?!"
+@@
+
+Her face colors a bright red and her traditional, glowing smile engulfs her now cheerful yet tired face.
+
+You reassure your statement by nicely embracing your sister. Your sister shows her love everyday to you to the point of losing sleep; she deserve to rest.
+
+$Name:
+@@#ProtagText;
+"I really appriciate all the help and care you do for your brother. I want you to rest today."
+@@
+<<set $ArisaSchoolDay03 to 1>>\
+
+Without skipping her usual beat, she quickly pecks your lips with a hasty kiss and hurries back toward her room.
+--
+@@#choices;
+<<button [[Next.|Day03Preintro]]
+>><</button>>
+@@
+
+

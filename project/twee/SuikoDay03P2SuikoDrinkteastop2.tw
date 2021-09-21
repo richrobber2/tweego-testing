@@ -1,0 +1,52 @@
+:: SuikoDay03P2SuikoDrinkteastop2 {"position":"32350,1830","size":"100,100"}
+$Name:
+@@#ProtagText;
+"You know $Suiko, I don't think you should worry so much about the tea. I'm more happy that you invited me here. Next time I come over, I'm sure we can make some tea together! I actually look forword to it! Not everyday I hang out with people."
+@@
+<<set $SuikoLove +=10>>\
+
+The visably upset girl then sighs, resurfacing with a optimistic smile.
+
+$Suiko:
+@@#SuikoText;
+"I...Yeah...Next time, I'll make tea so good, it'll knock your socks off!"
+@@
+
+$Name:
+@@#ProtagText;
+"That's the spirit!"
+@@
+
+While things didn't go as planned, at least no one got sick. There was a good possiblity that the tea coould have been poisonous, at least now you have a excuse to see her again and make her better at making tea.
+
+$Suiko leans over the table and grabs onto your hands. She almost looks like she's about to cry tears of joy.
+
+$Suiko:
+@@#SuikoText;
+"Thanks...I feel..Happy now.."
+@@
+
+Assuring her, you tighten your grip and about to say you're happy she feel that way but instead, she emits a loud yelp as if surprised and jumps backwards.
+
+$Suiko:
+@@#SuikoText;
+"EP!"
+@@
+
+$Name:
+@@#ProtagText;
+"Woah, You alright!?"
+@@
+
+$Suiko's face is bright red and stares at you in shock. Instead of telling you what's wrong, she takes a deep breath and sits back down.
+
+With that, the small room becomes quiet.
+
+...
+--
+@@#choices;
+<<if $SuikoDay03P2Observe is 0>><<button [[Observe her.|SuikoDay03P2SuikoObserve]]>><</button>>
+<</if>>\
+@@
+
+

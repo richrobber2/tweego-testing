@@ -1,0 +1,32 @@
+:: SuikoDay03'1'7 {"position":"29970,850","size":"100,100"}
+<<set $SuikoDay03WhyAreYouHere to 1>>\
+<<set $SuikoDepression +=10>>\
+Although you're aware asking her might not be the best course of action, your parental concern for a child living alone in a shack nags you and you just let your mouth go on autopilot.
+
+$Name:
+@@#ProtagText;
+"$Suiko, I just have to ask; Why are you living here in the first place?"
+@@
+
+The sudden question takes her off guard and she instantly frowns. Looking at her 'house', she sighs.
+
+$Suiko:
+@@#SuikoText;
+"It's all I got...It's really nice...I..."
+@@
+
+She clears her throat and then looks back at you wearing what appears to be a forced smile.
+
+$Suiko:
+@@#SuikoText;
+"What's wrong with...it?"
+@@
+
+-Her voice is straining and she appears upset.
+--
+@@#choices;
+<<button [[No, I'm just concerned.|SuikoDay03'1'8]]>><</button>>
+<<button [[This isn't a house!|SuikoDay03'1'9]]>><</button>>
+@@
+
+

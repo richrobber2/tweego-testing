@@ -1,0 +1,59 @@
+:: MidoriSchoolSinom3 {"position":"12330,3510","size":"100,100"}
+This can't go well.
+
+$Lilith looks at you and smiles,
+
+$Lilith:
+@@#LilithText;
+"Sir $Name! I didn't expect to see thee again so early!"
+@@
+Princle Sinom:
+@@#NPCText;
+"Oh, is he your boyfriend?"
+@@
+
+@@#EffectText;
+Wu-WHAT THE FUCK?!
+@@
+
+Lilith scuffs it off and cackles,
+
+$Lilith:
+@@#LilithText;
+"$Name? Daddy, that gent is worth to beest mine toilet pap'r!"
+@@
+Principal Sinom walks toward his daughter and picks her up.
+
+Principal Sinom:
+@@#NPCText;
+"Oh $Lilith, what didst I sayeth about the Sinom tongue? Also, don't be rude."
+@@
+The happy girl hugs her daddy and laughs.
+
+$Lilith:
+@@#LilithText;
+"But father! That gent is a very much honest sir! I respect that in a husband!"
+@@
+
+He kisses her on the forehead and places her next to you, where $Lilith then wraps a arms around your waist. Principal Sinom smiles and pats your head.
+
+Sinom:
+@@#NPCText;
+"Well, she likes you $Name! I am glad! Normally my little princess is a real bitch to strangers. Feel free to just call me Sinom."
+@@
+
+Then he looks back at $Lilith.
+
+Sinom:
+@@#NPCText;
+"Dearest Daughter, Did you say, 'Husband'?"
+@@
+
+That went over your head, but upon noticing what she said, you also peer at her.
+--
+@@#choices;
+<<button [[Next.|MidoriSchoolSinom4]]
+>><</button>>
+@@
+
+

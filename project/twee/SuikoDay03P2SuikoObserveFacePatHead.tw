@@ -1,0 +1,28 @@
+:: SuikoDay03P2SuikoObserveFacePatHead {"position":"34310,1410","size":"100,100"}
+<<set $SuikoLove +=10>>\
+Captivated by the idea of making $Suiko smile, you reach your hand out and hover it over her head. She hasn't noticed your advancement so best be quick about it.
+
+@@#EffectText;
+POMF~
+@@
+
+
+$Suiko jolts back then looks towards you with confused concern. However, you continue your headpat and move your lanky fingers through her cloud like hair.
+
+Unlike the last time, your hair doesn't feel as flat; there now seems to be a  fair amount of volume that feels both silky and pleasant to mess with.
+
+Just when you're about to really start ruffling her hair, You notice $Suiko's mouselike voice speak out in protest.
+
+$Suiko:
+@@#SuikoText;
+"Please....Stop...Ura ura....Why do you always....Insist on messing up my hair?"
+@@
+
+As you retreat you hand back, $Suiko, now teary eyed. You thought your action would allow you take a glimpse of her smiling face but this reaction wasn't what you antisipated!
+--
+@@#choices;
+<<if $SuikoLove gte 140>><<button [[Tell her why.|SuikoDay03P2SuikoObserveFacePatHead1]]>><</button>><</if>>
+<<button [[Forget about it.|SuikoDay03P2SuikoObserveFacePatHeadFail]]>><</button>>
+@@
+
+

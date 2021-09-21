@@ -1,0 +1,23 @@
+:: MidoriWishEvent'SaveWish' {"position":"8130,3510","size":"100,100"}
+After putting some thought into it. You decide this is an opportunity to control your future. If you save you wish for later, it would be worlds more useful!
+
+$Name:
+@@#Protagtext;
+"I'll keep my wish for later. I really gotta go."
+@@
+
+The fairy floats back down to the dewed grass under her and looks at you with a baffled demeanor.
+
+<<set $ReserveWish to 1>>\
+<<set $Wishes to 1>>\
+
+$Midori:
+@@#MidoriText;
+"I think-deduce you're a smart boy! I might watch you for torment-fun!"
+@@
+--
+@@#choices;
+<<button [[Next.|MidoriTeleport1]]>><</button>>
+@@
+
+

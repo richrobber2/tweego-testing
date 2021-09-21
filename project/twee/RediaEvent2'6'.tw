@@ -1,0 +1,65 @@
+:: RediaEvent2'6' {"position":"13030,3930","size":"100,100"}
+<<set $RediaLove +=40>>\
+Forget about winning a race! $Redia needs your help!
+
+You lean next to the crying girl and inspect her leg.
+
+$Name:
+@@#ProtagText;
+"$Redia, are you alright?"
+@@
+
+She looks at you angrily but eyes flooded with tears.
+
+$Redia:
+@@#RediaText;
+"GO AWAY! I am-GAH!"
+@@
+
+The boys notice their coach crying and start to insult her.
+
+Boy1:
+@@#NPCText;
+"Aw~. Little Hellcat is crying~!"
+@@
+
+Boy4:
+@@#NPCText;
+"What a baby! This is why girls shouldn't play!"
+@@
+
+Boy2:
+@@#NPCText;
+"Hey guys, let's leave before she can bully us some more!"
+@@
+
+Boy3:
+@@#NPCText;
+"I doubt she can chase us now!"
+@@
+
+While laughing at her misery, the group walks off the field and leaves the two of you alone by third base. $Redia looks at her leg and cries while maintaining a tough face.
+
+$Redia:
+@@#RediaText;
+"I...I can-I'm Fine...ugaggh!"
+@@
+$Redia finally breaks down and curls into a ball.
+
+$Redia:
+@@#RediaText;
+"Why..WHY! GAahhh! Damn it, damn it!"
+@@
+She begins to grow quiet and mutters,
+
+$Redia:
+@@#RediaText;
+"Why..Do they hate..me..?"
+@@
+--
+@@#choices;
+<<button [[Ask her what's wrong.|RediaEvent2'7']]
+>><</button>>
+@@
+
+

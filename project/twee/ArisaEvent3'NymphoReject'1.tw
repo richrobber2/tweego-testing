@@ -1,0 +1,23 @@
+:: ArisaEvent3'NymphoReject'1 {"position":"21290,3930","size":"100,100"}
+$Name:
+@@#ProtagText;
+"I do but this is wrong!"
+@@
+
+You look at your sister; dresses like a cheap harlot and smelling like pedo-bait.
+
+$Arisa looks towards the ground and walks toward the door way.
+
+$Arisa:
+@@#ArisaText;
+"Oh well, I'll get washed up for dinner then."
+@@
+
+With that, your sexy sister walks out of your room and politely slams your door.
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

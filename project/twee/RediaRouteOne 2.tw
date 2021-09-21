@@ -1,0 +1,26 @@
+:: RediaRouteOne 2 {"position":"3790,2390","size":"100,100"}
+You let out an annoyed grunt, push your sister out out of the way, reach back into your nightstand and present your 'Game Loli®'(A Classic Handheld Game System Now In Pink'.®) to the awe-striken red head.
+
+$Name:
+@@#ProtagText;
+"Here, If you want you can play this! If it was bad I wouldn't play it."
+@@
+
+Can't say you're not a loser..
+
+$Redia blinks and then reaches for the twenty year old hand held.
+
+She's noticeably nervous and unsure so you switch it on and show her the device is harmless.
+
+@@#EffectText;
+'<font face="Kristen ITC">GAME LOLI</font>'
+@@
+
+When the screen comes on and the famous logo appears, $Redia snatches the device and sits on the floor; mimicking your posture.
+--
+@@#choices;
+<<button [[Next.|RediaRouteOne 3]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,36 @@
+:: Fix Mr.Rabbit4 {"position":"2670,3790","size":"100,100"}
+Before showing her your work, you tell her to turn away from you.
+
+$Suiko:
+@@#SuikoText;
+"Oh...okay."
+@@
+
+She turns around slowly and with her back turned, you open the dryer and feel relieved everything is still in one piece.
+
+You gently grab the hoodie, the bunny ears shooting upwards and then drape the hoodie onto her head.
+
+$Suiko returns to face you and looks up at her hood.
+
+$Suiko:
+@@#SuikoText;
+"This is my hood...where is-?!"
+@@
+
+As if feeling the ears shift on her head, she haste-fully reaches up and her hands make contact with them. She shifts again in a shock and reaches down to feel the bunny tail.
+
+After noticing this she grabs the hood and holds it in her arms; inspecting the hood where she sees the beady eyes of Mr.Rabbit staring back.
+
+$Suiko:
+@@#SuikoText;
+"Mr.Rabbit?"
+@@
+
+Her voice still sounds depressed.
+--
+@@#choices;
+<<button [[Ask her what she thinks.|Fix Mr.Rabbit5]]
+>><</button>>
+@@
+
+

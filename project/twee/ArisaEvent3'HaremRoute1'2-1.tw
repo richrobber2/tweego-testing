@@ -1,0 +1,38 @@
+:: ArisaEvent3'HaremRoute1'2-1 {"position":"20590,3650","size":"100,100"}
+The brother in this play through, rejects her sister.
+
+Brother:
+@@#NPCText;
+"Sorry sister, I can't."
+@@
+
+<<set $ArisaLove -=20>>\
+The sister seems upset and starts to well up in tears while her friends seems shocked by this and slowly back away.
+
+Sister:
+@@#NPCText;
+<<timed 3s>><font color="#ff007f">"I thought....You loved....Me..."</font><</timed>>
+@@
+
+And then runs out of the room.
+
+...
+
+$Arisa:
+@@#ArisaText;
+"I loved that anime! I wish I could be like that!"
+@@
+
+Slightly annoyed by per eavesdropping, you begin to realize what she is implying.
+
+$Name:
+@@#ProtagText;
+"Um, not really. What do you mean by that?"
+@@
+--
+@@#choices;
+<<button [[Next.|ArisaEvent3'HaremRoute1'4]]
+>><</button>>
+@@
+
+

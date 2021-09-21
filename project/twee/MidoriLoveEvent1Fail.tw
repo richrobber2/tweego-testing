@@ -1,0 +1,31 @@
+:: MidoriLoveEvent1Fail {"position":"7850,3930","size":"100,100"}
+Mouth filled with magical loli, you do what you wanted to and embrace the fairy girl into your arms.
+
+$Name:
+@@#ProtagText;
+"So, be my girlfriend? Or do I have to show you what my mind really its!"
+@@
+
+The three foot fairy pounds on your chest in protest.
+
+$Midori:
+@@#MidoriText;
+"Wait! I'm not one of your loli girls-nao~!
+@@
+
+Cradling this drunk fairy in your arms you feel dominate in this situation. She is slowing losing her mind whenever she kisses you. Hell, she knows I like loli now...
+
+You lean down and look into $Midori's eyes, who is shaking in a odd mix of confusion and fear.
+
+$Midori:
+@@#MidoriText;
+"Stop~ ha ah! I'll break!~"
+@@
+<<set $Corruption to 20>>\
+--
+@@#choices;
+<<button [[Put her down.|MidoriLoveEventFail1]]>><</button>>
+<<button [[Brainwash her with your mind.|MidoriNymphoRoute]]>><</button>>
+@@
+
+

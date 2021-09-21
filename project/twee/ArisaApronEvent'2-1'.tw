@@ -1,0 +1,29 @@
+:: ArisaApronEvent'2-1' {"position":"25070,3790","size":"100,100"}
+This could get out of hand.
+
+Your little sister is running around in a thin, sexualized apron starts to urk you and you hastily stand up; knocking the serving tray and food to the ground.
+
+$Arisa fall to the ground and looks up at you admist in confusion. Staring down at your obscenely dressed sister, you point towards your open door and demand;
+
+$Name:
+@@#ProtagText;
+"Go get dressed, you look like a slut!"
+@@
+
+Shocked at the mess you just made, your sister stands back up and besides to pick up the mess. She remains silent the whole time as she tidies up and collects the plate-ware.
+
+While she slowly cleans your mess, you start to hear sniffling and see pleats of water stains start to spot her white apron. After collecting the mess, $Arisa hides her face and audible choking seeps through her obscuring hair.
+
+...Maybe, you were too harsh.
+<<set $Depression +=25>>\
+<<set $ArisaDepression +=25>>\
+<<set $ArisaLove -=50>>\
+
+Your 'parental' posture fades as you feel your insulting remark impact your caring sister. Before you can muster something to say to remedy the situation, $Arisa quietly slumps out your room; leaving a thick air of remorse.
+--
+@@#choices;
+<<button [[Next.|Day03Preintro]]
+>><</button>>
+@@
+
+

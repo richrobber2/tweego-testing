@@ -1,0 +1,15 @@
+:: LoneRandyDay03Intro {"position":"28850,3650","size":"100,100"}
+When you walk out your front door, you peer across your yard and see a familar face. Just only meeting him yesterday, you see $Randy; the boy you saw outside Midori Forest, casually walking down the sidewalk. 
+
+He's now dressed in a black sailor style school uniform and wearing short, dress tousers. As he walks down the sidewalk, you determine he's heading to Midori Elementary School.
+
+You could talk to him while heading to work but it could be seen as creepy for a twenty four year old to shat with a underage boy heading to school.
+
+You decide to:
+--
+@@#choices;
+<<button [[Wait for him to pass then head to work.|LoneRandyDay03fail]]>><</button>>
+<<button [[Strike a conversation with him.|LoneRandyDay03'1']]>><</button>>
+@@
+
+

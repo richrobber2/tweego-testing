@@ -1,0 +1,50 @@
+:: RandyIntroduction3 {"position":"5470,2670","size":"100,100"}
+Interested, you let go of the Boy and say,
+
+$Name:
+@@#ProtagText;
+"How so? Can't be much different than me!"
+@@
+
+The boy's face flushes red and shyly states,
+
+Boy:
+@@#RandyText;
+"My sister is in love with me."
+@@
+
+OH WOW! So he's in a similar predicament!
+
+Then, he adds.
+
+Boy:
+@@#RandyText;
+"-It's not that I don't like her...But I'm umm...Can I tell you a secret?"
+@@
+
+$Name:
+@@#ProtagText;
+"Um, Sure! Tell me if it makes you feel better."
+@@
+
+The boy leans over to your ear and quietly admits,
+
+Boy:
+@@#RandyText;
+"I only like boys."
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+He is only about nine years old and he has already decided that he's homosexual?
+--
+@@#choices;
+<<button [[That's not a problem!|RandyIntroduction4]]
+>><</button>>
+<<button [[What does that have to do with your sister?|RandyIntroduction3'1']]
+>><</button>>
+@@
+
+

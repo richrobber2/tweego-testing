@@ -1,0 +1,116 @@
+:: Customsetup {"position":"570,990","size":"100,100"}
+@@#choices;
+What is your name?:
+@@
+@@#ProtagText;
+<<textbox "$Name" "Adam">>
+@@
+@@#choices;
+What is your middle name?:
+@@
+@@#ProtagText;
+<<textbox "$MidName" "Wayne">>
+@@
+@@#choices;
+And your last name:
+@@
+@@#ProtagText;
+<<textbox "$LastName" "Rustly">>
+@@
+@@#choices;
+Your little sister's name:
+@@
+@@#ProtagText;
+<<textbox "$Arisa" "Irisu">>
+@@
+@@#choices;
+What is Redia's Name?:
+@@
+@@#ProtagText;
+<<textbox "$Redia" "Redia">>
+@@
+@@#choices;
+What is Suiko's Name?:
+@@
+@@#ProtagText;
+<<textbox "$Suiko" "Suiko">>
+@@
+@@#choices;
+What is Lilith's Name?:
+@@
+@@#ProtagText;
+<<textbox "$Lilith" "Lilith">>
+@@
+@@#choices;
+What is Amber's Name?:
+@@
+@@#ProtagText;
+<<textbox "$Amber" "Amber">>
+@@
+@@#choices;
+What is Karen's Name?:
+@@
+@@#ProtagText;
+<<textbox "$Karen" "Karen">>
+@@
+@@#choices;
+What is Mikan's Name?:
+@@
+@@#ProtagText;
+<<textbox "$Mikan" "Mikan">>
+@@
+@@#choices;
+What is Irisu's Name?:
+@@
+@@#ProtagText;
+<<textbox "$Irisu" "Arisa">>
+@@
+@@#choices;
+What is Randy's Name?:
+@@
+@@#ProtagText;
+<<textbox "$Randy" "Randy">>
+@@
+@@#choices;
+What is Sara's Name?:
+@@
+@@#ProtagText;
+<<textbox "$Sara" "Sara">>
+@@
+@@#choices;
+What is Nanako's Name?:
+@@
+@@#ProtagText;
+<<textbox "$Nanako" "Nanako">>
+@@
+@@#choices;
+What is Soluzi's Name?:
+@@
+@@#ProtagText;
+<<textbox "$Soluzi" "Soluzi">>
+@@
+@@#choices;
+What is Vivian's Name?:
+@@
+@@#ProtagText;
+<<textbox "$Vivian" "Vivian">>
+@@
+@@#choices;
+What is Clause's Name?:
+@@
+@@#ProtagText;
+<<textbox "$Clause" "Clause">>
+@@
+@@#choices;
+Please put in your age:(Only Numbers)
+@@
+@@#ProtagText;
+<<textbox "$age" "18">>
+@@
+--
+@@#choices;
+<<button [[Enter data.|setup1.5]]>><</button>>
+@@
+<<set $NOUI to 0>>\
+
+

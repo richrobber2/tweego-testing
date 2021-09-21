@@ -1,0 +1,25 @@
+:: RediaIntroLoneTrue3 {"position":"1130,4770","size":"100,100"}
+$Redia crosses her arms and looks up to you.
+
+$Redia:
+@@#RediaText;
+"You know, I was told not to talk to strangers but..I do need a friend... I'll think about it."
+@@
+
+The redhead runs back up to retrive her gear and before running past you, smiles at you.
+
+$Redia:
+@@#RediaText;
+"I hope to see you again..."
+@@
+
+-And with that, the red head jumps off the beachers and scrambles into the crowd. While you don't think a sporty girl would be a good pairing for $Arisa, she didnt seem to turn down the oppurtunity to make a friend.
+
+Feeling you overstating your presense here, you wade thru the crowd of children and exit the building.
+--
+@@#choices;
+<<button [[Head home.|DayOneIntro]]
+>><</button>>
+@@
+
+

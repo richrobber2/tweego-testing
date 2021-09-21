@@ -1,0 +1,20 @@
+:: MidoriWish'ArisaLove' {"position":"7990,3230","size":"100,100"}
+​$Midori stares at you in disbelief.
+
+$Midori:
+@@#MidoriText;
+"Your own sister, really?"
+@@
+
+The magical fairy sighs and the snaps her fingers; the sound emitting a non-lethal shockwave the as spread appeared to freeze time briefly. As the echo faded away the wind began to blow and everything seemed 'normal' again.
+
+$Midori:
+@@#MidoriText;
+"This is a first! Normally people wish for perverted things but incest?! Have fun buddy!"
+@@
+--
+@@#choices;
+<<button [[Next.|MidoriTeleport1]]>><</button>>
+@@
+
+

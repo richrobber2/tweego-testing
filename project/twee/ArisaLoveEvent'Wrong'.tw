@@ -1,0 +1,36 @@
+:: ArisaLoveEvent'Wrong' {"position":"23950,3930","size":"100,100"}
+$Name:
+@@#ProtagText;
+"To be honest, it's kinda odd."
+@@
+
+$Arisa seems almost shocked until you realize you just said it was odd because she cared about you.
+
+She lets go of you and talks back; her voice cracking,
+
+$Arisa:
+@@#ArisaText;
+"Oh, I'm sorry that it's odd because....-I-...Oh!"
+@@
+
+You think you could have specified that wasn't the whole reason, but the moment you replied to her, you could tell it would have been a waste to correct.
+
+You decide the best thing to do is to see your way to her door and leave her alone;
+
+$Name:
+@@#ProtagText;
+"I'll just leave now.."
+@@
+
+$Arisa remains teary eyed and silent as you exit her domain and retreats towards your room.
+
+...
+
+Once you get to your room, you lay down on your bed and look at your television; thankfully it's already idling on a movie selection screen.
+--
+@@#choices;
+<<button [[Check out the television.|ArisaEvent3'Intro']]
+>><</button>>
+@@
+
+

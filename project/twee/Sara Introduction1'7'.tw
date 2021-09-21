@@ -1,0 +1,31 @@
+:: Sara Introduction1'7' {"position":"9950,3930","size":"100,100"}
+After a bit of thinking, you decide on a good idea to get them bond. You dig into your wallet and pull out a twenty dollar bill.
+<<set $Money -=20>>\
+<<set $RandyBrotherEvent to 1>>\
+<<set $RandyLove +=20>>\
+<<set $SaraLove +=20>>\
+
+Noticing the kids walking away from you, you run up towards $Randy and tap his shoulder. He turns around; looking slightly annoyed.
+
+$Randy:
+@@#RandyText;
+"What is it?"
+@@
+
+$Name:
+@@#ProtagText;
+"Here, take this and spend some time with your sister. At least use this as a excuse to spend some time with her."
+@@
+Noticing the twenty dollar bill in your hand, $Randy snatches the bill and they both walk off; not even thanking you.
+
+...
+
+You wait for them to leave and decide to follow the same route until you somehow reappear outside the entrance of Midori Forest.
+
+Although you don't understand how you're five or so feet away from the path you first entered, you decide not to bother with it and decide to stop wasting time.
+--
+@@#choices;
+<<button [[Walk to Midori Elementary.|MidoriSchool1]]>><</button>>
+@@
+
+

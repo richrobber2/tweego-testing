@@ -1,0 +1,9 @@
+:: LoMartIntroductionThree'NONSMOKER' {"position":"2250,2250","size":"100,100"}
+Feeling calm and refreshed, you take one last breath and head back inside. Upon opening the front door, you are greeted by a horrible moan originating from your bedroom.
+--
+@@#choices;
+<<button [[Check up on the three girls.|LoMartIntroductionThree 1]]>><</button>>
+<<button [[Head back outside and deal with it later.|SuikoRoute1]]>><</button>>
+@@
+
+

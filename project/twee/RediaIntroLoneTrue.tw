@@ -1,0 +1,37 @@
+:: RediaIntroLoneTrue {"position":"1270,4350","size":"100,100"}
+<<set $RediaIntroLoneCaughtBall to 1>>\
+Surprising even yourself, you throw your left arm out and close your grip just in time to stop whatever the redhead threw at you.
+
+The moment it makes contact with your bare hand, you feel a hot friction of a spinning sphere still rotating in your hand until you fight the stinging and clinch your hand.
+
+Once you have a firm handle on whatever it is, you turn your hand palmside to reveal a baseball. While you question why she threw it, you're more humbled by how hard she tossed it as it nearly caught you off guard!
+
+Looking back up, your meet eyes lock on the red haired child.
+
+Red haired girl:
+@@#RediaText;
+"You caught it?!"
+@@
+
+Her tomboyish voice is one of surprise; as if she didn't expect you to react to it as quickly as you did. Despite being unharmed, you're kinda irratated this girl threw a baseball at you with the knowledge you wouldn't catch it.
+
+$Name:
+@@#ProtagText;
+"What gives!? Were you trying to hit me or something?"
+@@
+
+The girl runs up to you (ignoring your question) and welcomes you with a smile.
+
+Red haired ball thrower:
+@@#RediaText;
+"Are you a baseball player? No one has caught my fastball with their bare hands before. By the way, My name is $Redia. What's yours stranger?"
+@@
+
+Taken off guard from her accusation and polite intro, you present the baseball to her and-
+--
+@@#choices;
+<<button [[Introduce yourself.|RediaIntroLoneTrue1]]>><</button>>
+<<button [[Scold her!|RediaIntroLoneScold]]>><</button>>
+@@
+
+

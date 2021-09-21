@@ -1,0 +1,38 @@
+:: ArisaEvent3'HaremRoute1'5'-1 {"position":"20730,3930","size":"100,100"}
+You laugh at what she says, but you can't deny a harem of lolis would be amazing!
+
+$Name:
+@@#ProtagText;
+"Yeah, that would be nice! Having over seven or more lolis violate me~!"
+@@
+
+$Arisa laughs as well; more likely to mock your perverted agenda.
+
+$Arisa:
+@@#ArisaText;
+"Onii-Chan, your 'Lolicon Side' is showing~ Ah ha! What a los-er.."
+@@
+
+You sister looks suddenly disenchanted and depressed; messing with her pink, overall straps nervously.
+
+$Arisa:
+@@#ArisaText;
+"I have a 'Onii-Complex~'"
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+Is she just making stuff up to mock you? Your sister starts to chuckle nervously and slide off your bed.
+--
+@@#choices;
+<<button [[Well, it must run in the family!|ArisaEvent3'HaremRoute1'5-2]]
+>><</button>>
+<<button [[Ignore her.|ArisaEvent3'HaremRoute1'5-4]]
+>><</button>>
+<<button [[Enough games!|ArisaEvent3'HaremRoute1'5-3]]
+>><</button>>
+@@
+
+

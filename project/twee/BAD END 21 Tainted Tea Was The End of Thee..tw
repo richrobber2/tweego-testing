@@ -1,0 +1,92 @@
+:: BAD END 21: Tainted Tea Was The End of Thee. {"position":"3090,290","size":"100,100"}
+/* TODO add code for achievment here */
+Knowing that there is no positive conclusion if you don't drink the tea, you mentally prepare yourself and force down your gag reflex to down the whole cup of tea.
+
+The liquid slides down your throat while your mind yells at you that you just drunk what you personally describe as 'bitter death', you're able to keep it down.
+
+While you expected $Suiko to be happy you downed your whole drink, she instead gives you a worried look.
+
+$Suiko:
+@@#SuikoText;
+"Why...did you drink it all at once?"
+@@
+
+With a foreign feeling of unease filling your stomach, you decide to go all the way and grab the coffee can of tea off the table and ask the concerned $Suiko.
+
+$Name:
+@@#ProtagText;
+"Yep, It's really good! Mind if I drink the rest?"
+@@
+
+
+$Suiko seems oddly quiet form the request but gives a confused but reassuring nod. With this, you mentally prepare your composure and begin to drink from the aluminum can of liquid plant rot.
+
+@@#EffectText;
+GULP GULP GU-?!
+@@
+
+You feel the nerves in your hand start to shake wildly; causing you to drop the tin on the floor; now empty. 
+
+Heavy body tremors start flooding over you and your legs suddenly buckle.
+
+$Suiko:
+@@#SuikoText;
+"$Name! You okay?!"
+@@
+
+Holding yourself up by leaning on the cement table, you notice your vision is getting hazy. You look over at $Suiko and feel a sharp pain growing in your chest.
+
+You are experiencing a bad reaction to the tea. 
+
+Trying to keep your composure and not scare $Suiko, You use the little control you have to wobble towards the front door.
+
+$Suiko:
+@@#SuikoText;
+"Where...You going?"
+@@
+
+While you're trying not to scare her, your condition is getting only getting worse. Yellowish mucous starts to leak from your nose and moving your legs is becoming a challenge. As you reach for the doorknob, you attempt to tell $Suiko not to follow you.
+
+$Name:
+@@#ProtagText;
+"Sta-tata...In...The house. If....I'm not back..."
+@@
+
+You stop yourself as the reality of the situation becomes clear. With your whole body tremoring and your head feeling like it's about to split open, the only goal you have is not to let this girl see you die. Turning your head, you take one last look at $Suiko who appears as a blur of colors and fragmented tiles. You're hopeless as your vision blurs into a mess of colors and you vomit on the floor; taking all your strength from you. You hear $Suiko run to your side as you fall onto your knees.
+
+$Suiko:
+@@#SuikoText;
+"What can I do?! I'm...Scared!"
+@@
+
+Damn it! You can't get out of here.
+
+$Name:
+@@#ProtagText;
+"Get...Away.....Don't look! Lo-Ugh!"
+@@
+
+You throat tightened up and you notice you cant breathe properly anymore. You force yourself to vomit but trying to heave only seems to make the situation worse. Unable to see, you fruitlessly turn around and reach for any exit; only to fall forward into someone's embrace.
+
+$Suiko:
+@@#SuikoText;
+"Don't worry, I'm..here.."
+@@
+
+Shaking wildly, your last-ditch effort to escape has failed; yet, your oddly charmed $Suiko is trying to comfort you.
+
+You try to say anything that will get her away from you but it's too late. You know $Suiko didn't mean to poison you but you should have trusted your instincts. You should have told her that it didn't look right. 
+
+It's too late now. 
+
+As you feel your body start to shut down, the only thing that takes the pain your experiencing away is this poor girl comforting you. With you little control you have, you hold $Suiko tight until you wither out of consciousness.
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 22: Tainted Tea Was The End Of Thee.">><<script>>Engine.restart();<</script>>/
+<</button>>
+@@
+
+

@@ -1,0 +1,60 @@
+:: PlotIntroduction1 {"position":"5050,2250","size":"100,100"}
+<<set $Day2 to 1>>\
+<<set $DayCounter to 2>>\
+<<script>>Save.slots.save(2)<</script>>\
+@@#EffectText;
+~Ring, ring, ring! Ring, ring, ring! PHONE CALL! PHONE CALL!~
+@@
+
+You're awoken by an unknown caller blasting your ring-tone at around 5am in the morning.
+
+Only half awake and sluggish, you grab your nearby phone and answer,
+
+$Name:
+@@#ProtagText;
+"$LastName residence! How can I help you?"
+@@
+
+Mom:
+@@#NPCText;
+"You know who I am you ungrateful child!"
+@@
+
+From the tone of the annoying screech, you undoubtedly know it to be your "mom". Not expecting her to contact you, you are unaware of how the conversation may go.
+
+$Name:
+@@#ProtagText;
+"What do you want! It's 5am and $Arisa has school soon!"
+@@
+Expecting her reply, you hold the phone's speaker under your thumb.
+
+Mom:
+@@#NPCText;
+"You failure! You are a lazy drop out! Sister's better then you-"
+@@
+
+Once her complaints subside you lean the phone on your shoulder and continue,
+
+$Name:
+@@#ProtagText;
+"Okay, I know I am but why did you call me? I don't want another lecture of how I'm a failure."
+@@
+
+Mom:
+@@#NPCText;
+"Oh right, listen to me well brat. This is important!"
+@@
+
+Your Mom pauses, as if waiting for your confirmation.
+
+$Name:
+@@#ProtagText;
+"Okay, *sigh* I'm listening."
+@@
+--
+@@#choices;
+<<button [[Listen to what she tell you.|PlotIntroduction2]]
+>><</button>>
+@@
+
+

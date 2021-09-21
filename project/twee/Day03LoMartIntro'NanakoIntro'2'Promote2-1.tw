@@ -1,0 +1,62 @@
+:: Day03LoMartIntro'NanakoIntro'2'Promote2-1 {"position":"30110,4490","size":"100,100"}
+In a panic, you look over to $Nanako and sigh when appears unharmed.
+
+$Name:
+@@#ProtagText;
+"Are you alright?"
+@@
+
+Still confused and possibly shaken from the event that transpired, she shakes her head then backs away from you.
+
+
+The crowd has now grown quiet out of fear of the 'child' pointing a revolver at you. Speaking of which, you should probably address your boss before she 'fires' you.
+
+Slowly turning to $Amber with your hands up, you face the barrel of her gun.
+
+$Amber:
+@@#AmberText;
+"Well, that's good that it wasn't you ruining my store promo but-"
+@@
+
+$Amber then walks up to the fatass and shiftly kicks him in the groin.
+
+$Amber:
+@@#AmberText;
+"I told you a while ago to fuck off! I won't have a creepy fuck working at my store!"
+@@
+
+Then, as if she's inhuman $Amber grabs the man by the collar of his blood spattered shirt and effortlessly tosses the tower of lard off the stage. When his mass hits the concrete the cowardly and desprate scrambles to his feet and runs away.
+
+$Nanako, trying to salvage the situation then steps towards the front and speaks into the microphone; quite timidly and obviously shaken. 
+
+$Nanako:
+@@#NanakoText;
+"And...That was $Name! Sorry..I...I.."
+@@
+
+The crowd seems confused and rather unexpectingly, she drops the microphone and runs off the stage towards LO-Mart.
+
+There is a collective gasp as they watch the frightened idol flee off stage.
+
+$Amber:
+@@#AmberText;
+"Ugh, damn it! I'll take care of this!"
+@@
+
+$Amber then looks at you, rather annoyed and demands,
+
+$Amber:
+@@#AmberText;
+"Just go do your job! We'll talk later!"
+@@
+
+Confused, you watch as your boss runs after $Nanako; leaving you alone on stage. You walk over to the discarded microphone and look towards the crowd; which stare towards you in shock.
+--
+@@#choices;
+<<button [[Address the crowd.|Day03LoMartIntro'NanakoIntro'2'Promote4-1]]
+>><</button>>
+<<button [[Go do your job and head inside.|Day03LoMartIntro'NanakoIntro'2'Promote4]]
+>><</button>>
+@@
+
+

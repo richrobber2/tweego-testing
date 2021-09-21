@@ -1,0 +1,9 @@
+:: PreArisaEvent3'LilithAlt' {"position":"18630,3230","size":"100,100"}
+Before you open your front door, you notice a girl dressed in military attire and you mean the whole works! Canopy netting, bullet proof vest and even a (thankfully plastic) m16 assault rifle.  You stop and stare at awe of this spectacle and are even more astonished  that she hasn't spotted you yet.
+<<set $ALTLilith to 1>>\
+--
+@@#choices;
+[[Walk up and scare the child.|PreArisaEvent3'LilithAlt'1]]
+@@
+
+

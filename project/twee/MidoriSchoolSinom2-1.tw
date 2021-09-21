@@ -1,0 +1,36 @@
+:: MidoriSchoolSinom2-1 {"position":"12470,3370","size":"100,100"}
+<<set $MidoriSEvent1 to 1>>\
+$Name:
+@@#ProtagText;
+"Sinom, My sister is at home today and will not be at schoo-"
+@@
+Why does everyone just cut you off! Kinda annoying!
+
+Sinom:
+@@#NPCText;
+"Don't Worry! She called me from your house already! She is good but I am glad you came here just to tell me!"
+@@
+
+You politely bow and he follows suit.
+
+$Name:
+@@#ProtagText;
+"Thanks you! I'll be making my leave now!"
+@@
+
+Sinom:
+@@#NPCText;
+"Not a problem. Hope to see from you again!"
+@@
+
+...
+
+You walk out the office with your mission complete and decide:
+--
+@@#choices;
+<<if $SawRedia1 is 0>><<button [[Look around the school yard.|MidoriSchool3'1']]>><</button>><</if>>\
+<<button [[Look for LO-Mart.|LoMartPlotIntroduction]]
+>><</button>>
+@@
+
+

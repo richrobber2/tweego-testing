@@ -1,0 +1,53 @@
+:: Sara Introduction1'1' {"position":"9810,3230","size":"100,100"}
+<<set $SaraLove -=40>>\
+<<set $SaraStats to 1>>\
+You both stare at each other for a moment, then then light-footed girl smacks you again.
+
+$Name:
+@@#ProtagText;
+"Ouch! What’s your problem kid?"
+@@
+The kid laughs as you nurse the welt marks on your face.
+
+Girl:
+@@#SaraText;
+"I saw you chasing me, you ‘a stranger!"
+@@
+
+@@#EffectText;
+SMACK!
+@@
+
+The stick breaks in twine over your head; you almost lose grip as you attempt to nurse the pain.
+
+$Name:
+@@#ProtagText;
+"What are you doing; running into this woods by yourself!"
+@@
+
+The girl is somehow able to sit Indian style on the thin branch and rolls her eyes,
+
+Girl:
+@@#SaraText;
+"$Sara knows theses wood! $Sara loves the wood! This is my peace tree!"
+@@
+
+So, it's safe to assume this girl is named Sara. After the pain subsides you climb onto the branch and (using the trunk as support), you sit down on the end of the branch.
+
+$Name:
+@@#ProtagText;
+"Good to see you're okay…um $Sara, why did you say, “I’m scared" earlier?"
+@@
+
+$Sara jumps to her feet in one motion and starts to laugh at you.
+
+$Sara:
+@@#SaraText;
+"I got you good, Didn't I mister?"
+@@
+--
+@@#choices;
+<<button [[Laugh it off.|Sara Introduction1'2']]>><</button>>
+@@
+
+

@@ -1,0 +1,35 @@
+:: ArisaEvent3'NoVideos' {"position":"21850,3370","size":"100,100"}
+You decide not to watch any of the anime loli porn, instead, you switch over to cable and watch some classic "Loliconman!”
+
+Teacher by day, Loliconman is about a superhero who is also a pedophile. While it seems like a boring plot, the story really unfolds when find out how stupid the story really it; yet engaging.
+
+As you're enjoying your classic anime, $Arisa bursts into your room and laughs at you.
+
+$Arisa:
+@@#ArisaText;
+"Howdy Onii-Chan! Wha'cha watching?!"
+@@
+
+Her voice vibrates around the room as it's soon replaced with;
+
+Loliconman:
+@@#NPCText;
+"I come for your panties!"
+@@
+
+Your sister chuckles as your sister caught you enjoying cheesy 90s anime!
+Giving you a sly glare, she smiles and asks.
+
+$Arisa:
+@@#ArisaText;
+"You wanna see my panties?"
+@@
+--
+@@#choices;
+<<button [[No. It's loliconman.|ArisaEvents3'NoVideos'1]]
+>><</button>>
+<<button [[Sure!|ArisaEvent3'NoVideos'1-2]]
+>><</button>>
+@@
+
+

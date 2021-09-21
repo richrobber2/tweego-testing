@@ -1,0 +1,33 @@
+:: ArisaLoveEvent1-2'NAroute' {"position":"23670,3650","size":"100,100"}
+$Name:
+@@#ProtagText;
+"But you did help me, Silly sister."
+@@
+
+Your sister lets go of you and while still tearing up, smiles in confused excitement.
+
+$Name:
+@@#ProtagText;
+"You got me a job and helped are family out a lot! what makes you think otherwise?"
+@@
+
+
+$Arisa gives a bummed out expression but feels happy about your comment.
+
+$Arisa:
+@@#ArisaText;
+"Thanks but....Is that why you think I help you?"
+@@
+
+Although She isn't crying anymore, she seems like she wanted another response. You think your next move out:
+--
+@@#choices;
+<<button [[Is it because you love me?|ArisaLoveEvent'Arisadooute']]
+>><</button>>
+<<button [[Well, I think its because I'm your brother?|ArisaLoveEvent'True']]
+>><</button>>
+<<button [[Because we'd be homeless if you didn't!|ArisaLoveEvent'Hate']]
+>><</button>>
+@@
+
+

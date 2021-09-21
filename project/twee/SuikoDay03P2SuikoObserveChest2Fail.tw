@@ -1,0 +1,40 @@
+:: SuikoDay03P2SuikoObserveChest2Fail {"position":"34310,1830","size":"100,100"}
+While you wanna tell her the truth; that you like her childish budding bosom very much, you start to feel awful for what you're doing.
+
+While $Suiko seems unaware of your perverse request, you begin to be filled with an afterglow of guilt and a mix of petty shame.
+
+Head filled with remorse, you snap out of it upon $Suiko leaning over the cement table; waiting for your critic of her bosom.
+
+Her brown eyes of innocent confusion and concern eats away at your morality.
+
+$Suiko:
+@@#SuikoText;
+"$Name, am I....normal?"
+@@
+
+As if your half assed, damage controling morals speak for you, you burt out,
+
+$Name:
+@@#ProtagText;
+"You are normal...I'm not. I'm sorry for exploiting your kindness..."
+@@
+
+Instead of a apology, the naive girl smiles and sits back down.
+
+$Suiko:
+@@#SuikoText;
+"...I don't think you're bad..."
+@@
+
+She then appears to pout and then whispers to herself,
+
+$Suiko:
+@@#SuikoText;
+"You're weird..."
+@@
+@@#choices;
+<<button [[Observe something else.|SuikoDay03P2SuikoObserve2]]>><</button>>
+@@
+<<set $SuikoHate +=10>>\
+
+

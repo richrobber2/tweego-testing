@@ -1,0 +1,48 @@
+:: MidoriSchool3'1' {"position":"10930,3230","size":"100,100"}
+<<set $SawRedia1 to 1>>\
+You decide to look around the school yard.
+
+After a while, you find the old baseball field by its aluminum bleachers glaring in your vision. While the glare is annoying and nearly blinds you, the nostalgic shine of light can only surfaces times where you used to skip class and hide from teachers.
+
+You start to head to the baseball field and are pleasantly surprised to observe the 'Midori Clovers' practicing for a game.
+
+Boy1:
+@@#NPCText;
+"Hellcat! We're tired!"
+@@
+
+Boy2:
+@@#NPCText;
+"Yeah, you bitch! Let us rest already!"
+@@
+As you enter the diamond, you witness a small group of boys heaving their tired bodies while circled around a red figure wielding a wooden bat.
+
+..Upon getting closer, you notice the person as $Redia.
+
+$Redia:
+@@#RediaText;
+"Listen you worms! I told you if anyone falls back we would run the diamond another eight times!"
+@@
+
+Boy5:
+@@#NPCText;
+"No one can run that many times and not be tired! Hellcat, cut us some slack!"
+@@
+
+You observe the diamond's length and laugh; you used to run this field a lot more times when your old coach used to scold you.
+
+You whisper under your breath,
+
+$Name:
+@@#ProtagText;
+"What losers! My coach used to make me run this diamond almost every hour when I was a member of the Midori Clovers!"
+@@
+--
+@@#choices;
+<<button [[Talk to the group.|RediaEvent2]]
+>><</button>>
+<<button [[Watch them suffer!|MidoriSchool3'2']]
+>><</button>>
+@@
+
+

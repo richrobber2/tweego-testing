@@ -1,0 +1,41 @@
+:: ArisaBootMessage2 [t8n-typewriter-100] {"position":"990,10","size":"100,100"}
+<span class="blink"><font color="red">
+ANOMOLY DETECTED!
+</font></span>
+
+* MESSAGE RELAY 02
+- - - NO 5713287602201991-02 - - -
+>TRANSLATING BINARY TO ORTHOGRAPHY
+.    .    .
+
+----DETECTING UNICODE AS AMERICAN ENGLISH----
+<timed 2s>LOADING MESSAGE 02/10</timed>
+............................_
+
+>hello again.
+>i hope my messages are in order, or else this wont make sense.
+>then again, im just speaking into a void.
+
+...
+
+>I think i understand how this work.
+>please, tell me your name...
+
+>one sec.
+
+...
+
+>tell me your name, I need to know who you are.
+
+<timed 27s>@@#ProtagText;
+<<textbox "$TrueName" "">>
+@@\
+
+@@#choices;
+<<button [[Next.|ArisaBootMessage2.1]]>><</button>>
+@@\
+</timed>
+
+- - -MESSAGE REQUESTING PROMPT - - -
+
+

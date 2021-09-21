@@ -1,0 +1,35 @@
+:: KarenIntroduction'smoked'1 {"position":"16250,3370","size":"100,100"}
+<<set $KarenLove +=20>>\
+<<set $KarenStats to 1>>\
+<<set $Karenpantiesevent to 0>>\
+Well, what's done is done. You already gave this delinquent girl a cigarette; it would be rude to stop her now.
+
+Instead, you decide to be nice and pretend it isn't bothering you and politely introduce yourself.
+
+$Name:
+@@#ProtagText;
+"Well nice to meet you $Karen! Name's $Name."
+@@
+
+You flick some of the ash off your cigarette and look away from her.
+
+$Name:
+@@#ProtagText;
+"Got to admit you don't see a kid smoking every day."
+@@
+
+$Karen starts to scoot closer to you and playfully punches your shoulder. You quickly turn toward her and you're faced with this odd haired preteen glaring at you.
+
+$Karen:
+@@#KarenText;
+"I'm not a kid! I might be young but I'm way more mature then some kid!"
+@@
+
+After this, $Karen draws her cigarette back into her mouth and jerks her arms by her sides.
+--
+@@#choices;
+<<button [[But, you are a kid!|KarenIntroduction'smoked'2]]
+>><</button>>
+@@
+
+

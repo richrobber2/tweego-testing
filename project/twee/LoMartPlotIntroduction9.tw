@@ -1,0 +1,25 @@
+:: LoMartPlotIntroduction9 {"position":"14290,4490","size":"100,100"}
+<<set $AmberLove +=40>>\
+<<set $AmberStats to 1>>\
+Although you're not fully sure, you burst out,
+
+$Name:
+@@#ProtagText;
+"Yes, I Do! You're my friend; $Amber! I'm surprised you did so well!"
+@@
+She blushes and looks away from you.
+
+$Amber:
+@@#AmberText;
+"Oh $Name, thank you for remembering me! I'm glad you remember me!"
+@@
+So she is $Amber! While her height makes her look like a kid, she has done so much that would seem impossible for someone her age and stature.
+
+You can only assume this was the fruit of all those business classes she took.
+--
+@@#choices;
+<<button [[Congratulate her for doing so well!|LoMartPlotIntroduction10]]
+>><</button>>
+@@
+
+

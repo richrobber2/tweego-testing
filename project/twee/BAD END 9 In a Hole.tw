@@ -1,0 +1,34 @@
+:: BAD END 9: In a Hole {"position":"1410,290","size":"100,100"}
+/* TODO add code for achievment here */
+Noticing nothing is happening, you turn around and decide to crawl back into the forest to look for the girl.
+
+As you get on your knees and crawl into the exit hole, you notice you're not moving.
+
+@@#EffectText;
+"Tug, tug!"
+
+@@
+
+You're stuck! You kick your feet up and thrust yourself into the exit way but you only feel the trees and vines compress your waist.
+
+You spend the next hour trying to expunge yourself from the opening, but all you seemed to do is succeed in entrapping yourself between the ground and the tree above you.
+
+$Name:
+@@#ProtagText;
+"Fuck-!"
+@@
+
+As you struggle to the verge of passing out, you can hear faint, yet hysterical laughter behind the wall between you.
+
+So this is how you die? Stuck in a hole in the woods while hallucinating laughter for the next seven days!
+--
+<font size="3.5"><font color="#f23d00"><b>[Should of 'stuck' around longer!]</b></font>
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 9: In a Hole.">><<script>>Engine.restart();<</script>><</button>>
+@@
+
+

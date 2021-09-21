@@ -1,0 +1,43 @@
+:: Hand her the pieces and say you are sorry. {"position":"2950,2250","size":"100,100"}
+<<set $SuikoLove to 0>>\
+<<set $Depression += 25>>\
+<<set $Corruption += 20>>\
+<<set $SuikoEvent1 to 0>>\
+<<set $SuikoEvent1Complete to 0>>\
+<<set $timedifference1 to 1>>\
+<<if $SuikoLove lte 0 >><<set $SuikoErased to 1>><</if>>\
+$Suiko stands back up and looks at the remains you cradle in your hands. Dripping with mud, she stares at you.
+
+$Name:
+@@#ProtagText;
+"I am Sorry! I just wanted-"
+@@
+
+She gives you a dirty look and pushes you back; the parts of her rabbit fall to the ground.
+
+$Suiko:
+@@#SuikoText;
+"YOU ASS!-why?!"
+@@
+
+She quickly picks up a few pieces of her pal and runs off crying down the road.
+
+You feel awful about what you did but it was going to happen anyhow! The plush was reduced to shreds.
+
+...
+
+Standing alone by the sidewalk, you decide to walk inside and check up on the others.
+
+You walk back inside and head towards your bedroom, the sensual cries of underpaid voice actors echoing in your ears.
+
+You know it can only mean one thing; $Arisa was not keeping the shows PG. You make it to your door to find it ajar from $Suiko<<if $SuikoErased is 1>>(?)<</if>> running out abruptly. You can hear $Arisa talking.
+
+--
+@@#choices;
+<<button [[Walk in enraged.|Walk in enraged]]
+>><</button>>
+<<button [[Sneak in and observe.|LoMartIntroductionThree 2]]
+>><</button>>
+@@
+
+

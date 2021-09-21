@@ -1,0 +1,37 @@
+:: BAD END 5: Lying To Yourself {"position":"850,290","size":"100,100"}
+/* TODO add code for achievment here */
+Why do you even humor her by saying you are! You stand up from the chair and yell,
+
+$Name:
+@@#ProtagText;
+"The fuck is wrong with you!"
+@@
+$Amber looks around nervously and tries to reassure you,
+
+$Amber:
+@@#AmberText;
+"It's okay! I'm a pedophile! I love little boys and how cute they are! Oh, I just want to tease a little boy and make him suffer in sexual bliss~"
+@@
+
+She is crazy! She admits she's a pedophile and wants to exploit little boys!
+
+$Name:
+@@#ProtagText;
+"Enough of this!"
+@@
+You pull out your cellphone and call the police. While $Amber begs you not to turn her in, she reminds you that 'you' stated on your resume you 'loved children sexually'. When the cops arrive, both you and $Amber get arrested over the suspension of being pedophiles.
+
+...
+
+A week passes and $Amber gets released due to lack of evidence. Meanwhile, the cops use the resume as proof to arrest you and you spend countless years in jail.
+
+<font size="3.5"><font color="#f23d00"><b>[YOU ADMITTED YOU'RE AN PEDOPHILE BEFORE, BUT YOU JUST HAD TO LET YOUR PRIDE RUIN YOUR LIFE.]</b></font>
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+--
+@@#choices;
+<<button "BAD END 5: Lying To Yourself.">><<script>>Engine.restart();<</script>><</button>>
+@@
+
+

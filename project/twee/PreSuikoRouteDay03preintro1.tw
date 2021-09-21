@@ -1,0 +1,20 @@
+:: PreSuikoRouteDay03preintro1 {"position":"28850,1970","size":"100,100"}
+<<set $Fatigue +=10>>\
+<<if $SuikoDay03Resets gte 1>>You must have doozed off while walking here; Almost as if you didn't feel like you were walking earier.
+<</if>>
+Well, since you wasted your time coming here, you decide to approach the front door and prepare to knock until something outside the door catches your attention...
+
+You notice a rust watering pale becide the door filled with water. While there is a series of plants around the shack, the dirt seemed dehydrated and bone dry. The plants appear to be wilted, blue and pink flowers that dont seem native to the area at all. While they are 'alive', they seem to struggling in the dead soil.
+
+Bending down, you reach out and touch one of the blue flowers; only for it to quick break off the plant and quickly be covered beneath a plume of dust.
+
+???:
+@@#SuikoText;
+"Um..someone..Hello?"
+@@
+--
+@@#choices;
+<<button [[Next.|SuikoDay03'1]]>><</button>>
+@@
+
+

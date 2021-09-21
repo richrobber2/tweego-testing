@@ -1,0 +1,35 @@
+:: Day03LoMartIntro'NanakoIntro'2'Serious {"position":"29550,4070","size":"100,100"}
+Being that $Nanako is a famous idol and it's your first day at work you decide to take the situation seriously and state over the intercom.
+
+Being as honest you say,
+
+$Name:
+@@#ProtagText;
+"Well, what to say... To be honest, I took this job just to support my sister. Don't get me wrong, I think this job would be a good fit for me but I plan to work hard to help support her and to make her happy. I never actually worked before but if any of my customers are like my sister I'd go above and beyond to make everyone happy; kinda my thing."
+@@
+
+As you hand the microphone back to $Nanako you see a glimpse smile on her face as the crowd infront of you starts to cheer.
+
+$Nanako:
+@@#NanakoText;
+"Well how noble of this 'Onii-chan'! Not only does he care about his little sister he promises to make all his customers happy!"
+@@
+
+<<set $NanakoLove to 100>>\
+<<set $NanakoSerious to 1>>\
+
+$Nanako:
+@@#NanakoText;
+"For that, you deserve a kiss~"
+@@
+
+Wut?!
+
+Before you can back away, the orange haired idol you're a fan of quickly kisses your cheek and faces the crowd of her fans.
+--
+@@#choices;
+<<button [[Walk off.|Day03LoMartIntro'NanakoIntro'2'Serious1]]
+>><</button>>
+@@
+
+

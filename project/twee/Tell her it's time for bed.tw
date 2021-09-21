@@ -1,0 +1,35 @@
+:: Tell her it's time for bed {"position":"150,5750","size":"100,100"}
+You stand up and try your best to give a convincing yawn.
+
+$Name:
+@@#ProtagText;
+"Okay $Arisa, time for bed."
+@@
+
+$Arisa's smile quickly changes to a bitter frown and she stands up and walks out of the room; visibility upset.
+
+You hear her whisper under her breath as she exits your doorway,
+
+$Arisa:
+@@#ArisaText;
+"...Goodnight...Onii-Chan...ugh.."
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+You hope that doesn't become a habit.
+
+<<set $ArisaLove -=10>>\
+
+Now alone in your room, you can relax without the annoying brat pestering you.
+
+...
+--
+@@#choices;
+<<button [[Afterwards...|LoMartIntroductionTwo]]
+>><</button>>
+@@
+
+

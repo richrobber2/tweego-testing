@@ -1,0 +1,24 @@
+:: MidoriSchoolSinom4'2' {"position":"12610,3650","size":"100,100"}
+<<set $MidoriEvent1 to 1>>\
+Before you forget, you politely ask,
+
+$Name:
+@@#ProtagText;
+"Mr. Sinom, I just wanted to tell you My sister will be absent today. Again, sorry about everything."
+@@
+
+He doesn't say anything and you let yourself out.
+
+...
+
+Well, that was weird.
+
+With your mission finally complete, you:
+--
+@@#choices;
+<<if $SawRedia1 is 0>><<button [[Look around the school yard.|MidoriSchool3'1']]>><</button>><</if>>
+<<button [[Look for LO-Mart.|LoMartPlotIntroduction]]
+>><</button>>
+@@
+
+

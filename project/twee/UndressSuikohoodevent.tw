@@ -1,0 +1,38 @@
+:: UndressSuikohoodevent {"position":"2670,2810","size":"100,100"}
+Under the now soiled hoodie, $Suiko is wearing patchwork rags made from spoiled fabric and trash bags. The image of the shivering girl before you sends a chill down your heart.
+
+You decide not to judge or say anything about it; she's already upset from her rabbit plush being killed, that would make things worse.
+
+$Suiko reaches for her hoodie you now have folded in your arms.
+
+$Suiko:
+@@#SuikoText;
+"My hood...I want my...um..please care..."
+@@
+
+$Name:
+@@#ProtagText;
+"I will be gentle with it. You just get cleaned up, I will save Mr.Rabbit the best I can!"
+@@
+
+You talk with the bravado of a superhero in hopes it cheers her up.
+
+$Suiko gives you a melancholy smile and nods.
+
+$Suiko:
+@@#SuikoText;
+"Save him....my-fri-end.."
+@@
+
+You smile back and leave her in the bathroom. behind the closed door you are shaken at who $Suiko really is... who is that girl?
+
+An extreme attachment to inanimate objects are normal for children but the rags she was wearing... why is she dressed like that?  The more you think about it the more depressed you feel.
+
+It's probably best if you go save her plush.
+--
+@@#choices;
+<<button [[Find supplies for Mr.Rabbit.|Find supplies for Mr.Rabbit]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,30 @@
+:: Andy1stincounter2 {"position":"30250,1690","size":"100,100"}
+Who is this guy and how is he so fast?!
+
+He sees your disgusts in him and as if mocking you; smiles.
+
+???:
+@@#choices;
+"Oh, you gonna punch me, Buddy?"
+@@
+
+Before you can tighten a fist, this unknown man grasps your neck and slams you to the dirt. A cloud of dust explodes as his damning blue eyes study you.
+
+$Name:
+@@#ProtagText;
+"How did you-?"
+@@
+
+???:
+@@#choices;
+"-Know? I see every `choice' possible."
+@@
+
+Tighting his grip around your throat, you decide to:
+--
+@@#choices;
+<<button [[Watch him|Andy1stincounterStudy]]>><</button>>
+<<button [[Punch Him|Andy1stincounterPunch1]]>><</button>>
+@@
+
+

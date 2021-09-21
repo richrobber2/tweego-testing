@@ -1,0 +1,21 @@
+:: MainPlotOne {"position":"5190,2250","size":"100,100"}
+You are greeted by an unexpectedly sunny and bright morning.
+
+@@#EffectText;
+__IT FILLS YOU WITH DETERMINATION!__
+@@
+
+It feels like nothing bad will happen today!
+
+...
+
+After taking in a mind clearing breath, you decide to:
+--
+@@#choices;
+<<button [[Head to Midori Elementary School.|MidoriSchool1]]
+>><</button>>
+<<button [[Check out the park.|ParkIntroduction1]]
+>><</button>>
+@@
+
+

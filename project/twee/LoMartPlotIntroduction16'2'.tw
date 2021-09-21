@@ -1,0 +1,23 @@
+:: LoMartPlotIntroduction16'2' {"position":"14570,5470","size":"100,100"}
+Noticing it probably wasn't the best idea to ask about pay, you decide to drop the subject.
+
+$Name:
+@@#ProtagText;
+"Never mind, this is just my first job. I'll be happy with anything at this point."
+@@
+
+$Amber raises her bushy eyebrows and clicks her tongue.
+
+$Amber:
+@@#AmberText;
+"It's okay...Since you said you'd be happy with anything, I'll pay you eight hundred dollars a week. I pay under the table to avoid taxes...It was my mom's idea."
+@@
+
+Joy, so your boss will be paying you under the table to avoid taxes. In all honesty if she pays you on time you'd be able to pay the house bill and supply some food and stuff for you and $Arisa. This might work!
+--
+@@#choices;
+<<button [[Accept the terms of the job!|LoMartPlotIntroduction16]]
+>><</button>>
+@@
+
+

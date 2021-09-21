@@ -1,0 +1,55 @@
+:: Fix Mr.Rabbit6 {"position":"2670,4070","size":"100,100"}
+$Suiko(Mr.Rabbit):
+@@#SuikoText;
+"Ura ura~ I am fine! Mr.$LastName was able to make me better!"
+@@
+Oh. It knows your last name. Odd.
+
+$Suiko looks confused and as if noticing something, replies to 'herself',
+
+$Suiko:
+@@#SuikoText;
+"I know! Now..you..are-part of me!"
+@@
+
+This is suppose to be heartwarming but you're kinda creeped out. You guess if she's happy, then that's all that matters.
+
+$Suiko(Mr.Rabbit):
+@@#SuikoText;
+"Well, I am going to rest. This jerk put springs in my ears~"
+@@
+
+You are now aware Mr.Rabbit is kind of a jerk. Unexpectedly, $Suiko defends you from...herself.
+
+$Suiko:
+@@#SuikoText;
+"Don't insult him! He is kind enough to help you be this way and I think it is adorable!"
+@@
+
+$Suiko(Mr.Rabbit):
+@@#SuikoText;
+"Whatever~"
+@@
+
+After the brief 'reunion', $Suiko calms down and stares up at you again.
+
+$Suiko:
+@@#SuikoText;
+"Um...Mr.$LastName...I-...Thank you...ura ura~"
+@@
+
+The cute display melts your heart and you reach to pat her head. Noticing the gesture, she walks toward you and gives you a tight squeeze; Mr.Rabbit's ears bouncing in your face.
+
+You become flustered again and start to panic.
+
+$Name:
+@@#ProtagText;
+"Please...call me $Name."
+@@
+--
+@@#choices;
+<<button [[Next.|Fix Mr.Rabbit7]]
+>><</button>>
+@@
+
+

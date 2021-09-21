@@ -1,0 +1,12 @@
+:: ArisaMikanNameEvent {"position":"3090,430","size":"100,100"}
+$Mikan:
+@@#MikanText;
+"I'm wot wer!!"
+@@
+--
+@@#choices;
+<<button [[Back|setup1.5'arisaname']]  
+>><</button>>
+@@
+
+

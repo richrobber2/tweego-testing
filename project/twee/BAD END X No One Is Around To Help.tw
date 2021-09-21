@@ -1,0 +1,10 @@
+:: BAD END X: No One Is Around To Help {"position":"150,290","size":"100,100"}
+/* TODO add code for achievment here */
+[LoliDOS 0.3v PA Terminal] 0.3
+01101001 01110010 01101001 01110011 01110101
+_ _ _
+<<timed 3s>>The Children are gone.<</timed>>
+<<timed 5s>>Leave.<</timed>>
+<<timed 10s>><<goto 'ScreenLock'>><</timed>>
+
+

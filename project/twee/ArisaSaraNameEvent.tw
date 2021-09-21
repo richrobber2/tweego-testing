@@ -1,0 +1,12 @@
+:: ArisaSaraNameEvent {"position":"2250,430","size":"100,100"}
+$Sara:
+@@#SaraText;
+"Haha, $Sara has a $Sara. Isn't that your sister?"
+@@
+--
+@@#choices;
+<<button [[Back|setup1.5'arisaname']]  
+>><</button>>
+@@
+
+

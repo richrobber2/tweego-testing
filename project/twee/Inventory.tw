@@ -1,0 +1,113 @@
+:: Inventory {"position":"570,148","size":"100,100"}
+@@#choices;
+$MoneyInfo
+<div class="items">
+You Have<font color="yellow"> $Money.00</font> Dollars.
+--
+<<if $playerinventory.has('spindle of thread')>>\
+  <<button "spindle of thread">>
+    <<popup 'passage to be added' "spindle of thread">>\
+  <</button>>\
+<</if>>\
+<<if $playerinventory.has('Scissors')>>\
+  <<button "Scissors">>\
+    <<popup 'passage to be added' "Scissors">>\
+  <</button>>\
+<</if>>\
+<<if $playerinventory.has('Needle')>>\
+  <<button "Needle">>\
+    <<popup 'passage to be added' "Needle">>\
+  <</button>>\
+<</if>>\
+<<if $playerinventory.has('Springs')>>\
+  <<button "Springs">>\
+    <<popup 'passage to be added' "Springs">>\
+  <</button>>\
+<</if>>\
+<<if $playerinventory.has('Lucky Zippo')>>\
+  <<button "Lucky Zippo">>\
+    <<popup 'ZippoInfo' "Lucky Zippo">>\
+  <</button>>\
+<</if>>\
+<<if $playerinventory.has('Cell Phone')>>\
+  <<button "Cell Phone info">>\
+    <<popup 'CellphoneInfo' "Cell Phone info">>\
+  <</button>>\
+<</if>>\
+<<if $playerinventory.has('Lo-Mart NameTag')>>\
+  <<button "Lo-Mart NameTag info">>\
+    <<popup 'NameTagInfo' "Lo-Mart NameTag info">>\
+  <</button>>\
+<</if>>\
+<<if $playerinventory.has('Cigarettes')>>\
+  <<button "Cigarettes info">>\
+    <<popup 'passage to be added' "Cigarettes info">>\
+  <</button>>\
+<</if>>\
+<<if $playerinventory.has('HoneyMoon Apron')>>\
+  <<button "HoneyMoon Apron info">>\
+    <<popup 'ApronInfo' "HoneyMoon Apron info">>\
+  <</button>>\
+<</if>>\
+<<if $playerinventory.has('Blue HairPin')>>\
+  <<button "Blue HairPin info">>\
+    <<popup 'HairPinInfo' "Blue HairPin info">>
+  <</button>>\
+<</if>>\
+<<if $playerinventory.has('Lucky Shirt')>>\
+  <<button "Lucky Shirt info">>\
+    <<popup 'LuckyShirtInfo' "Lucky Shirt info">>\
+  <</button>>\
+<</if>>\
+<<if $playerinventory.has('Strange Orb')>>\
+  <<button "Strange Orb">>\
+    <<popup 'MidoriOrbInfo' "Strange Orb info">>\
+  <</button>>\
+<</if>>\
+<<if $playerinventory.has('Redias Panties')>>\
+  <<button "$Redia's Panties info">>\
+    <<popup 'RediaPantiesInfo' "Redia's Panties info">>\
+  <</button>>\
+<</if>>\
+<<if $playerinventory.has('Liliths Bloomers')>>\
+  <<button "$Lilith's Bloomers">>\
+    <<popup 'LilithPantiesInfo' "Lilith's Bloomers info">>\\
+  <</button>>\
+<</if>>\
+<<if $playerinventory.has('Rabbit chain')>>\
+  <<button "Rabbit chain">>\
+    <<popup 'Rabbitchain' "plush key chain of Mr.Rabbit info">>\\
+  <</button>>\
+<</if>>\
+@@\
+<div class="items">\
+</div>\
+<<if $Money eq 0>>\
+<<set $MoneyInfo to 'You have absolutly no money at all! This is serious $Name, You have to get __700.00__'>>\
+<<elseif $Money gt 0 and $Money lt 100>>\
+<<set  to 'You are doing poorly with your money.'>>\
+<<elseif $Money gt 100 and $Money lt 200>>\
+<<set $MoneyInfo to 'You need to start saving money!'>>\
+<<elseif $Money gt 200 and $Money lt 350>>\
+<<set $MoneyInfo to 'You are doing decently with your income. Be sparring with your money.'>>\
+<<elseif $Money gt 150 and $Money lt 200>>\
+<<set $MoneyInfo to 'Not Bad, $Name. You still need to get more.'>>\
+<<elseif $Money gt 200 and $Money lt 300>>\
+<font color="purple"><<set $MoneyInfo  to 'Okay, this is about your average amount of money. You still need more.'>>\
+<<elseif $Money gt 300 and $Money lt 400>>\
+<<set $MoneyInfo to 'Decent.'>>\
+<<elseif $Money gt 400 and $Money lt 500>>\
+<font color="red"><<set $MoneyInfo  to 'Doing well. just a few more hundred.'>>\
+<<elseif $Money gt 500 and $Money lt 600>>\
+<<set $MoneyInfo to 'You are almost their! Keep it up!'>>
+<<elseif $Money gt 600 and $Money lt 700>>\
+<<set $MoneyInfo to 'Keep it up, rich boy.'>>\
+<<elseif $Money gt 700 and $Money lt 800>>\
+<<set $MoneyInfo to 'Great! Just keep above seven hundred! You did it!'>>\
+<<elseif $Money gt 900 and $Money lt 1000>>\
+<<set $MoneyInfo to 'You are doing very well! dont be afraid to spend some income.'>>\
+<<elseif $Money gt 1000 and $Money lt 1200>>\
+<<set $MoneyInfo to 'Amazing! Money is plentiful!'>>
+<<elseif $Money gte 1500>>\
+<<set $MoneyInfo to 'Isnt a issue.'>>\
+<</if>>

@@ -1,0 +1,17 @@
+:: Day03Intro {"position":"24930,3510","size":"100,100"}
+<<set $Fatigue /=2>>\
+<<set $Libido /=2>>\
+<<script>>Save.slots.save(3)<</script>>\
+<<set $Day3 to 1>>\
+<<set $DayCounter to 3>>\
+<<if $CheckedLOMartTime is 0>>>
+    <<goto "BAD END 14: Outta Time">>
+<<elseif $HoneyMoonApron is 1>>
+    <<goto "ArisaApronEvent">>
+<<elseif $CheckedLOMartTime is 1>>
+    <<goto "Day03Introduction">>
+<<else>>
+    <<goto "BAD END 14: Outta Time">>
+<</if>>
+
+

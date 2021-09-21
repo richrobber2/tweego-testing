@@ -1,0 +1,66 @@
+:: BAD END 22: Tainted Tea Was The End Of She. {"position":"3230,290","size":"100,100"}
+/* TODO add code for achievment here */
+Taking a deep breath, $Suiko tilts the plastic cup of stagnant looking tea into her mouth and forces it down. 
+
+Her facial expression changes from one of false determination to one of instant regret as the obviously horrid taste coats her tongue and you hear her nearly gag.
+
+$Suiko:
+@@#Suikotext;
+"Gulp...Gulp...."
+@@
+
+Once the small cup is fully polished off, she slams the playset style cup on the cement table and sticks her tainted tongue out in disgust. Oddly enough, you're amazed by her dedication to drink such an awful beverage and you congratulate her efforts.
+
+$Name:
+@@#ProtagText;
+"You didn't have to drink the whole thing! Even I notice you struggling to wash it down!"
+@@
+
+Instead of a reply or rebuttal, $Suiko stiffens up as a grimace look washes over her face; turning it a shade of sickly red.
+
+$Name:
+@@#ProtagText;
+"Um...Are you alright $Suiko?"
+@@
+
+Of course she isn't....But the situation quickly and shockingly escalates as instead of getting sick, she starts to grasp her throat and slams headfirst into the center of the table in a fit of spasms and convulsions. 
+
+Panicking at this sudden turn for the worst you jump over the table and grasp onto $Suiko, who's trembling wildly and trying to stand up to no avail. As her breath quickens you pull her up only to find her now spitting up yellowish, red fluid and her nose discharging reddish mucus.
+
+You're unsure what to do at this point and only hold her close to control her violent shaking....to no avail. Unsure of whatever was in that drink, you're powerless to stop whatever is happening.
+
+Still trembling and getting worse by the minute, you look into $Suiko's eyes that display a state of fear while tears of the inevitable death to come.  
+
+You hold her close and the situation only degrades as small words slip from her convulsing body.
+
+$Suiko:
+@@#SuikoText;
+"I'mmmmm....Sorr.....Help!....I....I lo-....He-!?"
+@@
+
+As blood begins to pour from her orifices, the shaking starts to subside and after twenty minutes in this hell, She grasps your polo shirt, then falls backward and collapses onto the hard, cement floor; hand stiffened and still outreached.
+
+Seeing This poor girl now bleeding on the floor and unresponsive, the traumatic event of what just happened causes you to stare at the horror before you; $Suiko isn't breathing.
+
+You call her name out in useless desperation,
+
+$Name:
+@@#ProtagText;
+"$Suiko? $Suiko?!"
+@@
+
+-Yet, it is too late...the now glossy stare in her eyes and lack of moment states the obvious. In one last-ditch effort, you gently touch her now stiff neck and to your horror find no pulse.
+
+...
+
+There was nothing you could do to stop this and for the rest of your life you live with a guilt that if you just drunk the tea, she would be still alive.
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 22: Tainted Tea Was The End Of She.">><<script>>Engine.restart();<</script>>/
+<</button>>
+@@
+
+

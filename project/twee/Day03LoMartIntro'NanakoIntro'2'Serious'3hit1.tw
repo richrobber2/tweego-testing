@@ -1,0 +1,41 @@
+:: Day03LoMartIntro'NanakoIntro'2'Serious'3hit1 {"position":"29410,4490","size":"100,100"}
+He's a fatass, surely he can't-
+
+SMACK!
+
+His collosal fist collides into your left cheek and with the rolls of fat on his arm causes the assault to see stars while almost knocking you down! In a daze, you try to posture yourself and bring your arms up to defend your neck and face. 
+
+Fatass:
+@@#NPCText;
+"What a fucking poser, dearest $Nanako doesnt deserve you as a 'brother'!"
+@@
+
+What the fuck is he even bitching about?! You knew idol fans can be obcessive but helly hell, this is getting out of control. You look for any security but the only thing you see is the crowd chanting for blood; enjoying the show.
+
+He looks at the crowd then gives you a smug look of superiority.
+
+Fatass:
+@@#NPCText;
+"I'll just crush you so i can spend some 'personal' time with $Nanako, she'd love me after beating your sorry ass!"
+@@
+
+He then lunges at you with his 'dinner roll' arms extended. As the man races at you you quickly announce to the frightened idol behind you,
+
+$Name:
+@@#ProtagText;
+"Get out of here!"
+@@
+
+The Fatass is about to tackle you and you dont have enough time to evade him. You may need to defend youself or he'll surely crush you.
+
+Bracing youself, you-
+<<set $FightEventHit1 to 1>>\
+--
+@@#choices;
+<<button [[Punch him in the face.|Day03LoMartIntro'NanakoIntro'2'Serious'5]]
+>><</button>>
+<<button [[Stand your ground.|BAD END 15: Human Pancake]]
+>><</button>>
+@@
+
+

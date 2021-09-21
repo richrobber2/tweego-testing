@@ -1,0 +1,77 @@
+:: RediaBestFriendEvent1'6' {"position":"13590,3930","size":"100,100"}
+You smile and begin to pat $Redia's wet hair.
+
+$Name:
+@@#ProtagText;
+"You're a silly little Hellcat! I already assume we're friends!"
+@@
+
+$Redia grabs your hand and forces you to rub her head harder.
+
+$Redia:
+@@#RediaText;
+"I'm silly...I should of known."
+@@
+
+You continue,
+
+$Name:
+@@#ProtagText;
+"You're a good kid $Redia, if I was younger I would have been your friend as well! Hell, I like tom-"
+@@
+
+You stop talking but she already heard enough to know what you meant.
+
+$Name:
+@@#ProtagText;
+"-I'll be happy to be your friend!"
+@@
+
+...
+
+$Redia:
+@@#RediaText;
+"Oh yeah! I almost forgot!"
+@@
+
+Randomly, $Redia ran out of the showers and headed toward her cloths. Interested and slightly confused, you walk towards her.
+
+You stand behind her while she starts fishing through her sweat pants then pulls out your 'Game Loli©' and looks over at you with a childish grin.
+
+$Redia:
+@@#RediaText;
+"I have over six badges now! I only need six more then I can battle you and prove I am better than you!"
+@@
+
+Her talking about 'Loli'Mon' brings a nostalgic memory of playing with your old friends. It is almost refreshing to hear someone get so excited about it nowadays.
+
+$Redia switched the game 'ON' but the screen blacks out. $Redia franticly toggles the switch then emits a 'boo'; admitting defeat.
+
+$Name:
+@@#ProtagText;
+"The batteries died. I put fresh batteries in it yesterday!"
+@@
+
+$Redia:
+@@#RediaText;
+"No! Now I can't show you my new 'Loli'Mon'!"
+@@
+
+While she seemed bummed about this, $Redia places her sweatpants back on and stuffs the handheld into her pocket.
+
+After a quick stretch, she reaches toward the floor to find her red sweat jacket dripping wet in a puddle of water.
+
+$Redia:
+@@#RediaText;
+"Oh No! My jacket got wet!"
+@@
+
+She picks up the soiled jacket and watches as water drips out of it.
+--
+@@#choices;
+<<button [[Say Nothing.|RediaBestFriendEvent1'7']]
+>><</button>>
+<<if $OldShirt is 1>><<button [[See if she can wear your old shirt.|RediaBestFriendEvent1'6'1]]>><</button>><</if>>
+@@
+
+

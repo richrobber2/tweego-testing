@@ -1,0 +1,27 @@
+:: ArisaLoveEvent3'cancel' {"position":"22410,3790","size":"100,100"}
+$Name:
+@@#ProtagText;
+"I...got to get out of here."
+@@
+
+the words almost forced itself out as you slowly back away from your sister. $Arisa pouts as she sees her love back off from the trap.
+
+<<set $ArisaLove +=30>>\
+$Arisa:
+@@#ArisaText;
+"Fine, run away $Name: the couragly dog!"
+@@
+
+She looks away from you as you slowly back out of her room and shut your bedroom door behind you.
+
+...
+
+
+As you enter your room, you jump into your bed to find your television idling on a menu select screen.
+--
+@@#choices;
+<<button [[Check out the television.|ArisaEvent3'Intro']]
+>><</button>>
+@@
+
+

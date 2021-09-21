@@ -1,0 +1,36 @@
+:: KarenIntroduction'NonSmoking' {"position":"17370,3230","size":"100,100"}
+Exhausted from the series of events today, you walk up to the metal bench and plop yourself down.
+<<set $Fatigue -= 10>>\
+
+What an eventful day. You now have your first job and you can finally support $Arisa by your own means.
+
+You take a deep breath of clean air and rummage through your pocket until you grab your name tag.
+
+Looking down at this cheap piece of plastic, you feel like this is going to be the start of something great!
+
+You hold the fruit of today's effort in your hand. A smile runs up your face and a feeling of relieve washes over you.
+
+Life is good.
+
+...
+
+???:
+@@#KarenText;
+"What'cha got there?!"
+@@
+
+Hearing a voice extremely close to your ear, you jump out of your skin and stumble forward.
+
+???:
+@@#KarenText;
+"Ha! I spooked you~"
+@@
+
+Once your recover your footing, you look behind you to find a blue haired girl in a school uniform coyly laughing at you.
+--
+@@#choices;
+<<button [[Walk away from her.|KarenIntroduction'NonSmoking''1']]
+>><</button>>
+@@
+
+

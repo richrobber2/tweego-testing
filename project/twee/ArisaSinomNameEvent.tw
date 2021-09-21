@@ -1,0 +1,12 @@
+:: ArisaSinomNameEvent {"position":"3230,430","size":"100,100"}
+Principal Sinom:
+@@#NPCText;
+"That doesn't make sense..."
+@@
+--
+@@#choices;
+<<button [[Back|setup]] 
+>><</button>>
+@@
+
+

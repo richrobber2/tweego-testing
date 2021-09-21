@@ -1,0 +1,39 @@
+:: MidoriSchoolSinom4'1' {"position":"12470,3650","size":"100,100"}
+<<set $LilithLove -=40>>\
+Instead, You decide to remain silent. Any wrong moves and he could snap your spine in twine.
+
+$Lilith stares at you in a annoyed fashion.
+
+$Lilith:
+@@#LilithText;
+"Well... I wanted to asketh if 't be true I could wend home? Please Daddy!?"
+@@
+Sinom drops you and you collapse on the floor; gasping for breath.
+
+Sinom:
+@@#NPCText;
+"Sure, My Princess!"
+@@
+
+$Lilith bows to her father then runs back into the hallway towards the exit.
+
+Once his daughter is out of the way, He smacks you on the head.
+
+@@#EffectText;
+SMACK!
+@@
+
+Sinom:
+@@#NPCText;
+"You better say sorry to her! If you did see her naked you must at least try to marry her!"
+@@
+
+This is a fucked up family.
+
+Not in a position to say anything, you nod.
+--
+@@#choices;
+<<button [[Tell him about your sister's absence.|MidoriSchoolSinom4'2']]>><</button>>
+@@
+
+

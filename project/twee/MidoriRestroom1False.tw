@@ -1,0 +1,19 @@
+:: MidoriRestroom1False {"position":"10930,3650","size":"100,100"}
+You burst through the door and the sight of urinals and toilets with no dividers ring in your vision and you are now aware you entered the correct room.
+
+@@#EffectText;
+"Poop Noises"
+@@
+
+...
+
+After a mildly rough shit, you wipe your ass and walk back into the hallway.
+
+(You didn't wash your hands.)
+--
+@@#choices;
+<<if $LilithErased is 0>><<button [[Continue heading to the office.|MidoriSchool4]]>><</button>><</if>>
+<<if $LockerEventScene is 0>><<button [[Look around the hallway.|MidoriSchool4'1']]>><</button>><</if>>
+@@
+
+

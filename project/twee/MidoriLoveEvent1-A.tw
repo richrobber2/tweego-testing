@@ -1,0 +1,42 @@
+:: MidoriLoveEvent1-A {"position":"8270,3790","size":"100,100"}
+If she know everything about you then it's a waste of breath to say you're not.
+
+$Name:
+@@#ProtagText;
+"So what if I am?! I know you know I am serious!"
+@@
+<<set $MidoriLove +=40>>\
+
+$Midori jumps backwards be then smiles, stiffens her posture and folds her noodles for arms.
+
+$Midori:
+@@#MidoriText;
+"I-I see-e-notice you're not lying".
+@@
+
+She is tripping over her newly learned words and now shows a hint of dread in her voice.
+
+The girl of the woods faces away from you and starts to tap her foot nervously.
+
+$Midori:
+@@#MidoriText;
+"I have read your brain-mind so mind if I ask some questions only you would know."
+@@
+
+You take a moment to think about this....
+
+-Could this be a test?
+
+$Midori confirms this by stating.
+
+$Midori:
+@@#MidoriText;
+"-And I know if you're lying!"
+@@
+--
+@@#choices;
+<<button [[Okay, I'll be honest!|MidoriLoveEvent1-B]]>><</button>>
+<<button [[Never mind, just take me home.|MidoriLoveEventAbort]]>><</button>>
+@@
+
+

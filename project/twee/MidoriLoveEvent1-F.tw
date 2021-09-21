@@ -1,0 +1,29 @@
+:: MidoriLoveEvent1-F {"position":"8270,4210","size":"100,100"}
+$Name:
+@@#ProtagText;
+"$Redia is! She's a nice tom-"
+@@
+
+$Midori sighs loudly to cut you off.
+
+$Midori:
+@@#MidoriText;
+"You sure do have a weakness to tom-boys. Kind of makes my next question hard~"
+@@
+
+You blush with guilt but $Midori ignores your response and says uneasily.
+
+$Midori:
+@@#MidoriText;
+"Last question! Why should you date me?"
+@@
+
+The green haired forest fairy floats to the ground and looks sheepishly away from you. $Midori seems interested in what you have to say. Might need to think this out.
+--
+@@#choices;
+<<button [[You're really cute!|MidoriLoveTestFail1]]>><</button>>
+<<button [[You’re a prime loli!|MidoriLoveTestFail2]]>><</button>>
+<<button [[I never had a girlfriend!|MidoriLoveTestPass1]]>><</button>>
+@@
+
+

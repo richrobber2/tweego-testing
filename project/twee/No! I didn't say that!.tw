@@ -1,0 +1,39 @@
+:: No! I didn't say that! {"position":"13170,3370","size":"100,100"}
+<<set $RediaLove -=40>>\
+$Name:
+@@#ProtagText;
+"No! I didn't say that!"
+@@
+$Redia picks up her bat and yells at you.
+
+$Redia:
+@@#RediaText;
+"THAT'S WHAT I THOUGHT! No one dares to challenge I: The Great Hellcat!"
+@@
+
+Boy2:
+@@#NPCText;
+"Oh boo~."
+@@
+
+Boy4:
+@@#NPCText;
+"Fat old man!"
+@@
+
+Boy1:
+@@#NPCText;
+"Whatever."
+@@
+
+Not feeling wanted on the field, you kick the dirt, turn around and leave them to practice.
+
+...
+--
+@@#choices;
+<<if $MidoriSEvent1 is 0>><<button [[Go into the school.|MidoriSchool3]]>><</button>><</if>>
+<<if $MidoriSEvent1 is 1>><<button [[Look for LO-Mart.|LoMartPlotIntroduction]]
+>><</button>><</if>>
+@@
+
+

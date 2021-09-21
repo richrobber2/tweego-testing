@@ -1,0 +1,63 @@
+:: SuikoPast'Main'4 {"position":"430,4630","size":"100,100"}
+$Arisa:
+@@#ArisaText;
+"So, tell me about yourself $Suiko."
+@@
+
+This frail looking girl oddly looks around the crowd around her then looks down at her purple rabbit plush. After holding it tight to her body, she outreaches her hands and displays it to $Arisa.
+
+$Suiko:
+@@#SuikoText;
+"Um..This is my friend!"
+@@
+
+Your sister seems put off by this but pats the plush on the head. As she reaches for the plushy, $Suiko falsettos her voice and bounces the toy as if rambling.
+
+$Suiko(As Plush):
+@@#SuikoText;
+"Ura Ura~ I'm Mr. Rabbit! Nice to meet you!"
+@@
+
+Not getting the engagement, $Arisa points at 'Mr.Rabbit' only to find $Suiko gesturing the plush to shake her hand.
+
+$Suiko(Mr.Rabbit):
+@@#SuikoText;
+"Shake my hand! Can't you see I'm gesturing...Ura ura~"
+@@
+
+Is she using her doll as a way to speak easier? You notice $Suiko still seems afraid but her tone and flow of speech seems more normal.
+
+Reluctant, you sister slowly grasps the arm of the plush and shake it.
+
+$Suiko(Mr.Rabbit):
+@@#SuikoText;
+"Ura! Not too hard!"
+@@
+
+Your sister seems to see your motives as well and seems to play along.
+
+$Arisa:
+@@#ArisaText;
+"Nice to meet you too, Mr.Rabbit...My name is $Arisa."
+@@
+
+As if hearing the uneasy tone in $Arisa's voice, $Suiko clinches Mr.Rabbit into her chest and suddenly runs off. Your sister (hand still out) seems confused and asks,
+
+$Arisa:
+@@#ArisaText;
+"She ran off. Does she hate me?"
+@@
+
+Looking into the crowd, you see $Suiko peering over at us behind a small crowds of people. While you thought you'd need to give up of making her your sister's first friend, $Arisa surprises you.
+
+$Arisa:
+@@#ArisaText;
+"Should I talk to her? Did I do something wrong?"
+@@
+--
+@@#choices;
+<<button [[Leave her to decide for herself|SuikoPast'Main'6]]
+>><</button>>
+@@
+
+

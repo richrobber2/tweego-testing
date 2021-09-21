@@ -1,0 +1,12 @@
+:: ArisaLilithNameEvent {"position":"2950,430","size":"100,100"}
+$Lilith
+@@#LilithText;
+"I'm not thy blood did relate sist'r 'r from thy filthy bloodline!"
+@@
+--
+@@#choices;
+<<button [[Back|setup1.5'arisaname']]  
+>><</button>>
+@@
+
+

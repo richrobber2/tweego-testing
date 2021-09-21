@@ -1,0 +1,42 @@
+:: MidoriFairyIntro'truepath' {"position":"7430,3370","size":"100,100"}
+Not wanting to be a burden, you node politely and let the fairy lass explain.
+
+$Midori:
+@@#MidoriText;
+"Okay, Thanks!"
+@@
+
+She smiles as you then tries to look serious.
+
+$Midori:
+@@#MidoriText;
+"To keep it short and sweet, I'll get to the point! Being thankful for hatching me, I will grant you one wish~"
+@@
+
+The all-powerful fairy places her hands on her hips and gives you a peace gesture.
+
+Then, it hits you;
+
+A Wish!
+
+Would can you wish for? She appears to be the real deal but this could also be some odd catch twenty-two!.
+
+$Midori:
+@@#MidoriText;
+"No trick $Name, I won't troll-fool you!"
+@@
+
+You're confused until you remember she can read minds.
+
+Shit, better take caution!
+--
+@@#choices;
+<<button [[Wish for someone to love you!|MidoriWishEvent'loveselection']]
+>><</button>>
+<<button [[Wish for power.|MidoriWishEvent'Mindcontrol']]
+>><</button>>
+<<button [[Think about your wish.|MidoriWishEvent'choice']]
+>><</button>>
+@@
+
+

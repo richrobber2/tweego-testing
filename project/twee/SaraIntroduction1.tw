@@ -1,0 +1,58 @@
+:: SaraIntroduction1 {"position":"6030,2810","size":"100,100"}
+<<set $lostcounter to 0>>\
+You quickly look over at the brother, who is pouting with his arms cross and look back to see the sister run into midori forest. What an uncaring child.
+
+$Name:
+@@#ProtagText;
+"Hey, aren't you going to go after her?"
+@@
+
+-But the lad just sits stubbornly on the park bench. The annoyed and defiant look on his face reminds you of how you used to act about $Arisa;
+
+Selfish, arrogant and weak.
+
+You click your tongue at the brat and stand up.
+
+$Name:
+@@#ProtagText;
+"-And you call yourself a brother!"
+@@
+
+The boy looks up at you with a now shocked expression as you begin to dart toward the direction of the fleeing girl.
+
+...
+
+After running blindly towards her direction, you find yourself in in front of the entrance to Midori Forest.
+
+A makeshift wooden sign greets you at the end of the trail;
+
+@@#EffectText;
+			Midori Forest
+
+	The wise will stay on the trail
+
+	The foolish will surely get lost!
+@@
+
+Back when you were a child, you remember being told about not straying off the trails. Despite being a fairly small forest, local news periodically report on people being killed out here.
+
+Best not to waste any time. If you don't find that girl soon she will surely get lost.
+
+You enter the forest and are instantly greeted with multiple paths. One heads north, while the other two paths head left or right.
+
+Best to think about your directions before you advance too far.
+--
+@@#choices;
+<<button "Study the trail.">><<toggleclass "#Studypath1" "hidden">><</button>>
+<div id="Studypath1" class="hidden">\
+You look at the muddy dirt path and are surprised to find tiny foot prints heading north. Since you saw her running in a straight bee-line into the forest it's safe to assume she's just blindly running forward.
+</div>\
+<<button [[Take the west trail.|MidoriForest'Sara'west1]]
+>><</button>>
+<<button [[Head east.|MidoriForest'Sara'east1]]
+>><</button>>
+<<button [[Walk forward|MidoriForest'Sara'north1]]
+>><</button>>
+@@
+
+

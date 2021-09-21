@@ -1,0 +1,69 @@
+:: BAD END 18: Too Late to Help {"position":"2670,290","size":"100,100"}
+/* TODO add code for achievment here */
+As you walk closer to the massive tree, you start to hear cracking and in a panic, you look up in horror as you hear a loud snap.
+
+*SNAP!*
+
+-Followed by the image of the girl and a massive tree branch falling above you and hurling towards the ground.
+
+The sound of a large thud echos through the forest and you watch in horrific detail as the branch lands under the girl followed by her falling back first onto the heavy tree.
+
+Girl:
+@@#SaraText;
+"Gah-!"
+@@
+
+An obscene amount of blood wafers out of her mouth as her weightless body ragdolls off the trunk of the branch with a bounce and finally lays idle on the floor.
+
+...
+
+Your mind is in a haze at first until you notice the puddle of blood settled around her neck.
+
+"OH SHIT!", you curse out loud as you quickly run towards the injured girl and bend over to her side. Looking down at her, you are surprised when the girl's blue eyes suddenly open again.
+
+WUT?
+
+You back up and watch in surprise as the girl struggles to her feet and somehow appears to be standing after a substantial fall and landing on the tree branch. Amazed and surprised by this odd turn of events, you run towards the girl and place your hands on her shoulders.
+
+$Name:
+@@#ProtagText;
+"Oh god, Are you alright?!"
+@@
+
+Oddly smiling, the small girl cocks her head sideways and says,
+
+Girl:
+@@#SaraText;
+"Yeah! $Sara is fi-!"
+@@
+
+*CRACK*
+
+You watch in confusion as the girl's eyes roll over and she suddenly falls backward; hard.
+
+Confused at first, the reality of the horrid spectacle sinks in. 
+
+Her neck just snapped.
+
+You fall to your knees and stare at the result of your laggardly. 
+
+Voice:
+@@#RandyText;
+"What did you do to my sister?!"
+@@
+
+Revealing himself from behind the tree, the boy from before runs towards is now probably deceased sister and cradled his lifeless twin.
+
+...
+
+If only you got here sooner.
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 18: Too Late to Help!">><<script>>Engine.restart();<</script>>/
+<</button>>
+@@
+
+

@@ -1,0 +1,61 @@
+:: Day03LoMartIntro {"position":"29550,3650","size":"100,100"}
+<<set $NanakoStats to 1>>\
+After about an hour or so of walking, you make it to the massive parking lot of your new job; LO-Mart.
+
+...
+
+Unlike yesterday, The parking lot is now crowded with amass of kids and oddly, otaku looking grown men. As you approach the crowd, everyone seems indifferent of your existence; crowding around what appears to be a stage set up in the middle of the parking lot.
+
+Walking closer to the front of the platform, the crowd starts to part and gives you a glimpse of what the crowd is cheering for.
+
+On the stage is a set of large, studio speakers, bright directional lights and what appears to be a girl holding a microphone; dancing. 
+
+With the crowd now parted, the girl looks down at you and points at your nametag.
+
+<font color="#dba606">
+Girl on Stage:</font>
+@@#NanakoText;
+"Lady's and Gentleman! The man of the day has arrived!~"
+@@
+
+Wut? 
+
+Looking around in confusion, the girl leans over the stage and gestures her hand for you to come closer.
+
+<font color="#dba606">
+Girl on Stage:</font>
+@@#NanakoText;
+"You, silly Onii-chan~"
+@@
+
+While you're confused, the moment this sunburst colored, pig tail haired girl called you 'Onii-chan' you knew this must be $Amber's work. You're about to respond to her but something about her catches your attention. This girl is dressed in bright colored costume resembling 'Doremi'from a some cartoon magicial girl anime. She notices your eyeing her pink and white pleaded dress and blushes. Upon noticing her reaction, a onlooker shoves you away and pleads to the girl,
+
+Fat Onlooker:
+@@#NPCText;
+"I can be your brother, $Nanako~!"
+@@
+
+That's when the resemblance hits you hard; Did $Amber really hire one of your favorite junior idols to introduce you to your first day at work?!
+
+$Nanako:
+@@#NanakoText;
+"Please, I'm everyone's little sister Popooyo~"
+@@
+
+You look up to see the pig tailed, elegant idol blow a kiss to the rude fan as he gushes his cherry red face and fades back into the crowd. Waving the fatass away, $Nanako looks back at you and seems to force a smile.
+
+$Nanako:
+@@#NanakoText;
+"Onii-chan~ Are you okay? Sorry, my fans can be kinda restless.."
+@@
+<<set $NanakoVoiceActorRoute to 0>>\
+<<set $NanakoIdolRoute to 0>>\
+--
+@@#choices;
+<<button [[Say you can tell!|Day03LoMartIntro'NanakoIntro']]
+>><</button>>
+<<button [[Freak out!|Day03LoMartIntro'NanakoFail']]
+>><</button>>
+@@
+
+

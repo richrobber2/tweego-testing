@@ -1,0 +1,22 @@
+:: Day03LoMartIntro'NanakoIntro'2'Serious'4 {"position":"29550,4490","size":"100,100"}
+Due to the fatass being out of shape, you move to the side and easily dodge his punch. He stumbles and almost falls as you keep you back to $Nanako in some attempt to protect her.
+
+The fatass turns around; now angered, and then lunges at you with his 'dinner roll' arms extended. as the man races at you you quickly announce to the frightened idol behind you,
+
+$Name:
+@@#ProtagText;
+"Get out of here!"
+@@
+
+The Fatass is about to tackle you and you dont have enough time to evade him. You may need to defend youself or he'll surely crush you.
+
+Bracing youself, you-
+--
+@@#choices;
+<<button [[Punch him in the face.|Day03LoMartIntro'NanakoIntro'2'Serious'5]]
+>><</button>>
+<<button [[Stand your ground.|BAD END 15: Human Pancake]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,18 @@
+:: PreArisaEvent3-2 {"position":"19610,3230","size":"100,100"}
+<<if $ErasedSuikoEvent2 is 1 and $LilithAlt isnot 1>>\
+You decide to carelessly toss the index card on the floor and decide to open your front door and walk inside.
+<</if>>\
+Once inside you notice something...odd.
+
+All the lights in the house are turned off your television isn't blasting anime like it usually is.<<if $HoneyMoonApron is 1>>You take a moment to toss the 'prized apron' onto the living room chair.<</if>>
+
+You stand in the darkly lit and quiet living room and almost feel lonely without your dear sister joyfully greeting you.
+--
+@@#choices;
+<<button [[Go look for your sister.|ArisaEvent3'Pre-Intro']]
+>><</button>>
+<<button [[Ignore the silence and relax in your room.|ArisaEvent3'Pre-Intro'3']]
+>><</button>>
+@@
+
+

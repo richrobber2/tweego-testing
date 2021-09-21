@@ -1,0 +1,22 @@
+:: Day03Arisa {"position":"26610,3510","size":"100,100"}
+After making sure you have everything, you head towards $Arisa's door and pound on her door.
+
+$Name:
+@@#ProtagText;
+"$Arisa, You ready to go?"
+@@
+
+...
+
+There is no reply.
+
+Concerned, you open the door to her room to discover she isn't in there. Did she leave without you?
+--
+@@#choices;
+<<button [[Call her on your phone.|Day03Arisa2]]
+>><</button>>
+<<button [[Do not worry about it and just head outside.|Day03PreLoMart]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,43 @@
+:: LoMartPlotIntroduction16'3' {"position":"14710,5470","size":"100,100"}
+Even if it is fruitless, you decide to tell $Amber about your parents forcing you to pay seven hundred dollars a week or you and your sister will be homeless. To your shock, $Amber begins to shed tears, and starts to claps.
+<<set $Money +=400>>\
+<<set $PayRaise1 to 1>>\
+
+$Amber:
+@@#AmberText;
+"What a touching story and a great reason! I remember that your folks were assholes but to force you to suddenly pay for rent weekly is just plain cruel! *Sniff* To think you could of left your sister but decided to still care for her even with that debt looming over you; you must really love her! I'll tell you what-!"
+@@
+
+She opens her drawer and pulls out a stack of bills.
+
+$Amber:
+@@#AmberText;
+"If you decide to work your hardest and do what is expected of you; I will pay you a thousand dollars and week and give you this~"
+@@
+
+$Amber hands you the bills and you're amazed to be holding four hundred dollars!
+
+You're in shock about this development.
+
+$Name:
+@@#ProtagText;
+"Wha.what!? Is this for me?"
+@@
+
+$Amber nods and replies,
+
+$Amber:
+@@#AmberText;
+"If you just need this job to support your sister I will be happy to help in any way! So what do you say? Will you work for me and make LO-Mart the image of perfection I always wanted?"
+@@
+
+You'd be a fool to decline this opportunity.
+--
+@@#choices;
+<<button [[Accept the terms of the job.|LoMartPlotIntroduction16]]
+>><</button>>
+<<button [[Decline the Job.|Bad End 13: Nope.jpg]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,12 @@
+:: ArisaVivianNameEvent {"position":"3510,430","size":"100,100"}
+$Vivian:
+@@#VivianText;
+"Don't name me after the female master!"
+@@
+--
+@@#choices;
+<<button [[Back|setup1.5'arisaname']]  
+>><</button>>
+@@
+
+

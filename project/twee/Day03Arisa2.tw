@@ -1,0 +1,34 @@
+:: Day03Arisa2 {"position":"26610,3650","size":"100,100"}
+She couldn't have left without you. $Arisa always enjoyed walking to school with you. In a haste, you pull out your cellphone and dial her number.
+
+...Ring.....Ring....
+
+$Arisa (On Phone):
+@@#ArisaText;
+"Hello?"
+@@
+
+Concerned and without skipping a beat, you ask her:
+
+$Name:
+@@#ProtagText;
+"Where are you? We always walk together!"
+@@
+
+You hear a faint sound of leaves rustling and hear your sister curse under her breath.
+
+$Arisa:
+@@#ArisaText;
+"I...Met up with $Redia and we decided to walk together. You need not to worry about your charming Imouto~"
+@@
+
+Something doesn't add up...
+--
+@@#choices;
+<<button [[But you were inside...|Day03Arisa2-1]]
+>><</button>>
+<<button [[Whatever, just be safe.|Day03Arisa2-2]]
+>><</button>>
+@@
+
+

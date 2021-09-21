@@ -1,0 +1,19 @@
+:: SuikoPast'Main'6 {"position":"430,4770","size":"100,100"}
+At this point, you decide you shouldn't force her to make friends. You feel like all your sister needs to do is show she wants to befriend $Suiko.
+
+You turn your back and say,
+
+$Name:
+@@#ProtagText;
+"That's up for you to decide. I don't think she hates you but I feel like being a friend will make her happy. I'll leave the rest to you. I hope you do the right thing."
+@@
+
+As you walk off, look over your shoulder to see your sister contemplating the right choice. As you turn back, you distance yourself a little more and look back only to see that she's now gone. Among the crowd of kids, you can't tell if she went to see her friend but you hope $Arisa made the right choice.
+--
+@@#choices;
+<<button [[Head home|DayOneIntro]]
+>><</button>>
+<<if $RediaIntroLock is 0>><<button [[Check on the other girl|RediaIntroLone]]>><</button>><</if>>
+@@
+
+

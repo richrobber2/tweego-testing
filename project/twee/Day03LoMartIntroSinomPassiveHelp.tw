@@ -1,0 +1,36 @@
+:: Day03LoMartIntroSinomPassiveHelp {"position":"32630,4070","size":"100,100"}
+Noticing Sinom isn't being his normal self, you decide to return the kindness he showed you as a kid and change your disposition to one of concern.
+
+He would help you if you were in this position.
+
+$Name:
+@@#ProtagText;
+"Sinom, is there anything I can help you with? Why are you drinking again?"
+@@
+
+The old man leans foward and almost fails; thankfully the unstable drunk is supported by your stature and you catch him and throw him back in place.
+
+Sinom:
+@@#NPCText;
+"I'll be better in..."
+@@
+
+He then stands up wobbling on his shaking feet and stands completely still... then thrusts his head forward and proceeds to projectile vomit on the floor.
+
+Thankfully you were able to move away in time.
+
+Sinom spends the next few seconds vomiting his guts out on the sale's floor and all you can really do is get behind him and rub his back while you watch the refound mess you gotta clean take form.
+
+Once the stream of bile is finished flowing, you guide Sinom to a nearby metal bench and prop him down.  Once he comes to his senses, he rests his deleriated head in his lap and gesters you to go away.
+
+Sinom:
+@@#NPCText;
+"I'll be...Leaving soon."
+@@
+--
+@@#choices;
+<<button [[leave him be.|Day03LoMartIntroSinomPassiveHelpfail]]>><</button>>
+<<button [[Ask him how you can help?|Day03LoMartIntroSinomPassiveHelp1]]>><</button>>
+@@
+
+

@@ -1,0 +1,246 @@
+:: Cheat Menu {"position":"710,990","size":"100,100"}
+<<set $Depression to 0>>\
+<<set $ArisaLove to 100>>\
+<<set $RediaLove to 100>>\
+<<set $SuikoLove to 100>>\
+<<set $MikanLove to 100>>\
+<<set $KarenLove to 100>>\
+<<set $AmberLove to 100>>\
+<<set $LilithLove to 100>>\
+<<set $MaryLove to 100>>\
+<<set $SaraLove to 100>>\
+<<set $RandyLove to 100>>\
+<<set $MidoriLove to 100>>\
+<<set $SuloziLove to 100>>\
+<<set $Redia to "Redia">>\
+<<set $Suiko to "Suiko">>\
+<<set $Karen to "Karen">>\
+<<set $Amber to "Amber">>\
+<<set $Michael to "Micheal">>\
+<<set $Lilith to "Lilith">>\
+<<set $Mary to "Mary">>\
+<<set $Sara to "Sara">>\
+<<set $Randy to "Randy">>\
+<<set $Midori to "Midori">>\
+<<set $Lupita to "Lupita">>\
+<<set $Randy to "Randy">>\
+<<set $Mikan to "Mikan">>\
+<<set $Sulozi to "Sulozi">>\
+<<set $Midori to "Midori">>\
+<<set $SuikoErased is 0>>\
+<<set $LilithErased is 0>>\
+<<set $RediaErased is 0>>\
+<<set $KarenErased is 0>>\
+<<set $AmberErased is 0>>\
+<<set $SaraErased is 0>>\
+<<set $RandyErased is 0>>\
+<<set $SuloziErased is 0>>\
+<<set $ArisaErased is 0>>\
+<<set $MaryErased is 0>>\
+<<set $MidoriErased is 0>>\
+<<set $Name to '@@color:#ff0329;' + $Name + '@@'>>\
+<<set $LastName to '@@color:#ff0329;' + $LastName + '@@'>>\
+<<set $Arisa to '@@color:#ff007f;' + $Arisa + '@@'>>\
+<<set $Suiko to '@@color:#734f96;' + $Suiko + '@@'>>\
+<<set $Redia to '@@color:#FF3030;' + $Redia + '@@'>>\
+<<set $Karen to '@@color:#1E90FF;' + $Karen + '@@'>>\
+<<set $Amber to '@@color:#32CD32;' + $Amber + '@@'>>\
+<<set $Lilith to '@@color:#43274c;' + $Lilith + '@@'>>\
+<<set $Mary to '@@color:#c19a6b;' + $Mary + '@@'>>\
+<<set $Midori to '@@color:#7fff00;' + $Midori + '@@'>>\
+<<set $Sara to '@@color:#fbec5d;' + $Sara + '@@'>>\
+<<set $Randy to '@@color:#ff8243;' + $Randy + '@@'>>\
+<<set $Mikan to '@@color:#ff9f00;' + $Mikan + '@@'>>\
+<<set $Michael to '@@color:#87a96b;' + $Michael + '@@'>>\
+<<set $Lupita to '@@color:#e3dac9;' + $Lupita+ '@@'>>\
+<<set $Sulozi to '@@color:#a0a152;' + $Sulozi+ '@@'>>\
+\
+Welcome to the Debug Menu!
+(outdated, use with caution)
+--
+__Love is ranked by number's only!__
+''
+0-Erased from Game
+100-Stranger(Default)
+200-Friend
+300-Best Friend
+400-Has Feelings
+500-In Love
+''
+--
+Please Enter Your New First Name:
+<<textbox "$Name" "Alex">>
+--
+What is your New Middle Name?:
+<<textbox "$MidName" "Wayne">>
+--
+Please Enter Your New Last Name:
+<<textbox "$LastName" "Reetz">>
+--
+Please Enter An Amount of Money:
+<<textbox "$Money" "2000">>
+--
+Please Enter Arisa's New Name:
+<<textbox "$Arisa" "Arisa">>
+--
+set Arisa's Love:
+<<textbox "$ArisaLove" "500">>
+--
+Please Enter Redia's New Name:
+<<textbox "$Redia" "Redia">>
+--
+set Redia's Love:
+<<textbox "$RediaLove" "0">>
+--
+
+Please Enter Suiko's New Name:
+<<textbox "$Suiko" "Suiko">>
+--
+set Suiko's Love:
+<<textbox "$SuikoLove" "0">>
+--
+
+Please Enter Karen's New Name:
+<<textbox "$Karen" "Karen">>
+--
+set Karen's Love:
+<<textbox "$KarenLove" "0">>
+--
+
+Please Enter Amber's New Name:
+<<textbox "$Amber" "Amber">>
+--
+set Amber's Love:
+<<textbox "$AmberLove" "0">>
+--
+
+Please Enter Lilith's New Name:
+<<textbox "$Lilith" "Lilith">>
+--
+set Lilith's Love:
+<<textbox "$LilithLove" "0">>
+--
+
+Please Enter Mary's New Name:
+<<textbox "$Mary" "Marco">>
+--
+set Marco's Love:
+<<textbox "$MarcoLove" "0">>
+--
+Please Enter Micheal's New Name:
+<<textbox "$Michael" "Micheal">>
+--
+Please Enter Sara's New Name:
+<<textbox "$Sara" "Sara">>
+--
+set Sara's Love:
+<<textbox "$SaraLove" "0">>
+--
+Please Enter Midori's New Name:
+<<textbox "$Midori" "Midori">>
+--
+set Midori's Love:
+<<textbox "$MidoriLove" "0">>
+--
+Please Enter Lupita's New Name:
+<<textbox "$Lupita" "Lupita">>
+--
+set Lupita's Love:
+<<textbox "$LupitaLove" "0">>
+--
+Please Enter Randy's New Name:
+<<textbox "$Randy" "Randy">>
+--
+set Randy's Love:
+<<textbox "$RandyLove" "0">>
+--
+Please Enter Mikan's New Name:
+<<textbox "$Mikan" "Mikan">>
+--
+set Mikan's Love:
+<<textbox "$Mikanlove" "0">>
+--
+Please Enter Sulozi's New Name:
+<<textbox "$Sulozi" "Sulozi">>
+--
+set Sulozi's Love:
+<<textbox "$Sulozilove" "0">>
+--
+
+Variable Editing Menu(Only Use 0-1 Unless Noted):
+(0 is off. 1 is On)
+--
+Depression Variable:
+<<textbox "$Depression" "0">>
+--
+TalkedToPrincipal Variable:
+<<textbox "$TalkedToPrincipal" "0">>
+--
+LOMartHired Variable:
+<<textbox "$LOMartHired" "0">>
+--
+SawRedia1 Variable:
+<<textbox "$SawRedia1" "0">>
+--
+AskedRediaAboutSuiko Variable:
+<<textbox "$AskedRediaAboutSuiko" "0">>
+--
+WentToTown Variable:
+<<textbox "$WentToTown" "0">>
+--
+LilithIntro Variable:
+<<textbox "$LilithIntro" "0">>
+--
+LilithErased Variable:
+<<textbox "$LilithErased" "0">>
+--
+Smoking Session1 Variables:
+
+SmokingSessionOneSchoolLifetrue
+<<textbox "$SmokingSessionOneSchoolLifetrue" "0">>
+
+SmokingSessionOneArisaFriendstrue
+<<textbox "$SmokingSessionOneArisaFriendstrue" "0">>
+
+SmokingSessionOneoldlifetrue
+<<textbox "$SmokingSessionOneoldlifetrue" "0">>
+--
+SuikoEvent1 Variable:
+<<textbox "$SuikoEvent1" "0">>
+--
+SuikoEvent1Complete Variable:
+<<textbox "$SuikoEvent1Complete" "0">>
+--
+SuikoErased Variable:<font size="2"><font color="#ff007f">(Please Onii-Chan!)</font>
+<<textbox "$SuikoErased" "0">>
+--
+timedifference1 Variable:
+<<textbox "$timedifference1" "0">>
+--
+introchoice1 Variable:
+<<textbox "$introchoice1" "0">>
+--
+yelledatarisa Variable:
+<<textbox "$yelledatarisa" "0">>
+--
+ArisaAware Variable: <font size="2"><font color="#ff007f">(NONONONONONONO!)</font>
+<<textbox "$ArisaAware" "0">>
+--
+Zippo Variable:
+<<textbox "$Zippo" "0">>
+--
+Fags Variable:
+<<textbox "$Fags" "0">>
+--
+ATFCard Variable:
+<<textbox "$ATFCard" "0">>
+--
+WARNING:
+BY USING THIS DEBUG MENU, YOU RISK BREAKING THE GAME!
+<font size="-8">Also Doesn't Unlock Anything Evil.</font>
+--
+@@#choices;
+<<button [[Cheat Code Menu.|Cheat Code Menu]]>><</button>>
+@@
+
+

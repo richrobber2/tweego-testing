@@ -1,0 +1,35 @@
+:: KarenIntroduction'NonSmoking''4' {"position":"17510,3790","size":"100,100"}
+You can't give her money knowing she's going to buy cigarettes. You can't morally enable a child to smoke and possible harm herself.
+
+$Name:
+@@#ProtagText;
+"Sorry, but if you're going to buy cigarettes then I can't give you money."
+@@
+
+The girl looks at you as if you insulted her but then cuffs her hands together; as if pleading.
+
+$Karen:
+@@#KarenText;
+"Please! I'm not a child I just want to be mature and smoke!"
+@@
+
+Even if you were going to enable her to smoke, that would be a stupid reason.
+
+$Name:
+@@#ProtagText;
+"Go away, I'm not going to give you money if all you want it for is to smoke. You're too cute to ruin it by smoking."
+@@
+
+At first she seems upset about what you said, then in defeat just sighs and starts to walk off towards the side walk.
+
+You eyeball the girl until she is out of your view, then after a short pause you decide it's probably best if you head home.
+
+$Arisa must be waiting on you.
+<<set $KarenSubmissive to 1>>\
+--
+@@#choices;
+<<button [[Walk back home.|PreArisaEvent3]]
+>><</button>>
+@@
+
+

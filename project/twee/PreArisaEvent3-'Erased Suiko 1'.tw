@@ -1,0 +1,11 @@
+:: PreArisaEvent3-'Erased Suiko 1' {"position":"19190,3230","size":"100,100"}
+As you walk toward your porch, you discover a letter taped loosely on your front door. Holding the letter in hand you notice a little bit of effort went into it. White envelope, purple edgings, even a purple heart fashioned as a seal.
+<<set $ErasedSuikoEvent2 to 1>>\
+--
+@@#choices;
+<<button [[Put the letter down and walk inside|PreArisaEvent3-2]]
+>><</button>>
+<<timed 7s>><<button [[Open the letter.|PreArisaEvent3-'Erased Suiko 1'1]]>><</button>><</timed>>
+@@
+
+

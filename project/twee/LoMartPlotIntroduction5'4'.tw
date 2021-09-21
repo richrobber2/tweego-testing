@@ -1,0 +1,34 @@
+:: LoMartPlotIntroduction5'4' {"position":"14430,4490","size":"100,100"}
+Feeling yourself grow more impatient, you begin to knock on the door.
+
+KNOCK KNOCK KNOCK.
+
+...But, there is no reply.
+
+Irritated, you bang on the door even harder.
+
+KNOCK KNOCK KNOCK!
+
+...
+
+You hear a voice behind the door,
+
+Little Ebony Girl:
+@@#AmberText;
+"Don't make me knock back with my revolver!"
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+...Better not tempt her.
+--
+@@#choices;
+<<button [[Wait to be seen...|LoMartPlotIntroduction6]]
+>><</button>>
+<<button [[Decide to tempt her.|BAD END 4:  Barrel Behind The Door]]
+>><</button>>
+@@
+
+

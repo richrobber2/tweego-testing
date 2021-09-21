@@ -1,0 +1,19 @@
+:: LoMartPlotIntroduction1 {"position":"14290,3370","size":"100,100"}
+You advance towards the entrance and are welcomed by a black 'welcome' mat, a vending machine and a row of shopping carts. The vending machine quickly catches your eye;
+
+@@#EffectText;
+	 Mystery Machine 1/3
+@@
+
+Along with the red text, an image of a young, ebony school girl waving towards you is printed on the face of it. The machine looks like a mystery item machine as it has one blank button on the side labels with question marks.
+
+While you do have time to kill and the machine looks interesting (mostly due to having a cute loli printed on it), you really should ignore it and save your money.
+<<set $VMachineEvent1 to 1>>\
+--
+@@#choices;
+<<button [[Ignore the machine and head inside.|LoMartPlotIntroduction2'1']]
+>><</button>>
+<<if $Depression lte 50>><<button [[Check out the vending machine.|Check out the vending machine]]>><</button>><</if>>
+@@
+
+

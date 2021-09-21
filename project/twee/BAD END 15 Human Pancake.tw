@@ -1,0 +1,30 @@
+:: BAD END 15: Human Pancake {"position":"2250,290","size":"100,100"}
+/* TODO add code for achievment here */
+You brace yourself as this massively obese man then leans forward and starts to fall towards you.
+
+Fatass:
+@@#NPCText;
+"I'mma Squash ya bitch ass!"
+@@
+
+Taking steps back, you're not fast enough and this easily three hundred pound man deadweights on top of you. Feeling his rolls of fat crush you, you're forced under his lard and slammed into the hard, metal stage.
+
+@@#EffectText;
+CCCRACK!!
+@@
+
+Nearly every one of your ribs shatter instataneously! While you scream, your pain is masked by his mounds of flesh You can only hear the cracking of bones until eventually, you pass out.
+
+...
+
+While you survive being smashed by the lub of lard, you learn nearly every bone in your body was broken as a result. It takes nearly a year to recover but by then it's too late. You're now riddled in debt, homeless and while your parents came back to take $Arisa away, they never visited you in the hospital.
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 15: Human Pancake.">><<script>>Engine.restart();<</script>>/
+<</button>>
+@@
+
+

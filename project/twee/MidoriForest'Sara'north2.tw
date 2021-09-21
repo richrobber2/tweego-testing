@@ -1,0 +1,21 @@
+:: MidoriForest'Sara'north2 {"position":"5890,3090","size":"100,100"}
+<<set $lostcounter += 1>>\
+<<set $Fatigue += 10>>\
+<<if $lostcounter is 1>>\
+You blindly walk through the woods to try to head back with the only reassurance being that the woods starting to thin out a little. Eventually, you believe you found your previous path and you decide to:
+--
+@@#choices;
+<<button [[Try to head back.|MidoriForest'Sara'east2]]
+>><</button>>
+@@
+<</if>>\
+<<if $lostcounter gte 2>>\
+You blindly walk through the woods to try to head back but it seems that things are only getting thicker. To make it worse, the sun is starting to fade into darkness and a eerie wind begins to brush through he shaking trees. You feel like things are only getting worse and you feel your bearing begin to slip away.
+--
+@@#choices;
+<<button [[Try to head back.|MidoriForest'Sara'west2]]
+>><</button>>
+@@
+<</if>>\
+
+

@@ -1,0 +1,53 @@
+:: LoMartIntroduction5 {"position":"10,5330","size":"100,100"}
+<<set $ArisaStats to 1>>\
+<<set $ArisaLoveStats to 1>>\
+<<set $UIBar to 1>>\
+<<set $DayCounter to 0>>\
+<<set $LoveMenu to 1>>\
+$Arisa:
+@@#ArisaText;
+
+"I love you!"
+@@
+$Arisa jumps in front of the television you were watching, somehow un-noticed by your view, then bursts her expression of fondness.
+
+$Name:
+@@#ProtagText;
+"You always tell me that! Go-"
+@@
+
+Your sister's petite figure exclaims a childish "no" and whilst twirling in place, she suddenly stops, opens her arms and embraces you.
+
+$Arisa:
+@@#ArisaText;
+
+"No, not like that anymore!"
+@@
+
+She then turns hastefully and presumingly points towards the television, her long, straight, blonde hair obscuring the screen.
+
+$Arisa:
+@@#ArisaText;
+
+"Like on the shows you like! I love you like that!"
+@@
+
+You stand up from your bed and see your sister watching a graphic scene taking place from the show you were watching. $Arisa turns only her head and stares at you with puppy-dog eyes.
+
+You are in horror as the brother of the show you were watching begins to mount his blood related sister.
+
+You look back at $Arisa as she whimpers.
+
+$Name
+@@#ProtagText;
+"I love you, but-"
+@@
+--
+@@#choices;
+<<button [[I only like girls on the shows!|LoMartIntroduction6]]
+>><</button>>
+<<button [[You are way too young!|You're too young!]]
+>><</button>>
+@@
+
+

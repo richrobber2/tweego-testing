@@ -1,0 +1,31 @@
+:: MidoriLoveEvent1-D {"position":"8550,4210","size":"100,100"}
+$Name:
+@@#ProtagText;
+"$Arisa must be! She is always around me and indulges herself on my presence."
+@@
+
+Knowing it to be your sister, $Midori chuckles at your lack of self-respect.
+
+$Midori:
+@@#MidoriText;
+"What a loser~"
+@@
+
+You ignore the insult as your aware you're nothing but a loser who lusts after kids.
+
+$Midori's laugh fades to silence as she tells you the final question.
+
+$Midori:
+@@#MidoriText;
+"Last question! Why should you date me?"
+@@
+
+The green haired forest fairy floats to the ground and looks sheepishly away from you. $Midori seems interested in what you have to say. Might need to think this out.
+--
+@@#choices;
+<<button [[You're really cute!|MidoriLoveTestFail1]]>><</button>>
+<<button [[You’re a prime loli!|MidoriLoveTestFail2]]>><</button>>
+<<button [[I never had a girlfriend!|MidoriLoveTestPass1]]>><</button>>
+@@
+
+

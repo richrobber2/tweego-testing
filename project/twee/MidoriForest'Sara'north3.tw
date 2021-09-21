@@ -1,0 +1,23 @@
+:: MidoriForest'Sara'north3 {"position":"5890,3230","size":"100,100"}
+<<set $lostcounter += 1>>\
+<<set $Fatigue += 10>>\
+You decide to walk towards the large pile of trees and notice that the area covers a fairly large area of the forest.
+
+Vines and foliage contort and bind the trees together in a fashion that resemble a man-made fortress of oak and pine.
+
+You walk around the wall of trees until you find a tiny opening just wide enough for someone to crawl through.
+
+Judging by how thick and untouched the area looks, you assume she couldn't have come this way.
+
+<<if $MidoriOrb is 1>> You get ready to leave, but stop when you notice that the orb in your pocket is now glowing so bright it's causing your whole pant leg to shine green with it.<</if>>
+--
+@@#choices;
+<<if $MidoriOrb is 0>><<button [[Head back.|MidoriForest'Sara'west3]]
+>><</button>><</if>>\
+<<if $MidoriOrb is 1>><<button [[Stop wasting time and look for the girl.|MidoriForest'Sara'west4]]
+>><</button>><</if>>\
+<<if $MidoriOrb is 1>><<button [[Crawl into the opening.|MidoriForest'Sara'south2]]
+>><</button>><</if>>\
+@@
+
+

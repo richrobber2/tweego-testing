@@ -1,0 +1,17 @@
+:: MidoriForest'Sara'east1 {"position":"5890,2950","size":"100,100"}
+<<set $lostcounter += 1>>\
+<<set $Fatigue += 10>>\
+You head east and find that the path tapers off to a large area of dense trees and untouched bushes.
+
+Rays of sun escape through the tree canopy and bask the area in warmth.
+
+...
+
+While it's pretty out here, you don't have time to waste admiring the beauty of the forest.
+--
+@@#choices;
+<<button [[Head back.|MidoriForest'Sara'north1]]
+>><</button>>
+@@
+
+

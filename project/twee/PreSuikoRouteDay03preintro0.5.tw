@@ -1,0 +1,11 @@
+:: PreSuikoRouteDay03preintro0.5 {"position":"28570,3230","size":"100,100"}
+<<set $SuikoDay03Resets to 0>>\
+While you head back up the trial, you stand infront of the shack you saw earier. While signs you saw states this is Blueful, You deny the fact anyone could live here. All that is around is dead farmland and rusted structures of a forgoten land. 
+
+One thing that counters your reasoning is a series of planted flowers becide that shack. Complexed by this, you walk towards the shack as clouds of dirt and dust shatter around you. About twenty feet away from the structure, you notice small footprints embedded into the soil. While you are unsure, you start to beleive she might live here.
+--
+@@#choices;
+<<button [[Walk towards the shack.|PreSuikoRouteDay03preintro1]]>><</button>>
+@@
+
+

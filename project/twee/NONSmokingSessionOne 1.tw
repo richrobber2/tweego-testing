@@ -1,0 +1,21 @@
+:: NONSmokingSessionOne 1 {"position":"1970,2390","size":"100,100"}
+As you peer into the blue sky and enjoy a sounds of bird chirping you decide to:
+--
+<<if $SmokingSessionOneSchoolLifetrue eq 0>>\
+@@#choices;
+<<button [[Think about your old school life.|SmokingSessionOneSchoolLife]]
+>><</button>>
+@@\
+<</if>>\
+<<if $SmokingSessionOneArisaFriendstrue eq 0>>\
+@@#choices;
+<<button [[Think about your sister and her friends.|SmokingSessionOneArisaFriends]]
+>><</button>>
+@@\
+<</if>>\
+@@#choices;
+<<button [[Finish and head inside.|LoMartIntroductionThree'NONSMOKER']]
+>><</button>>
+@@\
+
+

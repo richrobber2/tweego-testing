@@ -1,0 +1,17 @@
+:: LoMartIntroductionTwo 1 {"position":"1130,2390","size":"100,100"}
+The first friend was a tomboyish red-head named $Redia. The second girl was a 3rd grader who is always cloaked in an over sized, black hoodie while carrying a purple, rabbit plush doll. You hardly saw the two but your sister would gossip on how they seemed like characters from the anime we'd watched..
+
+$Arisa:
+@@#ArisaText;
+"Onii-Bro! Can my friends come over for the day after school?"
+@@
+
+$Arisa, now nine years old, pleads and curtsy's her denim overall dress while asking. The request takes you off guard as you just got walked inside after picking her up from school.
+<<set $yelledatarisa to 0>>\
+--
+@@#choices;
+<<button [[Sure, but isn't already after school?|LoMartIntroductionTwo 2]]
+>><</button>>
+@@
+
+

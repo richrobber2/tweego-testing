@@ -1,0 +1,37 @@
+:: SuikoDay03P3NALone {"position":"35010,1410","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Oh, course I do. We first met when I saw those bullies-"
+@@
+
+-However, this didn't seem to be the words she wanted to hear. $Suiko sighs and sits back down.
+
+$Suiko:
+@@#SuikoText;
+"No...Um...We met about five years ago.."
+@@
+
+@@#EffectText;
+WUT!?
+@@
+
+That doesn't make any sense! You only remember being with $Arisa up until her first day of school. The more you think about that possibility, the more conflicted and doubtful you are.
+
+$Name:
+@@#ProtagText;
+"Sorry, I only recall that time at Midori Elementary."
+@@
+
+
+Crestfallen upon hearing you forgot(or don't know.), $Suiko looks around nervously then, grabs her mr. rabbit hoodie to present to you.
+
+$Suiko:
+@@#SuikoText;
+"This jacket....I want you to look at the tag..."
+@@
+--
+@@#choices;
+<<button [[Inspect the jacket.|SuikoDay03P301]]>><</button>>
+@@
+
+

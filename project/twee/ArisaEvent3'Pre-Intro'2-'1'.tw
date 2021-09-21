@@ -1,0 +1,46 @@
+:: ArisaEvent3'Pre-Intro'2-'1' {"position":"20030,3510","size":"100,100"}
+<<set $ArisaLove +=40>>\
+$Name:
+@@#ProtagText;
+"Actually, I just wanted to thank you $Arisa. Because of your help, I was actually able to get a job!"
+@@
+As if the reality of everything kind of suddenly kicked in, you give into an urge to snuggle your blanketed Imouto. Shocked at first, $Arisa notices this as a good thing and embraces you as well; covering you in her blanket.
+
+$Arisa's blue eyes start gaze up towards your close face and smiles.
+
+$Arisa:
+@@#ArisaText;
+"Did I really help you?"
+@@
+
+$Arisa falls forward and you hold her up with your stature.
+
+$Arisa:
+@@#ArisaText;
+"I kind of played around on making a 'fake' resume. I made a serious one but I accidentally sent that one. I....I'm glad it worked out...”
+@@
+
+Although things could have gone a LOT worse, you can only 'thank' $Amber for being a pedophile. Heaven knows what would of happened if you applied to any other job.
+
+Bullet dodged, you can overlook the 'accident' and wholeheartedly praise your sister.
+
+$Name:
+@@#ProtagText;
+"You're a really good sister, $Arisa! To think a nine year old could get his dead beat, perverted brother a job! Now stop feeling bad and go get cleaned up; I'll make dinner later."
+@@
+
+You let go of $Arisa and dramatically jump of her inflatable bed.
+
+$Name:
+@@#ProtagText;
+"Take it easy today; you did a lot to help the $LastName family....Hell, more than are parents ever have!"
+@@
+
+With that, you walk out of her messy room and decide to finally retire to your room.
+--
+@@#choices;
+<<button [[Retire to your room.|ArisaEvent3'Pre-Intro'3']]
+>><</button>>
+@@
+
+

@@ -1,0 +1,56 @@
+:: Sara Introduction9 {"position":"9670,4490","size":"100,100"}
+Thought it was kind of an odd thing for him to say, you decide to humor him.
+
+$Name:
+@@#ProtagText;
+"Proud for her calling me her boyfriend? How so?"
+@@
+
+$Randy brings his hand to his face and runs it through his short, spiky hair then raises his voice.
+
+$Randy:
+@@#RandyText;
+"Because I don't want my sister as a girlfriend! At least with her thinking you like her will get her off my back!"
+@@
+
+His face turns red and he looks away from you.
+
+$Randy:
+@@#RandyText;
+"I won't say anything as long as you make my sister happy...um"
+@@
+
+So he does care about his sister. You smile at the blushing boy and reach over to pat his dusty, blond hair.
+
+
+$Name:
+@@#ProtagText;
+"I'm happy for you. Good to see you actually care for $Sara."
+@@
+
+Noticing your advancing hand, the boy swipes it away and starts to walk away.
+
+$Randy:
+@@#RandyText;
+"$Sara let's go! You wasted too much of my time already."
+@@
+
+$Sara:
+@@#SaraText;
+"What?! $Sara don't wanna!"
+@@
+
+Upon hearing this, $Sara falls to the ground and starts to throw a tantrum; kicking and screaming.
+
+$Sara:
+@@#SaraText;
+"I wanna hang out with $Sara's boyfriend! I wanna! I wanna!"
+@@
+
+Looking at $Sara throwing a tantrum, you're reminded of how your little sister used to be.
+--
+@@#choices;
+<<button [[Next.|Sara Introduction10]]>><</button>>
+@@
+
+

@@ -1,0 +1,19 @@
+:: PreSuikoRouteDay03 {"position":"28010,3510","size":"100,100"}
+As you get ready to open the front door, you step on the welcome mat and hear the sound of crumpling paper under your feet. At first, you're confused until you recall the letter from $Suiko you received yesterday.
+
+Reaching under the mat, you retrive the now soaked letter into your grasp. As you look at the peeling , purple heart sticker a damning realization washes over you.
+
+Your job starts at 9am and $Suiko requested to see you at 9am. 
+
+You open the letter again but find the once readable letter is now smeared by the morning dew and slightly damp. You can't possibly abandon your first day of work but you're also worried and want see $Suiko.
+
+Do you decide:
+--
+@@#choices;
+<<button [[Work is more important|PreSuikoRouteDay03'fail']]
+>><</button>>
+<<button [[Quickly go and visit her|PreSuikoRouteDay03'pass']]
+>><</button>>
+@@
+
+

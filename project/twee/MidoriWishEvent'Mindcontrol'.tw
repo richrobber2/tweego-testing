@@ -1,0 +1,27 @@
+:: MidoriWishEvent'Mindcontrol' {"position":"8550,3090","size":"100,100"}
+$Midori:
+@@#MidoriText;
+"Well I'm standing waiting!"
+@@
+
+You're stumped at this point and instead of wishing for world peace or out of your situation, you let your perverted feelings do the talking.
+
+$Name:
+@@#ProtagText;
+"I wish to be able to control people's minds!"
+@@
+
+The young looking fairy girl looks at you with a judgmental stare and then sighs; resting her hands on her thin thighs.
+
+$Midori:
+@@#MidoriText;
+"May...I ask why? It may be your saving grace!"
+@@
+--
+@@#choices;
+<<button [[I want to improve my life!|MidoriWishEvent'Mindcontrol'1]]>><</button>>
+<<button [[I want to use it to pick up chicks!|MidoriWishEvent'Mindcontrol'1-1]]>><</button>>
+<<button [[I want to use it to make a harem!|MidoriWishEvent'Mindcontrol'1-2]]>><</button>>
+@@
+
+

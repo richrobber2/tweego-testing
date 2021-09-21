@@ -1,0 +1,17 @@
+:: PreSuikoRouteDay03'pass' {"position":"28150,3650","size":"100,100"}
+Damn it, this is quite the situation. 
+
+$Suiko is a timid girl, if she wanted you to see her it must be something important. While this could look bad to miss your first day of work over something so petty, you feel like you could discover why she was dressed in trash bags and makeshift clothes.
+
+...
+
+Should you really do this?
+--
+@@#choices;
+<<button [[No, head to work.|PreSuikoRouteDay03'fail']]
+>><</button>>
+<<button [[Take the risk and go see her.|PreSuikoRouteDay03preintro]]
+>><</button>>
+@@
+
+

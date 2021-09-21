@@ -1,0 +1,37 @@
+:: KarenIntroduction'NonSmoking''3' {"position":"17370,3650","size":"100,100"}
+$Name:
+@@#ProtagText;
+"$Karen, if you wanted some money I-"
+@@
+
+Hearing the key word of your sentence, $Karen runs up toward you with a genuine smile.
+
+$Karen:
+@@#KarenText;
+"Oh yes please! I need some money!"
+@@
+
+Make sure she doesn’t steal from you again, you take some steps back, pull out your wallet and pull out a Twenty dollar bill. Noticing the bill amount, $Karen's eyes widen and she starts to fidget anxiously.
+
+$Name:
+@@#ProtagText;
+"Tell me what you need it for and I'll give you this twenty."
+@@
+
+She seems to be taken back by your request sighs; looking defeated.
+
+$Karen:
+@@#KarenText;
+"...Iwantedtobuysomecigarettes..."
+@@
+
+She mumbled under her breath.
+--
+@@#choices;
+<<button [[Tell her no and scold her.|KarenIntroduction'NonSmoking''4']]
+>><</button>>
+<<button [[Give her the money.|KarenIntroduction'NonSmoking''3'1]]
+>><</button>>
+@@
+
+

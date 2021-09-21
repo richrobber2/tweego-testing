@@ -1,0 +1,38 @@
+:: MidoriLoveEvent1-C {"position":"8410,4070","size":"100,100"}
+$Name:
+@@#ProtagText;
+"My Sister, $Arisa was my first kiss!"
+@@
+
+You announce knowing the answer.....but out loud you sound like a jerk.
+
+$Midori:
+@@#MidoriText;
+"Haha! I didn't think you'd answer that so quickly? Have you no self-respect?"
+@@
+
+The fairy girl laughs at you as you come to realize your annoying sister stole your lip virginity.
+
+<<set $MidoriLove +=20>>\
+
+$Midori:
+@@#MidoriText;
+"Hehe! Now tell me who loves you the most!"
+@@
+
+Who loves you the most? How can you simply answer that?!
+--
+@@#choices;
+<<if $ArisaLove gt 100>>
+<<button [[My sister does!|MidoriLoveEvent1-D]]>><</button>><</if>>
+<<if $SuikoErased eq 0>>
+<<if $SuikoLove is 100>>
+<<button [[The hooded girl does!|MidoriLoveEvent1-E]]>><</button>>
+<</if>>\
+<</if>>\
+<<if $RediaLove is 100>>
+<<button [[The sporty girl does!|MidoriLoveEvent1-F]]>><</button>><</if>>
+<<button [[No one loves me!|MidoriLoveEvent1-G]]>><</button>>
+@@
+
+

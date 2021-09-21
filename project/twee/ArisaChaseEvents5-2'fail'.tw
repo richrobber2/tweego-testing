@@ -1,0 +1,36 @@
+:: ArisaChaseEvents5-2'fail' {"position":"21290,5190","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Don't tease me you little kitty~!"
+@@
+<<set $Libido +=20>>\
+Lost in her charm, you nuzzle your nose on your imouto's tummy and lick her sweet skin.
+
+$Arisa:
+@@#ArisaText;
+"Nyan~"
+@@
+
+You drop your arms to see $Arisa playfully meowing and purring at you.
+
+...
+
+Enough of this.
+
+You take a breath and carry the lewd brat towards her room.
+
+$Arisa:
+@@#ArisaText;
+"Nyan, I wuv Nyan-Chan!"
+@@
+<<set $ArisaLove +=60>>\
+With that, you toss the girl into her room and slam the door.
+
+While you can hear her moan to tease you, you head to your room and lock the door.
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

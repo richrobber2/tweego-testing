@@ -1,0 +1,30 @@
+:: PreSuikoRouteDay03preintro {"position":"28430,3090","size":"100,100"}
+<<set $SuikoDay03Resets to 0>>\
+Despite knowing this could result in you possibly losing your job, you feel a strong need to visit $Suiko today. Pretty sure $Amber won't mind(because you're helping a loli).
+
+Fighting your better judgement, you try to recall were blueful lane is and start heading there.
+
+...
+
+Walking around the residental areas by you served no results. You aimlessly walk around until you recall a memory of walking the train tracks as a kid. Blueful was the name of a old farmland that was abandoned soon after the urbanization of the city. While you haven't been there since you were a child, you can only assume the area must be around that old part of town. 
+
+Walking off the beaten path, you eventually find a the old train station hidden behind the towering Midori Hospital. Unlike the hospital and the booming city behind it, you're presented with malnurished land of rotting buildings and sketchy slums. You almost decide to turn back until you notice a wooden sign towering over the rotting wood structures and rusted metal;
+
+@@#NPCText;
+BlueFul Lane ->
+@@
+
+You follow the street sign you eventually find yourself in open vally of dust not far from the towering Midori Hospital. You appear to be lost at first; kicking up clouds of dust from the now unpaved roads until you discover a rusted, sun bleached street sign labeled '123 Blueful Lane".
+
+Looking around you only see a large, vacent fields that at one point of time appeared to be a old farm land. Dead trees lined the dirt path and only hint of human activity appeared to be a small shack with what appears to have some dying flowers planted around it. $Suiko said her house was around here, yet the only thing around her was that rotting shack in the middle of nowhere.
+
+From the look of it, you couldn't imagine anyone to live there. From where you're standing, the shack looks like a abandoned toolshed long forgotten after the farmland died. 
+
+Should you check it out?:
+--
+@@#choices;
+<<button [[Why not?|PreSuikoRouteDay03preintro1]]>><</button>>
+<<button [[Look around.|PreSuikoRouteDay03preintro'look around']]>><</button>>
+@@
+
+

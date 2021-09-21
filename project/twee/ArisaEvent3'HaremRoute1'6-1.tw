@@ -1,0 +1,20 @@
+:: ArisaEvent3'HaremRoute1'6-1 {"position":"20590,4210","size":"100,100"}
+Startled by your sister, you push her back and you quickly recovers to show her teary, blue eyes starting confused at you.
+
+$Name:
+@@#ProtagText;
+"Sorry, just...Go prepare for dinner."
+@@
+
+<<set $Depression +=20>>\
+<<set $ArisaLove -=20>>\
+Still crying, Your sad looking sister walks towards your door and shuts it behind her.  You feel like You shouldn't of been so pushy with her.
+
+Although slightly bummed, you go back to watching more anime until you need to make dinner.
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

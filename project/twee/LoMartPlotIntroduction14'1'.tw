@@ -1,0 +1,34 @@
+:: LoMartPlotIntroduction14'1' {"position":"14430,5050","size":"100,100"}
+You're not a pedophile! Although $Amber is acting really weird, you take a moment to plan your words and state,
+
+$Name:
+@@#ProtagText;
+"I like kids, but what do you mean?"
+@@
+
+$Amber sighs, but seems to understand what you said.
+
+$Amber:
+@@#AmberText;
+"Okay, I can respect that. I will admit it'll be better if you were a full blown pedophile but a pedosexual will work. Who knows; you could probably become one later! On your resume, it says you like children sexually, if you're luck you could easily make a girl like you."
+@@
+
+Wut?
+
+...$Arisa must have wrote that. If this was a different situation you'd surely be in jail by now.
+
+$Arisa looks over your resume again and says,
+
+$Amber:
+@@#AmberText;
+"Let me explain some things."
+@@
+
+You nod and wait for her question.
+--
+@@#choices;
+<<button [[Next.|LoMartPlotIntroduction15]]
+>><</button>>
+@@
+
+

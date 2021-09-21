@@ -1,0 +1,28 @@
+:: LoneRandyDay03'3' {"position":"28850,4070","size":"100,100"}
+While you find it odd that he wants you to buy him a dress of all things, you decide it isnt worth looking to deep into it. $Randy seems adamant about his desire and asking you seems to show his trust in you. You could help him but the amount of cash on him could really get him anything.
+
+$Name:
+@@#ProtagText;
+"I can see what I do, but-"
+@@
+
+You push his hands away from you and smile; regecting his money. At first $Randy seems annoyed until you explain,
+
+$Name:
+@@#ProtagText;
+"I'll buy you a dress but you came keep the money."
+@@
+
+$Randy:
+@@#RandyText;
+"But why? I saved for months?!"
+@@
+--
+@@#choices;
+<<button [[You don't have enough.|LoneRandyDay03'2'2']]
+>><</button>>
+<<button [[Save it, I can buy it for you.|LoneRandyDay03'4']]
+>><</button>>
+@@
+
+

@@ -1,0 +1,86 @@
+:: Sara Introduction1'5' {"position":"9950,3790","size":"100,100"}
+$Randy:
+@@#RandyText;
+"Oh, it's you. You better not of hurt my sister!"
+@@
+
+You could be a jackass and tell him off but, you decide to let this brat have his moment; he did go looking after his sister after all.
+
+$Name:
+@@#ProtagText;
+"Glad to see you came. Don't worry, $Sara is alright."
+@@
+
+You both lock gazes until $Sara grabs your arm and hugs your side.
+
+$Sara:
+@@#SaraText;
+"This is-...Um...”
+@@
+
+Noticing she never bothered to ask for my name, she leans her head towards your ear and whispers,
+
+$Sara:
+@@#SaraText;
+"Um....what’s your name?"
+@@
+
+You laugh slightly and whisper,
+
+$Name:
+@@#ProtagText;
+"It's $Name..."
+@@
+Not skipping a beat, she looks back towards her brother and yells,
+
+$Sara:
+@@#SaraText;
+"This is $Name!"
+@@
+
+$Randy:
+@@#RandyText;
+"Oh? So this loser does have a name."
+@@
+
+Appearing reluctant, $Randy walks towards you and offers a handshake. You look down at the blond boy to realize he is covered in dirt and scratches; his arm is also covered in cuts from the blood thirsty vines in the forest.
+
+$Randy:
+@@#SaraText;
+"In all honesty, I want to say you're right. I need to be a better brother to $Sara."
+@@
+
+$Randy starts to blush red then looks away from you. You stare at him for a moment, and notices you sheepish smirk.
+
+$Randy:
+@@#RandyText;
+"So what?! Anyways, we have to go..."
+@@
+
+$Sara:
+@@#SaraText;
+"What?!"
+@@
+
+Hearing this, she runs toward her brother and cling to his arm.
+
+$Sara:
+@@#SaraText;
+"Is this true? Do we have to leave so soon?"
+@@
+
+$Randy seems annoyed by her but just sighs; cementing his words to her by saying,
+
+$Randy:
+@@#RandyText;
+"I wasted enough time as it is looking for you! I'm sure '$Name" has better things to do."
+@@
+
+While you do have better things to do; there must be something you can do now to get $Randy to love her brother. Even if you can just get them to spend time together.
+--
+@@#choices;
+<<button [[Wish them goodbye.|Sara Introduction1'6']]>><</button>>
+<<button [[Think of something.|Sara Introduction1'7']]>><</button>>
+@@
+
+

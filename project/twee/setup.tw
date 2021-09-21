@@ -1,0 +1,143 @@
+:: setup {"position":"10,1690","size":"100,100"}
+@@#choices;
+What is your name?:
+@@\
+@@#ProtagText;
+<<textbox "$Name" "">>
+@@\
+@@#choices;
+What is your middle name?:
+@@\
+@@#ProtagText;
+<<textbox "$MidName" "">>
+@@\
+@@#choices;
+And your last name:
+@@\
+@@#ProtagText;
+<<textbox "$LastName" "">>
+@@\
+--
+@@#choices;
+<<button [[Confirm data.|setup1.4]]>><</button>>
+@@\
+<<nobr>>
+<<set $ReserveWish to 0>>
+<<set $AmberHateFeeling to 'No Hate'>>
+<<set $AmberHate to 0>>
+<<set $LibidoMenu to 0>>
+<<set $ReservedWishMenu to 0>>
+<<set $SuikoAwareTimer to 0>>
+<<forget $BADEND is true>>
+<<forget $BadEndCount>>
+<<set $BadEndCount to 0>>
+<<set $MidoriStats to 0>>
+<<set $Day1 to 0>>
+<<set $Day2 to 0>>
+<<set $Day3 to 0>>
+<<set $Day4 to 0>>
+<<set $Day5 to 0>>
+<<set $Day6 to 0>>
+<<set $Day7 to 0>>
+<<set $Day8 to 0>>
+<<set $PlayerNameDisplay to 0>>
+<<set $DepressionDisplay to 0>>
+<<set $Money to 0>>
+<<set $MoneyStats to 0>>
+<<set $ArisaStats to 0>>
+<<set $SuikoStats to 0>>
+<<set $RediaStats to 0>>
+<<set $LilithStats to 0>>
+<<set $RandyStats to 0>>
+<<set $SaraStats to 0>>
+<<set $AmberStats to 0>>
+<<set $KarenStats to 0>>
+<<set $IrisuStats to 0>>
+<<set $KarenStats to 0>>
+<<set $MikanStats to 0>>
+<<set $VivianStats to 0>>
+<<set $ArisaDepression to 0>>
+<<set $RediaDepression to 0>>
+<<set $SuikoDepression to 75>>
+<<set $SaraDepression to 0>>
+<<set $RandyDepression to 0>>
+<<set $LilithDepression to 0>>
+<<set $AmberDepression to 0>>
+<<set $MikanDepression to 0>>
+<<set $IrisuDepression to 0>>
+<<set $VivianDepression to 0>>
+<<set $ArisaDepressionStat to 0>>
+<<set $RediaDepressionStat to 0>>
+<<set $SuikoDepressionStat to 0>>
+<<set $SaraDepressionStat to 0>>
+<<set $RandyDepressionStat to 0>>
+<<set $LilithDepressionStat to 0>>
+<<set $AmberDepressionStat to 0>>
+<<set $MikanDepressionStat to 0>>
+<<set $IrisuDepressionStat to 0>>
+<<set $VivianDepressionStat to 0>>
+<<set $Abilities to 0>>
+<<set $UIBar to 0>>
+<<set $ArisaLoveStats to 0>>
+<<set $RediaLoveStats to 0>>
+<<set $SuikoLoveStats to 0>>
+<<set $MikanLoveStats to 0>>
+<<set $KarenLoveStats to 0>>
+<<set $AmberLoveStats to 0>>
+<<set $LilithLoveStats to 0>>
+<<set $VivianLoveStats to 0>>
+<<set $SaraLoveStats to 0>>
+<<set $RandyLoveStats to 0>>
+<<set $MidoriLoveStats to 0>>
+<<set $SuloziLoveStats to 0>>
+<<set $DayCounter to 0>>
+<<set $Depression to 0>>
+<<set $LoveMenu to 0>>
+<<set $Abilities to 0>>
+<<set $ArisaLoveFeeling to '...'>>
+<<set $ArisaHateFeeling to '...'>>
+<<set $ArisaDepressionFeeling to '...'>>
+<<set $RediaLoveFeeling to '...'>>
+<<set $RediaHateFeeling to '...'>>
+<<set $RediaDepressionFeeling to '...'>>
+<<set $SuikoLoveFeeling to '...'>>
+<<set $SuikoHateFeeling to '...'>>
+<<set $SuikoDepressionFeeling to '...'>>
+<<set $SaraLoveFeeling to '...'>>
+<<set $SaraHateFeeling to '...'>>
+<<set $SaraDepressionFeeling to '...'>>
+<<set $RandyLoveFeeling to '...'>>
+<<set $RandyHateFeeling to '...'>>
+<<set $RandyDepressionFeeling to '...'>>
+<<set $KarenLoveFeeling to '...'>>
+<<set $KarenHateFeeling to '...'>>
+<<set $KarenDepressionFeeling to '...'>>
+<<set $MidoriLoveFeeling to '...'>>
+<<set $MidoriHateFeeling to '...'>>
+<<set $MidoriDepressionFeeling to '...'>>
+<<set $MikanLoveFeeling to '...'>>
+<<set $MikanHateFeeling to '...'>>
+<<set $MikanDepressionFeeling to '...'>>
+<<set $VivianLoveFeeling to '...'>>
+<<set $VivianHateFeeling to '...'>>
+<<set $VivianDepressionFeeling to '...'>>
+<<set $NanakoLoveFeeling to '...'>>
+<<set $NanakoHateFeeling to '...'>>
+<<set $NanakoDepressionFeeling to '...'>>
+<<set $ClauseLoveFeeling to '...'>>
+<<set $ClauseHateFeeling to '...'>>
+<<set $ClauseDepressionFeeling to '...'>>
+<<set $SoluziLoveFeeling to '...'>>
+<<set $SoluziHateFeeling to '...'>>
+<<set $SoluziDepressionFeeling to '...'>>
+<<set $IrisuLoveFeeling to '...'>>
+<<set $IrisuHateFeeling to '...'>>
+<<set $IrisuDepressionFeeling to '...'>>
+<<set $ReservedWish to 0>>
+<<set $Wishes to 0>>
+<<set $Libido to 0>>
+<<set $Money to 0>>
+<<set $Fatigue to 0>>
+<<endnobr>>
+
+

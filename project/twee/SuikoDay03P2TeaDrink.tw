@@ -1,0 +1,22 @@
+:: SuikoDay03P2TeaDrink {"position":"31930,1550","size":"100,100"}
+You got to drink it; this shouldn't be such a issue. If you can eat the 'mud' pies $Arisa used to give you, then you can probably handle this.
+
+Hiding your reluctantcy, you pick up the thin, plasic cup and smile at $Suiko.
+
+$Name:
+@@#ProtagText;
+"I'll try some...Looks nice..."
+@@
+
+Now with the hot tea cup in your grasp, you bring it to your nose where you're assaulted by a pungent aroma of rot.
+
+The odor makes you dry heive but with $Suiko staring at you with antisipation; you must drink it... Even if it might kill you.
+
+You gester a toast and you bring the cup to your lips and-
+--
+@@#choices;
+<<button [[Take a sip|SuikoDay03P2TeaSip]]>><</button>>
+<<button [[Down the whole cup!|BAD END 21: Tainted Tea Was The End of Thee.]]>><</button>>
+@@
+
+

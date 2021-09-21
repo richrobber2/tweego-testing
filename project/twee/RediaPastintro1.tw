@@ -1,0 +1,32 @@
+:: RediaPastintro1 {"position":"10,4070","size":"100,100"}
+You decide the sporty girl would be an ideal companion for your overly energetic sister. Grabbing her small hand, you peer down at her and tell her your motives.
+<<set $RediaPastIntro to 1>>\
+<<set $RediaIntroLock to 1>>\
+
+$Name:
+@@#ProtagText;
+"Well you heard your new Principal, let's go find you a friend."
+@@
+
+You walk towards the bleacher as $Arisa protests and tries to escape your grip.
+
+$Arisa:
+@@#ArisaText;
+"NO! Brother is my friend! I don't want to~"
+@@
+
+You ignore her protest but a scene starts to form around you two. Noticing this, the twerp begins to cry and everyone looks at you forcing the defenseless girl towards the crowd of onlookers.
+<<timed 15s>>
+@@#NPCText;
+PING!
+@@
+
+Among the commotion, you turn around and see a baseball twirling towards you.<</timed>>
+--
+@@#choices;
+<<button [[Catch it!|RediaPastintro'love']]
+>><</button>>
+<<timed 25s>><<goto RediaPastintro'main'>><</timed>>
+@@
+
+

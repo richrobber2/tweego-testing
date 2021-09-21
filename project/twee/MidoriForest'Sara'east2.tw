@@ -1,0 +1,39 @@
+:: MidoriForest'Sara'east2 {"position":"6030,3090","size":"100,100"}
+<<if $lostcounter is 0>>\
+You decide to turn right and take the eastern path. While you advance, you start to notice the forest begin to close in around you; the path is growing narrower as you find yourself stepping over fallen logs and large rocks.
+
+You are slowing down and have to walk cautiously to ensure you don’t trip or twist an ankle.
+
+While there is no more trail or path, you find a small clearing in the increasingly warping forest. You're not sure if she took this route anymore but you are sure you can hear her within the still silence of this area.
+
+You look around in the clearing and find three openings that lead deeper into the woods. You're not sure if she's around here but you have an uncertain feeling you're not too far off.
+--
+@@#choices;
+<<button [[Head south.|MidoriForest'Sara'north3]]
+>><</button>>
+<<button [[Venture north.|MidoriForest'Sara'west3]]
+>><</button>>
+@@\
+<</if>>\
+<<if $lostcounter is 1>>\
+You blindly walk through the woods to try to head back with the only reassurance being that the woods starting to thin out a little. Eventually, you believe you found your previous path and you decide to:
+--
+@@#choices;
+<<button [[Head south.|MidoriForest'Sara'north3]]
+>><</button>>
+<<button [[Head north.|MidoriForest'Sara'west2]]
+>><</button>>
+@@\
+<</if>>\
+<<if $lostcounter gte 2>>\
+You blindly walk through the woods to try to head back but it seems that things are only getting thicker. To make it worse, the sun is starting to fade into darkness and an eerie wind begins to brush through he shaking trees. You feel like things are only getting worse and you feel your bearing begin to slip away.
+--
+@@#choices;
+<<button [[Head south.|MidoriForest'Sara'north3]]
+>><</button>>
+<<button [[Head east.|MidoriForest'Sara'west2]]
+>><</button>>
+@@
+<</if>>\
+
+

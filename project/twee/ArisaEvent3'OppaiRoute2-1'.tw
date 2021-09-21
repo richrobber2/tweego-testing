@@ -1,0 +1,38 @@
+:: ArisaEvent3'OppaiRoute2-1' {"position":"20450,3790","size":"100,100"}
+You are disgusted by the new, breasted sister you have and feel sickened and worried about her back.
+
+$Arisa:
+@@#ArisaText;
+"Well, you like cow girls?"
+@@
+
+$Name:
+@@#ProtagText;
+"No, I hate this!"
+@@
+
+You yell at the top of your lungs!
+
+Your sister looks at you and seems startled by your outcry.
+
+$Arisa:
+@@#ArisaText;
+"Wha-What do you mean?"
+@@
+
+You pound your chest and press a palm of defiance and protest.
+
+$Name:
+@@#ProtagText;
+"I don't like breasts! I'm a lolicon! Bravo, flat chest!"
+@@
+
+While you are now praising the loli gods, $Arisa seems defeated and walks out of your room; defeated.
+...What an odd girl.
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

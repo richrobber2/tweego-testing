@@ -1,0 +1,46 @@
+:: BAD END 10: Lucky {"position":"1550,290","size":"100,100"}
+/* TODO add code for achievment here */
+$Name:
+@@#ProtagText;
+"Okay, I will wish for luck!"
+@@
+
+$Midori smiles suspiciously then snaps her fingers. The vibrations of the snap echoing through reality and you feel yourself feel more chipper and oddly inspired.
+
+You pick up a nearby rock and smile at $Midori as she looks at you with s half-cocked smile.
+
+$Midori:
+@@#MidoriText;
+"You're so lucky you're unaware of my mind control. “Lucky" for you will not feel the pain."
+@@
+
+A small sense of reason fights your muscles in your arm until you watch yourself begin to bash your face in with the rock. While it's true you don't feel the pain you're horrified and immobile to stop it.
+
+@Midori:
+@@#MidoriText;
+"I hate humans for this reason. I would have helped you out but I hate retard-selfish human-sheep!"
+@@
+
+You catch one last glimpse at the rock hauling towards you and your vision goes black. You felt your eyes compress to an ooze of fleshy paste that sticks to the rock.
+
+@Midori:
+@@#MidoriText;
+"The Wish will fade away after 30 minutes, so I wonder if you will damage your brain and pass out or survive to feel all that pain at once~!"
+@@
+
+She laughs childishly as you discover your brutal fate.
+
+...
+
+You bash the rock against your skull for almost a half an hour until you feel an intense flood of agonizing pain and you are instantly granted your expected death.
+
+<font size="3.5"><font color="#f23d00"><b>Greed is a flaw of man.</b></font>
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 10: Lucky.">><<script>>Engine.restart();<</script>><</button>>/
+@@
+
+

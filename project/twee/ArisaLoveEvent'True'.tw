@@ -1,0 +1,32 @@
+:: ArisaLoveEvent'True' {"position":"23530,3790","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Well, I think its because I'm your brother?"
+@@
+
+$Arisa sighs in a tone fitting of being defeated then half-hearteningly smiles. Crossing her arms, she says,
+
+$Arisa:
+@@#ArisaText;
+"It's more then simply just being related but that's the reason.."
+@@
+
+She doesn't seem satisfied by your response but seems more unsure; almost hesitant to ask you something. $Arisa is looking around as a nervous mess and seems reluctant to make eye contact with you.
+
+Inhaling dramatically, she quickly makes direct eye contact and softly says,
+
+$Arisa:
+@@#ArisaText;
+"What if I told you-! Um...Because I like you..?"
+@@
+
+Your sister smiles uneasily and starts to fidget.
+--
+@@#choices;
+<<button [[Tell her you say that all the time!|ArisaLoveEvent'TrueFail']]
+>><</button>>
+<<button [[I love you too, Imouto!|ArisaLoveEvent'TruePass']]
+>><</button>>
+@@
+
+

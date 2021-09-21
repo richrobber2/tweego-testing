@@ -1,0 +1,75 @@
+:: ArisaEvents3'NoVideos'2 {"position":"21570,3650","size":"100,100"}
+Seeing no harm (and being a 'normal' comedy anime) it should actually be fun!
+
+$Arisa sits by your bedside and watches the comedy unfold.
+
+...
+
+LoliconMan:
+@@#NPCText;
+"I-The Great LoliconMan, Only wish to save you loli girl~"
+@@
+
+The scene plays out with are everyday LoliconMan helping a lost girl in your local train station! Caped in the finest print of Yotsuba Koiwai(His favorite loli this episode), body pillow case that also makes him immune to bullets.
+
+The 'loli' this episode is a rude, black haired girl wearing dominatrix gear and burnishing a leather whip.
+
+Seeing the 'pedophile' advance, she lashes out her weapon and smacks it on the concert flooring.
+
+Loli:
+@@#NPCText;
+"Back off sicko! I don't need your smelly body near me~"
+@@
+
+The 'masked' hero politely takes a grand sniff of one of his armpits and inhales deeply. The little girl cringes.
+
+Loli:
+@@#NPCText;
+"What a freak, back off!"
+@@
+
+LoliconMan:
+@@#NPCText;
+"A little girl like you shouldn't be wearing sexy attire in public!"
+@@
+
+Then, as an annoying bit, he screams in heroic glory and announces,
+
+LoliconMan:
+@@#NPCText;
+"I'm here to ensure you get home in one peace! You know creeps realm at night!"
+@@
+
+The trained loli smacks her whip at the perverse hero and yells angrily,
+
+Loli:
+@@#NPCText;
+"Gee~ Thanks for warning me! Now hack off, Pedophile!"
+@@
+
+Are hero is deeply offended by her name calling. LoliconMan grew up as a normal, everyday American Boy who discovered a magical doujinshi that gave him the ability to be super strong, somewhat fast (he hates running), and can only be killed by a fellow Lolicon!
+
+He swore long ago to use to powers to protect the world (and lolis) from harm or danger.
+
+...
+
+This drags one for a __hour__ but it's a funny show with a quirky charm of familiarity.
+
+As the time goes by, you lean over your bed to find your little sister slumped over on the foot of your bed.
+
+She mumbles in her dream-like state,
+
+$Arisa:
+@@#ArisaText;
+"$Name, I um..-love you..hehe~"
+@@
+
+--
+@@#choices;
+<<button [[Wake her up.|ArisaBedEvent'wakeherup']]
+>><</button>>
+<<button [[Carry her to her bed.|ArisaBedEvent1]]
+>><</button>>
+@@
+
+

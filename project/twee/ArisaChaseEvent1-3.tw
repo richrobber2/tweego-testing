@@ -1,0 +1,23 @@
+:: ArisaChaseEvent1-3 {"position":"21990,5050","size":"100,100"}
+You don't have time to indulge her sexy antics.
+
+$Name:
+@@#ProtagText;
+"I'm going to go now!"
+@@
+
+Your annoyed sister pouts at you while flashing her panties.
+
+$Arisa:
+@@#ArisaText;
+"Don't leave your property abandoned! It'll get cold~"
+@@
+
+Not wanting to be entrapped, you hurry to your door and slam it behind you.
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

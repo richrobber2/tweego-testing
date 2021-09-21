@@ -1,0 +1,88 @@
+:: Credits {"position":"290,1410","size":"100,100"}
+<<timed 1s>>
+Game was Created, Written and Compiled by:
+<</timed>>
+<<timed 2s>>
+   -''The LoliconMan''
+<</timed>>
+<<timed 3s>>
+Volunteers or Advice Givers:
+<</timed>>
+<<timed 4s>>
+-''Chaozura'' (Friend and Motivator)
+<</timed>>
+<<timed 6s>>
+-''claws61821'' and ''g1506418@mvrht.com'' (Spotted typos in 0.1 alpha release)
+<</timed>>
+<<timed 8s>>
+-''dimby'' aka ''Protolewd'' (Helped with programming, found typos and made the stylesheet)
+<</timed>>
+<<timed 10s>>
+-''Iratu'' (Spotted typo in 0.1 Alpha 1-3-18 Update.)
+<</timed>>
+<<timed 12s>>
+-''Kaura'' and ''Masterzany'' (Spotted typo in 0.1 Alpha 1-4-18 Update.)
+<</timed>>
+<<timed 14s>>
+-''johnanon'' (Supplied a fix for stylesheet.)
+<</timed>>
+<<timed 16s>>
+-''FreedomPantsu'' (Spotted Typo in 0.1 Alpha. Made .APK versions of the game.)
+<</timed>>
+<<timed 18s>>
+-''matttrap'' (Fixed many Typos in 0.2 Alpha Prerelease.)
+<</timed>>
+<<timed 20s>>
+-''Lord'' (Corrected Lilith old english in 0.2 Prerelease 3)
+<</timed>>
+<<timed 22s>>
+-''VioletFrost'' (Cool fan who motivated me.)
+<</timed>>
+<<timed 24s>>
+-''RockEstre'' (Fan Since I started 0.1.)
+<</timed>>
+<<timed 26s>>
+-''pollyanna'' (Corrected Lilith old english and helped with planning and keeping me in line.)
+<</timed>>
+<<timed 28s>>
+-''Gaihawk'' (Corrected Day01 bug in 0.2 FINAL)
+<</timed>>
+<<timed 30s>>
+-''TooShyForThis'' (Supplied tons of typo fixes for 0.2 FINAL Revised)
+<</timed>>
+<<timed 32s>>
+-''Arima'' (Supplied tons of typo fixes for 0.2 FINAL Revised)
+<</timed>>
+<<timed 34s>>
+-''Horváth Márk'' (Helped with ideas, planning and structure)
+<</timed>>
+<<timed 36s>>
+-''fishfood34'' (Reported bug in 0.3 part 1)
+<</timed>>
+<<timed 38s>>
+-''FatherPoe'' (Reported typos in 0.3 prototype)
+<</timed>>
+<<timed 40s>>
+-''Cimentación'' (Helped with error reporting, cool dude!)
+<</timed>>
+<<timed 42s>>
+-''X_KinHunter'' (Reported tons of typos and fixed in 0.3 Prototype)
+<</timed>>
+<<timed 44s>>
+-''Adaddon'' (supplied tons of fixes for 0.3 Prototype)
+<</timed>>
+<<timed 46s>>
+-''GuStar277'' and ''Estell Arsene'' (Reported typos and bugs in 0.3 Prototype)
+<</timed>>
+<<timed 48s>>
+-And all of AllTheFallen.ninja and My Patreon!
+<</timed>>
+<<timed 50s>>
+And Players Like You, Thank You!
+<</timed>>
+--
+@@#choices;
+<<button [[Options.|Menu]]>><</button>>
+@@
+
+

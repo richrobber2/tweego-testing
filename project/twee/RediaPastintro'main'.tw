@@ -1,0 +1,58 @@
+:: RediaPastintro'main' {"position":"10,4210","size":"100,100"}
+While you see the ball rushing toward you, you notice you don't have the time to dodge it. Thankfully, your sister jumps ahead of you and impressively catches the fast spinning ball.
+
+<<set $RediaPastIntro to 1>>\
+
+$Arisa:
+@@#ArisaText;
+"I got it!"
+@@
+
+Among the chatting onlookers, a lone clapping gets your attention as you see the red head approach $Arisa.
+
+Red head:
+@@#RediaText;
+"Impressive! I never seen a girl catch a baseball with her bare hands."
+@@
+
+$Arisa throws the ball back to the red head and advances toward her.
+
+Red head:
+@@#RediaText;
+"Sorry, I was trying to knock out that adult. I thought he was kidnapping you."
+@@
+
+The two girls eye each other down. $Arisa seems unsure at first, then surprises you by gesturing a handshake.
+
+$Arisa:
+@@#ArisaText;
+"He' just a mess sometimes. So what's your name?"
+@@
+
+The sporty girl, still impressed by the swift ball defense shakes her hand and looks back at you..
+
+$Redia:
+@@#RediaText;
+"Name's $Redia. I take it this is your guardian? Ha, seems like you do the 'guarding'."
+@@
+
+What a twerp. Seems like they could actually get along!
+
+$Name:
+@@#ProtagText;
+"This is my spunky sister, $Arisa. I saw that-."
+@@
+
+$Redia:
+@@#RediaText;
+"$Arisa you say?"
+@@
+
+The two girls continue shaking hands and you decide to back up and observe the interaction.
+--
+@@#choices;
+<<button [[Observe them.|RediaPast'Main'2]]
+>><</button>>
+@@
+
+

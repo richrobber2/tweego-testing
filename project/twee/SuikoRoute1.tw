@@ -1,0 +1,27 @@
+:: SuikoRoute1 {"position":"2670,2250","size":"100,100"}
+You decide to head back outside. While opening the door you hear a loud scream of terror and a tiny weight collides into you; forcing you outside onto the front porch.
+
+$Name:
+@@#ProtagText;
+"OW! What was tha-"
+@@
+
+You flip yourself over to find $Suiko lying on your back; her plush rabbit can be seen in your peripheral vision being thrown from the colliding impact. As $Suiko regains her bearings, she notices her rabbit plush falling on the nearby road.
+
+$Suiko:
+@@#SuikoText;
+"NO!..Mr.Rabbit!!"
+@@
+
+$Suiko pulls herself up (stepping on your back as leverage) and runs to rescue her dear plush.
+
+As she runs torward the road, you notice a large truck with no purpose being on a residential road, speeding toward the stuffed rabbit.
+--
+@@#choices;
+<<button [[Try to stop her!|Try to stop her]]
+>><</button>>
+<<button [[Go Back Inside.|Bad End 12: Spectator]]
+>><</button>>
+@@
+
+

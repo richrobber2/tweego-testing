@@ -1,0 +1,25 @@
+:: Day03Introduction {"position":"26050,3510","size":"100,100"}
+-Well, It wasn't.
+
+You spend another sleepless night alone with your thoughts.
+
+Your mind rattles with insecurity of what's to come. You never had a job before; despite your parents being assholes now, you're lucky they didn't pull this shit sooner.
+
+You could still fail...And it needlessly pesters your brain with doubt.
+
+You don't want to work or get a job; You just feel like you have to. You know you're an adult, but being a single, male caretaker to a nine year old makes it seem unfair!
+
+Your parents seem to be doing well, yet expect you to care for there household?! Your mother is a CEO for fuck sake!
+
+Well, at least the worst part is over, all you have to do now is keep your job and not fuck up; The thing you're best at!
+
+...
+
+Eventually, you decide to stop laying in your bed and start to prepare for work.
+--
+@@#choices;
+<<button [[Next.|Day03Introduction1]]
+>><</button>>
+@@
+
+

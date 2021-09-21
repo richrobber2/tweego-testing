@@ -1,0 +1,41 @@
+:: SuikoDay03'1'3-3 {"position":"31090,990","size":"100,100"}
+Noticing $Suiko appears upset with your invasive questions, you walk up to her and she appears to be....crying?
+
+You were just concerned about her wellbeing; Is she worst off then you originally thought?
+
+$Name:
+@@#ProtagText;
+"$Suiko, are you okay?"
+@@
+
+She doesn't say anything, but starts to wipe her face with her hoodie sleeves. She seems visably upset and you haven't even been here for more then a few minutes. Concerned about her or not, you shouldn't have bombarded her so many questions. 
+
+She wanted you to come over, not to question her living status.
+
+$Name:
+@@#ProtagText;
+"How about you invite me into your house? I'm sure it must be nice inside."
+@@
+
+Coming back to the original subject, $Suiko's expression 180s and she appears more cheerful. The near instant tone shift took you back.
+
+You stand there waiting for a reaction until you see $Suiko brush her hood off and smile at you.
+
+$Suiko:
+@@#SuikoText;
+"Oh...Right. I have a surprise....hehe."
+@@
+
+She then grasps your wrist (her arms in her sleeves), and weakly tugs you towards her 'house'.
+
+$Suiko:
+@@#SuikoText;
+"Hurry, I made tea~!"
+@@
+--
+@@#choices;
+<<button [[Say you should go.|SuikoDay03fail1]]>><</button>>
+<<button [[Follow her inside.|SuikoDay03P2Intro]]>><</button>>
+@@
+
+

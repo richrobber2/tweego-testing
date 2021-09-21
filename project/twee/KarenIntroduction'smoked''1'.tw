@@ -1,0 +1,18 @@
+:: KarenIntroduction'smoked''1' {"position":"16390,3370","size":"100,100"}
+You nonchalantly nod and go back to your smoking session.
+
+While the girl seems annoyed by the fact you're obviously ignoring her she quickly diverts her attention to smoking her cigarette and leaves soon after.
+
+...
+
+After a while, the girl throws her cigarette butt on the ground and walks off, leaving you with a few moments of silence to finish your cancer stick.
+
+Once your cigarette is near the end of its life, you stump it out on the bench and decided that this is probably a good time to head home; $Arisa must be waiting on you.
+<<set $KarenErased to 1>>\
+--
+@@#choices;
+<<button [[Walk back home.|PreArisaEvent3]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,17 @@
+:: SuikoDay03P2SuikoDrinkteastopfail {"position":"32350,1550","size":"100,100"}
+Noticing the ackward situation before you, you decide to remain quiet and let $Suiko calm down. 
+
+The room becomes silent with the exception of stifled sniffles and the few sobs of $Suiko trying to compose herself. When the girl looks at you for something reassuring you could probably say, you only dart your attention away and only look down at the now shattered cup beside her.
+<<set $SuikoDepression +=10>>\
+<<set $Depression +=10>>
+<<set $SuikoHate +=10>>\
+After the few uncomfortable moments of uncomfortable silence, the still visably upset $Suiko sits back down and joins you in the silence of uncomfortable air.
+
+...
+--
+@@#choices;
+<<if $SuikoDay03P2Observe is 0>><<button [[Observe her.|SuikoDay03P2SuikoObserve]]>><</button>>
+<</if>>\
+@@
+
+

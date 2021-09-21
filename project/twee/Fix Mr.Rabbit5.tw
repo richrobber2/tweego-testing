@@ -1,0 +1,56 @@
+:: Fix Mr.Rabbit5 {"position":"2670,3930","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Well? I tried my best. Sorry but-"
+@@
+But you are at loss of words. You stop talking as you see tears start pelting onto the fabric.
+
+$Suiko:
+@@#SuikoText;
+"I...I...-"
+@@
+
+$Suiko surprises you by quickly putting the hoodie on and zipping it up. Draped in the modified hoodie, she stands still; her lips starting to quiver.
+
+$Suiko:
+@@#SuikoText;
+"...ura..ura..ehehe~"
+@@
+
+She is mumbling under her breath but you are sure she was laughing.
+
+Not expecting the burst of energy, $Suiko starts to hop in place.
+
+$Suiko:
+@@#SuikoText;
+"Ura ura~ Hehe! Ura *sniffle* ehehe!"
+@@
+
+As she jumps, she notices how the bunny ears sway around but always pop back to attention.
+
+She stops jumping and starts to sway her head around as if enjoying the motion of them.
+
+$Suiko(???):
+@@#SuikoText;
+"$Suiko? $Suiko! It's me!"
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+$Suiko starts to talk to herself.
+
+$Suiko:
+@@#SuikoText;
+"Oh? Mr.Rabbit you're okay!"
+@@
+
+Her eyes fill with excitement 'hearing' this.
+--
+@@#choices;
+<<button [[Next.|Fix Mr.Rabbit6]]
+>><</button>>
+@@
+
+

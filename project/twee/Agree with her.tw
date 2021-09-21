@@ -1,0 +1,14 @@
+:: Agree with her {"position":"3930,2670","size":"100,100"}
+You get ready to agree with $Redia but your sister's damning stare is 'expecting you' to agree with her. While you will miss your childhood game, it seems best to let her borrow it for now.
+
+For your well being, you should give $Redia the hand-held;
+
+...If only to make the cute tomboy happy.
+<<set $GaveRediaHandheld to 0>>\
+--
+@@#choices;
+<<button [[Reluctantly give her your 'Game Loli®'(The Classic Handheld Game System Now In Pink'.®)|RediaRouteOne 5]]
+>><</button>>
+@@
+
+

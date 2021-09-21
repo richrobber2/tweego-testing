@@ -1,0 +1,30 @@
+:: PlotIntroduction10 {"position":"5050,3510","size":"100,100"}
+You ruffle your adorable little sister's bed head.
+
+$Name:
+@@#ProtagText;
+"You seem to know what you're doing, but only for today!"
+@@
+
+Your sister seems shocked by your words, which causes your Imouto to quickly lean over, steal another mouth kiss from you, back off and giggle.
+
+$Arisa:
+@@#ArisaText;
+"I won't let my dearest Onii-Chan down!...Hehehe~ I even got a kiss~"
+@@
+She worries you a lot. You really need to tell her it's not acceptable to kiss your brother like that!
+
+$Arisa:
+@@#ArisaText;
+"Okay! I'll be doing your resume and application! How about my protagonist Onii-Chan takes a break from the main plot and explores a little?~"
+@@
+@@#EffectText;
+Wut?
+@@
+--
+@@#choices;
+<<button [[Continue.|PlotIntroduction11]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,54 @@
+:: LoneRandyDay03'2'2' {"position":"28990,4070","size":"100,100"}
+Confused that he thinks that seven dollars would buy him a dress, you decide to be honest and tell him.
+
+$Name:
+@@#ProtagText;
+"Your money isn't enough. Girl clothes are considerably more expensive. It's better if I just buy you one."
+@@
+<<set $RandyLove -=40>>
+
+His reactions was not one you antisipated. He crumbles the cash into his fist and gives you a foul stare.
+
+$Randy:
+@@#RandyText;
+"What? My money isnt good enough to take!?"
+@@
+
+Backing up nervously and slightly confused, you reach into your shirt's breast pocket and pull out a crisp one hundred dollar bill.
+
+$Name:
+@@#ProtagText;
+"It's not that! You dont have enough to buy anything that would be nice. How about you just keep your money and I'll buy you a dress."
+@@
+
+$Randy's blue eyes squint angerly towards you then sighs; putting his money back into his tight denim shorts. 
+
+$Randy:
+@@#RandyText;
+"Forget it, I'll just do it myself. I don't need an 'adult' to tell me I'm poor."
+@@
+
+Did he take what you said as a insult? Why the hell would he get upset you just offered to use your own money to buy him a dress!
+
+$Name:
+@@#ProtagText;
+"Hey, I didn't mean to sound rude! Look, just forget it. I was just thinking you should let me buy you a dress and you can save up the money you have!"
+@@
+
+$Randy's face softens as he looks back at you; exhaling.
+
+$Randy:
+@@#RandyText;
+"I worked hard for my money. I'm just a kid, you know. It took me almost a month just to get it. I won't be mad at you anymore if you buy me a nice dress."
+@@
+
+You should have took that into consideration. Feeling bad about how rude you sounded, you should just agree to his request.
+--
+@@#choices;
+<<button [[Forget it.|LoneRandyDay03'5]]
+>><</button>>
+<<button [[Sounds like a plan!|LoneRandyDay03'5'1']]
+>><</button>>
+@@
+
+

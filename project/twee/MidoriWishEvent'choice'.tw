@@ -1,0 +1,28 @@
+:: MidoriWishEvent'choice' {"position":"7990,3370","size":"100,100"}
+Left with this big choice; you think about your wish.
+
+Right now you have a cute, petite, loli fairy that can grant any wish before you. While you're judgmental about this whole situation; anything that involves loli is great!
+
+$Name:
+@@#ProtagText;
+"Let me think about it. It's a tough decision!"
+@@
+
+$Midori gives you an impatient look and starts to hover around your indecisive skull.
+
+$Midori:
+@@#MidoriText;
+"Hurry up human~ I been asleep for probably years so stop wasting my time-life~."
+@@
+
+Her childish voice makes this sound unnerving; as if a wind-up doll was speaking. Adding to the fear factor, she seemed detached from reality and childishly laughs after each sentence.
+
+You stare forward to think about what to wish for as the three foot loli orbits your colossal head.
+--
+@@#choices;
+<<button [[Be my Girlfriend!|MidoriEvent'TrueRoute']]>><</button>>
+<<button [[Wish for cash.|MidoriWishEvent'CashWish']]>><</button>>
+<<button [[Save my wish for later!|MidoriWishEvent'SaveWish']]>><</button>>
+@@
+
+

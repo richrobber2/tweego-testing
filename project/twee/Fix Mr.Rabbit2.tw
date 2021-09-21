@@ -1,0 +1,55 @@
+:: Fix Mr.Rabbit2 {"position":"2670,3510","size":"100,100"}
+<<seen>>
+    <<drop '$playerinventory' 'Scissors'>>
+    <<drop '$playerinventory' 'Needle'>>
+    <<drop '$playerinventory' 'Springs'>>
+    <<drop '$playerinventory' 'spindle of thread'>>
+    <<notify 'warn'>>You no longer have sewing tools<</notify>>
+<<hidden>>
+<<content>>
+$Suiko:
+@@#SuikoText;
+"I..clean.."
+@@
+<</seen>>
+
+<<set $Libido +=20>>\
+You look behind you and nearly have a heart attack! Before your mortal eyes, the flushed red $Suiko stand before you; Naked.
+
+@@#EffectText;
+HOLY SHIT!
+@@
+
+You are frozen as your eyes can't help but notice as the preteen stands nude as if uncaring you are eying her. You can't help but look at her small, perky pink bosom and hairless mound.
+
+Her skin, while pale, radiates a blush of red from the hot bath. $Suiko's brown hairs are blanketing her bare shoulders and you can smell a strawberry shampoo emitting from her clean body.
+
+After a moment of being in shock, $Suiko walks closer to you and stares into your eyes,
+
+$Suiko:
+@@#SuikoText;
+"Mr.Rabbit....Can I s-him.."
+@@
+
+Her gaze makes you blush and panicking, you take your polo shirt off and throw it to her.
+
+Aware now she doesn't have any pants or panties, you reach into the clean clothes basket and grab her a set you know $Arisa wont miss and start tossing articles of dress wear at her.
+
+$Name:
+@@#ProtagText;
+"Umm..Put this on first! Mr.Rabbit is in the dryer!"
+@@
+
+$Suiko
+@@#SuikoText;
+"Is this..okay?"
+@@
+
+You nod and wait for her to tell you she is dressed.
+--
+@@#choices;
+<<button [[Wait for her to get dressed.|Fix Mr.Rabbit3]]
+>><</button>>
+@@
+
+

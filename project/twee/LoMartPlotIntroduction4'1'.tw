@@ -1,0 +1,23 @@
+:: LoMartPlotIntroduction4'1' {"position":"14430,3930","size":"100,100"}
+'Stock Room'.
+<<set $Stockroomevent is 1>>\
+
+You wonder what type of things this store keeps in the back. You decide to walk into the stock room and find yourself in inside a large aluminum room filled with plastic wrapped cubes of merchandise and large, metal shelfs of hastily tossed items and opened bulk packages.
+
+You walk down the long supply room and find a lone box sitting in solitary on a pedestal.
+
+Curious, you walk towards the box and are amazed to find a unopened "Shota'Boy Advanced Oppai Edition©" sitting unattended on a pedestal
+You always wanted one and seeing a mint condition example sitting idly sends unwholesome thoughts to your brain;
+
+You could steal it.
+
+You always wanted to get one, but the absurd price of five hundred and ninety nine dollars is way too much for a 3D handheld. You look around and surprisingly see no cameras that could notice your theft.
+--
+@@#choices;
+<<button [[Steal the 'Shota'boy Advanced Oppai Edition©'.|BAD END 3: The Smartest Thief]]
+>><</button>>
+<<button [[Head back and go into the manager's office.|LoMartPlotIntroduction5]]
+>><</button>>
+@@
+
+

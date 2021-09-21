@@ -1,0 +1,22 @@
+:: SuikoDay03P2SuikoObserveFigure {"position":"33750,1830","size":"100,100"}
+<<set $ObservedSuikoday03p2 += 1>>\
+<<set $SuikoLookAtFigureDay03 to 1>>\
+Conserned by how malnurished looked a few days ago, you look at $Suiko's slender frame and study her.
+
+In a way, you're suprised you never noticed how bad she was until...Well, you saw her naked. She seems to be doing enough to maintain herself but how long could she keep this up? Hopefully she's getting enough nutrition. At least her, brown hair, eyes and fair, yet healthy tone of her skin makes her appear healthy but upon closer inspection she seems tired and noticably skinny.
+
+...
+
+As a young girl, she seems to be developing quite well and her breasts seem to have just started to bud out. You're not sure if she's had her period yet in fact, she looks kinda underdeveloped and younger then she actually looks. Maybe her growth has been stunted from years of being homeless?
+
+Oh god, how long has she been living like this?! She seems to be older then $Arisa but $Suiko is noticably shorter then her.  
+
+...
+
+Actually, you never even asked how old $Suiko is. Judging by her overall appearance(and her budding chest), She seems be to around ten to twelve years old. <<if $SuikoPastIntro is 1>>$Suiko also seemed a lot older then the other students when you first met her at Midori Elementary. Someday, you should ask her her age without seeming too invasive. You used to think she was a depressing, possiblly a bad influence to $Arisa but now, you can tell she's not only quite mature enough to live by herself, but exteremly misunderstood and justs needs a friend. Maybe, she failed a grade or whatever situation that made her homeless also made her fail the first grade.<</if>>
+--
+@@#choices;
+<<button [[Observe something else.|SuikoDay03P2SuikoObserve2]]>><</button>>
+@@
+
+

@@ -1,0 +1,23 @@
+:: SuikoDay03P2SuikoDrinkteastop {"position":"32210,1550","size":"100,100"}
+Seeing the reluctantcy in how $Suiko is staring at the tea cup, you let out a noticable sigh and reassure $Suiko;
+
+$Name:
+@@#ProtagText;
+"You Don't have to drink it. If raising $Arisa has taught me anything, it's when a kid really doesnt want to do something."
+@@
+
+Then, quite unexpected of this meek girl, $Suiko stands up and tosses the cup to the floor in a fit of anger. The cup explodes against the hard cement floor and your attention darts back to the now visably upset girl.
+
+$Suiko:
+@@#SuikoText;
+"I tried...So hard to make something you'd like...But Even I find it...Gross!"
+@@
+<<set $SuikoDepression +=10>>
+While the tea was argurable bad, she seems upset by how it turned out...She even made it for you and like a child not wanting his vegtables; you regected it.
+--
+@@#choices;
+<<button [[Tell her it is the thought that counts.|SuikoDay03P2SuikoDrinkteastop1]]>><</button>>
+<<button [[Wait for the moment to pass.|SuikoDay03P2SuikoDrinkteastopfail]]>><</button>>
+@@
+
+

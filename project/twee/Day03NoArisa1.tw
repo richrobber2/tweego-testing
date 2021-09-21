@@ -1,0 +1,16 @@
+:: Day03NoArisa1 {"position":"26890,3650","size":"100,100"}
+While you normally try to respect her privacy, you quitely walking into $Arisa's messy room and peer into her  pink randoseru...
+
+Inside, is a pair of binoculars, A college ruled notebook labeled 'DO NOT READ!', a wireless, clip microphone set from your mom's surplus junk, and a handheld camcorder. 
+
+Why does she have all this stuff inside her randoseru? 
+
+
+Curious and not wanting to make too much noise, you reach for  the notebook and...
+--
+@@#choices;
+<<button [[Read it.|Day03NoArisa1-1]]
+>><</button>>
+@@
+
+

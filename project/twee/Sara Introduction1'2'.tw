@@ -1,0 +1,42 @@
+:: Sara Introduction1'2' {"position":"9950,3230","size":"100,100"}
+Breaking a little inside, you decide it would be better not to get mad at a little girl's practical joke; so, you laugh it off.
+
+$Name:
+@@#ProtagText;
+"HAHAHA~ Okay, I'll admit you got me good."
+@@
+
+$Sara laughs then quickly stops as to register that your reaction wasn't what she expected.
+
+Confused, she tilts her head slightly.
+
+$Sara:
+@@#SaraText;
+"Um...Did $Sara really make a funny?"
+@@
+
+You scratch the back of your head and coyly laugh,
+
+$Name:
+@@#ProtagText;
+"I guess it's a little funny. More on my end because I was so worried you might of been lost in a place you know so well."
+@@
+
+$Sara blinks, then looks more confused.
+
+$Sara:
+@@#SaraText;
+"You were worried about $Sara?"
+@@
+She begins to walk towards you and unexpectedly wraps her hand around your head.
+
+$Sara:
+@@#SaraText;
+"$Sara sorry to worry mister. $Sara plays around a lot when she's upset."
+@@
+--
+@@#choices;
+<<button [[Ask why is she upset.|Sara Introduction1'4']]>><</button>>
+@@
+
+

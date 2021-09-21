@@ -1,0 +1,154 @@
+:: PassageReady {"position":"430,150","size":"100,100"}
+<<if $Depression gte 100 >><<goto [[BAD END 0: Forgotten By All]]>><</if>>\
+<<if $Depression is 100 >><<goto [[BAD END 0: Forgotten By All]]>><</if>>\
+<<if $lostcounter gte 6 >><<set $lostcounter to 0>><<goto [[BAD END 6: The Lost Woods]]>><</if>>\
+/sounds/
+<<if $ArisaLove is -1 or $ArisaLove lt -2>>
+<<set $ArisaLove to 5>>
+<</if>>\
+<<if $SuikoLove is -1 or $SuikoLove lt -2>>
+<<set $SuikoLove to 0>>
+<</if>>\
+<<if $RediaLove is -1 or $RediaLove lt -2>>
+<<set $RediaLove to 0>>
+<</if>>\
+<<if $SaraLove is -1 or $SaraLove lt -2>>
+<<set $SaraLove to 0>>
+<</if>>\
+<<if $RandyLove is -1 or $RandyLove lt -2>>
+<<set $RandyLove to 0>>
+<</if>>\
+<<if $LilithLove is -1 or $LilithLove lt -2>>
+<<set $LilithLove to 0>>
+<</if>>\
+<<if $AmberLove is -1 or $AmberLove lt -2>>
+<<set $AmberLove to 0>>
+<</if>>\
+<<if $KarenLove is -1 or $KarenLove lt -2>>
+<<set $AmberLove to 0>>
+<</if>>\
+<<if $ClauseLove is -1 or $ClauseLove lt -2>>
+<<set $ClauseLove to 0>>
+<</if>>\
+<<if $SoluziLove is -1 or $SoluziLove lt -2>>
+<<set $SoluziLove to 0>>
+<</if>>\
+<<if $MidoriLove is -1 or $MidoriLove lt -2>>
+<<set $MidoriLove to 0>>
+<</if>>\
+<<if $NanakoLove is -1 or $NanakoLove lt -2>>
+<<set $NanakoLove to 0>>
+<</if>>\
+<<if $MikanLove is -1 or $MikanLove lt -2>>
+<<set $MikanLove to 0>>
+<</if>>\
+<<if $VivianLove is -1 or $VivianLove lt -2>>
+<<set $VivianLove to 0>>
+<</if>>\
+<<if $IrisuLove is -1 or $IrisuLove lt -2>>
+<<set $IrisuLove to 0>>
+<</if>>\
+<<if $ArisaHate is -1 or $ArisaHate lt -2>>
+<<set $ArisaHate to 0>>
+<</if>>\
+<<if $SuikoHate is -1 or $SuikoHate lt -2>>
+<<set $SuikoHate to 0>>
+<</if>>\
+<<if $RediaHate is -1 or $RediaHate lt -2>>
+<<set $RediaHate to 0>>
+<</if>>\
+<<if $SaraHate is -1 or $SaraHate lt -2>>
+<<set $SaraHate to 0>>
+<</if>>\
+<<if $RandyHate is -1 or $RandyHate lt -2>>
+<<set $RandyHate to 0>>
+<</if>>\
+<<if $LilithHate is -1 or $LilithHate lt -2>>
+<<set $LilithHate to 0>>
+<</if>>\
+<<if $AmberHate is -1 or $AmberHate lt -2>>
+<<set $AmberHate to 0>>
+<</if>>\
+<<if $KarenHate is -1 or $KarenHate lt -2>>
+<<set $AmberHate to 0>>
+<</if>>\
+<<if $ClauseHate is -1 or $ClauseHate lt -2>>
+<<set $ClauseHate to 0>>
+<</if>>\
+<<if $SoluziHate is -1 or $SoluziHate lt -2>>
+<<set $SoluziHate to 0>>
+<</if>>\
+<<if $MidoriHate is -1 or $MidoriHate lt -2>>
+<<set $MidoriHate to 0>>
+<</if>>\
+<<if $NanakoHate is -1 or $NanakoHate lt -2>>
+<<set $NanakoHate to 0>>
+<</if>>\
+<<if $MikanHate is -1 or $MikanHate lt -2>>
+<<set $MikanHate to 0>>
+<</if>>\
+<<if $VivianHate is -1 or $VivianHate lt -2>>
+<<set $VivianHate to 0>>
+<</if>>\
+<<if $IrisuHate is -1 or $IrisuHate lt -2>>
+<<set $IrisuHate to 0>>
+<</if>>\
+<<if $ArisaDepression is -1 or $ArisaDepression lt -2>>
+<<set $ArisaDepression to 0>>
+<</if>>\
+<<if $SuikoDepression is -1 or $SuikoDepression lt -2>>
+<<set $SuikoDepression to 0>>
+<</if>>\
+<<if $RediaDepression is -1 or $RediaDepression lt -2>>
+<<set $RediaDepression to 0>>
+<</if>>\
+<<if $SaraDepression is -1 or $SaraDepression lt -2>>
+<<set $SaraDepression to 0>>
+<</if>>\
+<<if $RandyDepression is -1 or $RandyDepression lt -2>>
+<<set $RandyDepression to 0>>
+<</if>>\
+<<if $LilithDepression is -1 or $LilithDepression lt -2>>
+<<set $LilithDepression to 0>>
+<</if>>\
+<<if $AmberDepression is -1 or $AmberDepression lt -2>>
+<<set $AmberDepression to 0>>
+<</if>>\
+<<if $KarenDepression is -1 or $KarenDepression lt -2>>
+<<set $AmberDepression to 0>>
+<</if>>\
+<<if $ClauseDepression is -1 or $ClauseDepression lt -2>>
+<<set $ClauseDepression to 0>>
+<</if>>\
+<<if $SoluziDepression is -1 or $SoluziDepression lt -2>>
+<<set $SoluziDepression to 0>>
+<</if>>\
+<<if $MidoriDepression is -1 or $MidoriDepression lt -2>>
+<<set $MidoriDepression to 0>>
+<</if>>\
+<<if $NanakoDepression is -1 or $NanakoDepression lt -2>>
+<<set $NanakoDepression to 0>>
+<</if>>\
+<<if $MikanDepression is -1 or $MikanDepression lt -2>>
+<<set $MikanDepression to 0>>
+<</if>>\
+<<if $VivianDepression is -1 or $VivianDepression lt -2>>
+<<set $VivianDepression to 0>>
+<</if>>\
+<<if $IrisuDepression is -1 or $IrisuDepression lt -2>>
+<<set $IrisuDepression to 0>>
+<</if>>\
+<<if $Depression is -1 or $Depression lt -2>>
+<<set $Depression to 0>>
+<</if>>\
+<<if $Depression gte 100>>
+<<set $Depression to 100>>
+<</if>>\
+<<if $Libido is -1 or $Libido lt -2>>
+<<set $Libido to 0>>
+<</if>>\
+<<if $Libido gte 100>>
+<<set $Libido to 100>>
+<</if>>\
+
+

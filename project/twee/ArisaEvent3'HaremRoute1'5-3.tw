@@ -1,0 +1,18 @@
+:: ArisaEvent3'HaremRoute1'5-3 {"position":"20730,4070","size":"100,100"}
+You start to feel annoyed by your sister's perverted pranks and say,
+
+$Name:
+@@#ProtagText;
+"Enough games. How about you go get ready for dinner and I'll meet up then?"
+@@
+
+Although you talked calmly, your sister seems very down about what you said and abruptly leaves your room.
+
+Although irate, you brush it off and go back to watching more anime until you need to make dinner.
+--
+@@#choices;
+<<button [[Next.|PreDAY02End]]
+>><</button>>
+@@
+
+

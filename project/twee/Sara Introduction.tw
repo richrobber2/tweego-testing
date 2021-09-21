@@ -1,0 +1,44 @@
+:: Sara Introduction {"position":"9670,3090","size":"100,100"}
+Being located in the center of the area, you decide to walk towards the colossal tree and are amazed how massive the old oak is!
+
+You stand in front of the trunk and its size well over spans twelve feet!
+
+You look up towards the canopy of branches and notice a branch franticly shaking as if something was up there.
+
+That's when you notice that on the trunk of the tree are clumps of dirt leading up towards that branch.
+
+She has to be up there!
+
+You look towards the shaking branch and yell,
+
+$Name:
+@@#ProtagText;
+"Is anyone up there?!"
+@@
+
+...
+
+After bit a silence, you start to hear a faint crying echo from the top of the tree. Concerned you yell again,
+
+$Name:
+@@#ProtagText;
+"Are you okay?!"
+@@
+...
+
+After a few seconds, you faintly hear a voice.
+
+???:
+@@#SaraText;
+"I'm scared! I'm scared!"
+@@
+
+The branch begins to shake wildly as leaves start to dance towards the floor below. You have to hurry!
+
+If that branch breaks that fall would surely kill her!
+--
+@@#choices;
+<<button [[Climb the tree.|Sara Introduction1]]>><</button>>
+@@
+
+

@@ -1,0 +1,20 @@
+:: Day03LoMartIntro'NanakoIntro'2'Serious'8-1 {"position":"29690,5050","size":"100,100"}
+Seeing this as a moment to improve your appeal to your fans, you eager grab the microphone and say to the crowd,
+
+$Name:
+@@#ProtagText;
+"Let this be a lession to anyone who would hurt the patrons of LO-Mart! Like how I protect my sister, I will make sure anyone who shops at our store will never be harmed by anyone of ill intent!"
+@@
+
+You then, like a 'badass', drop the mic and walk away from the stage; a storm of applause echoing behind you.
+
+...
+
+Okay, enough side tracks. You should got inside and do your job.
+--
+@@#choices;
+<<button [[Next.|Day03LoMartIntro'AmberEvent']]
+>><</button>>
+@@
+
+

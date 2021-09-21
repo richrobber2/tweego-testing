@@ -1,0 +1,19 @@
+:: Tell her she can watch later (Lie) {"position":"150,5610","size":"100,100"}
+<<set $ArisaLove -=20>>\
+$Arisa:
+@@#ArisaText;
+"NO~! NO! NAO!!"
+@@
+
+$Arisa begins to throw a tantrum and frails her arms wildly.
+
+Oh Boy.
+
+Well, might as well let her watch. You don't want her telling people that her brother wont let her watch Loli videos...That wouldn't pan out well at all!
+--
+@@#choices;
+<<button [[Next.|LoMartIntroduction8]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,27 @@
+:: SuikoDay03'1 {"position":"29410,850","size":"100,100"}
+<<set $SuikoParentDay03 to 0>>\
+<<set $SuikoDay03IsItNice to 0>>\
+<<set $SuikoDay03WhyAreYouHere to 0>>\
+<<set $SuikoDay03Flowers to 0>>\
+<<set $SuikoDay03AskAboutland to 0>>\
+<<set $SuikoDay03MustBeNice to 0>>\
+<<set $SuikoDay03WhyNoSchool to 0>>\
+You look towards the metal, rusted door of the shack and sure enough, see $Suiko. The hooded girl, oddly covered in dirt smiles at you upon noticing it's you.
+
+$Suiko:
+@@#SuikoText;
+"$Name! I didn't! Um..."
+@@
+
+She looks down and her face turns red. After standing in place for a few minutes, she looks back up at you and asks,
+
+$Suiko:
+@@#SuikoText;
+"You..Didn't have any problem getting here? I'm sorry if you did..."
+@@
+--
+@@#choices;
+<<button [[This is where you live?!|SuikoDay03'1-1]]>><</button>>
+@@
+
+

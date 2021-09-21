@@ -1,0 +1,37 @@
+:: LoMartPlotIntroduction6 {"position":"14290,4070","size":"100,100"}
+<<if $Amberofficeevent1 is 1>>\
+Deciding not to bug her anymore, you decide to give up and wait.
+<</if>>
+<<if $Amberofficeevent1 is 0>>\
+Best if you obey the sign; not like you got anything better to do.
+<<set $AmberLove +=20>>\
+<</if>>\
+
+Two hours pass.
+
+You find yourself tired and dozing off against the dusty walls off the hallway. You crack your neck and let out an exaggerated stretch.
+
+<<if $Amberofficeevent1 is 1>>\
+Breaking the silence and your lost hopes, you hear a voice cry out from behind the door,
+
+Small Ebony Girl:
+@@#AmberText;
+"You can come in now!"
+@@
+
+<</if>>
+<<if $Amberofficeevent1 is 0>>\
+Breaking the silence and your lost hopes, you hear a childish, girl voice cry out from behind the door,
+
+Young Girl's Voice:
+@@#AmberText;
+"Thanks for waiting! You can come in now!"
+@@
+<</if>>\
+--
+@@#choices;
+<<button [[Walk inside the office.|LoMartPlotIntroduction7]]
+>><</button>>
+@@
+
+

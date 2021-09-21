@@ -1,0 +1,46 @@
+:: LoMartPlotIntroduction8'1' {"position":"14150,4350","size":"100,100"}
+<<set $AmberLove -=20>>\
+<<set $AmberStats to 1>>\
+$Name:
+@@#ProtagText;
+"No, but how do you know me?"
+@@
+
+The girl gives you a mean look then sighs in an annoyed fashion.
+
+$Amber:
+@@#AmberText;
+"It's me, $Amber! We went to school together! I bet it was because of my height, isn't it?"
+@@
+
+She points at the open door.
+
+$Amber:
+@@#AmberText;
+"My names on the fucking sign! So, it was because I look like a child, is it not?!"
+@@
+
+HOLY SHIT!
+
+Honestly; it's a honest mistake. How were you suppose to know she would be the same size she was in middle school!
+
+$Name:
+@@#ProtagText;
+"Oh, sorry $Amber. I actually didn't think you'd still look so young!"
+@@
+
+$Amber sighs and rolls her eyes,
+
+$Amber:
+@@#AmberText;
+"Well This little 'kid' runs the business you're applying at!"
+@@
+
+So, the sign was true.
+--
+@@#choices;
+<<button [[Congratulate her for doing so well!|LoMartPlotIntroduction10]]
+>><</button>>
+@@
+
+

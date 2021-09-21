@@ -1,0 +1,18 @@
+:: Suikointro'lone/main' {"position":"290,4770","size":"100,100"}
+$Name:
+@@#ProtagText;
+"I just wanted to ask if you wanted a friend. Could you be a friend to my sister? She’s the blond girl on the bleachers over there. You don't have to but you look like you could use a friend."
+@@
+
+The girl seems confused by your gesture of kindness and frowns without saying anything, nods, and walks away from you to head towards your sister. Feeling as if you did your 'good deed' for the day, you put your hands in your pockets and walk out of the gym.
+...
+--
+@@#choices;
+<<button [[Afterwards...|DayOneIntro]]
+>><</button>>
+<<if $RediaIntroLock is 0>><<button [[Check on the other girl before you go.|RediaIntroLone]]>><</button>><</if>>
+@@\
+<<set $SuikoPastIntro to 1>>\
+<<set $SuikoPastIntroLoveLone to 1>>\
+
+

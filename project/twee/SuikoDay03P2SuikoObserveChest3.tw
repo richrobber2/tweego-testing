@@ -1,0 +1,10 @@
+:: SuikoDay03P2SuikoObserveChest3 {"position":"34310,1970","size":"100,100"}
+Okay, you got a lot more then you expected from this perverse ordeal, best not to make it any worse and just pretend this never happened. At least you were able to get a extra peek at her.
+
+Being as polite as possible, you sit back down and 
+--
+@@#choices;
+<<button [[Observe something else.|SuikoDay03P2SuikoObserve2]]>><</button>>
+@@
+
+

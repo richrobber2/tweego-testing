@@ -1,0 +1,5 @@
+:: SmokeingDisabled {"position":"150,1830","size":"100,100"}
+<<set $Smoking to 0>>\
+ <<goto [[setup2]]>>
+
+

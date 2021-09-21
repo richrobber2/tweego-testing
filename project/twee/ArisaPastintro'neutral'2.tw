@@ -1,0 +1,38 @@
+:: ArisaPastintro'neutral'2 {"position":"290,3230","size":"100,100"}
+You hug $Arisa as a newfound feeling starts washing over you.
+
+Her squeeze, the smell of strawberry shampoo and childlike warmth engulfs you.
+
+It's not suffocating like normal when she hugs you after praising her or when she grabs you in a tantrum; but an embrace of...love? She straddles your waist, feeling all the anger and intolerance you had for this twerp slowly being replaced with...care?
+
+$Arisa seems to grow silent and she starts to sniffle. You look down and see the brat crying. Maybe, you do care about this twerp after all...
+
+She let's go of you as she looks down and blushes.
+
+$Arisa:
+@@#ArisaText;
+"You seem to enjoy hugs...do you~"
+@@
+
+You want to tell her to shut it yet, you feel bewildered by this act of affection. Letting go is no longer an option as you hold her close in your bleeding arm.
+
+$Name:
+@@#ProtagText;
+"I hate you."
+@@
+
+Lost in the embrace of love, $Arisa seems to struggle with your grasp and tries squeezes harder.
+
+$Arisa:
+@@#ArisaText;
+"I love you too~"
+@@
+
+...
+--
+@@#choices;
+<<button [[Afterwards...|Prointro2]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,32 @@
+:: KarenIntroduction'smoked'3'1' {"position":"16390,3650","size":"100,100"}
+While the cute display of the girl flashing her panties is not unwarranted, you are kind of turned off by the shameless immaturity of this brat.
+
+You advert your eyes away from her childish panties and give her a dirty look.
+
+$Name:
+@@#ProtagText;
+"You're a kid! If you were an adult you'd have some self-respect. I can tolerate that you smoke but what type of self-respecting adult would show a stranger her panties?!"
+@@
+You expect the kid to defiantly retaliate but instead, she lets her shirt back down and appears confused.
+
+$Karen:
+@@#KarenText;
+"I thought adults normally do stuff like this?"
+@@
+You wish that it was a normal thing but sadly; it isn't. The girl looks down at her feet then looks up you again; confused.
+
+The now crestfallen girl then pulls the cigarette out of her mouth and holds in in front of her.
+
+$Karen:
+@@#KarenText;
+"You said your name was $Name? Being an adult yourself, what can you recommend for me to be more adult?"
+@@
+--
+@@#choices;
+<<button [[Tell her to wear more mature panties.|KarenIntroduction'smoked'3'2']]
+>><</button>>
+<<button [[Tell her to just be herself.|KarenIntroduction'smoked'3'3']]
+>><</button>>
+@@
+
+

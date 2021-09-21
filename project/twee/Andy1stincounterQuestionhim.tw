@@ -1,0 +1,41 @@
+:: Andy1stincounterQuestionhim {"position":"30670,1970","size":"100,100"}
+Now that you think about it....How does he not only know your name but $Suiko's?
+
+Without thinking, you somehow get a upper hand and are able to wrap a arm around his neck and firmly apply pressure.
+
+$Name:
+@@#ProtagText;
+"Enough games! How do you know $Suiko?!"
+@@
+
+The man's eyes widen and he oddly smiles at you.
+
+???:
+@@#choices;
+"So you do care? Could have fooled me."
+@@
+
+Despite being in a chokehold, the stranger pauses to stares at your efforts fruitless.
+
+$Name:
+@@#ProtagText;
+"Who are you?!"
+@@
+
+His mocking stare makes your blood boil.
+
+As if knowing you're upset, he calmly sticks a finger up and explains with a underlining clue of mockery.
+
+???:
+@@#choices;
+"You have a 33% chance to escape; use it well."
+@@
+--
+@@#choices;
+<<button [[Ask him about how he knows Suiko|Andy1stincouterSuiko]]>><</button>>
+<<button [[Ask him who he is.|Andy1stincounterName]]>><</button>>
+<<button [[Fight out of it.|BAD END 19:Lv.100 Boss vs Noob]]>>
+<</button>>
+@@
+
+

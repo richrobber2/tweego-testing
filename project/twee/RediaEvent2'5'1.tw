@@ -1,0 +1,39 @@
+:: RediaEvent2'5'1 {"position":"13310,3790","size":"100,100"}
+<<set $RediaLove -=40>>\
+<<set $Depression +=15>>\
+Using this chance, you decide to turn back towards the race and run towards home plate.
+
+Boy5:
+@@#NPCText;
+"Wait? He's seriously leaving a girl injured on the field?!"
+@@
+
+Boy2:
+@@#NPCText;
+"He is going to be our coach? Even $Redia always stops to check on injuries! What an ass!"
+@@
+
+Boy1:
+@@#NPCText;
+"Get off the field, you jerk!"
+@@
+
+You slowly halt just a few feet from home plate. They are right. You got so engrossed into winning that you ignored the whole reason why you wanted to be a part of the team long ago in the first place.
+
+...To feel loved.
+
+The kids are booing you while you stand a few feet away from home plate.
+
+Boy3:
+@@#NPCText;
+"FUCK OFF! You could never be our coach!"
+@@
+
+In the background, you hear $Redia scream in pain but you can't bring yourself to check up on her. Deciding you caused enough problems, you decide to walk away from the baseball field and:
+--
+@@#choices;
+<<if $MidoriSEvent1 is 0>><<button [[Go into the school.|MidoriSchool3]]>><</button>><</if>>
+<<if $MidoriSEvent1 is 1>><<button [[Look for LO-Mart.|LoMartPlotIntroduction]]>><</button>><</if>>
+@@
+
+

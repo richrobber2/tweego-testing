@@ -1,0 +1,39 @@
+:: ArisaBedEvent1-3'bedeventHate' {"position":"21850,4350","size":"100,100"}
+<<set $ArisaLove -=20>>\
+Deciding she should wake up, you clap loudly three times.
+
+"CLAP CLAP CLAP"
+
+Your little sister jumps out of bed at looks at you in a panic.
+
+$Arisa:
+@@#ArisaText;
+"Bro, what was that for?"
+@@
+
+-she asked in a annoyed slump; her blond hair draping over her lap. You feel bad for waking her up in such a way but you still firmly say,
+
+$Name:
+@@#ProtagText;
+"I woke you up to remind you to get ready for dinner!"
+@@
+
+Then, thinking about what you said, grow quite.
+
+$Arisa gives you a mean look, annoyed by your stupidity.
+
+$Arisa:
+@@#ArisaText;
+"Think next time Onii~"
+@@
+
+Your sister hops off her bed as you decide to head back into your room.
+
+...
+--
+@@#choices;
+<<button [[Next|PreDAY02End]]
+>><</button>>
+@@
+
+

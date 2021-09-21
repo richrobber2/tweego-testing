@@ -1,0 +1,48 @@
+:: Day03LoMartIntroSinomTrue {"position":"33470,4070","size":"100,100"}
+Oh could he! He's well into his fifties and had a daughter yet still thinks it's okay to get shitfaced in public!
+
+Upmost like a impluse powered by your haterd towards drunkards and his reference to 'old times', you smack him accross the face.
+
+@@#EffectTexts;
+SMACK!
+@@
+
+But, despite the force you put into the slap, the sad excuse of a father stands unphased by this.
+
+...
+
+Staring at Sinom with sheer disgust, you watch as his stupored expressions turns to a one of shock.
+
+$Name:
+@@#ProtagText;
+"What the fuck, Sinom! Why did you come here while drunk then have the nerve to bring up my dad!"
+@@
+
+He seems to have noticed your anger and disappointed demeanor and hangs his head low.
+
+Sinom:
+@@#NPCText;
+"Sorry, that was in bad taste. I sure miss that man."
+@@
+
+Sinom walk up to you then kneels before you. While you're still pissed, Sinom graveling at your feet gets your attention. 
+
+Sinom:
+@@#NPCText;
+"I've been going thru hell lately. I honestly thought...I'd be okay but I'm not that-...I'm a good..."
+@@
+
+Your anger desolves as you you watch one of the only adults you respect comes to a unsettling revelation. In a swift panic and concerned tone, asks;
+
+Sinom:
+@@#NPCText;
+"Am...I a bad father...?"
+@@
+--
+@@#choices;
+<<button [[No, You never were!|Day03LoMartIntroSinomTrue1]]>><</button>>
+<<button [[Tel1 him to leave the store.|Day03LoMartIntroSinomPassiveExit]]>><</button>>
+<<button [[None of use are perfect|Day03LoMartIntroSinomTrueNA]]>><</button>>
+@@
+
+

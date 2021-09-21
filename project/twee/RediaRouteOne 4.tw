@@ -1,0 +1,35 @@
+:: RediaRouteOne 4 {"position":"3790,2670","size":"100,100"}
+$Name:
+@@#ProtagText;
+"Sounds like you had fun! You're a natural at this game!"
+@@
+
+You hear the handheld 'beep' that it saved her game progress and $Redia switches it off to hand it back to you.
+
+$Redia:
+@@#RediaText;
+"Here! It was really cool, but-"
+@@
+
+Her amuzed smirk dissolves to an aloof, blank stare,
+
+$Redia:
+@@#RediaText;
+"I have to focus on getting better at baseball. If I have too much fun I could forget about our team's plays and strategies..."
+@@
+
+Instinctively, your sister turns around and speaks to $Redia,
+
+$Arisa:
+@@#ArisaText;
+"Oh, come on $Redia! You're being way too hard on yourself!"
+@@
+--
+@@#choices;
+<<button [[Give her your 'Game Loli®'(The Classic Handheld Game System Now In Pink'.®)|RediaRouteOne 5]]
+>><</button>>
+<<button [[Agree with her!|Agree with her]]
+>><</button>>
+@@
+
+

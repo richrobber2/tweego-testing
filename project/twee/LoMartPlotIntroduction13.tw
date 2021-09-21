@@ -1,0 +1,51 @@
+:: LoMartPlotIntroduction13 {"position":"14290,5050","size":"100,100"}
+$Amber wraps her arms around herself and emits an ‘eep’.
+
+$Amber:
+@@#AmberText;
+"LO-Mart! Girls come in to see their 'Onii-Chan'! I can call 'Onii-Chan' to come over to help his 'Imoutos'. Hehehe~ With LO-Mart mostly catering young, little kids to have you here would seal the idea I wanted for my shop! Yeah, YES!
+
+We can have you be the poster employee! The idea of the kids thinking our employee is their big brother would make them more relaxed and comfortable here! Oh, does your little sister go to midori elementary?
+
+She could say her Onii-Chan can help her friend anytime here! You could make them feel loved! Or possibly try to create a harem of kids who only come here to see you daily!-andmaybebuyimpulseitems...hehehe)"
+@@
+
+After her somewhat unsettling rant, you look toward the door and wonder if you should leave.
+
+$Name:
+@@#ProtagText;
+"-Um...Yeah, maybe I should just-"
+@@
+
+$Amber:
+@@#AmberText;
+"Hey $Name! Are you a pedophile?"
+@@
+
+Well, what should you say in th-....
+
+@@#EffectText;
+WUT!
+@@
+
+$Amber sits back down and starts to teeter in her seat; waiting for your reply.
+
+What's with $Amber! You try to think back when you were kids but nothing ever made you assume she was this twisted...
+
+-Is this a trap? Do you admit to being something you're not? Or say you’re not.
+
+$Amber:
+@@#AmberText;
+"Well? WELL!"
+@@
+What do you say?
+--
+@@#choices;
+<<button [[No! The hell is wrong with you!?|BAD END 5: Lying To Yourself]]>><</button>>
+<<button [[Yes, I am an pedophile..|LoMartPlotIntroduction14]]
+>><</button>>
+<<button [[I like kids, but what do you mean?|LoMartPlotIntroduction14'1']]
+>><</button>>
+@@
+
+

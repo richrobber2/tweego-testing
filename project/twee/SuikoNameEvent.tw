@@ -1,0 +1,12 @@
+:: SuikoNameEvent {"position":"150,430","size":"100,100"}
+$Suiko:
+@@#SuikoText;
+"Um...That's my name, please don't tease me..."
+@@
+--
+@@#choices;
+<<button [[Back|setup]] 
+>><</button>>
+@@
+
+

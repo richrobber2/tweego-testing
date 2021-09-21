@@ -1,0 +1,55 @@
+:: KarenIntroduction'NonSmoking''3'1 {"position":"17370,3790","size":"100,100"}
+She must be joking.
+<<set $KarenLove += 40>>\
+<<set $KarenDelinquent to 1>>\
+
+Although she tried to bribe you for your name tag earlier, you honestly can't see a kid willingly want to smoke cigarette. She must be saying it for attention.
+
+Putting your wallet back in your pocket, you hand politely hand $Karen the twenty dollar bill and she early snatches it from you.
+
+$Name:
+@@#ProtagText;
+"If you would have asked earlier I would of been happy to give you some money! See, I just got a job and-"
+@@
+<<set $Money -=20>>\
+
+That's when you notice she isn’t listening to you at all! $Karen is mesmerized by the newfound wealth in her hands.
+
+You look at the bewildered girl; smiling.
+
+After marveling at the bill for what feels like minutes, she stuffs the crisp twenty into a small blue purse that she had hanging on her shoulder and smiles at you.
+
+$Karen:
+@@#KarenText;
+"Thanks Onii-"
+@@
+
+No! You will not have another person call you that! Before she can finish you blurt out,
+
+$Name:
+@@#ProtagText;
+"$Name! My name is $Name and you're welcome $Karen."
+@@
+
+$Karen:
+@@#KarenText;
+"Well $Name, I got to go! If you're working at Lo-Mart I'm sure we can meet up again. I always wanted a sugar daddy~"
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+$Karen sticks her tongue at you then turns around and runs off towards the road; leaving you both confused and twenty dollars short.
+
+After watching $Karen joyfully skip away out of your sight, you decide it's probably a good time to head home.
+
+$Arisa is probably waiting for you.
+<<set $KarenDelinquent to 1>>\
+--
+@@#choices;
+<<button [[Walk back home.|PreArisaEvent3]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,44 @@
+:: BAD END 19:Lv.100 Boss vs Noob {"position":"2810,290","size":"100,100"}
+/* TODO add code for achievment here */
+With all the energy you can muster, you fruitless attempt to wiggle out of the chokehold until you feel his grip tighten and you freeze.
+
+???:
+@@#choices;
+"So, you're going to go this way? That's one way to end this..."
+@@
+
+Noticing he starting to turn your head sideways, you bring your arms up to the assaulter's bicep and try to pry it off.
+
+???:
+@@#choices;
+"All you care about is yourself....Sadly only one of us can exist!"
+@@
+
+@@#EffectText;
+*CRACK!*
+@@
+
+Your arms slump to your side and your body goes numb. The stranger starts to loosen his hold but you know it's too late. While you know you're not dead yet; you can't feel anything.
+
+???:
+@@#choices;
+"Now, I'm gonna break your neck. I hope I don't see you after this!"
+@@
+
+The man then lifts your limp body and starts to turn your neck in the opposite direction. 
+
+@@#EffectText;
+*CRACK! THUMP!*
+@@
+
+<<timed 20s>>Don't make me see you again.<</timed>>
+--
+<<set $BadEndCount +=1>>\
+<<remember $BadEndCount>>\
+<<remember $BADEND to true>>\
+@@#choices;
+<<button "BAD END 19:Lv.100 Boss vs Noob.">><<script>>Engine.restart();<</script>>/
+<</button>>
+@@
+
+

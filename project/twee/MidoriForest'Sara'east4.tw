@@ -1,0 +1,18 @@
+:: MidoriForest'Sara'east4 {"position":"6170,3510","size":"100,100"}
+<<set $lostcounter += 1>>\
+Feeling drawn towards the strange and somewhat out of place collection of rocks, you walk towards them and are instantly assaulted by large boulders scrapping against your skin and snagging on your pants.
+
+You climb over the boulders and climb towards the largest located in the center of the pile.
+
+Once you reach the apex of the rock, you decide to look over the area as a vantage point only to notice you're surrounded by a closed in area of trees and strangely; Rocks.
+
+After thinking about it, you realized she couldn't have came this way and feel like you just wasted time just to perch on a large rock.
+
+After a few moments of struggling to return you head towards opening again and decide to:
+--
+@@#choices;
+<<button [[Walk towards the massive tree.|Sara Introduction]]>><</button>>
+<<button [[Go towards the thicker woods.|MidoriForest'Sara'north4]]>><</button>>
+@@
+
+

@@ -1,0 +1,42 @@
+:: Sara Introduction9'1' {"position":"9810,4490","size":"100,100"}
+<<set $RandyLove +=40>>\
+You raise an eyebrow out of curiosity; did he just say he was jealous of his sister?
+
+$Name:
+@@#ProtagText;
+"Did you say jealous?"
+@@
+
+$Randy looks away from you, shocked at what you just said.
+
+$Randy:
+@@#RandyText;
+"No! I just....Damn it!"
+@@
+
+Franticly, $Randy runs up toward his sister, almost tripping at her feet and dramatically lays his dusty hands on her shoulders. $Sara seems to notice her brother’s strange behavior.
+
+$Sara:
+@@#SaraText;
+"Aw~ Are you jealous?"
+@@
+
+She gives $Randy a smirked smile and starts to laugh.
+
+$Sara:
+@@#SaraText;
+"Haha! $Randy had chance with $Sara and now you're jealous of my boyfriend?"
+@@
+
+Randy, obviously flustered, starts to stutter then unexpectedly starts to walk away.
+
+$Randy:
+@@#RandyText;
+"Do what you want! I'll leave you here but I'm sure this old fart has better things to do then waste it with you!"
+@@
+--
+@@#choices;
+<<button [[Next.|Sara Introduction9'2']]>><</button>>
+@@
+
+

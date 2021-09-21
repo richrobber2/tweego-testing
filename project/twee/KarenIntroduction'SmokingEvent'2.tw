@@ -1,0 +1,15 @@
+:: KarenIntroduction'SmokingEvent'2 {"position":"15830,3510","size":"100,100"}
+You feel yourself start to feel a little antsy. Why would you not smoke? You already know that you'd only light one up later. Hell, why don't you just smoke already!
+<<set $Fatigue += 10>>\
+If you're going to waste time sitting on this dust bench you might as well do something you enjoy! The pack is in your hand, just pull one out and smoke it.
+
+If you don't smoke, you will only feel bad until you enviably light one up.
+--
+@@#choices;
+<<button [[Don't Smoke.|KarenIntroduction'SmokingEvent'3]]
+>><</button>>
+<<button [[SMOKE!|KarenIntroduction'smoked']]
+>><</button>>
+@@
+
+

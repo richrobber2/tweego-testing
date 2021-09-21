@@ -1,0 +1,48 @@
+:: Continue to rub her hood. {"position":"990,3090","size":"100,100"}
+You notice you're having fun rubbing her hood. Without noticing, you slide your hand under her hood and fling it off.
+
+$Suiko:
+@@#SuikoText;
+"WHA?!...umm what-are you..."
+@@
+
+With the hood off, you see a pale skinned girl with messy, shoulder length, brown hair. on her head a small ahoge of hair points up and curves like a grass blade in the wind.
+
+$Suiko turns red and clings to her rabbit.
+
+$Suiko:
+@@#SuikoText;
+"Don't..um..please.."
+@@
+
+You reach over to her head and slowly lower you hand on top of her head.
+
+@@#EffectText;
+POMF~
+@@
+
+$Suiko shivers and shakes wildly but as you begin to rub her head she begins to calm down.
+
+$Suiko:
+@@#SuikoText;
+"You're not- hurting..?"
+@@
+
+You rub her head for a good minute and once your hand gets tired you pull away.
+
+$Suiko:
+@@#SuikoText;
+"Wait! I like- oh...okay.."
+@@
+
+<<set $SuikoEvent1 to 1>>\
+<<set $SuikoEvent1Complete to 0>>\
+--
+@@#choices;
+<<button [[Seems like she enjoy it; rub her some more.|Rub her head more]]
+>><</button>>
+<<button [[Allow her to be with her friends|LoMartIntroductionTwo 6'2']]
+>><</button>>
+@@
+
+

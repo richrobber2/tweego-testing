@@ -1,0 +1,33 @@
+:: SmokingSessionOne 1 {"position":"1690,2390","size":"100,100"}
+As you relax against your porch you fell as if the stress of the last few days start to wear away.
+--
+<<if $SmokingSessionOneSchoolLifetrue eq 0>>\
+@@#choices;
+<<button [[Think about your old school life|SmokingSessionOneSchoolLife]]
+>><</button>>\
+@@\
+<</if>>\
+<<if $SmokingSessionOneArisaFriendstrue eq 0>>\
+@@#choices;
+<<button [[Think about your sister and her friends|SmokingSessionOneArisaFriends]]
+>><</button>>\
+@@\
+<</if>>\
+<<if $SmokingSessionOneoldlifetrue eq 0>>\
+@@#choices;
+<<button [[Try to recall your old life|SmokingSessionOneoldlife]]
+>><</button>>\
+@@\
+<</if>>\
+@@#choices;
+<<if $Smoking is 1>>\
+<<button [[Finish smoking and head inside|LoMartIntroductionThree]]
+>><</button>>\
+<</if>>\
+<<if $Smoking is 0>>\
+<<button [[Finish and head inside|LoMartIntroductionThree]]
+>><</button>>
+<</if>>\
+@@\
+
+

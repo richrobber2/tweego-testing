@@ -1,0 +1,23 @@
+:: Day03LoMartIntroSinomPassiveHelp1 {"position":"33190,4350","size":"100,100"}
+Seeing Sinom in such a lowered state, you feel obligated to ask him how you could make him feel better.
+
+Walking up to the intoxicated man, you show great concern and ask,
+
+$Name:
+@@#ProtagText;
+"Sinom, Please. If there is anyth-"
+@@
+
+As if he was aware of your question, he stoically looks at you and states;
+
+Sinom:
+@@#NPCText;
+"$Lilith. I want you to make her happy if I ever disappear."
+@@
+<<set $SinomPromise to 1>>\
+--
+<<button [[What do you mean by that?|Day03LoMartIntroSinomPassiveHelp2]]>><</button>>
+<<button [[I will!|Day03LoMartIntroSinomPassiveHelp1p2]]>><</button>>
+@@
+
+

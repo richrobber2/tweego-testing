@@ -1,0 +1,27 @@
+:: RediaIntroLoneFail {"position":"1410,4210","size":"100,100"}
+Nothing the baseball darting towards you, you make a attempt to move out of the balls way and watch as it rolls into the center of the gym.
+
+Red Head:
+@@#RediaText;
+"Hey jerk! You were suppose to catch it, not let it fly past you! Stupid adult! Now I have to go get it!"
+@@
+
+With this, the girl you wanted to talk to angerly mutters under her breath.
+
+Red Head:
+@@#RediaText;
+"Stupid adult..."
+@@
+
+Well, you fucked up that situation. It wasn't your fault for not wanting to catch some stupid baseball thrown by some stupid child.
+
+...
+
+Feeling like you wasnted enough time here, you put your hands in your pockets and walk back home.
+--
+@@#choices;
+<<button [[Head home.|DayOneIntro]]
+>><</button>>
+@@
+
+

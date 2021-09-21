@@ -1,0 +1,30 @@
+:: Sara Introduction8'1' {"position":"9810,4210","size":"100,100"}
+<<set $SaraLove -=20>>\
+<<set $RandyLove -=20>>\
+$Name:
+@@#ProtagText;
+"Well, I should be going...”
+@@
+
+Noticing the situation could go horribly awry, you start to slowly back up away from the kids.
+
+$Randy notices your attempt to flee and annoyingly sighs.
+
+He points behind him and says,
+
+$Randy:
+@@#RandyText;
+"Old man, you’d only get lost if you head back into the woods. Behind me will lead you back to the park but wouldn't like to talk? Being my baby sister's 'boyfriend' and all."
+@@
+
+$Sara:
+@@#SaraText;
+"Don't leave yet! I want you to meet $Sara's Brother!"
+@@
+--
+@@#choices;
+<<button [[Run away!|Sara Introduction8'2']]>><</button>>
+<<button [[Go talk to her brother.|Sara Introduction8]]>><</button>>
+@@
+
+

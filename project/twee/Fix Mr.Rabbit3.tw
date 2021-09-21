@@ -1,0 +1,28 @@
+:: Fix Mr.Rabbit3 {"position":"2670,3650","size":"100,100"}
+After a minute of hiding your erection in silence, $Suiko taps you on the shoulder, which causes you to jump.
+
+$Suiko:
+@@#SuikoText;
+"I am..dressed..Mr.Rabbit...is..okay?"
+@@
+You turn around and see $Suiko now dressed in your oversized, white polo shirt and wearing one of $Arisa's old black skirts. she shows a short smile and waits for your response.
+
+Finally dressed, you can talk normally.
+
+$Name:
+@@#ProtagText;
+"He is in the dryer but $Suiko, I had to do some changes to save Mr.Rabbit."
+@@
+$Suiko frowns and asks,
+
+$Suiko:
+@@#SuikoText;
+"Mr.Rabbit...dead?"
+@@
+--
+@@#choices;
+<<button [[Show her the new Mr.Rabbit.|Fix Mr.Rabbit4]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,12 @@
+:: MidoriFairyIntro1-1 {"position":"6730,2530","size":"100,100"}
+After a few seconds, you hear bubbling coming from the pond and you out of curiosity look over and peer into the water.
+
+Noticing a loft amount of bubbles arise to the surface, you notice from the glow under the settlement a female figure is struggling for the surface.
+--
+@@#choices;
+<<button [[Dive in and save her.|MidoriFairyIntro1-2]]>><</button>>
+<<button [[Leave the Area.|BAD END 9: In a Hole]]
+>><</button>>
+@@
+
+

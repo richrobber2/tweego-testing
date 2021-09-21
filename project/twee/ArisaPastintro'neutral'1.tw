@@ -1,0 +1,10 @@
+:: ArisaPastintro'neutral'1 {"position":"290,3090","size":"100,100"}
+Confused, but also annoyed by this you grab your sister by her waist the push her clean across the table and starts to fall over.
+--
+@@#choices;
+<<button [[Catch her and break her fall!|ArisaPastintro'neutral'1'end']]
+>><</button>>
+<<timed 5s>><<goto [[Do nothing.|IrisuPre1]]>><</timed>>
+@@
+
+

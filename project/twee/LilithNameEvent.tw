@@ -1,0 +1,12 @@
+:: LilithNameEvent {"position":"1130,430","size":"100,100"}
+$Lilith
+@@#LilithText;
+"thee dare mock mine name! I desire thee kicketh the bucket!"
+@@
+--
+@@#choices;
+<<button [[Back|setup]] 
+>><</button>>
+@@
+
+

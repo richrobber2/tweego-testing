@@ -1,0 +1,70 @@
+:: LoneRandyDay03'2' {"position":"28850,3930","size":"100,100"}
+Odd, he seemed interesting in talking a moment ago?
+
+Watching him pace himself away from you, you extend your stride and starting walking beside him. Not noticing you as he's still looking down you ask him,
+
+$Name:
+@@#ProtagText;
+"So, if your not heading to school where are you going? I'm heading to LO-Mart."
+@@
+
+The boy jumps upon hearing your words, then slowly looks back at you, nervously.
+
+$Randy:
+@@#RandyText;
+"That's girl's store?! Oh....May I ask why?"
+@@
+
+His eyes seem to shift around as if he's eager to hear your resounse. 
+
+$Name:
+@@#ProtagText;
+"Well, I work there now. It's my first day today!"
+@@
+
+Saying this seems to reinforce the idea of finally moving up in the world but your moment of reflection is quickly shot down from $Randy squealing in delight.
+
+$Randy:
+@@#RandyText;
+"Wait! You work there!?"
+@@
+
+You nod with a nervous smile.
+
+$Name:
+@@#ProtagText;
+"Yes? I'm heading to work now. I take it you were going there as well?"
+@@
+
+Without skipping a beat, $Randy reaches into on of his short denim pockets and retrieves a ball of crumbled up bills. With a feminine smile, he presents the wad of dollar bills and pleads at you.
+
+$Randy:
+@@#RandyText;
+"Can...you buy me a-! Um...A dress for me!?"
+@@
+
+Wut?
+
+You peer down at the pleading boy and at first, you're confused on why the hell he'd want one. Looking into the bills in his pleading hands, you can only expect if you decide to help $Randy you have to pay out of your own wallet.
+
+$Name:
+@@#ProtagText;
+"Um, may I ask why? Do you know how much dresses cost?"
+@@
+
+$Randy looks into his hands and visually starts to count the money in his hands. Taking a moment to 'neatly' fold the bills, it comes out to seven dollars and neatly folding the bills he gestures you to take his money.
+
+
+$Randy:
+@@#RandyText;
+"I never bought female clothes before. I wanted to change my look! I feel like people will like me better if I dress how I feel! Please $Name! Can you buy a dress for me?"
+@@
+--
+@@#choices;
+<<button [[You should be yourself.|LoneRandyDay03'2'1]]
+>><</button>>
+<<button [[I well see what I can do!|LoneRandyDay03'3']]
+>><</button>>
+@@
+
+

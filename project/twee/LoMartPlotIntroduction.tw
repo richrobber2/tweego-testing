@@ -1,0 +1,22 @@
+:: LoMartPlotIntroduction {"position":"14290,3230","size":"100,100"}
+With everything done, you decide to look around the school to see if you can find the sign you saw earlier. You head back toward the sidewalk and steadily look around. After walking for about a mile, you find yourself in a near empty parking lot with the sign towering over you.
+
+@@#EffectText;
+	       LO-Mart
+"A Discount Supermarket For Kids."
+@@
+
+The sign is white with bright pink lettering. In the corner is a childish drawing of a little girl and boy holding hands.
+
+What an odd demographic to market towards. You look over at the building to find a moderate sized warehouse with a red text sign. Along the sides are signs that appear to advertise apparel, toys, electronics, makeup, books, snacks, and even... Groceries?!
+
+It appears to be a normal supermarket. You try to recall if this store existed back when you were a child but it appears new. If memory hangs true, you recall this warehouse being abandoned. Faint memories surface of hearing about the 'cool kids' coming here to play hooky.
+
+You take a deep breath and head toward the entrance.
+--
+@@#choices;
+<<button [[Head towards entrance.|LoMartPlotIntroduction1]]
+>><</button>>
+@@
+
+

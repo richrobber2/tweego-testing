@@ -1,0 +1,44 @@
+:: SuikoDay03'1'3-1 {"position":"29830,1270","size":"100,100"}
+You take a glimpse at the rickety shed $Suiko assumably lives in and look about at her with a doubtful frown. While she stated that is is her abode, There must be some reason she stays here.
+
+You look around for a moment and you're drawn to the purple flowers planted into the arid dirt.
+
+The small, purple flowers appear to be limp and clinging to life; there is no way they will last long in this dead farmland.
+
+$Name:
+@@#ProtagText;
+"Um...The flowers are nice. did you grew them yourself!"
+@@
+
+Her brown eyes light up with excitement upon hearing you interest.
+
+$Suiko:
+@@#SuikoText;
+"I did! I don't know what type of flowers they are but they are really nice I just don't...."
+@@
+
+$Suiko sighs as she bends down and starts to gently touch the purple pedals; only for them to flake off and fall into the dirt. You look towards the flowers and notice the leaves are slightly yellow and seem to be thining out.  While you won't label yourself as botanist, it seems like they are not being properly watered or not getting enough nutrients from the soil.
+
+$Suiko:
+@@#SuikoText;
+"They were doing so well when I first planted them but now they seem to be struggling."
+@@
+
+...
+
+<<if $Depression gte 25>> There doesn't seem to anything you can say to help her. With the soil obviously being infertile and unfit to grow anything you're surprised they grow that far.<</if>>
+
+<<set $SuikoDepression +=10>>\
+--
+@@#choices;
+<<if $Depression lte 20 and $TellAboutFlowers is 0>><<button [[Tell her about the flowers.|SuikoDay03'1'3-2]]>><</button>><</if>>\
+<<if $SuikoParentDay03 is 0>> <<button [[Where's your parents?|SuikoDay03'1-4]]>><</button>><</if>>\
+<<if $SuikoDay03IsItNice is 0>><<button [[Say it is nice!|SuikoDay03'1'3]]>><</button>><</if>>\
+<<if $SuikoDay03WhyAreYouHere is 0>><<button [[Why do you live here?|SuikoDay03'1'7]]>><</button>><</if>>\
+<<if $SuikoDay03Flowers is 0 and $TellAboutFlowers is 0>><<button [[Ask her about her flowers.|SuikoDay03'1'3-1]]>><</button>><</if>>\
+<<if $$SuikoDay03AskAboutland is 0>><<button [[Why are in this dead plot of land?|SuikoDay03'1'3-2]]>><</button>><</if>>\
+<<if $SuikoDay03WhyNoSchool is 0>><<button [[Why are you not at school?|SuikoDay03'1'3-5]]>><</button>><</if>>\
+<<if $SuikoDepression gte 70>><<button [[Are you okay?|SuikoDay03'1'3-3]]>><</button>><</if>>\
+@@
+
+

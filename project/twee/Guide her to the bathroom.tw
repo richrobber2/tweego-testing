@@ -1,0 +1,29 @@
+:: Guide her to the bathroom {"position":"2670,2670","size":"100,100"}
+Noticing the state she's in, you find the best approach is to pick her up. Sweeping your hands under her legs, you carry her towards the bathroom.
+
+She doesn't say anything except stares and tries to fruitlessly grasp towards her plush.
+
+...
+
+You carry her into the bath room and place her on her feet. You feel bad for not being able to prevent the events from happening but at least you can try to make her feel better.
+
+$Name:
+@@#ProtagText;
+"Take your hoodie off so I can wash it for you."
+@@
+
+She stands like a stone and doesn't comply.
+
+$Name:
+@@#ProtagText;
+"Fine, hold still."
+@@
+
+Your reach for her zipper and cautiously pull it down. she seems uncaring that you are undressing her and you pull the wet hoodie off; what is under it shocks you.
+--
+@@#choices;
+<<button [[Next.|UndressSuikohoodevent]]
+>><</button>>
+@@
+
+

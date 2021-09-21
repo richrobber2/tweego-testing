@@ -1,0 +1,1163 @@
+:: StoryRightSidebar [StoryRightSidebar] {"position":"710,10","size":"100,100"}
+<FONT SIZE=3>\
+<<if $UIBar is 1>>\
+@@#choices;
+<<if $LoveMenu is 1>>\
+@@#choices;
+<font size ='2'><font color ="pink">Relationships</font></font>
+@@\
+@@\
+<</if>>\
+<<if $ArisaStats is 1>>\
+@@#choices;
+<font size='2'>\
+[-$Arisa-]\
+</font>
+<font color ="pink" font size='2'>\
+Love:<<showmeter '$arisalovebar' `$ArisaLove / 500`>>\
+($ArisaLoveFeeling)\
+</font>\
+<font color ="#FF7377" font size='2'>
+Hate:<<showmeter '$arisahatebar' `$ArisaHate / 500`>>\
+($ArisaHateFeeling)\
+</font>\
+<font color ="#008080" font size='2'>
+Mood:<<showmeter '$arisamoodbar' `$ArisaDepression / 500`>>\
+($ArisaDepressionFeeling)\
+</font>\
+@@\
+<</if>>\
+<<if $RediaStats is 1>>\
+@@#choices;
+[-$Redia-]\
+<font color ="pink" font size='2'>
+Love:<<showmeter '$redialovebar' `$RediaLove / 500`>>\
+($RediaLoveFeeling)\
+</font>\
+<font color ="red">
+Hate:$RediaHate
+($RediaHateFeeling)\
+</font>\
+<font color ="grey">
+Mood: $RediaDepression
+($RediaDepressionFeeling)\
+</font>\
+@@\
+<</if>>\
+<<if $SuikoStats is 1>>\
+@@#choices;
+[-$Suiko-]\
+<font color ="pink">
+Love:<<showmeter '$suikolovebar' `$SuikoLove / 500`>>\
+($SuikoLoveFeeling)\
+</font>\
+<font color ="red">
+Hate:$SuikoHate
+($SuikoHateFeeling)\
+</font>\
+<font color ="grey">
+Mood: $SuikoDepression
+($SuikoDepressionFeeling)\
+</font>\
+@@\
+<</if>>\
+<<if $SaraStats is 1>>\
+@@#choices;
+[-$Sara-]\
+<font color ="pink">
+Love:<<showmeter '$saralovebar' `$SaraLove / 500`>>\
+($SaraLoveFeeling)\
+</font>\
+<font color ="red">
+Hate:$SaraHate
+($SaraHateFeeling)\
+</font>\
+<font color ="grey">
+Mood: $SaraDepression
+($SaraDepressionFeeling)\
+</font>\
+@@\
+<</if>>\
+<<if $RandyStats is 1>>\
+@@#choices;
+[-$Randy-]\
+<font color ="pink">
+Love:<<showmeter '$randylovebar' `$RandyLove / 500`>>\
+($RandyLoveFeeling)\
+</font>\
+<font color ="red">
+Hate:$RandyHate
+($RandyHateFeeling)\
+</font>\
+<font color ="grey">
+Mood: $RandyDepression
+($RandyDepressionFeeling)\
+</font>\
+@@\
+<</if>>\
+<<if $MidoriStats is 1>>\
+@@#choices;
+[-$Midori-]\
+<font color ="pink">
+Love:<<showmeter '$midorilovebar' `$MidoriLove / 500`>>\
+($MidoriLoveFeeling)\
+</font>\
+<font color ="red">
+Hate:$MidoriHate
+($MidoriHateFeeling)\
+</font>\
+<font color ="grey">
+Mood: $MidoriDepression
+($MidoriDepressionFeeling)\
+</font>\
+@@\
+<</if>>\
+<<if $LilithStats is 1>>\
+@@#choices;
+[-$Lilith-]\
+<font color ="pink">
+Love:$LilithLove
+($LilithLoveFeeling)\
+</font>\
+<font color ="red">
+Hate:$LilithHate
+($LilithHateFeeling)\
+</font>\
+<font color ="grey">
+Mood: $LilithDepression
+($LilithDepressionFeeling)\
+</font>\
+@@\
+<</if>>\
+<<if $AmberStats is 1>>\
+@@#choices;
+[-$Amber-]\
+<font color ="pink">
+Love:$AmberLove
+($AmberLoveFeeling)\
+</font>\
+<font color ="red">
+Hate:$AmberHate
+($AmberHateFeeling)\
+</font>\
+<font color ="grey">
+Mood: $AmberDepression
+($AmberDepressionFeeling)\
+</font>\
+@@\
+<</if>>\
+<<if $KarenStats is 1>>\
+@@#choices;
+[-$Karen-]\
+<font color ="pink">
+Love:$KarenLove
+($KarenLoveFeeling)\
+</font>\
+<font color ="red">
+Hate:$KarenHate
+($KarenHateFeeling)\
+</font>\
+<font color ="grey">
+Mood: $KarenDepression
+($KarenDepressionFeeling)\
+</font>\
+@@\
+<</if>>\
+<<if $NanakoStats is 1>>\
+@@#choices;
+[-$Nanako-]\
+<font color ="pink">
+Love:$NanakoLove
+($NanakoLoveFeeling)\
+</font>\
+<font color ="red">
+Hate:$NanakoHate
+($NanakoHateFeeling)\
+</font>\
+<font color ="grey">
+Mood: $NanakoDepression
+($NanakoDepressionFeeling)\
+</font>\
+@@\
+<</if>>\
+<<if $MikanStats is 1>>\
+@@#choices;
+[-$Mikan-]\
+<font color ="pink">
+Love:$MikanLove
+($MikanLoveFeeling)\
+</font>\
+<font color ="red">
+Hate:$MikanHate
+($MikanHateFeeling)\
+</font>\
+<font color ="grey">
+Mood: $MikanDepression
+($MikanDepressionFeeling)\
+</font>\
+@@\
+<</if>>\
+<<if $VivianStats is 1>>\
+@@#choices;
+[-$Vivian-]\
+<font color ="pink">
+Love:$VivianLove
+($VivianLoveFeeling)\
+</font>\
+<font color ="red">
+Hate:$VivianHate
+($VivianHateFeeling)\
+</font>\
+<font color ="grey">
+Mood: $VivianDepression
+($VivianDepressionFeeling)\
+</font>\
+@@\
+<</if>>\
+<<if $ClauseStats is 1>>\
+@@#choices;
+[-$Clause-]\
+<font color ="pink">
+Love:$ClauseLove
+($ClauseLoveFeeling)\
+</font>\
+<font color ="red">
+Hate:$ClauseHate
+($ClauseHateFeeling)\
+</font>\
+<font color ="grey">
+Mood: $ClauseDepression
+($ClauseDepressionFeeling)\
+</font>\
+@@\
+<</if>>\
+<<if $SoluziStats is 1>>\
+@@#choices;
+[-$Soluzi-]\
+<font color ="pink">
+Love:$SoluziLove
+($SoluziLoveFeeling)\
+</font>\
+<font color ="red">
+Hate:$SoluziHate
+($SoluziHateFeeling)\
+</font>\
+<font color ="grey">
+Mood: $SoluziDepression
+($SoluziDepressionFeeling)\
+</font>\
+@@\
+<</if>>\
+<<if $IrisuStats is 1>>\
+@@#choices;
+[-$Irisu-]\
+<font color ="pink">
+Love:$IrisuLove
+($IrisuLoveFeeling)\
+</font>\
+<font color ="red">
+Hate:$IrisuHate
+($IrisuHateFeeling)\
+</font>\
+<font color ="grey">
+Mood: $IrisuDepression
+($IrisuDepressionFeeling)\
+</font>\
+@@\
+<</if>>\
+<<if $ArisaLove is 0>>\
+<span class="blink"><font color="red">
+<<set $ArisaLoveFeeling to 'FORGOTTEN'>></font></span>\
+<<elseif $ArisaLove gte 5 and $ArisaLove lt 50>>\
+<<set $ArisaLoveFeeling to '...'>>\
+<<elseif $ArisaLove gte 50 and $ArisaLove lt 100>>\
+<<set $ArisaLoveFeeling to 'Sibling'>>\
+<<elseif $ArisaLove gte 100 and $ArisaLove lt 150>>\
+<<set $ArisaLoveFeeling to 'Brother'>>\
+<<elseif $ArisaLove gte 150 and $ArisaLove lt 200>>\
+<<set $ArisaLoveFeeling to 'Big Brother'>>\
+<<elseif $ArisaLove gte 200 and $ArisaLove lt 250>>\
+<<set $ArisaLoveFeeling to 'Onii-Chan~'>>\
+<<elseif $ArisaLove gte 250 and $ArisaLove lt 300>>\
+<<set $ArisaLoveFeeling to 'My Love.'>>\
+<<elseif $ArisaLove gte 300 and $ArisaLove lt 400>>\
+<<set $ArisaLoveFeeling to  'Ochin Chi~'>>\
+<<elseif $ArisaLove gte 400 and $ArisaLove lt 500>>\
+<<set $ArisaLoveFeeling to 'Fordidden Love...'>>\
+<<elseif $ArisaLove gte 500>>\
+<<set $ArisaLoveFeeling to 'Lover <3'>>\
+<<else>>\
+<<set $ArisaLoveFeeling to '???'>>\
+<</if>>\
+<<if $RediaLove is 0>>\
+<span class="blink"><font color="red">
+<<set $RediaLoveFeeling to 'FORGOTTEN'>></font></span>\
+<<elseif $RediaLove isnot 0 and $RediaLove lt 50>>\
+<<set $RediaLoveFeeling to '...'>>\
+<<elseif $RediaLove gte 50 and $RediaLove lt 100>>\
+<<set $RediaLoveFeeling to 'Her Dad'>>\
+<<elseif $RediaLove gte 100 and $RediaLove lt 150>>\
+<<set $RediaLoveFeeling to 'Cool Guy'>>\
+<<elseif $RediaLove gte 150 and $RediaLove lt 200>>\
+<<set $RediaLoveFeeling to 'Bro!'>>\
+<<elseif $RediaLove gte 200 and $RediaLove lt 250>>\
+<<set $RediaLoveFeeling to 'Best Buddy'>>\
+<<elseif $RediaLove gte 250 and $RediaLove lt 300>>\
+<<set $RediaLoveFeeling to 'My Star~'>>\
+<<elseif $RediaLove gte 300 and $RediaLove lt 400>>\
+<<set $RediaLoveFeeling to  'Um...'>>\
+<<elseif $RediaLove gte 400 and $RediaLove lt 500>>\
+<<set $RediaLoveFeeling to 'My Boyfriend'>>\
+<<elseif $RediaLove gte 500>>
+<<set $RediaLoveFeeling to 'Lover <3'>>\
+<<else>>\
+<<set $RediaLoveFeeling to '???'>>\
+<</if>>\
+<<if $SuikoLove is 0>>\
+<span class="blink"><font color="red">
+<<set $SuikoLoveFeeling to 'FORGOTTEN'>></font></span>\
+<<elseif $SuikoLove isnot 0 and $SuikoLove lt 50>>\
+<<set $SuikoLoveFeeling to '...'>>\
+<<elseif $SuikoLove gte 50 and $SuikoLove lt 100>>\
+<<set $SuikoLoveFeeling to 'Stranger'>>\
+<<elseif $SuikoLove gte 100 and $SuikoLove lt 150>>\
+<<set $SuikoLoveFeeling to 'Only Friend'>>\
+<<elseif $SuikoLove gte 150 and $SuikoLove lt 200>>\
+<<set $SuikoLoveFeeling to 'Companion'>>\
+<<elseif $SuikoLove gte 200 and $SuikoLove lt 250>>\
+<<set $SuikoLoveFeeling to 'Father'>>\
+<<elseif $SuikoLove gte 250 and $SuikoLove lt 300>>\
+<<set $SuikoLoveFeeling to 'My Hope'>>\
+<<elseif $SuikoLove gte 300 and $SuikoLove lt 400>>\
+<<set $SuikoLoveFeeling to  'Angel'>>\
+<<elseif $SuikoLove gte 400 and $SuikoLove lt 500>>\
+<<set $SuikoLoveFeeling to '...<3'>>\
+<<elseif $SuikoLove gte 500>>
+<<set $SuikoLoveFeeling to 'Lover <3'>>\
+<<else>>\
+<<set $SuikoLoveFeeling to '???'>>\
+<</if>>\
+<<if $SaraLove is 0>>\
+<span class="blink"><font color="red">
+<<set $SaraLoveFeeling to 'FORGOTTEN'>></font></span>\
+<<elseif $SaraLove isnot 0 and $SaraLove lt 50>>\
+<<set $SaraLoveFeeling to '...'>>\
+<<elseif $SaraLove gte 50 and $SaraLove lt 100>>\
+<<set $SaraLoveFeeling to 'Stranger Danger'>>\
+<<elseif $SaraLove gte 100 and $SaraLove lt 150>>\
+<<set $SaraLoveFeeling to 'Best Buddy'>>\
+<<elseif $SaraLove gte 150 and $SaraLove lt 200>>\
+<<set $SaraLoveFeeling to 'Like'>>\
+<<elseif $SaraLove gte 200 and $SaraLove lt 250>>\
+<<set $SaraLoveFeeling to 'Like, like~'>>\
+<<elseif $SaraLove gte 250 and $SaraLove lt 300>>\
+<<set $SaraLoveFeeling to 'Buddy'>>\
+<<elseif $SaraLove gte 300 and $SaraLove lt 400>>\
+<<set $SaraLoveFeeling to  'AdultFriend~'>>\
+<<elseif $SaraLove gte 400 and $SaraLove lt 500>>\
+<<set $SaraLoveFeeling to 'HusbandFriend.'>>\
+<<elseif $SaraLove gte 500>>
+<<set $SaraLoveFeeling to 'Lover <3'>>\
+<<else>>\
+<<set $SaraLoveFeeling to '???'>>
+<</if>>\
+<<if $RandyLove is 0>>\
+<span class="blink"><font color="red">
+<<set $RandyLoveFeeling to 'FORGOTTEN'>></font></span>\
+<<elseif $RandyLove isnot 0 and $RandyLove lt 50>>\
+<<set $RandyLoveFeeling to '...'>>\
+<<elseif $RandyLove gte 50 and $RandyLove lt 100>>\
+<<set $RandyLoveFeeling to 'Loser'>>\
+<<elseif $SaraLove gte 100 and $RandyLove lt 150>>\
+<<set $RandyLoveFeeling to 'Adult'>>\
+<<elseif $RandyLove gte 150 and $RandyLove lt 200>>\
+<<set $RandyLoveFeeling to 'Role Model!'>>\
+<<elseif $RandyLove gte 200 and $RandyLove lt 250>>\
+<<set $RandyLoveFeeling to 'Man friend~'>>\
+<<elseif $RandyLove gte 250 and $RandyLove lt 300>>\
+<<set $RandyLoveFeeling to 'Pal'>>\
+<<elseif $RandyLove gte 300 and $RandyLove lt 400>>\
+<<set $RandyLoveFeeling to  'Buddy'>>\
+<<elseif $RandyLove gte 400 and $RandyLove lt 500>>\
+<<set $RandyLoveFeeling to 'Best Adult'>>\
+<<elseif $RandyLove gte 500>>
+<<set $RandyLoveFeeling to 'Lover <3'>>\
+<<else>>\
+<<set $RandyLoveFeeling to '???'>>
+<</if>>\
+<<if $AmberLove is 0>>\
+<span class="blink"><font color="red">
+<<set $AmberLoveFeeling to 'FORGOTTEN'>></font></span>\
+<<elseif $AmberLove isnot 0 and $AmberLove lt 50>>\
+<<set $AmberLoveFeeling to '...'>>\
+<<elseif $AmberLove gte 50 and $AmberLove lt 100>>\
+<<set $AmberLoveFeeling to 'Employee'>>\
+<<elseif $AmberLove gte 100 and $AmberLove lt 150>>\
+<<set $AmberLoveFeeling to 'Childhood Friend'>>
+<<elseif $AmberLove gte 150 and $AmberLove lt 200>>\
+<<set $AmberLoveFeeling to 'Best Worker'>>\
+<<elseif $AmberLove gte 200 and $AmberLove lt 250>>\
+<<set $AmberLoveFeeling to 'Like Minded'>>\
+<<elseif $AmberLove gte 250 and $AmberLove lt 300>>\
+<<set $AmberLoveFeeling to 'OtakuBuddy'>>\
+<<elseif $AmberLove gte 300 and $AmberLove lt 400>>\
+<<set $AmberLoveFeeling to  'FuckBoy'>>\
+<<elseif $AmberLove gte 400 and $AmberLove lt 500>>\
+<<set $AmberLoveFeeling to 'Protagionist'>>\
+<<elseif $AmberLove gte 500>>
+<<set $AmberLoveFeeling to 'Lover <3'>>\
+<<else>>\
+<<set $AmberLoveFeeling to '???'>>\
+<</if>>\
+<<if $MidoriLove is 0>>\
+<span class="blink"><font color="red">
+<<set $MidoriLoveFeeling to 'FORGOTTEN'>></font></span>\
+<<elseif $MidoriLove isnot 0 and $MidoriLove lt 50>>\
+<<set $MidoriLoveFeeling to '...'>>\
+<<elseif $MidoriLove gte 50 and $MidoriLove lt 100>>\
+<<set $MidoriLoveFeeling to 'Ηττημένος'>>\
+<<elseif $MidoriLove gte 100 and $MidoriLove lt 150>>\
+<<set $MidoriLoveFeeling to 'Πατέρας'>>\
+<<elseif $MidoriLove gte 150 and $MidoriLove lt 200>>\
+<<set $MidoriLoveFeeling to 'Οδηγός'>>\
+<<elseif $MidoriLove gte 200 and $MidoriLove lt 250>>\
+<<set $MidoriLoveFeeling to 'Ενδιαφέρων'>>\
+<<elseif $MidoriLove gte 250 and $MidoriLove lt 300>>\
+<<set $MidoriLoveFeeling to 'φίλος'>>\
+<<elseif $MidoriLove gte 300 and $MidoriLove lt 400>>\
+<<set $MidoriLoveFeeling to  'Κύριος'>>\
+<<elseif $MidoriLove gte 400 and $MidoriLove lt 500>>\
+<<set $MidoriLoveFeeling to 'Σύζυγος'>>\
+<<elseif $MidoriLove gte 500>>
+<<set $MidoriLoveFeeling to 'Εραστής <3'>>\
+<<else>>\
+<<set $MidoriLoveFeeling to '???'>>\
+<</if>>\
+<<if $LilithLove is 0>>\
+<span class="blink"><font color="red">
+<<set $LilithLoveFeeling to 'FORGOTTEN'>></font></span>\
+<<elseif $LilithLove isnot 0 and $LilithLove lt 50>>\
+<<set $LilithLoveFeeling to '...'>>\
+<<elseif $LilithLove gte 50 and $LilithLove lt 100>>\
+<<set $LilithLoveFeeling to 'Knave'>>\
+<<elseif $LilithLove gte 100 and $LilithLove lt 150>>\
+<<set $LilithLoveFeeling to 'Nobelman'>>\
+<<elseif $LilithLove gte 150 and $LilithLove lt 200>>\
+<<set $LilithLoveFeeling to 'Royal Servant'>>\
+<<elseif $LilithLove gte 200 and $LilithLove lt 250>>\
+<<set $LilithLoveFeeling to 'Square'>>\
+<<elseif $LilithLove gte 250 and $LilithLove lt 300>>\
+<<set $LilithLoveFeeling to 'Royalty'>>\
+<<elseif $LilithLove gte 300 and $LilithLove lt 400>>\
+<<set $LilithLoveFeeling to  'Practice Husband'>>\
+<<elseif $LilithLove gte 400 and $LilithLove lt 500>>\
+<<set $LilithLoveFeeling to 'My Prince'>>\
+<<elseif $LilithLove gte 500>>
+<<set $LilithLoveFeeling to 'Lover <3'>>\
+<<else>>\
+<<set $LilithLoveFeeling to '???'>>\
+<</if>>\
+<<if $KarenLove is 0>>\
+<span class="blink"><font color="red">
+<<set $KarenLoveFeeling to 'FORGOTTEN'>></font></span>\
+<<elseif $KarenLove isnot 0 and $KarenLove lt 50>>\
+<<set $KarenLoveFeeling to '...'>>\
+<<elseif $KarenLove gte 50 and $KarenLove lt 100>>\
+<<set $KarenLoveFeeling to 'Loser'>>\
+<<elseif $KarenLove gte 100 and $KarenLove lt 150>>\
+<<set $KarenLoveFeeling to 'Dork'>>\
+<<elseif $KarenLove gte 150 and $KarenLove lt 200>>\
+<<set $KarenLoveFeeling to 'Fellow Adult'>>\
+<<elseif $KarenLove gte 200 and $KarenLove lt 250>>\
+<<set $KarenLoveFeeling to 'Parental Figure'>>\
+<<elseif $KarenLove gte 250 and $KarenLove lt 300>>\
+<<set $KarenLoveFeeling to 'Uncle'>>\
+<<elseif $KarenLove gte 300 and $KarenLove lt 400>>\
+<<set $KarenLoveFeeling to  'Adult BoyFriend'>>\
+<<elseif $KarenLove gte 400 and $KarenLove lt 500>>\
+<<set $KarenLoveFeeling to 'BadAss!'>>\
+<<elseif $KarenLove gte 500>>\
+<<set $KarenLoveFeeling to 'Lover <3'>>\
+<<else>>\
+<<set $KarenLoveFeeling to '???'>>\
+<</if>>\
+<<if $NanakoLove is 0>>\
+<span class="blink"><font color="red">
+<<set $NanakoLoveFeeling to 'FORGOTTEN'>></font></span>\
+<<elseif $NanakoLove isnot 0 and $NanakoLove lt 50>>\
+<<set $NanakoLoveFeeling to '...'>>\
+<<elseif $NanakoLove gte 50 and $NanakoLove lt 100>>\
+<<set $NanakoLoveFeeling to 'Pedophile'>>\
+<<elseif $NanakoLove gte 100 and $NanakoLove lt 150>>\
+<<set $NanakoLoveFeeling to 'Fan'>>\
+<<elseif $NanakoLove gte 150 and $NanakoLove lt 200>>\
+<<set $NanakoLoveFeeling to 'True Fan'>>\
+<<elseif $NanakoLove gte 200 and $NanakoLove lt 250>>\
+<<set $NanakoLoveFeeling to 'Friend?'>>\
+<<elseif $NanakoLove gte 250 and $NanakoLove lt 300>>\
+<<set $NanakoLoveFeeling to 'BFF'>>\
+<<elseif $NanakoLove gte 300 and $NanakoLove lt 400>>\
+<<set $NanakoLoveFeeling to  'Producer'>>\
+<<elseif $NanakoLove gte 400 and $NanakoLove lt 500>>\
+<<set $NanakoLoveFeeling to 'His #1 Fan'>>\
+<<elseif $NanakoLove gte 500>>\
+<<set $NanakoLoveFeeling to 'Lover <3'>>\
+<<else>>\
+<<set $NanakoLoveFeeling to '???'>>\
+<</if>>\
+<<if $MikanLove is 0>>\
+<span class="blink"><font color="red">
+<<set $MikanLoveFeeling to 'FORGOTTEN'>></font></span>\
+<<elseif $MikanLove isnot 0 and $MikanLove lt 50>>\
+<<set $MikanLoveFeeling to '...'>>\
+<<elseif $MikanLove gte 50 and $MikanLove lt 100>>\
+<<set $MikanLoveFeeling to 'Person'>>\
+<<elseif $MikanLove gte 100 and $MikanLove lt 150>>\
+<<set $MikanLoveFeeling to 'Friend! Friend!'>>\
+<<elseif $MikanLove gte 150 and $MikanLove lt 200>>\
+<<set $MikanLoveFeeling to 'Owner'>>\
+<<elseif $MikanLove gte 200 and $MikanLove lt 250>>\
+<<set $MikanLoveFeeling to 'Master'>>\
+<<elseif $MikanLove gte 250 and $MikanLove lt 300>>\
+<<set $MikanLoveFeeling to 'Dominate Male'>>\
+<<elseif $MikanLove gte 300 and $MikanLove lt 400>>\
+<<set $MikanLoveFeeling to  'In Heat'>>\
+<<elseif $MikanLove gte 400 and $MikanLove lt 500>>\
+<<set $MikanLoveFeeling to 'Awo~'>>\
+<<elseif $MikanLove gte 500>>
+<<set $MikanLoveFeeling to 'Lover <3'>>\
+<<else>>\
+<<set $MikanLoveFeeling to '???'>>\
+<</if>>\
+<<if $VivianLove is 0>>\
+<span class="blink"><font color="red">
+<<set $VivianLoveFeeling to 'FORGOTTEN'>></font></span>\
+<<elseif $VivianLove isnot 0 and $VivianLove lt 50>>\
+<<set $VivianLoveFeeling to '...'>>\
+<<elseif $VivianLove gte 50 and $VivianLove lt 100>>\
+<<set $VivianLoveFeeling to 'Human'>>\
+<<elseif $VivianLove gte 100 and $VivianLove lt 150>>\
+<<set $VivianLoveFeeling to 'Slave'>>\
+<<elseif $VivianLove gte 150 and $MikanLove lt 200>>\
+<<set $VivianLoveFeeling to 'My Property'>>\
+<<elseif $VivianLove gte 200 and $VivianLove lt 250>>\
+<<set $VivianLoveFeeling to 'Care Giver'>>\
+<<elseif $VivianLove gte 250 and $VivianLove lt 300>>\
+<<set $VivianLoveFeeling to 'Enchanting'>>\
+<<elseif $VivianLove gte 300 and $VivianLove lt 400>>\
+<<set $VivianLoveFeeling to  'His Catgirl'>>\
+<<elseif $VivianLove gte 400 and $VivianLove lt 500>>\
+<<set $VivianLoveFeeling to 'Nyan~'>>\
+<<elseif $VivianLove gte 500>>
+<<set $VivianLoveFeeling to 'Lover <3'>>\
+<<else>>\
+<<set $VivianLoveFeeling to '???'>>\
+<</if>>\
+<<if $SoluziLove is 0>>\
+<span class="blink"><font color="red">
+<<set $SoluziLoveFeeling to 'FORGOTTEN'>></font></span>\
+<<elseif $SoluziLove isnot 0 and $SoluziLove lt 50>>\
+<<set $SoluziLoveFeeling to '...'>>
+<<elseif $SoluziLove gte 50 and $SoluziLove lt 100>>\
+<<set $SoluziLoveFeeling to 'Neznakomets'>>\
+<<elseif $SoluziLove gte 100 and $SoluziLove lt 150>>\
+<<set $SoluziLoveFeeling to 'Khoroshiy chelovek'>>\
+<<elseif $SoluziLove gte 150 and $SoluziLove lt 200>>\
+<<set $SoluziLoveFeeling to 'Milyy'>>\
+<<elseif $SoluziLove gte 200 and $SoluziLove lt 250>>\
+<<set $SoluziLoveFeeling to 'Poymi Menya'>>\
+<<elseif $SoluziLove gte 250 and $SoluziLove lt 300>>\
+<<set $SoluziLoveFeeling to 'Interesno'>>\
+<<elseif $SoluziLove gte 300 and $SoluziLove lt 400>>\
+<<set $SoluziLoveFeeling to  'Krasavchik'>>\
+<<elseif $SoluziLove gte 400 and $SoluziLove lt 500>>\
+<<set $SoluziLoveFeeling to 'Obozhayemyy'>>\
+<<elseif $SoluziLove gte 500>>\
+<<set $SoluziLoveFeeling to 'Lyubovnik <3'>>\
+<<else>>\
+<<set $SoluziLoveFeeling to '???'>>\
+<</if>>\
+<<if $ClauseLove is 0>>\
+<span class="blink"><font color="red">
+<<set $ClauseLoveFeeling to 'FORGOTTEN'>></font></span>\
+<<elseif $ClauseLove isnot 0 and $ClauseLove lt 50>>\
+<<set $ClauseLoveFeeling to '...'>>\
+<<elseif $ClauseLove gte 50 and $ClauseLove lt 100>>\
+<<set $ClauseLoveFeeling to 'Adult'>>\
+<<elseif $ClauseLove gte 100 and $ClauseLove lt 150>>\
+<<set $ClauseLoveFeeling to 'Bookworm'>>\
+<<elseif $ClauseLove gte 150 and $SoluziLove lt 200>>\
+<<set $SoluziLoveFeeling to 'Smart'>>\
+<<elseif $SoluziLove gte 200 and $SoluziLove lt 250>>\
+<<set $SoluziLoveFeeling to 'A Character'>>\
+<<elseif $SoluziLove gte 250 and $SoluziLove lt 300>>\
+<<set $SoluziLoveFeeling to 'Romeo~'>>\
+<<elseif $SoluziLove gte 300 and $SoluziLove lt 400>>\
+<<set $SoluziLoveFeeling to  'His Juliet.'>>\
+<<elseif $SoluziLove gte 400 and $SoluziLove lt 500>>\
+<<set $SoluziLoveFeeling to 'Touching~'>>\
+<<elseif $SoluziLove gte 500>>\
+<<set $SoluziLoveFeeling to 'Lover <3'>>\
+<<else>>\
+<<set $SoluziLoveFeeling to '???'>>\
+<</if>>\
+<<if $IrisuLove is 0>>\
+<span class="blink"><font color="red">\
+<<set $IrisuLoveFeeling to 'FORGOTTEN'>></font></span>
+<<elseif $IrisuLove isnot 0 and $IrisuLove lt 50>>\
+<<set $IrisuLoveFeeling to '...'>>\
+<<elseif $IrisuLove gte 50 and $IrisuLove lt 100>>\
+<<set $IrisuLoveFeeling to 'Related..'>>\
+<<elseif $IrisuLove gte 100 and $IrisuLove lt 150>>\
+<<set $IrisuLoveFeeling to 'The Brother'>>\
+<<elseif $IrisuLove gte 150 and $IrisuLove lt 200>>\
+<<set $IrisuLoveFeeling to 'Questioning Hatred'>>\
+<<elseif $IrisuLove gte 200 and $IrisuLove lt 250>>\
+<<set $IrisuLoveFeeling to 'Toy'>>\
+<<elseif $IrisuLove gte 250 and $IrisuLove lt 300>>\
+<<set $IrisuLoveFeeling to 'My Rabbit'>>\
+<<elseif $IrisuLove gte 300 and $IrisuLove lt 400>>\
+<<set $IrisuLoveFeeling to  'Was Wrong..'>>\
+<<elseif $IrisuLove gte 400 and $IrisuLove lt 500>>\
+<<set $IrisuLoveFeeling to 'Onii-Chan?'>>\
+<<elseif $IrisuLove gte 500>>\
+<<set $IrisuLoveFeeling to 'MY Lover <3'>>\
+<<else>>\
+<<set $IrisuLoveFeeling to '???'>>\
+<</if>>\
+<<if $ArisaHate is 0>>\
+<font color="white"><<set $ArisaHateFeeling to 'No Hate'>></font>\
+<<elseif $ArisaHate gt 0 and $ArisaHate lt 50>>\
+<font color="yellow"><<set $ArisaHateFeeling to 'Bummed Out'>></font>\
+<<elseif $ArisaHate gt 50 and $ArisaHate lt 100>>\
+<font color="orange"><<set $ArisaHateFeeling to 'Bothered'>></font>\
+<<elseif $ArisaHate gt 100 and $ArisaHate lt 150>>\
+<font color="blue"><<set $ArisaHateFeeling to 'Annoying'>></font>\
+<<elseif $ArisaHate gt 150 and $ArisaHate lt 200>>\
+<font color="green"><<set $ArisaHateFeeling to 'Disenchanted'>></font>\
+<<elseif $ArisaHate gt 200 and $ArisaHate lt 300>>\
+<font color="purple"><<set $ArisaHateFeeling to 'Horrible'>></font>\
+<<elseif $ArisaHate gt 300 and $ArisaHate lt 400>>\
+<font color="#7a2791"><<set $ArisaHateFeeling to 'Scares Me!'>></font>\
+<<elseif $ArisaHate gt 400 and $ArisaHate lt 500>>\
+<font color="red"><<set $ArisaHateFeeling to 'Despise'>></font>\
+<<elseif $ArisaHate gte 500>>
+<span class="blink"><font color="red"><<set $ArisaHateFeeling to 'WANT DEAD!'>></font></span>\
+<<else>>\
+<<set $ArisaHateFeeling to "???">>\
+<</if>>\
+<<if $RediaHate is 0>>\
+<font color="white"><<set $RediaHateFeeling to 'No Hate'>></font>\
+<<elseif $RediaHate gt 0 and $RediaHate lt 50>>\
+<font color="yellow"><<set $ArisaHateFeeling to 'Bummed Out'>></font>\
+<<elseif $RediaHate gt 50 and $RediaHate lt 100>>\
+<font color="orange"><<set $RediaHateFeeling to 'Bothered'>></font>\
+<<elseif $RediaHate gt 100 and $RediaHate lt 150>>\
+<font color="blue"><<set $ArisaHateFeeling to 'Annoying'>></font>\
+<<elseif $RediaHate gt 150 and $RediaHate lt 200>>\
+<font color="green"><<set $ArisaHateFeeling to 'Disenchanted'>></font>\
+<<elseif $RediaHate gt 200 and $RediaHate lt 300>>\
+<font color="purple"><<set $ArisaHateFeeling to 'Horrible'>></font>\
+<<elseif $RediaHate gt 300 and $RediaHate lt 400>>\
+<font color="#7a2791"><<set $ArisaHateFeeling to 'Scares Me!'>></font>\
+<<elseif $RediaHate gt 400 and $RediaHate lt 500>>\
+<font color="red"><<set $RediaHateFeeling to 'Despise'>></font>\
+<<elseif $RediaHate gte 500>>\
+<span class="blink"><font color="red"><<set $RediaHateFeeling to 'WANT DEAD!'>></font></span>\
+<<else>>\
+<<set $RediaHateFeeling to "???">>\
+<</if>>\
+<<if $SuikoHate is 0>>\
+<font color="white"><<set $SuikoHateFeeling to 'No Hate'>></font>\
+<<elseif $SuikoHate gt 0 and $SuikoHate lt 50>>\
+<font color="yellow"><<set $SuikoHateFeeling to 'Bummed Out'>></font>\
+<<elseif $SuikoHate gt 50 and $SuikoHate lt 100>>\
+<font color="orange"><<set $SuikoHateFeeling to 'Bothered'>></font>\
+<<elseif $SuikoHate gt 100 and $SuikoHate lt 150>>\
+<font color="blue"><<set $SuikoHateFeeling to 'Annoying'>></font>\
+<<elseif $SuikoHate gt 150 and $SuikoHate lt 200>>\
+<font color="green"><<set $SuikoHateFeeling to 'Disenchanted'>></font>\
+<<elseif $SuikoHate gt 200 and $SuikoHate lt 300>>\
+<font color="purple"><<set $SuikoHateFeeling to 'Horrible'>></font>\
+<<elseif $SuikoHate gt 300 and $SuikoHate lt 400>>\
+<font color="#7a2791"><<set $SuikoHateFeeling to 'Scares Me!'>></font>\
+<<elseif $SuikoHate gt 400 and $SuikoHate lt 500>>\
+<font color="red"><<set $SuikoHateFeeling to 'Despise'>></font>\
+<<elseif $SuikoHate gte 500>>\
+<span class="blink"><font color="red"><<set $SuikoHateFeeling to 'WANT DEAD!'>></font></span>\
+<<else>>\
+<<set $SuikoHateFeeling to "???">>\
+<</if>>\
+<<if $SaraHate is 0>>\
+<font color="white"><<set $SuikoHateFeeling to 'No Hate'>></font>\
+<<elseif $SaraHate gt 0 and $SaraHate lt 50>>\
+<font color="yellow"><<set $SaraHateFeeling to 'Bummed Out'>></font>\
+<<elseif $SaraHate gt 50 and $SaraHate lt 100>>\
+<font color="orange"><<set $SaraHateFeeling to 'Bothered'>></font>\
+<<elseif $SaraHate gt 100 and $SaraHate lt 150>>\
+<font color="blue"><<set $SaraHateFeeling to 'Annoying'>></font>\
+<<elseif $SaraHate gt 150 and $SaraHate lt 200>>\
+<font color="green"><<set $SuikoHateFeeling to 'Disenchanted'>></font>\
+<<elseif $SaraHate gt 200 and $SaraHate lt 300>>\
+<font color="purple"><<set $SaraHateFeeling to 'Horrible'>></font>\
+<<elseif $SaraHate gt 300 and $SaraHate lt 400>>\
+<font color="#7a2791"><<set $SaraHateFeeling to 'Scares Me!'>></font>\
+<<elseif $SaraHate gt 400 and $SaraHate lt 500>>\
+<font color="red"><<set $SaraHateFeeling to 'Despise'>></font>\
+<<elseif $SaraHate gte 500>>\
+<span class="blink"><font color="red"><<set $SaraHateFeeling to 'WANT DEAD!'>></font></span>\
+<<else>>\
+<<set $SaraHateFeeling to "???">>\
+<</if>>\
+<<if $RandyHate is 0>>\
+<font color="white"><<set $RandyHateFeeling to 'No Hate'>></font>\
+<<elseif $RandyHate gt 0 and $RandyHate lt 50>>\
+<font color="yellow"><<set $RandyHateFeeling to 'Bummed Out'>></font>\
+<<elseif $RandyHate gt 50 and $RandyHate lt 100>>\
+<font color="orange"><<set $RandyHateFeeling to 'Bothered'>></font>\
+<<elseif $RandyHate gt 100 and $RandyHate lt 150>>\
+<font color="blue"><<set $RandyHateFeeling to 'Annoying'>></font>\
+<<elseif $RandyHate gt 150 and $RandyHate lt 200>>\
+<font color="green"><<set $RandyHateFeeling to 'Disenchanted'>></font>\
+<<elseif $RandyHate gt 200 and $RandyHate lt 300>>\
+<font color="purple"><<set $RandyHateFeeling to 'Horrible'>></font>\
+<<elseif $RandyHate gt 300 and $RandyHate lt 400>>\
+<font color="#7a2791"><<set $RandyHateFeeling to 'Scares Me!'>></font>\
+<<elseif $RandyHate gt 400 and $RandyHate lt 500>>\
+<font color="red"><<set $RandyHateFeeling to 'Despise'>></font>\
+<<elseif $RandyHate gte 500>>\
+<span class="blink"><font color="red"><<set $RandyHateFeeling to 'WANT DEAD!'>></font></span>\
+<<else>>\
+<<set $RandyHateFeeling to "???">>\
+<</if>>\
+<<if $AmberHate is 0>>\
+<font color="white"><<set $AmberHateFeeling to 'No Hate'>></font>\
+<<elseif $AmberHate gt 0 and $AmberHate lt 50>>\
+<font color="yellow"><<set $AmberHateFeeling to 'Bummed Out'>></font>\
+<<elseif $AmberHate gt 50 and $AmberHate lt 100>>\
+<font color="orange"><<set $AmberHateFeeling to 'Bothered'>></font>\
+<<elseif $AmberHate gt 100 and $AmberHate lt 150>>\
+<font color="blue"><<set $AmberHateFeeling to 'Annoying'>></font>\
+<<elseif $AmberHate gt 150 and $AmberHate lt 200>>\
+<font color="green"><<set $AmberHateFeeling to 'Disenchanted'>></font>\
+<<elseif $AmberHate gt 200 and $AmberHate lt 300>>\
+<font color="purple"><<set $AmberHateFeeling to 'Horrible'>></font>\
+<<elseif $AmberHate gt 300 and $AmberHate lt 400>>\
+<font color="#7a2791"><<set $AmberHateFeeling to 'Scares Me!'>></font>\
+<<elseif $AmberHate gt 400 and $AmberHate lt 500>>\
+<font color="red"><<set $AmberHateFeeling to 'Despise'>></font>\
+<<elseif $AmberHate gte 500>>
+<span class="blink"><font color="red"><<set $AmberHateFeeling to 'WANT DEAD!'>></font></span>\
+<<else>>\
+<<set $AmberHateFeeling to "???">>\
+<</if>>\
+<<if $MidoriHate is 0>>\
+<font color="white"><<set $MidoriHateFeeling to 'No Hate'>></font>\
+<<elseif $MidoriHate gt 0 and $MidoriHate lt 50>>\
+<font color="yellow"><<set $MidoriHateFeeling to 'Bummed Out'>></font>\
+<<elseif $MidoriHate gt 50 and $MidoriHate lt 100>>\
+<font color="orange"><<set $MidoriHateFeeling to 'Bothered'>></font>\
+<<elseif $MidoriHate gt 100 and $MidoriHate lt 150>>\
+<font color="blue"><<set $MidoriHateFeeling to 'Annoying'>></font>\
+<<elseif $MidoriHate gt 150 and $MidoriHate lt 200>>\
+<font color="green"><<set $MidoriHateFeeling to 'Disenchanted'>></font>\
+<<elseif $MidoriHate gt 200 and $MidoriHate lt 300>>\
+<font color="purple"><<set $MidoriHateFeeling to 'Horrible'>></font>\
+<<elseif $MidoriHate gt 300 and $MidoriHate lt 400>>\
+<font color="#7a2791"><<set $MidoriHateFeeling to 'Scares Me!'>></font>\
+<<elseif $MidoriHate gt 400 and $MidoriHate lt 500>>\
+<font color="red"><<set $MidoriHateFeeling to 'Despise'>></font>\
+<<elseif $MidoriHate gte 500>>\
+<span class="blink"><font color="red"><<set $MidoriHateFeeling to 'WANT DEAD!'>></font></span>\
+<<else>>\
+<<set $MidoriHateFeeling to "???">>\
+<</if>>\
+<<if $LilithHate is 0>>\
+<font color="white"><<set $LilithHateFeeling to 'No Hate'>></font>\
+<<elseif $LilithHate gt 0 and $LilithHate lt 50>>\
+<font color="yellow"><<set $LilithHateFeeling to 'Bummed Out'>></font>\
+<<elseif $LilithHate gt 50 and $LilithHate lt 100>>\
+<font color="orange"><<set $LilithHateFeeling to 'Bothered'>></font>\
+<<elseif $LilithHate gt 100 and $LilithHate lt 150>>\
+<font color="blue"><<set $LilithHateFeeling to 'Annoying'>></font>\
+<<elseif $LilithHate gt 150 and $LilithHate lt 200>>\
+<font color="green"><<set $LilithHateFeeling to 'Disenchanted'>></font>\
+<<elseif $LilithHate gt 200 and $LilithHate lt 300>>\
+<font color="purple"><<set $LilithHateFeeling to 'Horrible'>></font>\
+<<elseif $LilithHate gt 300 and $LilithHate lt 400>>\
+<font color="#7a2791"><<set $MidoriHateFeeling to 'Scares Me!'>></font>\
+<<elseif $LilithHate gt 400 and $LilithHate lt 500>>\
+<font color="red"><<set $LilithHateFeeling to 'Despise'>></font>\
+<<elseif $LilithHate gte 500>>\
+<span class="blink"><font color="red"><<set $LilithHateFeeling to 'WANT DEAD!'>></font></span>\
+<<else>>\
+<<set $LilithHateFeeling to "???">>
+<</if>>\
+<<if $KarenHate is 0>>\
+<font color="white"><<set $KarenHateFeeling to 'No Hate'>></font>\
+<<elseif $KarenHate gt 0 and $KarenHate lt 50>>\
+<font color="yellow"><<set $LilithHateFeeling to 'Bummed Out'>></font>\
+<<elseif $KarenHate gt 50 and $KarenHate lt 100>>\
+<font color="orange"><<set $KarenHateFeeling to 'Bothered'>></font>\
+<<elseif $KarenHate gt 100 and $KarenHate lt 150>>\
+<font color="blue"><<set $KarenHateFeeling to 'Annoying'>></font>\
+<<elseif $KarenHate gt 150 and $KarenHate lt 200>>\
+<font color="green"><<set $KarenHateFeeling to 'Disenchanted'>></font>\
+<<elseif $KarenHate gt 200 and $KarenHate lt 300>>\
+<font color="purple"><<set $KarenHateFeeling to 'Horrible'>></font>\
+<<elseif $KarenHate gt 300 and $KarenHate lt 400>>\
+<font color="#7a2791"><<set $KarenHateFeeling to 'Scares Me!'>></font>\
+<<elseif $KarenHate gt 400 and $KarenHate lt 500>>\
+<font color="red"><<set $KarenHateFeeling to 'Despise'>></font>\
+<<elseif $KarenHate gte 500>>\
+<span class="blink"><font color="red"><<set $KarenHateFeeling to 'WANT DEAD!'>></font></span>\
+<<else>>\
+<<set $KarenHateFeeling to "???">>\
+<</if>>\
+<<if $NanakoHate is 0>>\
+<font color="white"><<set $NanakoHateFeeling to 'No Hate'>></font>\
+<<elseif $NanakoHate gt 0 and $NanakoHate lt 50>>\
+<font color="yellow"><<set $NanakoHateFeeling to 'Bummed Out'>></font>\
+<<elseif $NanakoHate gt 50 and $NanakoHate lt 100>>\
+<font color="orange"><<set $NanakoHateFeeling to 'Bothered'>></font>\
+<<elseif $NanakoHate gt 100 and $NanakoHate lt 150>>\
+<font color="blue"><<set $NanakoHateFeeling to 'Annoying'>></font>\
+<<elseif $NanakoHate gt 150 and $NanakoHate lt 200>>\
+<font color="green"><<set $NanakoHateFeeling to 'Disenchanted'>></font>\
+<<elseif $NanakoHate gt 200 and $NanakoHate lt 300>>\
+<font color="purple"><<set $NanakoHateFeeling to 'Horrible'>></font>\
+<<elseif $NanakoHate gt 300 and $NanakoHate lt 400>>\
+<font color="#7a2791"><<set $NanakoHateFeeling to 'Scares Me!'>></font>\
+<<elseif $NanakoHate gt 400 and $NanakoHate lt 500>>\
+<font color="red"><<set $NanakoHateFeeling to 'Despise'>></font>
+<<elseif $NanakoHate gte 500>>\
+<span class="blink"><font color="red"><<set $NanakoHateFeeling to 'WANT DEAD!'>></font></span>\
+<<else>>\
+<<set $NanakoHateFeeling to "???">>\
+<</if>>\
+<<if $MikanHate is 0>>\
+<font color="white"><<set $MikanHateFeeling to 'No Hate'>></font>\
+<<elseif $MikanHate gt 0 and $MikanHate lt 50>>\
+<font color="yellow"><<set $MikanHateFeeling to 'Bummed Out'>></font>\
+<<elseif $MikanHate gt 50 and $MikanHate lt 100>>\
+<font color="orange"><<set $MikanHateFeeling to 'Bothered'>></font>\
+<<elseif $MikanHate gt 100 and $MikanHate lt 150>>\
+<font color="blue"><<set $MikanHateFeeling to 'Annoying'>></font>\
+<<elseif $MikanHate gt 150 and $MikanHate lt 200>>\
+<font color="green"><<set $MikanHateFeeling to 'Disenchanted'>></font>\
+<<elseif $MikanHate gt 200 and $MikanHate lt 300>>\
+<font color="purple"><<set $MikanHateFeeling to 'Horrible'>></font>\
+<<elseif $MikanHate gt 300 and $MikanHate lt 400>>\
+<font color="#7a2791"><<set $MikanHateFeeling to 'Scares Me!'>></font>\
+<<elseif $MikanHate gt 400 and $MikanHate lt 500>>\
+<font color="red"><<set $MikanHateFeeling to 'Despise'>></font>\
+<<elseif $MikanHate gte 500>>\
+<span class="blink"><font color="red"><<set $MikanHateFeeling to 'WANT DEAD!'>></font></span>\
+<<else>>\
+<<set $MikanHateFeeling to "???">>\
+<</if>>\
+<<if $VivianHate is 0>>\
+<font color="white"><<set $VivianHateFeeling to 'No Hate'>></font>\
+<<elseif $VivianHate gt 0 and $VivianHate lt 50>>\
+<font color="yellow"><<set $VivianHateFeeling to 'Bummed Out'>></font>\
+<<elseif $VivianHate gt 50 and $VivianHate lt 100>>\
+<font color="orange"><<set $VivianHateFeeling to 'Bothered'>></font>\
+<<elseif $VivianHate gt 100 and $VivianHate lt 150>>\
+<font color="blue"><<set $MikanHateFeeling to 'Annoying'>></font>\
+<<elseif $VivianHate gt 150 and $VivianHate lt 200>>\
+<font color="green"><<set $VivianHateFeeling to 'Disenchanted'>></font>\
+<<elseif $VivianHate gt 200 and $VivianHate lt 300>>\
+<font color="purple"><<set $VivianHateFeeling to 'Horrible'>></font>\
+<<elseif $VivianHate gt 300 and $VivianHate lt 400>>\
+<font color="#7a2791"><<set $VivianHateFeeling to 'Scares Me!'>></font>\
+<<elseif $VivianHate gt 400 and $VivianHate lt 500>>\
+<font color="red"><<set $VivianHateFeeling to 'Despise'>></font>\
+<<elseif $VivianHate gte 500>>\
+<span class="blink"><font color="red"><<set $VivianHateFeeling to 'WANT DEAD!'>></font></span>\
+<<else>>\
+<<set $VivianHateFeeling to "???">>\
+<</if>>\
+<<if $SoluziHate is 0>>\
+<font color="white"><<set $SoluziHateFeeling to 'No Hate'>></font>\
+<<elseif $SoluziHate gt 0 and $SoluziHate lt 50>>\
+<font color="yellow"><<set $SoluziHateFeeling to 'Bummed Out'>></font>\
+<<elseif $SoluziHate gt 50 and $SoluziHate lt 100>>\
+<font color="orange"><<set $VivianHateFeeling to 'Bothered'>></font>\
+<<elseif $SoluziHate gt 100 and $SoluziHate lt 150>>\
+<font color="blue"><<set $MikanHateFeeling to 'Annoying'>></font>\
+<<elseif $SoluziHate gt 150 and $SoluziHate lt 200>>\
+<font color="green"><<set $SoluziHateFeeling to 'Disenchanted'>></font>\
+<<elseif $SoluziHate gt 200 and $SoluziHate lt 300>>\
+<font color="purple"><<set $SoluziHateFeeling to 'Horrible'>></font>\
+<<elseif $SoluziHate gt 300 and $SoluziHate lt 400>>\
+<font color="#7a2791"><<set $SoluziHateFeeling to 'Scares Me!'>></font>\
+<<elseif $SoluziHate gt 400 and $SoluziHate lt 500>>\
+<font color="red"><<set $SoluziHateFeeling to 'Despise'>></font>\
+<<elseif $SoluziHate gte 500>>
+<span class="blink"><font color="red"><<set $SoluziHateFeeling to 'WANT DEAD!'>></font></span>\
+<<else>>\
+<<set $SoluziHateFeeling to "???">>\
+<</if>>\
+<<if $ClauseHate is 0>>\
+<font color="white"><<set $ClauseHateFeeling to 'No Hate'>></font>\
+<<elseif $ClauseHate gt 0 and $ClauseHate lt 50>>\
+<font color="yellow"><<set $ClauseHateFeeling to 'Bummed Out'>></font>\
+<<elseif $ClauseHate gt 50 and $ClauseHate lt 100>>\
+<font color="orange"><<set $ClauseHateFeeling to 'Bothered'>></font>\
+<<elseif $ClauseHate gt 100 and $ClauseHate lt 150>>\
+<font color="blue"><<set $ClauseHateFeeling to 'Annoying'>></font>\
+<<elseif $ClauseHate gt 150 and $ClauseHate lt 200>>\
+<font color="green"><<set $ClauseHateFeeling to 'Disenchanted'>></font>\
+<<elseif $ClauseHate gt 200 and $ClauseHate lt 300>>\
+<font color="purple"><<set $ClauseHateFeeling to 'Horrible'>></font>\
+<<elseif $ClauseHate gt 300 and $ClauseHate lt 400>>\
+<font color="#7a2791"><<set $ClauseHateFeeling to 'Scares Me!'>></font>\
+<<elseif $ClauseHate gt 400 and $ClauseHate lt 500>>\
+<font color="red"><<set $ClauseHateFeeling to 'Despise'>></font>\
+<<elseif $ClauseHate gte 500>>
+<span class="blink"><font color="red"><<set $ClauseHateFeeling to 'WANT DEAD!'>></font></span>\
+<<else>>\
+<<set $ClauseHateFeeling to "???">>\
+<</if>>\
+<<if $IrisuHate is 0>>\
+<font color="white"><<set $IrisuHateFeeling to 'No Hate'>></font>\
+<<elseif $IrisuHate gt 0 and $IrisuHate lt 50>>\
+<font color="yellow"><<set $IrisuHateFeeling to 'Bummed Out'>></font>\
+<<elseif $IrisuHate gt 50 and $IrisuHate lt 100>>\
+<font color="orange"><<set $IrisuHateFeeling to 'Bothered'>></font>\
+<<elseif $IrisuHate gt 100 and $IrisuHate lt 150>>\
+<font color="blue"><<set $IrisuHateFeeling to 'Annoying'>></font>\
+<<elseif $IrisuHate gt 150 and $IrisuHate lt 200>>\
+<font color="green"><<set $IrisuHateFeeling to 'Disenchanted'>></font>\
+<<elseif $IrisuHate gt 200 and $IrisuHate lt 300>>\
+<font color="purple"><<set $IrisuHateFeeling to 'Horrible'>></font>\
+<<elseif $IrisuHate gt 300 and $IrisuHate lt 400>>\
+<font color="#7a2791"><<set $IrisuHateFeeling to 'Scares Me!'>></font>\
+<<elseif $IrisuHate gt 400 and $IrisuHate lt 500>>\
+<font color="red"><<set $IrisuHateFeeling to 'Despise'>></font>\
+<<elseif $IrisuHate gte 500>>\
+<span class="blink"><font color="red"><<set $IrisuHateFeeling to 'WANT DEAD!'>></font></span>\
+<<else>>\
+<<set $IrisuHateFeeling to "???">>\
+<</if>>\
+<<if $ArisaDepression is 0>>\
+<<set $ArisaDepressionFeeling to 'Content'>>
+<<elseif $ArisaDepression isnot 0 and $ArisaDepression lt 50>>\
+<<set $ArisaDepressionFeeling to 'Upset'>>
+<<elseif $ArisaDepression gte 50 and $ArisaDepression lt 100>>\
+<<set $ArisaDepressionFeeling to 'Alone'>>
+<<elseif $ArisaDepression gte 100 and $ArisaDepression lt 200>>\
+<<set $ArisaDepressionFeeling to 'Worthless'>>
+<<elseif $ArisaDepression gte 200 and $ArisaDepression lt 300>>\
+<<set $ArisaDepressionFeeling to 'Hollow'>>\
+<<elseif $ArisaDepression gte 300>>\
+<<set $ArisaDepressionFeeling to 'Suicidal'>>\
+<<else>>\
+<<set $ArisaDepressionFeeling to '???'>>\
+<</if>>\
+<<if $RediaDepression is 0>>\
+<<set $RediaDepressionFeeling to 'Content'>>\
+<<elseif $RediaDepression isnot 0 and $RediaDepression lt 50>>\
+<<set $RediaDepressionFeeling to 'Upset'>>\
+<<elseif $RediaDepression gte 50 and $RediaDepression lt 100>>\
+<<set $RediaDepressionFeeling to 'Alone'>>\
+<<elseif $RediaDepression gte 100 and $RediaDepression lt 200>>\
+<<set $RediaDepressionFeeling to 'Worthless'>>\
+<<elseif $RediaDepression gte 200 and $RediaDepression lt 300>>\
+<<set $RediaDepressionFeeling to 'Hollow'>>\
+<<elseif $RediaDepression gte 300>>\
+<<set $RediaDepressionFeeling to 'Suicidal'>>\
+<<else>>\
+<<set $RediaDepressionFeeling to '???'>>\
+<</if>>\
+<<if $SuikoDepression is 0>>\
+<<set $SuikoDepressionFeeling to 'Content'>>\
+<<elseif $SuikoDepression isnot 0 and $SuikoDepression lt 50>>\
+<<set $SuikoDepressionFeeling to 'Upset'>>\
+<<elseif $SuikoDepression gte 50 and $SuikoDepression lt 100>>\
+<<set $SuikoDepressionFeeling to 'Alone'>>\
+<<elseif $SuikoDepression gte 100 and $SuikoDepression lt 200>>\
+<<set $SuikoDepressionFeeling to 'Worthless'>>\
+<<elseif $SuikoDepression gte 200 and $SuikoDepression lt 300>>\
+<<set $SuikoDepressionFeeling to 'Hollow'>>\
+<<elseif $SuikoDepression gte 300>>\
+<<set $SuikoDepressionFeeling to 'Suicidal'>>\
+<<else>>\
+<<set $SuikoDepressionFeeling to '???'>>\
+<</if>>\
+<<if $SaraDepression is 0>>\
+<<set $SaraDepressionFeeling to 'Content'>>\
+<<elseif $SaraDepression isnot 0 and $SaraDepression lt 50>>\
+<<set $SaraDepressionFeeling to 'Upset'>>\
+<<elseif $SaraDepression gte 50 and $SaraDepression lt 100>>\
+<<set $SaraDepressionFeeling to 'Alone'>>\
+<<elseif $SaraDepression gte 100 and $SaraDepression lt 200>>\
+<<set $SaraDepressionFeeling to 'Worthless'>>\
+<<elseif $SaraDepression gte 200 and $SaraDepression lt 300>>\
+<<set $SaraDepressionFeeling to 'Hollow'>>\
+<<elseif $SaraDepression gte 300>>\
+<<set $SaraDepressionFeeling to 'Suicidal'>>\
+<<else>>\
+<<set $SaraDepressionFeeling to '???'>>\
+<</if>>\
+<<if $RandyDepression is 0>>\
+<<set $RandyDepressionFeeling to 'Content'>>\
+<<elseif $RandyDepression isnot 0 and $RandyDepression lt 50>>\
+<<set $RandyDepressionFeeling to 'Upset'>>\
+<<elseif $RandyDepression gte 50 and $RandyDepression lt 100>>\
+<<set $RandyDepressionFeeling to 'Alone'>>\
+<<elseif $RandyDepression gte 100 and $RandyDepression lt 200>>\
+<<set $RandyDepressionFeeling to 'Worthless'>>
+<<elseif $RandyDepression gte 200 and $RandyDepression lt 300>>\
+<<set $RandyDepressionFeeling to 'Hollow'>>\
+<<elseif $RandyDepression gte 300>>\
+<<set $RandyDepressionFeeling to 'Suicidal'>>\
+<<else>>\
+<<set $RandyDepressionFeeling to '???'>>\
+<</if>>\
+<<if $AmberDepression is 0>>\
+<<set $AmberDepressionFeeling to 'Content'>>\
+<<elseif $AmberDepression isnot 0 and $AmberDepression lt 50>>\
+<<set $AmberDepressionFeeling to 'Upset'>>\
+<<elseif $AmberDepression gte 50 and $AmberDepression lt 100>>\
+<<set $AmberDepressionFeeling to 'Alone'>>\
+<<elseif $AmberDepression gte 100 and $AmberDepression lt 200>>\
+<<set $AmberDepressionFeeling to 'Worthless'>>\
+<<elseif $AmberDepression gte 200 and $AmberDepression lt 300>>\
+<<set $AmberDepressionFeeling to 'Hollow'>>\
+<<elseif $AmberDepression gte 300>>\
+<<set $AmberDepressionFeeling to 'Suicidal'>>\
+<<else>>\
+<<set $AmberDepressionFeeling to '???'>>\
+<</if>>\
+<<if $MidoriDepression is 0>>\
+<<set $MidoriDepressionFeeling to 'Content'>>\
+<<elseif $MidoriDepression isnot 0 and $MidoriDepression lt 50>>\
+<<set $MidoriDepressionFeeling to 'Upset'>>\
+<<elseif $MidoriDepression gte 50 and $MidoriDepression lt 100>>\
+<<set $MidoriDepressionFeeling to 'Alone'>>\
+<<elseif $MidoriDepression gte 100 and $MidoriDepression lt 200>>\
+<<set $MidoriDepressionFeeling to 'Worthless'>>\
+<<elseif $MidoriDepression gte 200 and $MidoriDepression lt 300>>\
+<<set $MidoriDepressionFeeling to 'Hollow'>>\
+<<elseif $MidoriDepression gte 300>>\
+<<set $MidoriDepressionFeeling to 'Suicidal'>>\
+<<else>>\
+<<set $MidoriDepressionFeeling to '???'>>\
+<</if>>\
+<<if $LilithDepression is 0>>\
+<<set $LilithDepressionFeeling to 'Content'>>\
+<<elseif $LilithDepression isnot 0 and $LilithDepression lt 50>>\
+<<set $LilithDepressionFeeling to 'Upset'>>\
+<<elseif $LilithDepression gte 50 and $LilithDepression lt 100>>\
+<<set $LilithDepressionFeeling to 'Alone'>>\
+<<elseif $LilithDepression gte 100 and $LilithDepression lt 200>>\
+<<set $LilithDepressionFeeling to 'Worthless'>>\
+<<elseif $LilithDepression gte 200 and $LilithDepression lt 300>>\
+<<set $LilithDepressionFeeling to 'Hollow'>>\
+<<elseif $LilithDepression gte 300>>\
+<<set $LilithDepressionFeeling to 'Suicidal'>>\
+<<else>>\
+<<set $LilithDepressionFeeling to '???'>>\
+<</if>>\
+<<if $KarenDepression is 0>>\
+<<set $KarenDepressionFeeling to 'Content'>>\
+<<elseif $KarenDepression isnot 0 and $KarenDepression lt 50>>\
+<<set $KarenDepressionFeeling to 'Upset'>>\
+<<elseif $KarenDepression gte 50 and $KarenDepression lt 100>>\
+<<set $KarenDepressionFeeling to 'Alone'>>\
+<<elseif $KarenDepression gte 100 and $KarenDepression lt 200>>\
+<<set $KarenDepressionFeeling to 'Worthless'>>\
+<<elseif $KarenDepression gte 200 and $KarenDepression lt 300>>\
+<<set $KarenDepressionFeeling to 'Hollow'>>\
+<<elseif $KarenDepression gte 300>>\
+<<set $KarenDepressionFeeling to 'Suicidal'>>\
+<<else>>\
+<<set $KarenDepressionFeeling to '???'>>\
+<</if>>\
+<<if $NanakoDepression is 0>>\
+<<set $NanakoDepressionFeeling to 'Content'>>\
+<<elseif $NanakoDepression isnot 0 and $NanakoDepression lt 50>>\
+<<set $NanakoDepressionFeeling to 'Upset'>>\
+<<elseif $NanakoDepression gte 50 and $NanakoDepression lt 100>>\
+<<set $NanakoDepressionFeeling to 'Alone'>>\
+<<elseif $NanakoDepression gte 100 and $NanakoDepression lt 200>>\
+<<set $NanakoDepressionFeeling to 'Worthless'>>\
+<<elseif $NanakoDepression gte 200 and $NanakoDepression lt 300>>\
+<<set $NanakoDepressionFeeling to 'Hollow'>>\
+<<elseif $NanakoDepression gte 300>>\
+<<set $NanakoDepressionFeeling to 'Suicidal'>>\
+<<else>>\
+<<set $NanakoDepressionFeeling to '???'>>\
+<</if>>\
+<<if $MikanDepression is 0>>\
+<<set $MikanDepressionFeeling to 'Content'>>\
+<<elseif $MikanDepression isnot 0 and $MikanDepression lt 50>>\
+<<set $MikanDepressionFeeling to 'Upset'>>\
+<<elseif $MikanDepression gte 50 and $MikanDepression lt 100>>\
+<<set $MikanDepressionFeeling to 'Alone'>>\
+<<elseif $MikanDepression gte 100 and $MikanDepression lt 200>>\
+<<set $MikanDepressionFeeling to 'Worthless'>>\
+<<elseif $MikanDepression gte 200 and $MikanDepression lt 300>>\
+<<set $MikanDepressionFeeling to 'Hollow'>>\
+<<elseif $MikanDepression gte 300>>\
+<<set $MikanDepressionFeeling to 'Suicidal'>>\
+<<else>>\
+<<set $MikanDepressionFeeling to '???'>>\
+<</if>>\
+<<if $VivianDepression is 0>>\
+<<set $VivianDepressionFeeling to 'Content'>>\
+<<elseif $VivianDepression isnot 0 and $VivianDepression lt 50>>\
+<<set $VivianDepressionFeeling to 'Upset'>>\
+<<elseif $VivianDepression gte 50 and $VivianDepression lt 100>>\
+<<set $VivianDepressionFeeling to 'Alone'>>\
+<<elseif $VivianDepression gte 100 and $VivianDepression lt 200>>\
+<<set $VivianDepressionFeeling to 'Worthless'>>\
+<<elseif $VivianDepression gte 200 and $VivianDepression lt 300>>\
+<<set $VivianDepressionFeeling to 'Hollow'>>\
+<<elseif $VivianDepression gte 300>>\
+<<set $VivianDepressionFeeling to 'Suicidal'>>\
+<<else>>\
+<<set $VivianDepressionFeeling to '???'>>\
+<</if>>\
+<<if $SoluziDepression is 0>>\
+<<set $SoluziDepressionFeeling to 'Content'>>\
+<<elseif $SoluziDepression isnot 0 and $SoluziDepression lt 50>>\
+<<set $SoluziDepressionFeeling to 'Upset'>>\
+<<elseif $SoluziDepression gte 50 and $SoluziDepression lt 100>>\
+<<set $SoluziDepressionFeeling to 'Alone'>>\
+<<elseif $SoluziDepression gte 100 and $SoluziDepression lt 200>>\
+<<set $SoluziDepressionFeeling to 'Worthless'>>\
+<<elseif $SoluziDepression gte 200 and $SoluziDepression lt 300>>\
+<<set $SoluziDepressionFeeling to 'Hollow'>>\
+<<elseif $SoluziDepression gte 300>>\
+<<set $SoluziDepressionFeeling to 'Suicidal'>>\
+<<else>>\
+<<set $SoluziDepressionFeeling to '???'>>\
+<</if>>\
+<<if $IrisuDepression is 0>>\
+<<set $IrisuDepressionFeeling to 'Content'>>\
+<<elseif $IrisuDepression isnot 0 and $IrisuDepression lt 50>>\
+<<set $IrisuDepressionFeeling to 'Upset'>>\
+<<elseif $IrisuDepression gte 50 and $IrisuDepression lt 100>>\
+<<set $IrisuDepressionFeeling to 'Alone'>>\
+<<elseif $IrisuDepression gte 100 and $IrisuDepression lt 200>>\
+<<set $IrisuDepressionFeeling to 'Worthless'>>\
+<<elseif $IrisuDepression gte 200 and $IrisuDepression lt 300>>\
+<<set $IrisuDepressionFeeling to 'Hollow'>>\
+<<elseif $IrisuDepression gte 300 and $IrisuDepression lt 400>>\
+<<set $IrisuDepressionFeeling to 'Suicidal'>>\
+<<else>>\
+<<set $IrisuDepressionFeeling to '???'>>\
+<</if>>\
+<<link "Open Inventory">>
+  <<script>>
+    Dialog.setup("Inventory");
+    SugarCube.Dialog.wiki(SugarCube.Story.get("Inventory").processText());
+    SugarCube.Dialog.open();
+  <</script>>
+<</link>>
+@@\
+<</if>>\
+
+

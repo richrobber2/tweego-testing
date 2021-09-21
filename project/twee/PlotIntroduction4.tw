@@ -1,0 +1,56 @@
+:: PlotIntroduction4 {"position":"5050,2670","size":"100,100"}
+You dust off your contact list and ring up your 'father'.
+
+...
+
+The phone rings for what seems like forever until-
+
+Father:
+@@#NPCText;
+"Oh, hey son! Long time no see!"
+@@
+
+The joke being you haven't seen him since they dropped $Arisa off on you. Trying to suppress your aggression, you calmly prepare your statement and exhale your stress,
+
+Father:
+@@#NPCText;
+"Don't be so nervous, Sport! I assume the hag just got a hold of you earlier?"
+@@
+
+$Name:
+@@#ProtagText;
+"What is go-"
+@@
+
+Your sentence is cut short by your 'father's' arrogant voice.
+
+Father:
+@@#NPCText;
+"I guess referring to what your Mom said? To be completely honest, your mother and I are buying a vacation condo in Japan! So since you're an adult, you'll now be in charge of paying for your or our house."
+@@
+
+Obviously pissed off by this half-assed and sudden excuse, you vocally retaliate; practically screaming!
+
+$Name:
+@@#ProtagText;
+"What about your nine year old daughter?! How the fuck do you expect a high school dropout to find any source of income to support a growing girl as well as myself?!"
+@@
+
+You are shaking with anger.
+
+
+Your father audibly sighs and replies,
+
+Father:
+@@#NPCText;
+"Oh crap! I forgot about my sweet baby daughter! Well, if things get too hard for you we can always have her back; Hell, she can move back in with us! Like a family."
+@@
+--
+@@#choices;
+<<button [[Hang up on him!!|PlotIntroduction5]]
+>><</button>>
+<<button [[That is a great idea!|BAD END 1: Abandon Hope]]
+>><</button>>
+@@
+
+

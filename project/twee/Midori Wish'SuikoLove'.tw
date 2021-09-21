@@ -1,0 +1,18 @@
+:: Midori Wish'SuikoLove' {"position":"7850,3230","size":"100,100"}
+$Midori:
+@@#MidoriText;
+"$Suiko? That human girl is cute I guess...”
+@@
+
+The tiny fairy snaps her fingers and a loud distortion rips through reality. Everything to the simplest flower pedal seemed to freeze for mere seconds before settling back to forward motion.
+
+$Midori:
+@@#MidoriText;
+"She will like you more! Best of luck human playboy~! I'll send you on your way now-today!"
+@@
+--
+@@#choices;
+<<button [[Next.|MidoriTeleport1]]>><</button>>
+@@
+
+

@@ -1,0 +1,33 @@
+:: SuikoDay03'1-4 {"position":"29830,1130","size":"100,100"}
+Something's not right. While this all can be some sort of childish prank or game, something about this doesnt seem right. While you haven't looked inside her 'house', there is no way she could be living with her parents.
+<<set $SuikoDepression +=10>>\
+$Suiko blinks in confusions as you back away from her and bluntly ask her,
+
+$Name:
+@@#ProtagText;
+"$Suiko, where are your parents? this can't be where you really live?"
+@@
+
+A quick frown appears on her face but quivers back to a uneasly smile.
+
+$Suiko
+@@#SuikoText;
+"Um, I rather...Not tell, but.."
+@@
+
+She's seem lost in words and you are left dumbfounded. If what she's implying is true, then where is her parents? In retrospect, you don't think she ever mentioned them before.
+
+Is...She homeless?
+<<set $SuikoParentDay03 to 1>>\
+--
+@@#choices;
+<<if $SuikoParentDay03 is 0>> <<button [[Where's your parents?|SuikoDay03'1-4]]>><</button>><</if>>\
+<<if $SuikoDay03IsItNice is 0>><<button [[Say it is nice!|SuikoDay03'1'3]]>><</button>><</if>>\
+<<if $SuikoDay03WhyAreYouHere is 0>><<button [[Why do you live here?|SuikoDay03'1'7]]>><</button>><</if>>\
+<<if $SuikoDay03Flowers is 0 and $TellAboutFlowers is 0>><<button [[Ask her about her flowers.|SuikoDay03'1'3-1]]>><</button>><</if>>\
+<<if $$SuikoDay03AskAboutland is 0>><<button [[Why are in this dead plot of land?|SuikoDay03'1'3-2]]>><</button>><</if>>\
+<<if $SuikoDay03WhyNoSchool is 0>><<button [[Why are you not at school?|SuikoDay03'1'3-5]]>><</button>><</if>>\
+<<if $SuikoDepression gte 70>><<button [[Are you okay?|SuikoDay03'1'3-3]]>><</button>><</if>>\
+@@
+
+

@@ -1,0 +1,23 @@
+:: Andy1stincounterStudy {"position":"30250,1830","size":"100,100"}
+Despite the fact he isnt making since and he's choking the shit out of you, you take a calm breath and look around.
+
+Within reach, is a small rock you could hit him over the head with, however it might be easier to talk him out of choking the crap out of you. 
+
+...
+
+???:
+@@#choices;
+"Consider the fact I could break your neck, study that obvious plot device, $Name.."
+@@
+
+Is he just playing mind games with you? Or is he just stating the obvious.... However, the more you think, the tighter his grip gets.
+
+You want to retaliate but the mix of confusion and slight panic is driving you to think of something!
+--
+@@#choices;
+<<button [[Pick up the rock|Andy1stincounterRock]]>><</button>>
+<<if $AndyCounter gt 1>><<button [[Slip out of his grip and push him off]]>><</button>><</if>>
+<<button [[Calm yourself and ask who he is|Andy1stincounter1]]>><</button>>
+@@
+
+

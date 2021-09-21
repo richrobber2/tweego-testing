@@ -1,0 +1,57 @@
+:: LoMartIntroductionTwo 2 {"position":"1130,2530","size":"100,100"}
+<<set $RediaStats to 1>>\
+<<set $SuikoStats to 1>>\
+<<set $ArisaDepressionStat to 1>>\
+<<set $RediaDepressionStat to 1>>\
+<<set $SuikoDepressionStat to 1>>\
+<<set $RediaLoveStats to 1>>\
+<<set $SuikoLoveStats to 1>>\
+$Name:
+@@#ProtagText;
+"Um, okay but-"
+@@
+
+$Arisa quickly darts towards and opens the front door of your house then announces in stereo;
+
+$Arisa:
+@@#ArisaText;
+"Okay! You can come in!"
+@@
+
+@@#EffectText;
+Wut?
+@@
+
+???:
+@@#RediaText;
+"Coming."
+@@
+
+Your Sister walks back inside and is followed by a short red haired girl wearing matching sports wear.
+
+The stranger, assumed to be $Redia, walks inside your house and proceeds to kick off her red, tennis shoes. The girl, as if not noticing your presence, tosses a large sports bag by the doorway then shouts; turning her head to the ajar door,
+
+$Redia:
+@@#RediaText;
+"$Suiko, get your ass in here!"
+@@
+
+After a brief moment of silence a purple, plush rabbit pops its head into the doorway and is gestured to look around.
+
+You look over at your sister with a judgmental gaze; she just shrugs.
+
+$Arisa:
+@@#ArisaText;
+"$Suiko is shy."
+@@
+
+Hearing her footsteps, you look back to find a frail figure walking in with the plush toy cradled in her arms. The girl hides her face and seems to keep her distance from the others.
+--
+@@#choices;
+<<button [[Ignore the unexpected guests and let them in.|LoMartIntroductionTwo 3]]
+>><</button>>
+<<button [[Punish your sister for already inviting friends over without permission.|Punish your sister for already inviting friends over without permission]]
+>><</button>>
+@@
+
+

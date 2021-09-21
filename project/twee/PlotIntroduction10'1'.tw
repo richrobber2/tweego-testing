@@ -1,0 +1,81 @@
+:: PlotIntroduction10'1' {"position":"5190,3510","size":"100,100"}
+$Name:
+@@#ProtagText;
+"No, You need to go to school!"
+@@
+
+$Arisa's troll face grows bigger.
+
+$Arisa:
+@@#ArisaText;
+"Please?"
+@@
+$Name:
+@@#ProtagText;
+"No."
+@@
+$Arisa:
+@@#ArisaText;
+"Bitte?"
+@@
+$Name:
+@@#ProtagText;
+"No."
+@@
+$Arisa:
+@@#ArisaText;
+"asseblief??"
+@@
+$Name:
+@@#ProtagText;
+"No."
+@@
+$Arisa:
+@@#ArisaText;
+"ju lutem?"
+@@
+$Name:
+@@#ProtagText;
+"No."
+@@
+$Arisa:
+@@#ArisaText;
+"S'il vous plaît?"
+@@
+$Name:
+@@#ProtagText;
+"No."
+@@
+$Arisa:
+@@#ArisaText;
+"Onegaishimasu?"
+@@
+$Name:
+@@#ProtagText;
+"No."
+@@
+$Arisa:
+@@#ArisaText;
+"Vær venlig?"
+@@
+$Name:
+@@#ProtagText;
+"No."
+@@
+$Arisa:
+@@#ArisaText;
+"budi?"
+@@
+$Name:
+@@#ProtagText;
+"No."
+@@
+
+This is what you get for letting $Arisa use your computer to learn so many ways to say 'please'.
+--
+@@#choices;
+<<button [[Just let her have school off.|PlotIntroduction10]]
+>><</button>>
+@@
+
+

@@ -1,0 +1,38 @@
+:: MidoriFairyIntro1-2 {"position":"6730,2670","size":"100,100"}
+Seeing the girl in distress you can't turn away! Emptying your pockets, you dive into the pond.
+
+@@#EffectText;
+"SPLASH!"
+@@
+
+You find yourself surrounded by deafening silence, blanketed in crisp, cooling water.
+
+ Taking a second to adjust your vision, you see a small, green haired girl trusting wildly; you eventually see he leg is stuck on a tree vine.
+
+ Not accounting for this turn of events, you swim towards the tiny girl and effortlessly untangle her oddly small feet.
+
+ Running out of breath, you wrap your arms around the child's waist and peddled to shore.
+
+ ...
+
+ Once on shore, you sling the girl into your chest and take a few, swift breaths.
+
+ You look down and notice the green haired girl cradled in your arms.
+
+ She has long, green hair tied into two large braids of pig tails. Dressed in a handmade palm tree leave dress, she appears naked underneath as her loose cloths sag and reveal her almost un-noticeable breasts.
+
+ The girl is tiny! She can't be taller than three feet while she appearance looks like that of a preteen. Her skin is tanned with long exposure to the sun, revealing it’s self as a contrast to her pale complexion behind her leaves.
+
+ <<timed 15s>>Admist of this, you fail to notice she isn't breathing!<</timed>>
+
+ <<timed 40s>>Do Something?!<</timed>>
+ --
+ @@#choices;
+<<button [[Perform CPR!|MidoriFairyIntro1-3]]
+>><</button>>
+<<button [[Kiss her.|MidoriFairyIntro1-2-1]]
+>><</button>>
+<<timed 45s>><<goto [[BAD END 11: Trapped with a Corpse]]>><</timed>>
+ @@
+
+

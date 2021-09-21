@@ -1,0 +1,49 @@
+:: Day03LoMartIntro'NanakoIntro' {"position":"29550,3790","size":"100,100"}
+Looking past her seemingly force smile and polite reaction to that one onlooker, you can only imagine she seems irratated.
+
+Best to keep your excitement in check and not spaz yourself over meeting an idol.
+
+$Name:
+@@#ProtagText;
+"I can imagine. Hey, are you really $Nanako Namco?"
+@@
+
+You ask her while maintaining a causual voice; despite it being drowned out by the cheering crowd. $Nanako's face turns to one of doubt, possibly thinking you're another obcessive fan and cautuously responds,
+
+$Nanako:
+@@#NanakoText;
+"Umm, yes! I'm sure you heard of me since I was hired to introduce you and encourage kids to ask for help at this store..."
+@@
+
+While toy have heard about her and are a 'fan' of some of her live action roles in some magical girl animes, you decide to remain professional and wrap up the conversation.
+
+...
+
+You're still confused of how $Amber knew you liked this idol.
+
+$Name:
+@@#ProtagText;
+"While It's really nice to meet you in person, I got to start my shift. You don't have to worry about any of that on my opinion."
+@@
+
+You smile at $Nanako, who seems confused and quickly retorts,
+
+$Nanako:
+@@#NanakoText;
+"You just got here!"
+@@
+
+$Nanako covers the microphone with a palm then leans over the stage.
+
+$Nanako:
+@@#NanakoText;
+"I don't get paid unless I do this, so humor me and let me introduce you!"
+@@
+
+--
+@@#choices;
+<<button [[Okay,go ahead?|Day03LoMartIntro'NanakoIntro'2']]
+>><</button>>
+@@
+
+

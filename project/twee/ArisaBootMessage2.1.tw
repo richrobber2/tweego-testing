@@ -1,0 +1,100 @@
+:: ArisaBootMessage2.1 [t8n-typewriter-100] {"position":"990,150","size":"100,100"}
+<<if $TrueName is "Andy">>
+- - -MESSAGE CONTINUED - - -
+....
+
+>are you really $TrueName?
+>you can't be him.
+>$TrueName was a horrible person!
+>if you are him, then that just raised more questions.
+>like, how are you able to exist in the alt world?
+
+
+>I KILLED YOU. SO MANY TIMES...
+>...
+>you can't be $TrueName.
+>Stop lying.
+
+>i know you are from the outside of this world...
+- - -MESSAGE END - - -
+<<timed 64s>><<goto [[BootWarningIntro'Advisory']]>><</timed>>
+<<elseif $TrueName is "andy">>
+- - -MESSAGE CONTINUED - - -
+....
+
+>are you really $TrueName?
+>you can't be him.
+>$TrueName was a horrible person!
+>if you are him, then that just raised more questions.
+>like, how are you able to exist in the alt world?
+
+
+>I KILLED YOU. SO MANY TIMES...
+>...
+>you can't be $TrueName.
+>Stop lying.
+
+>i know you are from the outside of this world...
+- - -MESSAGE END - - -
+<<timed 64s>><<goto [[BootWarningIntro'Advisory']]>><</timed>>
+<<elseif $TrueName is "Adam">>
+- - -MESSAGE CONTINUED - - -
+....
+>$TrueName?
+>i honestly don't know.
+>$TrueName is simply the person you took control of.
+>i realised their is alternate realities in my world.
+>andy was my brother, not you.
+>if fact, while i don't know $TrueName, ive seen him before.
+>his sister is named arisa? Ha, timelines are wierd.
+....
+
+>why are you controlling him? 
+>is our world a game to you?
+
+>YOU ARE INTERESTING .   .    .
+
+- - -MESSAGE END - - -
+<<timed 100s>><<goto [[BootWarningIntro'Advisory']]>><</timed>>
+<<elseif $TrueName is "adam">>
+- - -MESSAGE CONTINUED - - -
+....
+>$TrueName?
+>i honestly don't know.
+>$TrueName is simply the person you took control of.
+>i realised their is alternate realities in my world.
+>andy was my brother, not you.
+>if fact, while i don't know $TrueName, ive seen him before.
+>his sister is named arisa? Ha, timelines are wierd.
+....
+
+>why are you controlling him? 
+>is our world a game to you?
+
+>YOU ARE INTERESTING .   .    .
+
+- - -MESSAGE END - - -
+<<timed 100s>><<goto [[BootWarningIntro'Advisory']]>><</timed>>
+<<else>>
+- - -MESSAGE CONTINUED - - -
+....
+>oh...
+>so i was correct.
+>youre not from my world.
+>hahahahahahahahahahahahahahahahahahahah...
+>care to explain why youre possessing adam?
+>ive been watching you.
+>you take control of adam and muddy up this world with your choices.
+>it reminds me of me in a way.
+
+.......
+
+>thank you for being honest with me.
+>all i ask is-
+^*%#&*(&*(
+
+- - -MESSAGE END - - -
+<<timed 100s>><<goto [[BootWarningIntro'Advisory']]>><</timed>>
+<</if>>\
+
+

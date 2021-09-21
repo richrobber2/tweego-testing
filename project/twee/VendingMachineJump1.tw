@@ -1,0 +1,5 @@
+:: VendingMachineJump1 {"position":"14710,3370","size":"100,100"}
+<<set _where to either("VMachineprize1", "VMachineprize2", "VMachineprize3")>><<goto _where>>
+<<goto `either("VMachineprize1", "VMachineprize2", "VMachineprize3")`>>
+
+

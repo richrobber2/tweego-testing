@@ -1,0 +1,16 @@
+:: Observe the room. {"position":"34030,2110","size":"100,100"}
+<<set $ObservedSuikoday03p2 += 1>>\
+<<set $SuikoDay03P02ObservedRoom to 1>>\
+Noticing $Suiko staring down at the cement table, you rest your hands in your lap and take in your surroundings. From what you gathered before, the room is about eighteen feet long and twelve feet wide. for every six feet, appears to be boards that gingerly support the metal roof and hammered into the wooden walls of the building. the wooden walls are almost baren of color with exceptions of old, white paint chipping off. Looking down at the 'floor', you notice a thick layer of dust, dirt and leaves caking the cement, grey ground. Large cracks can be seen under the thin blanket of particulates; showing the foundation isnt as sound as it seems. The rooms seems to give off a earthy'aroma' that could be mistaken for mold and while you don't see any evidence of mold, you wouldn't be too surprised by how humidly wet the air seems to be. The wooden beams don't seem to be fairing well in this climate; as small pieces of rotten wood is seen littering the edges of the walls. 
+
+...
+
+Adding to the dampness in the shed, is a noticable, consistant draft breezing from the holes in the roof and rot holes in the walls. While it looks like she's used to it you'd imagine it gets pretty chilly at night. You can only assume that's why she normally wear a hoodie all the time.
+
+$Suiko's house doesn't appear to be that safe nor structually sound. If you weren't afriad of offending her anymore, you'd tell her how awful everything looks. Maybe you could help her fix this place up someday.
+--
+@@#choices;
+<<button [[Observe Something else.|SuikoDay03P2SuikoObserve2]]>><</button>>
+@@
+
+

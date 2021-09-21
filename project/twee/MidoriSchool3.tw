@@ -1,0 +1,29 @@
+:: MidoriSchool3 {"position":"10790,3230","size":"100,100"}
+You better not waste any time. You calmly exhale and make your way to the entrance of the school.
+
+...
+
+You stand in awe as the entrance double doors swing open and you are greeted by the hallways of your past that are filled with scampering school children hurrying to class. as you walk inside, you feel the stares of the concerned students running down your shoulders.
+
+As you advance, only guided by memory, your towering figure 'sails' through the schools of children while you travel towards the main office.
+
+While you walk, you're taken aback on how so little has changed! The dusty, green and checkerboard tile, the rustic looking lockers that line the walls, even the flickering overhead lights that resemble heating tray lamps.
+
+Truly amazing how preserved the school is through your nostalgia glasses.
+
+@@#EffectText;
+"RING!"
+@@
+
+The old wistful school bell tomes and the students quickly disappear into the classrooms.
+
+You are now a twenty six tear old man alone in the halls of a elementary school.
+--
+@@#choices;
+<<if $LilithErased is 0>><<button [[Continue heading to the office.|MidoriSchool4]]>><</button>><</if>>
+<<if $LilithErased is 1>><<button [[Go to the office.|MidoriSchool4'ErasedLilith']]>><</button>><</if>>\
+<<button [[Look around some more.|MidoriSchool4'1']]>><</button>>
+<<button [[Go use the restroom.|MidoriRestroomEvent1]]>><</button>>
+@@
+
+

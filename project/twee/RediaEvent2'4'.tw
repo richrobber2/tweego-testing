@@ -1,0 +1,41 @@
+:: RediaEvent2'4' {"position":"13030,3790","size":"100,100"}
+While running, you notice this isn't third grade anymore and you're about to embarrass a young girl in front of her team!
+
+You can't wittingly break this girl's ego just so you can live in a nostalgic fantasy!
+
+You begin to slow your pace.
+
+After a few seconds, you notice $Redia hasn't passed you yet. Quickly turning your head, you see her limping at a moderate pace.
+
+$Redia:
+@@#RediaText;
+"What are you-GAH?"
+@@
+
+While the boys 'boo' you, you witness $Redia suddenly fall forward into the dirt. Alarmed by this, you start to run toward her.
+
+She screams in pain and grasps onto her ankle, curling into a fetal position and cries.
+
+$Redia:
+@@#RediaText;
+"My Leg! dammit! DAMN IT, AH!"
+@@
+
+Boy2:
+@@#NPCText;
+"$Redia fell!"
+@@
+
+Boy4:
+@@#NPCText;
+"Old Man! Use this chance and beat her!"
+@@
+--
+@@#choices;
+<<button [[Leave her and win the race!|RediaEvent2'5'1]]
+>><</button>>
+<<button [[Help her!|RediaEvent2'6']]
+>><</button>>
+@@
+
+
