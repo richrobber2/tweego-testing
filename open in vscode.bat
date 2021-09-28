@@ -1,2 +1,2 @@
 code .
-pause
+exit 0
