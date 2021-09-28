@@ -1,3 +1,3 @@
 @echo off
 call npm run testmode-win
-pause
+exit 0
