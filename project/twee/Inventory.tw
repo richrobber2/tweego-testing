@@ -4,77 +4,77 @@ $MoneyInfo
 <div class="items">
 You Have<font color="yellow"> $Money.00</font> Dollars.
 --
-<<if $playerinventory.has('spindle of thread')>>\
+<<if $playerInventory.has('spindle of thread')>>\
   <<button "spindle of thread">>
     <<popup 'passage to be added' "spindle of thread">>\
   <</button>>\
 <</if>>\
-<<if $playerinventory.has('Scissors')>>\
+<<if $playerInventory.has('Scissors')>>\
   <<button "Scissors">>\
     <<popup 'passage to be added' "Scissors">>\
   <</button>>\
 <</if>>\
-<<if $playerinventory.has('Needle')>>\
+<<if $playerInventory.has('Needle')>>\
   <<button "Needle">>\
     <<popup 'passage to be added' "Needle">>\
   <</button>>\
 <</if>>\
-<<if $playerinventory.has('Springs')>>\
+<<if $playerInventory.has('Springs')>>\
   <<button "Springs">>\
     <<popup 'passage to be added' "Springs">>\
   <</button>>\
 <</if>>\
-<<if $playerinventory.has('Lucky Zippo')>>\
+<<if $playerInventory.has('Lucky Zippo')>>\
   <<button "Lucky Zippo">>\
     <<popup 'ZippoInfo' "Lucky Zippo">>\
   <</button>>\
 <</if>>\
-<<if $playerinventory.has('Cell Phone')>>\
+<<if $playerInventory.has('Cell Phone')>>\
   <<button "Cell Phone info">>\
     <<popup 'CellphoneInfo' "Cell Phone info">>\
   <</button>>\
 <</if>>\
-<<if $playerinventory.has('Lo-Mart NameTag')>>\
+<<if $playerInventory.has('Lo-Mart NameTag')>>\
   <<button "Lo-Mart NameTag info">>\
     <<popup 'NameTagInfo' "Lo-Mart NameTag info">>\
   <</button>>\
 <</if>>\
-<<if $playerinventory.has('Cigarettes')>>\
+<<if $playerInventory.has('Cigarettes')>>\
   <<button "Cigarettes info">>\
     <<popup 'passage to be added' "Cigarettes info">>\
   <</button>>\
 <</if>>\
-<<if $playerinventory.has('HoneyMoon Apron')>>\
+<<if $playerInventory.has('HoneyMoon Apron')>>\
   <<button "HoneyMoon Apron info">>\
     <<popup 'ApronInfo' "HoneyMoon Apron info">>\
   <</button>>\
 <</if>>\
-<<if $playerinventory.has('Blue HairPin')>>\
+<<if $playerInventory.has('Blue HairPin')>>\
   <<button "Blue HairPin info">>\
     <<popup 'HairPinInfo' "Blue HairPin info">>
   <</button>>\
 <</if>>\
-<<if $playerinventory.has('Lucky Shirt')>>\
+<<if $playerInventory.has('Lucky Shirt')>>\
   <<button "Lucky Shirt info">>\
     <<popup 'LuckyShirtInfo' "Lucky Shirt info">>\
   <</button>>\
 <</if>>\
-<<if $playerinventory.has('Strange Orb')>>\
+<<if $playerInventory.has('Strange Orb')>>\
   <<button "Strange Orb">>\
     <<popup 'MidoriOrbInfo' "Strange Orb info">>\
   <</button>>\
 <</if>>\
-<<if $playerinventory.has('Redias Panties')>>\
+<<if $playerInventory.has('Redias Panties')>>\
   <<button "$Redia's Panties info">>\
     <<popup 'RediaPantiesInfo' "Redia's Panties info">>\
   <</button>>\
 <</if>>\
-<<if $playerinventory.has('Liliths Bloomers')>>\
+<<if $playerInventory.has('Liliths Bloomers')>>\
   <<button "$Lilith's Bloomers">>\
     <<popup 'LilithPantiesInfo' "Lilith's Bloomers info">>\\
   <</button>>\
 <</if>>\
-<<if $playerinventory.has('Rabbit chain')>>\
+<<if $playerInventory.has('Rabbit chain')>>\
   <<button "Rabbit chain">>\
     <<popup 'Rabbitchain' "plush key chain of Mr.Rabbit info">>\\
   <</button>>\
